@@ -9,3 +9,5 @@ vector_index/
 models/
 *.log
 /docs/
+data/eval/last_eval.jsonl
+data/eval/last_eval_summary.json

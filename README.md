@@ -50,3 +50,9 @@ python src/main.py
 ## 当前进度
 
 已接入 DeepSeek、本地中文嵌入模型与 13 款种子游戏档案。运行 `python src/main.py` 可在终端问答；每次问答会追加到 `data/eval/traces/traces.jsonl`（路由、改写、命中、回答）。
+
+评测：`data/eval/cases.jsonl`，运行 `python src/eval_run.py`（可加 `--label grounding-v1` 备注本轮）。
+- `last_eval.jsonl` / `last_eval_summary.json`：最新一轮（覆盖写）
+- `history/runs.jsonl`：每次汇总追加，用来看趋势
+- `history/details/<run_id>.jsonl`：该轮完整明细存档
+- `traces/traces.jsonl`：日常/评测问答流水账（追加写）
