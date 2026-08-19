@@ -1,0 +1,76 @@
+{
+  "app_id": "1203620",
+  "name": "雾锁王国 (Enshrouded)",
+  "short_description": "你是火焰之子，一个濒死种族最后的希望火苗。苏醒吧，克服腐化一切的迷雾所裹挟的恐怖，重新夺回你的王国所失落的瑰丽。置身于广袤世界，战胜难以想象的强大Boss，修造宏伟厅堂，在这款至多16名玩家的合作类生存动作RPG中开辟属于自己的道路。",
+  "detailed_description": "了解最新资讯，请关注我们：\n\n路线图\n\n关于游戏在瘴气中求生   \n搜刮废墟中的资源，与野外威胁战斗，积累实力，直面瘴气中的危险。\n\n最佳建造系统   \n使用功能强大的体素工具，让这片大地重现生机。建造宏伟的建筑，量身定制一切细节，让NPC住进庇护所，解锁工坊和制作史诗装备的手段。\n\n惊心动魄的战斗  \n迎战被瘴气侵蚀的堕落阵营与致命首领。闪避、招架、施展强力技能与法术，打造您独有的巫师、游侠或战士流派。\n\n制作能缔造传奇的装备  \n制作、升级传奇武器与护甲。解锁更多技能，熟练使用刀剑、盾牌、法杖与弓箭，以此对抗瘴气。\n\n多人合作   \n在多人模式中组建上限16人的队伍，与好友共同进行团队战、建造基地、迎击成群的瘴气魔。\n\n覆灭王国的秘密\n薪谷已然灭亡。为追求禁忌的力量，您的祖先意外引发了一场瘟疫，将世界吞噬殆尽。  \n从烈日炎炎的燃火荒原，到幽暗深邃的喧嚣森林，穿越薪谷多样的生物群系，探索逝去的文化和无人记得的传说。  \n在废墟之下，瘴气之中，沉睡着一个关于魔法、破坏与救赎的故事。唤醒古老的灵火，找回曾经照耀这个崩坏世界的希望。",
+  "genres": [
+    "动作",
+    "冒险",
+    "独立",
+    "角色扮演",
+    "抢先体验"
+  ],
+  "tags": [
+    "动作",
+    "冒险",
+    "独立",
+    "角色扮演",
+    "抢先体验"
+  ],
+  "categories": [
+    "单人",
+    "多人",
+    "合作",
+    "在线合作",
+    "Steam 成就",
+    "完全支持控制器",
+    "可调整文字大小",
+    "视角舒适度",
+    "可选颜色",
+    "自定义音量控制",
+    "可调整难度",
+    "DUALSHOCK 控制器支持",
+    "DUALSHOCK 控制器支持",
+    "DualSense 控制器支持",
+    "DualSense 控制器支持",
+    "立体声",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "Keen Games GmbH"
+  ],
+  "publishers": [
+    "Keen Games GmbH"
+  ],
+  "release_date": "2024 年 1 月 24 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语",
+    "法语",
+    "意大利语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "日语",
+    "韩语",
+    "波兰语",
+    "葡萄牙语 - 巴西",
+    "俄语",
+    "简体中文",
+    "繁体中文",
+    "土耳其语",
+    "乌克兰语",
+    "泰语"
+  ],
+  "is_free": false,
+  "price_cny": 98.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10\n处理器: Intel Core i5-6400 (2.7 GHz 4 Core) / AMD Ryzen 5 1500X (3.5 GHz 4 Core) or equivalent\n内存: 16 GB RAM\n显卡: NVIDIA GeForce GTX 1060 (req. 6GB VRAM) / AMD Radeon RX 580 (req. 6GB VRAM) / Intel ARC A380\n网络: 宽带互联网连接\n存储空间: 需要 60 GB 可用空间\n声卡: on board",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10\n处理器: Intel i7-8700 (3.7 GHz 6 Core) / AMD Ryzen 7 2700X (3.7 GHz 8 Core) or equivalent\n内存: 16 GB RAM\n显卡: NVIDIA RTX 2070 Super (req. 6GB VRAM) / AMD Radeon RX 6700 XT (req. 6GB VRAM) / Intel ARC A770\n网络: 宽带互联网连接\n存储空间: 需要 60 GB 可用空间\n声卡: on board\n附注事项: 建议使用固态硬盘（SSD）。",
+  "fetched_at": "2026-08-19T02:56:57Z",
+  "review_desc": "Very Positive",
+  "review_count": 104586,
+  "review_percentage": 85.8,
+  "review_score": 8
+}

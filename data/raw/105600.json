@@ -1,0 +1,66 @@
+{
+  "app_id": "105600",
+  "name": "Terraria",
+  "short_description": "挖掘，战斗，探索，建造！在这个动感十足的冒险游戏里没有什么是不可能的。四人包依然可用！",
+  "detailed_description": "挖掘，战斗，探索，建造！在这个动感十足的冒险游戏里没有什么是不可能的。世界是你的画布，地面是你的油漆。 \n拿起你的工具出发！制造武器和各种各样的敌人作战。前往地下寻找配件，金钱，以及其他有用的东西。收集资源创造你的世界所需要的一切。建造一栋房子，一个堡垒，甚至是一座城堡。人们会搬到那里居住，而或许他们还会卖给你不同的商品来协助你完成旅程。\n但要注意，那有很多挑战在等着你……你能完成任务吗？\n主要特点：\n沙盒游戏\n 随机生成的世界\n免费的内容更新",
+  "genres": [
+    "动作",
+    "冒险",
+    "独立",
+    "角色扮演"
+  ],
+  "tags": [
+    "动作",
+    "冒险",
+    "独立",
+    "角色扮演"
+  ],
+  "categories": [
+    "单人",
+    "多人",
+    "玩家对战",
+    "线上玩家对战",
+    "合作",
+    "在线合作",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "Steam 云",
+    "在手机上远程畅玩",
+    "在平板上远程畅玩",
+    "在电视上远程畅玩",
+    "家庭共享"
+  ],
+  "developers": [
+    "Re-Logic"
+  ],
+  "publishers": [
+    "Re-Logic"
+  ],
+  "release_date": "2011 年 5 月 16 日",
+  "platforms": [
+    "Windows",
+    "Mac",
+    "Linux"
+  ],
+  "supported_languages": [
+    "英语",
+    "法语",
+    "意大利语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "波兰语",
+    "葡萄牙语 - 巴西",
+    "俄语",
+    "简体中文"
+  ],
+  "is_free": false,
+  "price_cny": 42.0,
+  "pc_requirements_min": "操作系统：Windows Xp，Vista，7 \n处理器：1.6 Ghz \n内存：512 MB\n硬盘所需空间：200 MB  \n显卡：128 MB 显存，能够运行 Shader Model 1.1 \nDirectX®：9.0c 或更高",
+  "pc_requirements_rec": "RECOMMENDEDOS: Windows 7, 8/8.1, 10 \n\t\t\t\t\t\t\t\t\t\tProcessor: Dual Core 3.0 Ghz \n\t\t\t\t\t\t\t\t\t\tMemory: 4GB\n\t\t\t\t\t\t\t\t\t\tHard Disk Space: 200MB  \t\n\t\t\t\t\t\t\t\t\t\tVideo Card: 256mb Video Memory, capable of Shader Model 2.0+ \n\t\t\t\t\t\t\t\t\t\tDirectX®: 9.0c or Greater",
+  "fetched_at": "2026-08-19T02:56:18Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 1545912,
+  "review_percentage": 97.4,
+  "review_score": 9
+}

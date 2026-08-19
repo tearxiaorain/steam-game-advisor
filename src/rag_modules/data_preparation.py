@@ -49,6 +49,7 @@ class DataPreparationModule:
                 }
                 metadata.update(extra_meta)
                 self._fill_identity_metadata(metadata, md_file, body)
+                body = self._prepend_display_names(body, metadata)
                 documents.append(Document(page_content=body, metadata=metadata))
             except Exception as exc:
                 logger.warning("读取文件 %s 失败: %s", md_file, exc)
@@ -110,6 +111,17 @@ class DataPreparationModule:
             value = metadata.get(list_key)
             if isinstance(value, str):
                 metadata[list_key] = [item.strip() for item in value.split(",") if item.strip()]
+
+    @staticmethod
+    def _prepend_display_names(body: str, metadata: Dict[str, Any]) -> str:
+        names = []
+        for key in ("name_cn", "name"):
+            value = str(metadata.get(key) or "").strip()
+            if value and value not in names:
+                names.append(value)
+        if not names or body.startswith("游戏名:"):
+            return body
+        return "游戏名: " + " / ".join(names) + "\n\n" + body
 
     def chunk_documents(self) -> List[Document]:
         logger.info("正在按 Markdown 标题分块...")

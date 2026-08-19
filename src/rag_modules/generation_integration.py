@@ -4,11 +4,11 @@ import logging
 import os
 from typing import List
 
-from langchain_community.chat_models.moonshot import MoonshotChat
 from langchain_core.documents import Document
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.prompts import ChatPromptTemplate, PromptTemplate
 from langchain_core.runnables import RunnablePassthrough
+from langchain_openai import ChatOpenAI
 
 logger = logging.getLogger(__name__)
 
@@ -25,7 +25,7 @@ GROUNDING_RULES = """
 class GenerationIntegrationModule:
     def __init__(
         self,
-        model_name: str = "kimi-k2-0711-preview",
+        model_name: str = "deepseek-chat",
         temperature: float = 0.1,
         max_tokens: int = 2048,
     ):
@@ -37,14 +37,15 @@ class GenerationIntegrationModule:
 
     def setup_llm(self):
         logger.info("正在初始化 LLM: %s", self.model_name)
-        api_key = os.getenv("MOONSHOT_API_KEY")
+        api_key = os.getenv("DEEPSEEK_API_KEY")
         if not api_key:
-            raise ValueError("请设置 MOONSHOT_API_KEY 环境变量")
-        self.llm = MoonshotChat(
+            raise ValueError("请设置 DEEPSEEK_API_KEY 环境变量")
+        self.llm = ChatOpenAI(
             model=self.model_name,
+            api_key=api_key,
+            base_url="https://api.deepseek.com",
             temperature=self.temperature,
             max_tokens=self.max_tokens,
-            moonshot_api_key=api_key,
         )
         logger.info("LLM 初始化完成")
 

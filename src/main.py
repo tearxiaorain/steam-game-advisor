@@ -16,6 +16,7 @@ from rag_modules import (
     GenerationIntegrationModule,
     IndexConstructionModule,
     RetrievalOptimizationModule,
+    TraceLogger,
 )
 
 load_dotenv(Path(__file__).resolve().parent.parent / ".env")
@@ -35,11 +36,12 @@ class SteamGameAdvisor:
         self.retrieval_module = None
         self.generation_module = None
         self.owned_app_ids = []
+        self.trace_logger = TraceLogger(self.config.trace_path)
 
         if not Path(self.config.data_path).exists():
             raise FileNotFoundError(f"数据路径不存在: {self.config.data_path}")
-        if not os.getenv("MOONSHOT_API_KEY"):
-            raise ValueError("请设置 MOONSHOT_API_KEY 环境变量")
+        if not os.getenv("DEEPSEEK_API_KEY"):
+            raise ValueError("请设置 DEEPSEEK_API_KEY 环境变量")
 
     def initialize_system(self):
         print("正在初始化系统...")
@@ -92,7 +94,17 @@ class SteamGameAdvisor:
         print(f"路由: {route_type}")
 
         if route_type == "trending":
-            return self.generation_module.trending_unavailable_answer()
+            answer = self.generation_module.trending_unavailable_answer()
+            self.trace_logger.append(
+                question=question,
+                route=route_type,
+                rewritten_query=question,
+                filters={},
+                hits=[],
+                answer=answer,
+                stream=stream,
+            )
+            return answer
 
         rewritten_query = question
         if route_type in {"recommend", "detail"}:
@@ -114,23 +126,85 @@ class SteamGameAdvisor:
         else:
             relevant_docs = self.data_module.get_parent_documents(relevant_chunks)
 
-        names = [doc.metadata.get("name", "未知") for doc in relevant_docs]
+        hits = [
+            {
+                "name": doc.metadata.get("name"),
+                "name_cn": doc.metadata.get("name_cn"),
+                "app_id": str(doc.metadata.get("app_id", "")),
+            }
+            for doc in relevant_docs
+        ]
+        names = [h.get("name_cn") or h.get("name") or "未知" for h in hits]
         if names:
             print(f"命中游戏: {', '.join(names)}")
 
         if not relevant_docs:
-            return "没有找到相关游戏档案。可以换关键词，或检查 data/processed 是否已放入语料。"
+            answer = "没有找到相关游戏档案。可以换关键词，或检查 data/processed 是否已放入语料。"
+            self.trace_logger.append(
+                question=question,
+                route=route_type,
+                rewritten_query=rewritten_query,
+                filters=filters,
+                hits=hits,
+                answer=answer,
+                stream=stream,
+            )
+            return answer
 
         if stream:
             if route_type == "detail":
-                return self.generation_module.generate_detail_answer_stream(question, relevant_docs)
-            return self.generation_module.generate_recommend_answer_stream(question, relevant_docs)
+                chunks = self.generation_module.generate_detail_answer_stream(
+                    question, relevant_docs
+                )
+            else:
+                chunks = self.generation_module.generate_recommend_answer_stream(
+                    question, relevant_docs
+                )
+            return self._stream_and_trace(
+                chunks,
+                question=question,
+                route=route_type,
+                rewritten_query=rewritten_query,
+                filters=filters,
+                hits=hits,
+            )
 
         if route_type == "library":
-            return self.generation_module.generate_library_answer(question, relevant_docs)
-        if route_type == "detail":
-            return self.generation_module.generate_detail_answer(question, relevant_docs)
-        return self.generation_module.generate_recommend_answer(question, relevant_docs)
+            answer = self.generation_module.generate_library_answer(question, relevant_docs)
+        elif route_type == "detail":
+            answer = self.generation_module.generate_detail_answer(question, relevant_docs)
+        else:
+            answer = self.generation_module.generate_recommend_answer(question, relevant_docs)
+
+        self.trace_logger.append(
+            question=question,
+            route=route_type,
+            rewritten_query=rewritten_query,
+            filters=filters,
+            hits=hits,
+            answer=answer,
+            stream=False,
+        )
+        return answer
+
+    def _stream_and_trace(self, chunks, *, question, route, rewritten_query, filters, hits):
+        parts = []
+
+        def _gen():
+            for chunk in chunks:
+                parts.append(chunk)
+                yield chunk
+            self.trace_logger.append(
+                question=question,
+                route=route,
+                rewritten_query=rewritten_query,
+                filters=filters,
+                hits=hits,
+                answer="".join(parts),
+                stream=True,
+            )
+
+        return _gen()
 
     def _apply_library_constraint(self, question: str, chunks):
         docs = self.data_module.get_parent_documents(chunks)

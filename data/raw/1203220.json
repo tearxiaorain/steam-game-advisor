@@ -1,0 +1,62 @@
+{
+  "app_id": "1203220",
+  "name": "永劫无间",
+  "short_description": "风靡全球的中式竞技大作！来这里舞利刃、端火枪，享受远近结合的华丽战斗！驾驭风沙、机甲，化身野兽、大佛，体验风格迥异的英雄能力！",
+  "detailed_description": "免费开玩\n\n关于游戏\n\n独创战斗系统、全交互地图、远近武器爽快交锋……在瞬息万变的60人战场中活到最后，畅享高自由度的无拘战斗！\n\n利用飞索，翻飞于树林与屋瓴之间；埋伏檐上，给路过的敌人一个出其不意的惊喜。去大胆探索这神秘而危险的战场！\n\n选取风格各异的英雄，定制独特的外观风格，加上自由搭配的不同技能、招式各不相同的武器，去书写独属于你的武学宗师传奇！\n\n游历美妙绝伦却又危机四伏的聚窟洲和火罗国，在壮美的自然风景与饱含文化底蕴的人文景观中作战。",
+  "genres": [
+    "动作",
+    "冒险",
+    "大型多人在线",
+    "免费开玩"
+  ],
+  "tags": [
+    "动作",
+    "冒险",
+    "大型多人在线",
+    "免费开玩"
+  ],
+  "categories": [
+    "多人",
+    "玩家对战",
+    "线上玩家对战",
+    "Steam 成就",
+    "Steam 集换式卡牌",
+    "应用内购买",
+    "部分支持控制器",
+    "可用 HDR"
+  ],
+  "developers": [
+    "24 Entertainment"
+  ],
+  "publishers": [
+    "NetEase Games "
+  ],
+  "release_date": "2021 年 8 月 11 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语*",
+    "简体中文*",
+    "繁体中文*",
+    "日语*",
+    "韩语*",
+    "法语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "俄语",
+    "土耳其语",
+    "葡萄牙语 - 葡萄牙",
+    "越南语",
+    "泰语\n*具有完全音频支持的语言"
+  ],
+  "is_free": true,
+  "price_cny": 0.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows 7 64-bit 或更新版本\n处理器: Intel i5 4代 或 AMD FX 6300\n内存: 8 GB RAM\n显卡: NVIDIA GeForce GTX 750TI、Intel Arc A380或AMD HD 6950及同等型号显卡\nDirectX 版本: 11\n网络: 宽带互联网连接\n存储空间: 需要 90 GB 可用空间\n附注事项: a) 可在720p/60fps的情况下进行游戏; b)为了更流畅的游戏体验，我们建议您将游戏安装在SSD硬盘上",
+  "pc_requirements_rec": "推荐配置:\n操作系统: Windows 10 64-bit\n处理器: Intel i7 7代\n内存: 16 GB RAM\n显卡: NVIDIA GeForce GTX 1060 6G、Intel Arc A750或AMD RX480及同等型号显卡\nDirectX 版本: 11\n网络: 宽带互联网连接\n存储空间: 需要 90 GB 可用空间\n附注事项: a) 可在1080p/60fps的情况下进行游戏; b)为了更流畅的游戏体验，我们建议您将游戏安装在SSD硬盘上",
+  "fetched_at": "2026-08-19T02:57:40Z",
+  "review_desc": "Mostly Positive",
+  "review_count": 302288,
+  "review_percentage": 73.3,
+  "review_score": 6
+}

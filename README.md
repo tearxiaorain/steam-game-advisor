@@ -36,7 +36,7 @@ pip install -r requirements.txt
 在项目根目录创建 `.env`：
 
 ```
-MOONSHOT_API_KEY=你的密钥
+DEEPSEEK_API_KEY=你的密钥
 ```
 
 将游戏档案放入 `data/processed/`（Markdown，可带 YAML 头），然后：
@@ -49,4 +49,4 @@ python src/main.py
 
 ## 当前进度
 
-见 `docs/00-当前进度.md`。语料尚未批量入库，空目录下启动会提示缺少 processed 文档。
+已接入 DeepSeek、本地中文嵌入模型与 13 款种子游戏档案。运行 `python src/main.py` 可在终端问答；每次问答会追加到 `data/eval/traces/traces.jsonl`（路由、改写、命中、回答）。
