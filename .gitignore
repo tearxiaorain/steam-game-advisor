@@ -7,3 +7,4 @@ __pycache__/
 vector_index/
 models/
 *.log
+/docs/
