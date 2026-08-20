@@ -447,5 +447,7 @@ class DataPreparationModule:
             return []
         raw = json.loads(path.read_text(encoding="utf-8"))
         if isinstance(raw, dict):
-            raw = raw.get("app_ids") or raw.get("owned") or []
-        return [str(item) for item in raw]
+            raw = raw.get("app_ids") or raw.get("owned") or raw.get("games") or []
+            if raw and isinstance(raw[0], dict):
+                raw = [item.get("app_id") or item.get("appid") for item in raw]
+        return [str(item) for item in raw if item is not None]
