@@ -36,10 +36,14 @@ python src/eval_run.py --cases data/eval/v3-corpus-owned/cases_regression.jsonl 
 拥有度偏置仅当：`recommend` + 问句含好友/朋友/开黑/一起玩等。  
 好友向小题：`cases_friend_rec.jsonl`（8 题）。
 
+硬映射（`REWRITE_HARD_ALIAS_RULES`）在 LLM 改写后并入强检索词。
+
 ```bash
-python src/eval_run.py --cases data/eval/v3-corpus-owned/cases_friend_rec.jsonl --label v3-friend-rec-bias
-python src/eval_run.py --cases data/eval/v3-corpus-owned/cases.jsonl --label v3-rec20-no-friend-bias-check
+python src/eval_run.py --cases data/eval/v3-corpus-owned/cases.jsonl --label v3-rec20-hard-alias
+python src/eval_run.py --cases data/eval/v3-corpus-owned/cases_friend_rec.jsonl --label v3-friend-rec-hard-alias
 ```
+
+近期：`hard-alias-v1` 主集 **17/20=85%**，好友 **6/8=75%**。
 
 
 | 指标 | 结果 |

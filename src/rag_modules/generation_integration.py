@@ -127,6 +127,7 @@ trending - 本周榜、现在最热、同时在线、刚打折的实时热度
         response = chain.invoke({"query": query}).strip()
         response = response.strip("\"'`").splitlines()[0].strip()
         response = self._sanitize_rewrite(query, response)
+        response = self.apply_rewrite_hard_aliases(query, response)
         if response != query:
             logger.info("查询已重写: '%s' → '%s'", query, response)
         return response or query
@@ -238,6 +239,41 @@ trending - 本周榜、现在最热、同时在线、刚打折的实时热度
             text = f"{text} {' '.join(keep)}".strip()
 
         return text or original
+
+    @staticmethod
+    def apply_rewrite_hard_aliases(original: str, rewritten: str) -> str:
+        """高置信问法 → 强制并入档案里更稳的检索词（不替代 LLM 改写）。"""
+        try:
+            from config import DEFAULT_CONFIG, REWRITE_HARD_ALIAS_RULES
+
+            if not DEFAULT_CONFIG.use_rewrite_hard_aliases:
+                return rewritten or original
+        except Exception:
+            return rewritten or original
+
+        q = original or ""
+        text = rewritten or original or ""
+        added: List[str] = []
+        for rule in REWRITE_HARD_ALIAS_RULES:
+            exclude = rule.get("exclude_any") or []
+            if any(tok in q for tok in exclude):
+                continue
+            groups = rule.get("need_any") or []
+            if not groups:
+                continue
+            if not all(any(tok in q for tok in group) for group in groups):
+                continue
+            boost = str(rule.get("boost") or "").strip()
+            if not boost:
+                continue
+            for tok in boost.split():
+                if tok and tok not in text and tok not in added:
+                    added.append(tok)
+            logger.info("改写硬映射命中: %s", rule.get("id"))
+        if not added:
+            return text
+        merged = f"{text} {' '.join(added)}".strip()
+        return re.sub(r"\s+", " ", merged)
 
     def generate_recommend_answer(self, query: str, context_docs: List[Document]) -> str:
         if not context_docs:

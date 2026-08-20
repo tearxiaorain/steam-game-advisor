@@ -49,6 +49,88 @@ DETAIL_NAME_ALIASES: Dict[str, List[str]] = {
     "巫师 3": ["292030"],
 }
 
+# 推荐改写硬映射：原句同时命中 need_any 各组后，强制并入 boost 检索词（高置信少量）
+# need_any: 每一组至少命中一个词；boost: 空格分词并入改写结果
+REWRITE_HARD_ALIAS_RULES: List[Dict[str, Any]] = [
+    {
+        "id": "r6-siege",
+        "need_any": [["破门"], ["运营商", "干员", "战术射击", "写实战术"]],
+        "boost": "彩虹六号 围攻 战术射击 干员 人质 破门",
+    },
+    {
+        "id": "lethal-company",
+        "need_any": [["月亮", "月球"], ["公司", "捡垃圾", "配额", "废料"]],
+        "boost": "致命公司 Lethal Company 月球 废料 配额 联机恐怖",
+    },
+    {
+        "id": "pubg",
+        "need_any": [["大逃杀", "吃鸡"], ["跳伞", "搜枪", "搜刮"]],
+        "boost": "绝地求生 PUBG 大逃杀 跳伞 战术竞技",
+    },
+    {
+        "id": "among-us",
+        "need_any": [["内鬼"], ["任务", "社交推理", "投票"]],
+        "boost": "Among Us 内鬼 太空 投票 社交推理 派对",
+    },
+    {
+        "id": "moba-dota",
+        "need_any": [["MOBA", "moba"], ["推塔", "打野", "团战"]],
+        "boost": "Dota 刀塔 MOBA 推塔 打野 团战 英雄",
+    },
+    {
+        "id": "vampire-survivors",
+        "need_any": [["幸存者"], ["站桩", "清屏", "自动射击", "自动攻击"]],
+        "boost": "吸血鬼幸存者 幸存者 站桩 自动攻击 清屏 割草",
+    },
+    {
+        "id": "isaac",
+        "need_any": [["以撒"]],
+        "boost": "以撒的结合 弹幕 地牢 Roguelike 房间",
+    },
+    {
+        "id": "hades",
+        "need_any": [["希腊神话", "冥界"], ["Roguelike", "roguelike", "往上打", "出货"]],
+        "boost": "哈迪斯 Hades 希腊神话 冥界 动作 Roguelike",
+    },
+    {
+        "id": "hogwarts",
+        "need_any": [["魔法学校"], ["咒语", "城堡", "上课"]],
+        "boost": "霍格沃茨之遗 魔法学校 巫师 咒语 城堡",
+    },
+    {
+        "id": "phasmophobia",
+        "need_any": [["手电", "手电筒", "拿手电"], ["鬼屋", "灵异", "调查"]],
+        "boost": "恐鬼症 手电筒 鬼屋 灵异 调查 证据",
+    },
+    {
+        "id": "l4d",
+        "need_any": [["僵尸"], ["过关", "四人", "四个人"], ["射击", "开黑", "合作"]],
+        "boost": "求生之路 合作射击 僵尸 过关 四人",
+    },
+    {
+        "id": "cs-free",
+        "need_any": [["免费"], ["竞技", "枪战", "FPS", "射击"]],
+        "boost": "反恐精英 Counter-Strike CS2 竞技 枪战",
+        # 避免「免费 MOBA」误触：见 apply 里额外排除
+        "exclude_any": ["MOBA", "moba", "推塔", "打野"],
+    },
+    {
+        "id": "fallout",
+        "need_any": [["废土"], ["定居点", "建定居"]],
+        "boost": "辐射 废土 定居点 开放世界 RPG 第一人称",
+    },
+    {
+        "id": "dark-souls",
+        "need_any": [["黑暗魂", "黑暗之魂", "魂系列"], ["不是开放", "非开放", "关卡", "不骑马"]],
+        "boost": "黑暗之魂 关卡制 线性 高难度 魂系",
+    },
+    {
+        "id": "celeste",
+        "need_any": [["精准", "山峰"], ["平台", "跳跃", "辅助模式"]],
+        "boost": "蔚蓝 Celeste 精准平台 山峰 辅助模式",
+    },
+]
+
 # 切块 section 权重（软版）：游玩方式不降；简介/标签微升；配置不进索引
 SECTION_WEIGHTS: Dict[str, float] = {
     "简介": 1.2,
@@ -146,6 +228,8 @@ class RAGConfig:
     # 标签词表：类型块索引只保留玩法 genres/categories
     use_taxonomy_scrub: bool = True
     taxonomy_path: str = str(PROJECT_ROOT / "data" / "library" / "tag_taxonomy.json")
+    # 推荐改写硬映射（规则并入检索词）；默认开
+    use_rewrite_hard_aliases: bool = True
 
     @classmethod
     def from_dict(cls, config_dict: Dict[str, Any]) -> "RAGConfig":
