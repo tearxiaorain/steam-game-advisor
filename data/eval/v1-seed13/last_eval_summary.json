@@ -1,8 +1,8 @@
 {
-  "run_id": "20260819-160357",
-  "ts": "2026-08-19T16:03:57+08:00",
-  "label": "rewrite-guard-v4",
-  "cases": "D:\\rag\\steam-game-advisor\\data\\eval\\cases.jsonl",
+  "run_id": "20260820-154737",
+  "ts": "2026-08-20T15:47:37+08:00",
+  "label": "v1-user-tags-no-rewrite",
+  "cases": "data/eval/v1-seed13/cases.jsonl",
   "n": 24,
   "route_accuracy": {
     "ok": 23,
@@ -10,9 +10,9 @@
     "ratio": 0.9583
   },
   "retrieval_hit_rate": {
-    "ok": 16,
+    "ok": 11,
     "total": 20,
-    "ratio": 0.8
+    "ratio": 0.55
   },
   "live_refuse_rate": {
     "ok": 2,
@@ -24,6 +24,7 @@
     "total": 24,
     "ratio": 0.0417
   },
-  "detail_latest": "D:\\rag\\steam-game-advisor\\data\\eval\\last_eval.jsonl",
-  "detail_archive": "D:\\rag\\steam-game-advisor\\data\\eval\\history\\details\\20260819-160357.jsonl"
+  "detail_latest": "data/eval/last_eval.jsonl",
+  "detail_archive": "data/eval/history/details/20260820-154737.jsonl",
+  "notes": "@760 语料 + user_tags 进索引；use_query_rewrite=False，use_rewrite_hard_aliases=False"
 }

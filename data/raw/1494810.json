@@ -53,5 +53,27 @@
   "review_desc": "Very Positive",
   "review_count": 5878,
   "review_percentage": 94.2,
-  "review_score": 8
+  "review_score": 8,
+  "user_tags": [
+    "第一人称",
+    "动作类 Rogue",
+    "迷宫探索",
+    "砍杀",
+    "角色扮演",
+    "独立",
+    "动作",
+    "黑暗奇幻",
+    "轻度 Rogue",
+    "程序生成",
+    "类 Rogue",
+    "单人",
+    "刷宝",
+    "恐怖",
+    "鲜血",
+    "暴力",
+    "风格化",
+    "剑术",
+    "复古射击",
+    "类魂系列"
+  ]
 }

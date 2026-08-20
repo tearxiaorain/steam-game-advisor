@@ -44,5 +44,12 @@
   "review_desc": "Very Positive",
   "review_count": 611,
   "review_percentage": 94.8,
-  "review_score": 8
+  "review_score": 8,
+  "user_tags": [
+    "策略",
+    "独立",
+    "编程",
+    "机器人",
+    "像素图形"
+  ]
 }

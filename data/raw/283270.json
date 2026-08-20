@@ -45,5 +45,20 @@
   "review_desc": "Mostly Positive",
   "review_count": 512,
   "review_percentage": 78.3,
-  "review_score": 6
+  "review_score": 6,
+  "user_tags": [
+    "策略",
+    "角色扮演",
+    "经典",
+    "动作",
+    "回合制",
+    "战术",
+    "回合战略",
+    "单人",
+    "回合制战术",
+    "复古",
+    "战术角色扮演",
+    "等角视角",
+    "老式"
+  ]
 }

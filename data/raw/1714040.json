@@ -57,5 +57,27 @@
   "review_desc": "Very Positive",
   "review_count": 36120,
   "review_percentage": 90.4,
-  "review_score": 8
+  "review_score": 8,
+  "user_tags": [
+    "自走棋",
+    "免费开玩",
+    "策略",
+    "多人",
+    "可爱",
+    "玩家对战",
+    "异步多人",
+    "2D",
+    "休闲",
+    "卡牌战斗",
+    "彩色",
+    "阖家",
+    "卡牌游戏",
+    "极简主义",
+    "战斗",
+    "类 Rogue",
+    "狗",
+    "回合制",
+    "马匹",
+    "牌组构建"
+  ]
 }

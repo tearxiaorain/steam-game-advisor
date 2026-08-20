@@ -62,5 +62,27 @@
   "review_desc": "Very Positive",
   "review_count": 5223,
   "review_percentage": 86.2,
-  "review_score": 8
+  "review_score": 8,
+  "user_tags": [
+    "回合战略",
+    "冒险",
+    "解谜",
+    "单人",
+    "自然",
+    "回合制",
+    "角色扮演",
+    "教育",
+    "沙盒",
+    "生存",
+    "模拟",
+    "策略",
+    "探索",
+    "棋盘游戏",
+    "资源管理",
+    "阖家",
+    "放松",
+    "欢乐",
+    "类 Rogue",
+    "程序生成"
+  ]
 }

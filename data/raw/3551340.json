@@ -72,5 +72,14 @@
   "review_desc": "Mostly Negative",
   "review_count": 35225,
   "review_percentage": 35.0,
-  "review_score": 4
+  "review_score": 4,
+  "user_tags": [
+    "模拟",
+    "体育",
+    "策略",
+    "足球",
+    "管理",
+    "多人",
+    "单人"
+  ]
 }

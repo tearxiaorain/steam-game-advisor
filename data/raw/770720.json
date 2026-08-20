@@ -28,5 +28,8 @@
   "review_desc": "Mixed",
   "review_count": 71,
   "review_percentage": 47.9,
-  "review_score": 5
+  "review_score": 5,
+  "user_tags": [
+    "射击"
+  ]
 }

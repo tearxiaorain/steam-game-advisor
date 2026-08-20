@@ -45,5 +45,12 @@
   "review_desc": "Very Positive",
   "review_count": 439,
   "review_percentage": 90.7,
-  "review_score": 8
+  "review_score": 8,
+  "user_tags": [
+    "模拟",
+    "休闲",
+    "虚拟现实",
+    "多人",
+    "免费开玩"
+  ]
 }

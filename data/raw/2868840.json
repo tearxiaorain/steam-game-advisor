@@ -70,5 +70,27 @@
   "review_desc": "Mixed",
   "review_count": 196759,
   "review_percentage": 60.8,
-  "review_score": 5
+  "review_score": 5,
+  "user_tags": [
+    "类 Rogue",
+    "卡牌游戏",
+    "牌组构建",
+    "合作",
+    "策略",
+    "牌组构建式类 Rogue",
+    "多人",
+    "回合制战斗",
+    "卡牌战斗",
+    "独立",
+    "低容错",
+    "轻度 Rogue",
+    "抢先体验",
+    "2D",
+    "单人",
+    "重玩价值",
+    "迷宫探索",
+    "奇幻",
+    "程序生成",
+    "仅鼠标"
+  ]
 }

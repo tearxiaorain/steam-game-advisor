@@ -1,8 +1,8 @@
 {
-  "run_id": "20260820-130421",
-  "ts": "2026-08-20T13:04:21+08:00",
-  "label": "v3-rec20-smoke",
-  "cases": "data\\eval\\v3-corpus-owned\\cases.jsonl",
+  "run_id": "20260820-155252",
+  "ts": "2026-08-20T15:52:52+08:00",
+  "label": "v3-user-tags-no-rewrite",
+  "cases": "data/eval/v3-corpus-owned/cases.jsonl",
   "n": 20,
   "route_accuracy": {
     "ok": 19,
@@ -10,9 +10,9 @@
     "ratio": 0.95
   },
   "retrieval_hit_rate": {
-    "ok": 8,
+    "ok": 10,
     "total": 20,
-    "ratio": 0.4
+    "ratio": 0.5
   },
   "live_refuse_rate": {
     "ok": 0,
@@ -24,6 +24,7 @@
     "total": 20,
     "ratio": 0.0
   },
-  "detail_latest": "D:\\rag\\steam-game-advisor\\data\\eval\\last_eval.jsonl",
-  "detail_archive": "D:\\rag\\steam-game-advisor\\data\\eval\\history\\details\\20260820-130421.jsonl"
+  "detail_latest": "data/eval/last_eval.jsonl",
+  "detail_archive": "data/eval/history/details/20260820-155252.jsonl",
+  "notes": "760 款 user_tags 补抓完毕；改写/硬映射默认关。相对 v3-rec20-smoke（40%）Hit +10pp。"
 }

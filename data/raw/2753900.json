@@ -50,5 +50,27 @@
   "review_desc": "Very Positive",
   "review_count": 10337,
   "review_percentage": 88.9,
-  "review_score": 8
+  "review_score": 8,
+  "user_tags": [
+    "类 Rogue",
+    "基地建设",
+    "塔防",
+    "即时战略",
+    "黑暗奇幻",
+    "奇幻",
+    "策略",
+    "资源管理",
+    "城市营造",
+    "轻度 Rogue",
+    "像素图形",
+    "战术",
+    "中世纪",
+    "即时战术",
+    "时间管理",
+    "自走棋",
+    "重玩价值",
+    "牌组构建",
+    "战斗",
+    "自动化"
+  ]
 }

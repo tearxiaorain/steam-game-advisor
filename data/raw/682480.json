@@ -49,5 +49,15 @@
   "review_desc": "Very Positive",
   "review_count": 531,
   "review_percentage": 85.7,
-  "review_score": 8
+  "review_score": 8,
+  "user_tags": [
+    "独立",
+    "休闲",
+    "冒险",
+    "推理",
+    "角色扮演",
+    "策略",
+    "模拟",
+    "视觉小说"
+  ]
 }

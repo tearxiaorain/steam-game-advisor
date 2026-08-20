@@ -58,5 +58,27 @@
   "review_desc": "Very Positive",
   "review_count": 36497,
   "review_percentage": 92.7,
-  "review_score": 8
+  "review_score": 8,
+  "user_tags": [
+    "战术",
+    "类 Rogue",
+    "像素图形",
+    "牌组构建",
+    "轻度 Rogue",
+    "选择取向",
+    "独立",
+    "资源管理",
+    "卡牌游戏",
+    "策略角色扮演",
+    "黑暗奇幻",
+    "2D",
+    "老式",
+    "剧情丰富",
+    "奇幻",
+    "时间管理",
+    "角色扮演",
+    "回合制战术",
+    "极简主义",
+    "冒险"
+  ]
 }

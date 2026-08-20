@@ -55,5 +55,19 @@
   "review_desc": "Overwhelmingly Positive",
   "review_count": 1654,
   "review_percentage": 97.3,
-  "review_score": 9
+  "review_score": 9,
+  "user_tags": [
+    "解谜",
+    "逻辑",
+    "极简主义",
+    "试验性",
+    "休闲",
+    "低容错",
+    "抽象",
+    "程序生成",
+    "独立",
+    "策略",
+    "单人",
+    "心理恐怖"
+  ]
 }

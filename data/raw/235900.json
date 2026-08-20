@@ -46,5 +46,15 @@
   "review_desc": "Very Positive",
   "review_count": 1966,
   "review_percentage": 93.4,
-  "review_score": 8
+  "review_score": 8,
+  "user_tags": [
+    "游戏开发",
+    "角色扮演",
+    "设计与插画",
+    "软件",
+    "动漫",
+    "日系角色扮演",
+    "教育",
+    "实用工具"
+  ]
 }

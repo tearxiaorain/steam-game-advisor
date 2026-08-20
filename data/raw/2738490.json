@@ -59,5 +59,27 @@
   "review_desc": "Very Positive",
   "review_count": 4992,
   "review_percentage": 91.1,
-  "review_score": 8
+  "review_score": 8,
+  "user_tags": [
+    "迷宫探索",
+    "类 Rogue",
+    "战术",
+    "解谜",
+    "氛围",
+    "奇幻",
+    "赌博",
+    "程序生成",
+    "悬疑",
+    "回合制",
+    "策略",
+    "重玩价值",
+    "网格导向动作",
+    "轻度 Rogue",
+    "独立",
+    "单人",
+    "2D",
+    "牌组构建",
+    "选择取向",
+    "牌组构建式类 Rogue"
+  ]
 }

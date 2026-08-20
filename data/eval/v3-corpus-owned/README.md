@@ -36,20 +36,23 @@ python src/eval_run.py --cases data/eval/v3-corpus-owned/cases_regression.jsonl 
 拥有度偏置仅当：`recommend` + 问句含好友/朋友/开黑/一起玩等。  
 好友向小题：`cases_friend_rec.jsonl`（8 题）。
 
-硬映射（`REWRITE_HARD_ALIAS_RULES`）在 LLM 改写后并入强检索词。
+硬映射（`REWRITE_HARD_ALIAS_RULES`）与 LLM 改写均可通过 `config.py` 开关对比；**当前默认均关**。
 
 ```bash
+# 当前基线（user_tags，无改写）
+python src/eval_run.py --cases data/eval/v3-corpus-owned/cases.jsonl --label v3-user-tags-no-rewrite --rebuild-index
+
+# 对照：硬映射（易过拟合主集）
 python src/eval_run.py --cases data/eval/v3-corpus-owned/cases.jsonl --label v3-rec20-hard-alias
 python src/eval_run.py --cases data/eval/v3-corpus-owned/cases_friend_rec.jsonl --label v3-friend-rec-hard-alias
 ```
 
-近期：`hard-alias-v1` 主集 **17/20=85%**，好友 **6/8=75%**。
-
+## 当前基线（`v3-user-tags-no-rewrite` / 20260820-155252）
 
 | 指标 | 结果 |
 |------|------|
 | 路由 | 19/20 = 95% |
-| Hit@Top3 | **8/20 = 40%** |
+| Hit@Top3 | **10/20 = 50%** |
 | 幻觉 | 0/20 |
 
-说明：新主集仍难，后续优先做「本人/好友偏置」再盯这 20 题。
+对照：冒烟 40% → 改写词典 45% → 硬映射 85%（过拟合）；社区标签无改写 **50%**，泛化更稳。

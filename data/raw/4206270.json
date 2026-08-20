@@ -53,5 +53,27 @@
   "review_desc": "Very Positive",
   "review_count": 591,
   "review_percentage": 89.8,
-  "review_score": 8
+  "review_score": 8,
+  "user_tags": [
+    "牌组构建式类 Rogue",
+    "塔防",
+    "自走棋",
+    "自动化",
+    "策略",
+    "库存管理",
+    "逆弹幕射击",
+    "编程",
+    "牌组构建",
+    "类 Rogue",
+    "轻度 Rogue",
+    "单人",
+    "像素图形",
+    "模拟",
+    "独立",
+    "休闲",
+    "2D",
+    "俯视",
+    "生存",
+    "硬件"
+  ]
 }
