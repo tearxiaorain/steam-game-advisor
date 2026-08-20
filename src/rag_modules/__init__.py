@@ -9,6 +9,12 @@ from .library_profile import (
     load_owned_library,
     select_owned_candidates,
 )
+from .ownership_prior import (
+    OwnershipPrior,
+    apply_ownership_bias,
+    filter_longtail_docs,
+    load_ownership_prior,
+)
 
 __all__ = [
     "DataPreparationModule",
@@ -20,4 +26,8 @@ __all__ = [
     "detect_library_mode",
     "load_owned_library",
     "select_owned_candidates",
+    "OwnershipPrior",
+    "apply_ownership_bias",
+    "filter_longtail_docs",
+    "load_ownership_prior",
 ]

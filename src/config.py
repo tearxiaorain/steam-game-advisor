@@ -98,8 +98,19 @@ class RAGConfig:
     data_path: str = str(PROJECT_ROOT / "data" / "processed")
     library_path: str = str(PROJECT_ROOT / "data" / "library" / "owned_appids.json")
     me_owned_path: str = str(PROJECT_ROOT / "data" / "library" / "me_owned.json")
+    friends_dir: str = str(PROJECT_ROOT / "data" / "library" / "friends" / "by_steamid")
     index_save_path: str = str(PROJECT_ROOT / "vector_index")
     trace_path: str = str(PROJECT_ROOT / "data" / "eval" / "traces" / "traces.jsonl")
+
+    # 推荐拥有度实验：v3-rec20 上乘性/滤长尾均掉分（40%→25~35%），默认关；代码保留可开
+    use_ownership_bias: bool = False
+    ownership_pool_size: int = 24
+    ownership_filter_longtail: bool = True
+    ownership_use_score_boost: bool = False
+    ownership_me_factor: float = 1.0
+    ownership_multi_friend_factor: float = 1.12  # >=3 好友
+    ownership_duo_friend_factor: float = 1.05  # 2 好友
+    ownership_longtail_factor: float = 0.88  # 仅 1 好友（score_boost 用）
 
     embedding_model: str = _embedding_model_path()
     llm_model: str = "deepseek-chat"

@@ -26,6 +26,12 @@ from rag_modules.library_profile import (
     load_owned_library,
     select_owned_candidates,
 )
+from rag_modules.ownership_prior import (
+    OwnershipPrior,
+    apply_ownership_bias,
+    filter_longtail_docs,
+    load_ownership_prior,
+)
 
 load_dotenv(Path(__file__).resolve().parent.parent / ".env")
 
@@ -45,6 +51,7 @@ class SteamGameAdvisor:
         self.generation_module = None
         self.owned_app_ids = []
         self.owned_library = OwnedLibrary()
+        self.ownership_prior = OwnershipPrior()
         self.trace_logger = TraceLogger(self.config.trace_path)
 
         if not Path(self.config.data_path).exists():
@@ -72,6 +79,18 @@ class SteamGameAdvisor:
         )
         if self.owned_app_ids:
             print(f"已加载库存 {len(self.owned_app_ids)} 款（含时长画像）。")
+        self.ownership_prior = load_ownership_prior(
+            self.config.me_owned_path,
+            self.config.friends_dir,
+            fallback_appids_path=self.config.library_path,
+        )
+        if self.config.use_ownership_bias:
+            print(
+                "拥有度偏置: "
+                f"me={len(self.ownership_prior.me)} "
+                f"friend_apps={len(self.ownership_prior.friend_owners)} "
+                f"pool={self.config.ownership_pool_size}"
+            )
         print("系统初始化完成。")
 
     def build_knowledge_base(self, force_rebuild: bool = False):
@@ -375,14 +394,35 @@ class SteamGameAdvisor:
         query_variants: list,
         filters: dict,
     ):
+        top_k = self.config.top_k
+        apply_bias = route_type == "recommend" and self.config.use_ownership_bias
+        fetch_k = (
+            max(int(self.config.ownership_pool_size), top_k) if apply_bias else top_k
+        )
         if filters:
             chunks = self.retrieval_module.metadata_filtered_multi_search(
-                query_variants, filters, top_k=self.config.top_k
+                query_variants, filters, top_k=fetch_k
             )
         else:
             chunks = self.retrieval_module.multi_query_search(
-                query_variants, top_k=self.config.top_k
+                query_variants, top_k=fetch_k
             )
+        if apply_bias and chunks:
+            chunks = filter_longtail_docs(
+                chunks,
+                self.ownership_prior,
+                min_keep=max(top_k * 2, 6),
+            ) if self.config.ownership_filter_longtail else list(chunks)
+            if self.config.ownership_use_score_boost:
+                chunks = apply_ownership_bias(
+                    chunks,
+                    self.ownership_prior,
+                    me_factor=self.config.ownership_me_factor,
+                    multi_friend_factor=self.config.ownership_multi_friend_factor,
+                    duo_friend_factor=self.config.ownership_duo_friend_factor,
+                    longtail_factor=self.config.ownership_longtail_factor,
+                )
+            chunks = self.retrieval_module.diversify_by_game(chunks, top_k=top_k)
         if route_type == "detail" and self.config.detail_name_boost:
             chunks = self._apply_detail_name_boost(
                 question, rewritten_query, query_variants, chunks
