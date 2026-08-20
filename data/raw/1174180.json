@@ -1,0 +1,64 @@
+{
+  "app_id": "1174180",
+  "name": "Red Dead Redemption 2",
+  "name_cn": "",
+  "short_description": "亚瑟·摩根和范德林德帮众是一群逃亡在外的亡命之徒。联邦侦探和赏金猎人在他们的身后穷追不舍，亚瑟一行人必须在广袤蛮荒的腹地上四处劫掠、挣扎求生。",
+  "detailed_description": "Ultimate Edition\nRed Dead Redemption 2：终极版将提供特别版中的全部故事模式内容及额外的在线模式奖励，包括在线模式角色的奖励装束、等级奖励、黑栗色纯血马以及您还可免费使用生存者营地主题。\n\n另外，您可于在线模式中免费获取额外的武器。\n\n关于游戏美国，1899 年。亚瑟·摩根和范德林德帮众是一群逃亡在外的亡命之徒。联邦侦探和全国顶尖的赏金猎人在他们的身后穷追不舍，亚瑟一行人必须在广袤蛮荒的美国腹地上四处劫掠、挣扎求生。而帮派内部的矛盾分化日渐加深，摆在亚瑟面前的将是他无法避免的抉择：究竟是选择自己的理想，还是选择效忠于抚养了自己的帮派。\n\nRed Dead Redemption 2 已荣获超过 175 项年度游戏奖项且获得超过 250 个满分评价，游戏以 19 世纪的最后岁月为背景，述说一个关于荣誉与忠诚的史诗故事。\n\nRed Dead Redemption 2 还包含 Red Dead 在线模式，一款以 Red Dead Redemption 2 生活世界为背景的多人游戏体验，玩家可以独自骑行或组建团队，酿造私酒，与执法人员、不法帮派和凶猛的野生动物战斗，在美洲边境开辟自己的道路。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "冒险"
+  ],
+  "tags": [
+    "动作",
+    "冒险"
+  ],
+  "categories": [
+    "单人",
+    "多人",
+    "玩家对战",
+    "线上玩家对战",
+    "合作",
+    "在线合作",
+    "Steam 成就",
+    "应用内购买",
+    "部分支持控制器",
+    "在手机上远程畅玩",
+    "在平板上远程畅玩"
+  ],
+  "developers": [
+    "Rockstar Games"
+  ],
+  "publishers": [
+    "Rockstar Games"
+  ],
+  "release_date": "2019 年 12 月 5 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语",
+    "意大利语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "日语",
+    "韩语",
+    "波兰语",
+    "俄语",
+    "简体中文",
+    "西班牙语 - 拉丁美洲",
+    "繁体中文",
+    "葡萄牙语 - 巴西\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 279.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10 - 64-bit\n处理器: Intel® Core™ i5-2500K / AMD FX-6300\n内存: 8 GB RAM\n显卡: Nvidia GeForce GTX 770 2GB / AMD Radeon R9 280 3GB\n网络: 宽带互联网连接\n存储空间: 需要 150 GB 可用空间\n声卡: Direct X Compatible",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10 - 64-bit\n处理器: Intel® Core™ i7-4770K / AMD Ryzen 5 1500X\n内存: 12 GB RAM\n显卡: Nvidia GeForce GTX 1060 6GB / AMD Radeon RX 480 4GB\n网络: 宽带互联网连接\n存储空间: 需要 150 GB 可用空间\n声卡: Direct X Compatible",
+  "fetched_at": "2026-08-19T08:22:09Z",
+  "review_desc": "Very Positive",
+  "review_count": 908361,
+  "review_percentage": 92.5,
+  "review_score": 8
+}

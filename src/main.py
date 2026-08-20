@@ -58,26 +58,44 @@ class SteamGameAdvisor:
         self.owned_app_ids = DataPreparationModule.load_owned_app_ids(self.config.library_path)
         print("系统初始化完成。")
 
-    def build_knowledge_base(self):
+    def build_knowledge_base(self, force_rebuild: bool = False):
         print("\n正在构建知识库...")
-        vectorstore = self.index_module.load_index()
+        self.data_module.load_documents()
+        if self.config.exclude_non_game_genres:
+            self.data_module.apply_game_only_filter()
+        chunks = self.data_module.chunk_documents()
+
+        index_meta = {
+            "chunk_count": len(chunks),
+            "document_count": len(self.data_module.documents),
+            "exclude_non_game_genres": self.config.exclude_non_game_genres,
+        }
+        saved_meta = None if force_rebuild else self.index_module.load_index_meta(
+            self.config.index_save_path
+        )
+        vectorstore = None if force_rebuild else self.index_module.load_index()
+        if vectorstore is not None and saved_meta != index_meta:
+            print("索引元数据与当前语料不一致，将重建向量索引…")
+            vectorstore = None
+
         if vectorstore is not None:
             print("已加载本地向量索引。")
-            self.data_module.load_documents()
-            chunks = self.data_module.chunk_documents()
         else:
-            print("未找到索引，开始构建...")
-            self.data_module.load_documents()
             if not self.data_module.documents:
                 raise ValueError(
-                    f"{self.config.data_path} 中没有游戏 Markdown。"
-                    "请先放入 data/processed 后再启动。"
+                    f"{self.config.data_path} 中没有可索引的游戏 Markdown。"
                 )
-            chunks = self.data_module.chunk_documents()
+            print("未找到匹配索引，开始构建…")
             vectorstore = self.index_module.build_vector_index(chunks)
-            self.index_module.save_index()
+            self.index_module.save_index(index_meta)
 
-        self.retrieval_module = RetrievalOptimizationModule(vectorstore, chunks)
+        self.retrieval_module = RetrievalOptimizationModule(
+            vectorstore,
+            chunks,
+            use_mmr=self.config.use_mmr,
+            mmr_lambda=self.config.mmr_lambda,
+            mmr_pool_size=self.config.mmr_pool_size,
+        )
         stats = self.data_module.get_statistics()
         print("\n知识库统计:")
         print(f"  游戏数: {stats.get('total_documents', 0)}")
@@ -107,19 +125,24 @@ class SteamGameAdvisor:
             return answer
 
         rewritten_query = question
+        query_variants = [question]
         if route_type in {"recommend", "detail"}:
-            rewritten_query = self.generation_module.query_rewrite(question)
+            if self.config.use_multi_query:
+                query_variants = self.generation_module.expand_queries(
+                    question, n=self.config.multi_query_count
+                )
+                rewritten_query = " | ".join(query_variants)
+                print(f"多重查询: {query_variants}")
+            else:
+                rewritten_query = self.generation_module.query_rewrite(question)
+                query_variants = [rewritten_query]
 
         filters = self._extract_filters_from_query(question)
         if filters:
             print(f"过滤条件: {filters}")
-            relevant_chunks = self.retrieval_module.metadata_filtered_search(
-                rewritten_query, filters, top_k=self.config.top_k
-            )
-        else:
-            relevant_chunks = self.retrieval_module.hybrid_search(
-                rewritten_query, top_k=self.config.top_k
-            )
+        relevant_chunks = self._retrieve_chunks(
+            route_type, question, rewritten_query, query_variants, filters
+        )
 
         if route_type == "library":
             relevant_docs = self._apply_library_constraint(question, relevant_chunks)
@@ -217,6 +240,46 @@ class SteamGameAdvisor:
             return [doc for doc in docs if str(doc.metadata.get("app_id")) not in owned]
         return [doc for doc in docs if str(doc.metadata.get("app_id")) in owned] or docs
 
+    def _retrieve_chunks(
+        self,
+        route_type: str,
+        question: str,
+        rewritten_query: str,
+        query_variants: list,
+        filters: dict,
+    ):
+        if filters:
+            chunks = self.retrieval_module.metadata_filtered_multi_search(
+                query_variants, filters, top_k=self.config.top_k
+            )
+        else:
+            chunks = self.retrieval_module.multi_query_search(
+                query_variants, top_k=self.config.top_k
+            )
+        if route_type == "detail" and self.config.detail_name_boost:
+            chunks = self._apply_detail_name_boost(
+                question, rewritten_query, query_variants, chunks
+            )
+        return chunks
+
+    def _apply_detail_name_boost(
+        self,
+        question: str,
+        rewritten_query: str,
+        query_variants: list,
+        chunks: list,
+    ):
+        texts = [question, rewritten_query, *query_variants]
+        matched = self.data_module.match_documents_for_detail(*texts)
+        if not matched:
+            return chunks
+        app_ids = [str(d.metadata.get("app_id")) for d in matched if d.metadata.get("app_id")]
+        boost_chunks = self.data_module.get_chunks_for_app_ids(app_ids)
+        merged = boost_chunks + [
+            c for c in chunks if str(c.metadata.get("app_id")) not in set(app_ids)
+        ]
+        return self.retrieval_module.diversify_by_game(merged, top_k=self.config.top_k)
+
     def _extract_filters_from_query(self, query: str) -> dict:
         filters = {}
         if "免费" in query:
@@ -225,8 +288,21 @@ class SteamGameAdvisor:
             filters["supported_languages"] = ["简体中文", "中文", "schinese", "chinese"]
         if "单人" in query:
             filters["categories"] = ["单人", "Single-player", "Singleplayer"]
+        # 「合作/开黑」偏 Co-op；「联机/朋友/多人」覆盖竞技多人，避免误杀 CS2 这类无 Co-op 标签的游戏
         if "合作" in query or "开黑" in query:
-            filters["categories"] = ["合作", "Co-op", "Online Co-Op", "多人"]
+            filters["categories"] = ["合作", "Co-op", "Online Co-Op", "多人", "Multi-player", "Multiplayer"]
+        elif "联机" in query or "多人" in query or "朋友" in query:
+            filters["categories"] = [
+                "多人",
+                "Multi-player",
+                "Multiplayer",
+                "线上玩家对战",
+                "玩家对战",
+                "跨平台多人",
+                "合作",
+                "Co-op",
+                "Online Co-Op",
+            ]
         if "Mac" in query or "macOS" in query or "苹果" in query:
             filters["platforms"] = ["Mac", "macOS", "Mac OS"]
         price_match = re.search(r"(?:不超过|别超过|低于|以内)\s*(\d+)", query)

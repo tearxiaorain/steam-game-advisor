@@ -1,0 +1,74 @@
+{
+  "app_id": "284160",
+  "name": "BeamNG.drive",
+  "name_cn": "",
+  "short_description": "一款搭载软体物理系统的动态车辆模拟游戏，能够让任何事情成为可能。",
+  "detailed_description": "BeamNG.drive 是一款非常逼真的模拟驾驶游戏，拥有近乎无限的可能。我们的软体物理引擎可以实时模拟车辆的各个部件，达到与现实相同的效果。经过多年的精心设计、深入研究与丰富体验，BeamNG.drive 真实地还原了在现实世界中驾驶车辆的乐趣。 \n\n为什么 BeamNG.drive 是最适合您的游戏?\n\n软体物理系统：BeamNG 的物理引擎是整个游戏的核心，能够为您带来原汁原味、前所未有的车辆模拟体验。游戏使用了非常精准的损伤模型，车辆碰撞的效果无比真实，带来超越普通“车祸模拟器”的硬核物理体验。  \n\n车辆： BeamNG.drive 提供了几十种完全可自定义的精致车辆。无论是小型车辆还是大型卡车，您都可以调整所有的可操控部件，打造您梦想中的驾驶体验。车轮、悬挂、引擎等等... 一切尽在您的掌控之中。\n\n环境： 驾驶途中您将会有许多奇妙的发现。12 个广阔无垠、景色秀丽的开放世界等您探索，复杂的地形与游戏设置一样变化多样。您可以在热带丛林小径、荒芜沙漠、城市大道和拥挤的高速公路等各种地方中测试您调试好的新车。 \n\n更多内容\n\n游戏模式： 这款游戏不仅能给您带来普通的驾驶模拟体验。游戏内还有各种异彩纷呈的玩法选项，您既可以完成简单的运送任务，也可以创建一个完整的地图，以用来测试您新打造的座驾。\n\n畅行模式：不喜欢受到限制的感觉？选择一辆爱车，前往任意目的地，开始自由探索。在这个游戏模式中，实验也是一大重点内容，您可以自由操控物体与实验环境。例如，您可以尝试提高风速以增加一点挑战性，或是改变重力！ \n\n情景： BeamNG.drive 为各位喜欢驾驶车辆的玩家提供了多种不同的情景。您可以追求速度与效率，完成卡车运送货物的任务，或是与警车展开一场紧张刺激的角逐。无论在哪种情景下，逼真的物理引擎都能够让您全身心地沉浸其中。  \n\n计时赛：选择一款车辆、环境与路线，检验您的驾驶技巧！磨炼您的技术，不断挑战自己，刷新最佳时间记录。  \n\n模组与社区内容： 我们为我们活力十足的社区感到非常自豪，热爱这款游戏的玩家们贡献了很多超棒的话题，并为其他玩家们创造了有趣的车辆、地形和情景。BeamNG.drive 的模组功能也非常丰富，让您可以对任何东西进行设置与调整。有了我们内置的世界编辑器，任何玩家都可以拥有非凡的游戏体验。\n\nAutomation: 我们已与 Automation - the car company tycoon game 达成合作，玩家们可以将自己的作品导出至 BeamNG.drive。如果您拥有 Automation 这款游戏，那么这一过程相当简单：设计您的自定义车辆和引擎，根据您的配置调整所有细节，选择“导出”选项，启动 BeamNG.drive，您就能在车辆列表中找到您最新创作的车辆了！ \n\n自由度： BeamNG.drive 与其他汽车游戏不同的地方就在于，它给予了玩家很高的自由度。在这款游戏中，您可以用汽车或卡车做几乎任何您能想到的事情，并以最接近现实的方式看到事情的结果。通过我们的软体物理引擎和模组内容，您可以制作出您能想到的任何情景。这款游戏不仅能为您提供丰富的车辆，您还能利用可自定义的广阔开放世界打造自己梦想中的驾驶体验。业界领先的物理系统、无限可能的自定义内容与紧密团结的社区，BeamNG.drive 一定是您游玩过的最细致完整、最妙趣横生的车辆模拟游戏。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "竞速",
+    "模拟",
+    "抢先体验"
+  ],
+  "tags": [
+    "竞速",
+    "模拟",
+    "抢先体验"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "Steam 集换式卡牌",
+    "视角舒适度",
+    "自定义音量控制",
+    "可以仅用键盘",
+    "无需应对快速反应事件",
+    "DUALSHOCK 控制器支持",
+    "DualSense 控制器支持",
+    "DualSense 控制器支持",
+    "立体声",
+    "环绕声",
+    "部分支持控制器",
+    "Steam 云",
+    "包含关卡编辑器",
+    "在手机上远程畅玩",
+    "在平板上远程畅玩",
+    "远程同乐",
+    "家庭共享"
+  ],
+  "developers": [
+    "BeamNG"
+  ],
+  "publishers": [
+    "BeamNG"
+  ],
+  "release_date": "2015 年 5 月 29 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语",
+    "法语",
+    "日语",
+    "韩语",
+    "葡萄牙语 - 葡萄牙",
+    "葡萄牙语 - 巴西",
+    "俄语",
+    "简体中文",
+    "西班牙语 - 拉丁美洲",
+    "繁体中文",
+    "西班牙语 - 西班牙",
+    "德语",
+    "波兰语"
+  ],
+  "is_free": false,
+  "price_cny": 68.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10 64 Bit\n处理器: AMD Ryzen 5 1600 / Intel Core i5 8400\n内存: 16 GB RAM\n显卡: Minimum 6GB VRAM (AMD Radeon RX 570 / Nvidia GeForce GTX 1060)\nDirectX 版本: 11\n存储空间: 需要 60 GB 可用空间\n附注事项: Installing game mods will increase required storage space. Gamepad recommended.",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10 64 Bit\n处理器: AMD Ryzen 7 3700X / Intel Core i7 9700\n内存: 32 GB RAM\n显卡: Minimum 8GB VRAM (AMD RX 6700 / Nvidia GeForce RTX 3060)\nDirectX 版本: 11\n存储空间: 需要 60 GB 可用空间\n支持 VR: 10GB VRAM GPU with Vulkan support and OpenXR\n附注事项: Recommended spec based on 1080p resolution. Installing game mods will increase required storage space. Gamepad recommended.",
+  "fetched_at": "2026-08-19T08:21:50Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 414391,
+  "review_percentage": 97.2,
+  "review_score": 9
+}

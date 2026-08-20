@@ -1,0 +1,71 @@
+{
+  "app_id": "359550",
+  "name": "Tom Clancy's Rainbow Six Siege",
+  "name_cn": "彩虹六号：围攻",
+  "short_description": "《彩虹六号：围攻》是一款精英团队战术射击游戏，高超的策略和行动力是制胜关键。",
+  "detailed_description": "Season 11 Year 2 Overview\n\nYear 11 Roadmap\n\n免费版\n\n精英版\n\nUltimate Edition\n\nPC Specifications\n\n关于游戏《彩虹六号：围攻》是战术团队射击游戏中无可争议的典范，明智的策略和行动力是制胜关键。\n\n免费体验快速对战和非排名战游戏模式，同时解锁精选特勤干员。\n\n排名战对战列表、围攻杯、额外特勤干员和装饰物品等特定内容和功能需要付费解锁。\n\n高风险5v5对战 进攻方VS防守方攻防交替互换，针对特勤干员和地图调整战术。感受行动的紧张与刺激，充分运用强大的破坏工具和各式设备，用智慧和技巧压制对手，赢得每一局对战。\n\n如果你加入防守方，就将四周环境变成坚不可摧的堡垒。加固墙壁，设置路障，布置陷阱，控制敌人的动向。利用监控工具收集情报，预判敌人的进攻路线。坚守阵地，针对敌方的战术灵活应变，以技巧取胜。\n\n如果你加入进攻方，则要操控观测无人机侦察敌方位置和炸弹点情报。与团队通力合作，突破重重防线，巧妙避开陷阱，出其不意地开辟突破口。通过垂直突袭，从上方或下方攻其不备，或是绳降突入窗户，发起英勇进攻。制定周密的进攻计划，果断执行，化解一切危机。\n\n破坏工具\n\n破坏不仅是制造混乱，更是通往胜利的关键武器。巧妙利用周围环境，将厚重的墙壁变成通向机遇的窗口。运用最尖端的技术追踪敌方动向，打破墙壁开拓视野，操控环境，牢牢掌握战术优势。\n\n从新兵到精英这趟充实的入门之旅专为新玩家量身打造，设有全新的等级路径，帮助你循序渐进地掌握基础操作、提升技巧、建立自信，让你以最佳状态投入紧张刺激的实战。\n\n持续扩展每个赛季都带来重大更新，新增内容和功能，为战术和玩法注入新活力。\n\n高度竞技性加入超过8,000万玩家的庞大在线社区。观看顶级职业战队在久负盛名的《彩虹六号：围攻》电竞赛事中展开巅峰对决。\n\n免费进入游戏，部分内容和功能（包括竞技游戏模式、特勤干员和装饰物品）需要付费解锁。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "免费开玩"
+  ],
+  "tags": [
+    "动作",
+    "免费开玩"
+  ],
+  "categories": [
+    "单人",
+    "多人",
+    "玩家对战",
+    "线上玩家对战",
+    "合作",
+    "在线合作",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "应用内购买",
+    "DUALSHOCK 控制器支持",
+    "DUALSHOCK 控制器支持",
+    "DualSense 控制器支持",
+    "DualSense 控制器支持",
+    "在手机上远程畅玩",
+    "在平板上远程畅玩"
+  ],
+  "developers": [
+    "Ubisoft Montreal"
+  ],
+  "publishers": [
+    "Ubisoft"
+  ],
+  "release_date": "2015 年 12 月 1 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语*",
+    "意大利语*",
+    "德语*",
+    "西班牙语 - 西班牙*",
+    "捷克语",
+    "荷兰语",
+    "日语*",
+    "韩语",
+    "波兰语",
+    "葡萄牙语 - 巴西*",
+    "俄语*",
+    "繁体中文",
+    "简体中文",
+    "土耳其语",
+    "泰语\n*具有完全音频支持的语言"
+  ],
+  "is_free": true,
+  "price_cny": 0.0,
+  "pc_requirements_min": "最低配置:\n操作系统: Windows 10, Windows 11 (64-bit versions)\n处理器: AMD Ryzen 3 3100 / Intel i3-8100\n内存: 8 GB RAM\n显卡: Nvidia GTX 1650 4GB / AMD RX 5500XT 4GB / Intel ARC A380 6GB\nDirectX 版本: 12\n网络: 宽带互联网连接\n存储空间: 需要 65 GB 可用空间\n声卡: DirectX® 9.0c compatible sound card with latest drivers\n附注事项: For an up-to-date list of supported chipsets, please visit the FAQ for this game on our support website. Game contains BattleEye anti-cheat technology.",
+  "pc_requirements_rec": "推荐配置:\n操作系统: Windows 11 (64-bit versions)\n处理器: AMD Ryzen5 3600 / Intel i5-10400\n内存: 8 GB RAM\n显卡: NVIDIA RTX 2060 6GB / AMD RX 6600 8GB\nDirectX 版本: 12\n网络: 宽带互联网连接\n存储空间: 需要 65 GB 可用空间\n声卡: DirectX® 9.0c compatible sound card 5.1 with latest drivers\n附注事项: For an up-to-date list of supported chipsets, please visit the FAQ for this game on our support website. Game contains BattleEye anti-cheat technology.",
+  "fetched_at": "2026-08-19T08:20:29Z",
+  "review_desc": "Very Positive",
+  "review_count": 1542247,
+  "review_percentage": 82.2,
+  "review_score": 8
+}

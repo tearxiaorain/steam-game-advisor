@@ -1,0 +1,73 @@
+{
+  "app_id": "714010",
+  "name": "Aimlabs",
+  "name_cn": "",
+  "short_description": "Aimlabs 是全球超过 4,500 万玩家首选的免费练枪工具，无论新手还是职业电竞选手都在使用。我们的独特瞄准分析系统能找出你的弱点，帮助强化你的游戏表现，并让你熟练各种 FPS 游戏所需的技巧。还有排位赛和数不尽的训练模式等你来练！现在就開始热身、提升实力吧！",
+  "detailed_description": "全球第一的练枪工具！免费使用 Aimlabs，你的枪法会变得更准！像职业选手一样训练，不断进步，主宰每一场对战！\nAimlabs 是超过 4,500 万玩家首选的瞄准训练工具，深受新手与电竞选手信赖，支援超过 400 款 FPS 游戏，让你在所有射击游戏中都能取得优势。\n找出最适合你的灵敏度设定，并透过数千种专业设计的训练场景，帮助你建立稳定且自信的瞄准能力。\nAimlabs 让你在你喜爱的游戏中持续进步，稳定上分，并享受更有趣的游戏体验。\n别再让命中率限制你的实力，现在就免费开始训练吧！\n\n为什么选择 Aimlabs？重点训练真正重要的技巧\n使用职业玩家也在用的训练方式，精通甩枪、追踪与快速切换目标等核心技巧。\n\n即时修正错误\n透过详细的数据分析，清楚知道自己需要改进的地方。\n\n让训练更贴近你爱玩的游戏\n依照你的需求调整设定、灵敏度与训练内容。\n\n游戏特色：设定你的完美灵敏度\n透过灵敏度查找器 (Sens Finder) 或甩枪优化器 (Flick Optimizer)，找到最适合你的灵敏度。\n\n官方 Aimlabs 排位系统\n从入门、中阶到菁英，追踪每个进步，见证你的实际成长。\n\n游戏专属训练\n支援超过 400 款游戏，提供客制化训练内容。\n\n创作者工具 (Creator Studio)\n自行建立训练场景，或重现游戏实战场景并重复练习。\n\n训练清单编辑器\n建立自己的训练流程，或修改现有清单，打造理想热身模式。\n\n瞄准分析 (Aim Insights)\n透过热力图、趋势与进阶数据分析，清楚了解自己的进步。\n\n排名与排行榜\n与全球玩家竞争，挑战更高排名，证明你的实力。\n\n完整的自订功能\n自订环境、武器、角色造型等，打造专属训练体验。\n\n滑鼠与游戏手把支援\n依照你的习惯自由选择操作方式。\n\n社群工坊\n探索数千种玩家自制训练内容，或自己创作并分享。\n\n玩家评价：「Aimlabs让我在Valorant中不再拖后腿。」 - Discord用户\n\n「我非常喜欢玩Aimlabs。我的Wingman枪法确实提升了。」 - Lululuvely\n\n「Aimlabs帮我克服了左侧弱点。」 - King George\n\n「有了Aimlabs，还需要去健身房吗？」 - Aceu\n\n「Aimlabs让我交到女朋友。」 - Twitter用户",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "冒险",
+    "休闲",
+    "独立",
+    "模拟",
+    "免费开玩"
+  ],
+  "tags": [
+    "动作",
+    "冒险",
+    "休闲",
+    "独立",
+    "模拟",
+    "免费开玩"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 创意工坊",
+    "应用内购买",
+    "Steam 云",
+    "统计数据",
+    "Steam 排行榜",
+    "包含关卡编辑器",
+    "家庭共享"
+  ],
+  "developers": [
+    "Statespace"
+  ],
+  "publishers": [
+    "Statespace"
+  ],
+  "release_date": "2023 年 6 月 16 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语",
+    "西班牙语 - 西班牙",
+    "西班牙语 - 拉丁美洲",
+    "葡萄牙语 - 巴西",
+    "法语",
+    "意大利语",
+    "德语",
+    "日语",
+    "韩语",
+    "波兰语",
+    "俄语",
+    "简体中文",
+    "泰语",
+    "繁体中文",
+    "土耳其语"
+  ],
+  "is_free": true,
+  "price_cny": 0.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows 7/8/10\n处理器: Intel® Core™ 2 Duo E6600 or AMD Phenom™ X3 8750 processor or better\n内存: 4 GB RAM\n显卡: GTX 560 and up\n网络: 宽带互联网连接\n存储空间: 需要 12 GB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n操作系统 *: Windows 7/8/10\n处理器: Intel® Core™ 2 Duo E6600 or AMD Phenom™ X3 8750 processor or better\n内存: 4 GB RAM\n显卡: GTX 560 and up\n网络: 宽带互联网连接\n存储空间: 需要 20 GB 可用空间",
+  "fetched_at": "2026-08-19T08:23:52Z",
+  "review_desc": "Very Positive",
+  "review_count": 136850,
+  "review_percentage": 91.1,
+  "review_score": 8
+}

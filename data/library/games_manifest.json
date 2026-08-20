@@ -1,0 +1,547 @@
+{
+  "generated_at": "2026-08-19T08:18:45Z",
+  "source": "charts+eval-seed",
+  "count": 77,
+  "description_policy": "商店页先拉 schinese，再拉 english；简介/长文 CJK 占比不足时回退英文。阈值=0.12",
+  "games": [
+    {
+      "app_id": "440",
+      "name": "Team Fortress 2",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "550",
+      "name": "Left 4 Dead 2",
+      "description_lang_short": "en",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "570",
+      "name": "Dota 2",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "730",
+      "name": "Counter-Strike 2",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "4000",
+      "name": "Garry's Mod",
+      "description_lang_short": "en",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "105600",
+      "name": "Terraria",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "108600",
+      "name": "Project Zomboid",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "221100",
+      "name": "DayZ",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "227300",
+      "name": "Euro Truck Simulator 2",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "230410",
+      "name": "Warframe",
+      "name_cn": "Warframe 星际战甲",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "236390",
+      "name": "War Thunder",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "244210",
+      "name": "Assetto Corsa",
+      "name_cn": "神力科莎 Assetto Corsa",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "250900",
+      "name": "The Binding of Isaac: Rebirth",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "251570",
+      "name": "7 Days to Die",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "252490",
+      "name": "Rust",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "261550",
+      "name": "Mount & Blade II: Bannerlord",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "271590",
+      "name": "Grand Theft Auto V Legacy",
+      "name_cn": "Grand Theft Auto V 传承版",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "284160",
+      "name": "BeamNG.drive",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "289070",
+      "name": "Sid Meier’s Civilization® VI",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "291550",
+      "name": "Brawlhalla",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "292030",
+      "name": "The Witcher 3: Wild Hunt",
+      "name_cn": "巫师 3：狂猎",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "294100",
+      "name": "RimWorld",
+      "name_cn": "边缘世界 RimWorld",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "322170",
+      "name": "Geometry Dash",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "322330",
+      "name": "Don't Starve Together",
+      "name_cn": "饥荒联机版",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "359550",
+      "name": "Tom Clancy's Rainbow Six Siege",
+      "name_cn": "彩虹六号：围攻",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "367520",
+      "name": "Hollow Knight",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "381210",
+      "name": "Dead by Daylight",
+      "name_cn": "黎明杀机",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "413150",
+      "name": "Stardew Valley",
+      "description_lang_short": "zh",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "431960",
+      "name": "Wallpaper Engine",
+      "name_cn": "Wallpaper Engine：壁纸引擎",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "438100",
+      "name": "VRChat",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "460930",
+      "name": "Tom Clancy's Ghost Recon® Wildlands",
+      "name_cn": "幽灵行动：荒野",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "489830",
+      "name": "The Elder Scrolls V: Skyrim Special Edition",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "553850",
+      "name": "HELLDIVERS™ 2",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "582010",
+      "name": "Monster Hunter: World",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "594650",
+      "name": "Hunt: Showdown 1896",
+      "name_cn": "猎杀：对决 1896",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "629520",
+      "name": "Soundpad",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "632360",
+      "name": "Risk of Rain 2",
+      "name_cn": "雨中冒险 2",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "632470",
+      "name": "Disco Elysium - The Final Cut",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "714010",
+      "name": "Aimlabs",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "739630",
+      "name": "Phasmophobia",
+      "name_cn": "Phasmophobia 恐鬼症",
+      "description_lang_short": "en",
+      "description_lang_detail": "en"
+    },
+    {
+      "app_id": "813780",
+      "name": "Age of Empires II: Definitive Edition",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "837470",
+      "name": "Untitled Goose Game",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "892970",
+      "name": "Valheim",
+      "name_cn": "Valheim: 英灵神殿",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "945360",
+      "name": "Among Us",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "960090",
+      "name": "Bloons TD 6",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1085660",
+      "name": "Destiny 2",
+      "name_cn": "命运2",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1086940",
+      "name": "Baldur's Gate 3",
+      "name_cn": "博德之门3",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1091500",
+      "name": "Cyberpunk 2077",
+      "name_cn": "赛博朋克 2077",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1142710",
+      "name": "Total War: WARHAMMER III",
+      "name_cn": "全面战争：战锤3",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1144200",
+      "name": "Ready or Not",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1158310",
+      "name": "Crusader Kings III",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1174180",
+      "name": "Red Dead Redemption 2",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1203220",
+      "name": "NARAKA: BLADEPOINT",
+      "name_cn": "永劫无间",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1203620",
+      "name": "Enshrouded",
+      "name_cn": "雾锁王国 (Enshrouded)",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1222670",
+      "name": "The Sims™ 4",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1245620",
+      "name": "ELDEN RING",
+      "name_cn": "艾尔登法环",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1364780",
+      "name": "Street Fighter™ 6",
+      "name_cn": "Street Fighter 6",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1366800",
+      "name": "Crosshair X",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1449850",
+      "name": "Yu-Gi-Oh! Master Duel",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1478500",
+      "name": "Big Walk",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1623730",
+      "name": "Palworld",
+      "name_cn": "Palworld / 幻兽帕鲁",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1905180",
+      "name": "OBS Studio",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1973530",
+      "name": "Limbus Company",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "2073620",
+      "name": "Arena Breakout: Infinite",
+      "name_cn": "暗区突围：无限",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "2142790",
+      "name": "Fields of Mistria",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "2183900",
+      "name": "Warhammer 40,000: Space Marine 2",
+      "name_cn": "Warhammer 40,000: 星际战士2",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "2300320",
+      "name": "Farming Simulator 25",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "2358720",
+      "name": "Black Myth: Wukong",
+      "name_cn": "黑神话：悟空",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "2379780",
+      "name": "Balatro",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "2483190",
+      "name": "Forza Horizon 6",
+      "name_cn": "极限竞速：地平线 6",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "2622380",
+      "name": "ELDEN RING NIGHTREIGN",
+      "name_cn": "艾尔登法环 黑夜君临",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "2767030",
+      "name": "Marvel Rivals",
+      "name_cn": "漫威争锋",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "3240220",
+      "name": "Grand Theft Auto V Enhanced",
+      "name_cn": "Grand Theft Auto V 增强版",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "3241660",
+      "name": "R.E.P.O.",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "3419430",
+      "name": "Bongo Cat",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "3527290",
+      "name": "PEAK",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "4704690",
+      "name": "MECCHA CHAMELEON",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    }
+  ]
+}

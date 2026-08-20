@@ -56,3 +56,5 @@ python src/main.py
 - `history/runs.jsonl`：每次汇总追加，用来看趋势
 - `history/details/<run_id>.jsonl`：该轮完整明细存档
 - `traces/traces.jsonl`：日常/评测问答流水账（追加写）
+
+默认关闭多重查询（`use_multi_query=False`，走单次查询改写）。开启后一次 LLM 生成若干变体并多路 RRF，本地检索会变多；在当前小语料评测上命中率未必更高，可用配置开关对比。

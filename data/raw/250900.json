@@ -1,0 +1,52 @@
+{
+  "app_id": "250900",
+  "name": "The Binding of Isaac: Rebirth",
+  "name_cn": "",
+  "short_description": "The Binding of Isaac: Rebirth is a randomly generated action RPG shooter with heavy Rogue-like elements. Following Isaac on his journey players will find bizarre treasures that change Isaac’s form giving him super human abilities and enabling him to fight off droves of mysterious creatures, discover secrets and fight his way to safety.",
+  "detailed_description": "New DLC Available\n\nAbout the GameWhen Isaac’s mother starts hearing the voice of God demanding a sacrifice be made to prove her faith, Isaac escapes into the basement facing droves of deranged enemies, lost brothers and sisters, his fears, and eventually his mother. \n\nGameplay\nThe Binding of Isaac is a randomly generated action RPG shooter with heavy Rogue-like elements. Following Isaac on his journey players will find bizarre treasures that change Isaac’s form giving him super human abilities and enabling him to fight off droves of mysterious creatures, discover secrets and fight his way to safety.\n\nAbout the Binding Of Isaac: Rebirth\nThe Binding of Isaac: Rebirth is the ultimate of remakes with an all-new highly efficient game engine (expect 60fps on most PCs), all-new hand-drawn pixel style artwork, highly polished visual effects, all-new soundtrack and audio by the the sexy Ridiculon duo Matthias Bossi + Jon Evans. Oh yeah, and hundreds upon hundreds of designs, redesigns and re-tuned enhancements by series creator, Edmund McMillen. Did we mention the poop?Key Features:Over 500 hours of gameplay\n4 BILLION Seeded runs!\n20 Challenge runs\n450+ items, including 160 new unlockables\nIntegrated controller support for popular control pads!\nAnalog directional movement and speed\nTons of feature film quality animated endings\nOver 100 specialized seeds\n2-Player local co-op\nOver 100 co-op characters\nDynamic lighting, visual effects and art direction\nAll-new game engine @60FPS 24/7\nAll-new soundtrack and sound design\nMultiple Save slots\nPoop physics!\nThe ultimate roguelike\nA bunch of achievements\nUber secrets including: \n10 Playable Characters\n100+ enemies, with new designs\nOver 50 bosses, including tons of new and rare bosses\nRooms FULL OF POOP!\nMystic Runes\nUpgradeable shops",
+  "description_lang_short": "en",
+  "description_lang_detail": "en",
+  "genres": [
+    "动作"
+  ],
+  "tags": [
+    "动作"
+  ],
+  "categories": [
+    "单人",
+    "多人",
+    "同屏/分屏",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "Steam 云",
+    "在电视上远程畅玩",
+    "远程同乐",
+    "家庭共享"
+  ],
+  "developers": [
+    "Nicalis, Inc.",
+    "Edmund McMillen"
+  ],
+  "publishers": [
+    "Nicalis, Inc."
+  ],
+  "release_date": "2014 年 11 月 4 日",
+  "platforms": [
+    "Windows",
+    "Mac",
+    "Linux"
+  ],
+  "supported_languages": [
+    "英语*\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 48.0,
+  "pc_requirements_min": "最低配置:\n操作系统: XP\n处理器: Core 2 Duo\n内存: 2 GB RAM\n显卡: Discreet video card\n存储空间: 需要 449 MB 可用空间\n声卡: Yes",
+  "pc_requirements_rec": "推荐配置:\n操作系统 *: Windows 8 / 7 / Vista / XP\n处理器: 2.4 GHz Quad Core 2.0 (or higher)\n内存: 8 GB RAM\n显卡: Intel HD Graphics 4000 and higher, ATI Radeon HD-Series 4650 and higher, Nvidia GeForce 2xx-Series and up\n存储空间: 需要 449 MB 可用空间\n声卡: Yes",
+  "fetched_at": "2026-08-19T08:20:09Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 446296,
+  "review_percentage": 96.9,
+  "review_score": 9
+}

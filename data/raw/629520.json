@@ -1,0 +1,68 @@
+{
+  "app_id": "629520",
+  "name": "Soundpad",
+  "name_cn": "",
+  "short_description": "以高数字质量在语音聊天中播放声音。将声音或音乐添加到您的麦克风信号中，以便其他人也能听到。",
+  "detailed_description": "以高数字质量在语音聊天中播放声音。立即免费试用演示！\n\n您可能听说过 Soundpad，人们可以在其中将流行的 Duke Nukem 等声音放到一起。利用 Soundpad，您不仅可以对自己播放这些声音，也可以向其他人播放。\n\n特性 在语音聊天中播放声音\n适用于 Teamspeak、Mumble、Skype、Discord 等任何与语音有关的应用程序或者 Dota2、CS:GO 或 PUBG 等游戏。\n\n 热键\n为每个声音文件设置热键，以便在游戏中快速播放它们。\n\n 录音机和编辑器\nSoundpad 具有内置录音机，可让您录制听到的声音。集成编辑器可帮助您快速剪切声音。 \n\n 音量归一化\n在您的声音文件中，有一些很安静，而其他的太大声了？集成的音量归一化功能可平衡音量，以便符合您的语音音量要求。\n\n 轻松设置\nSoundpad 扩展了您的默认录音设备（最常见的设备是您的麦克风），无需安装其他设备。\n\n 支持的文件类型\naac, flac, m4a, mp3, ogg, opus, wav, wma\n\n观看演示并开始收集您的各种声音吧！",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "音频制作",
+    "实用工具"
+  ],
+  "tags": [
+    "音频制作",
+    "实用工具"
+  ],
+  "categories": [
+    "家庭共享"
+  ],
+  "developers": [
+    "Leppsoft"
+  ],
+  "publishers": [
+    "Leppsoft"
+  ],
+  "release_date": "2017 年 9 月 30 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语",
+    "德语",
+    "法语",
+    "韩语",
+    "葡萄牙语 - 巴西",
+    "俄语",
+    "简体中文",
+    "意大利语",
+    "西班牙语 - 西班牙",
+    "日语",
+    "波兰语",
+    "泰语",
+    "捷克语",
+    "丹麦语",
+    "荷兰语",
+    "芬兰语",
+    "挪威语",
+    "瑞典语",
+    "土耳其语",
+    "乌克兰语",
+    "保加利亚语",
+    "希腊语",
+    "匈牙利语",
+    "罗马尼亚语",
+    "越南语",
+    "阿拉伯语",
+    "印度尼西亚语"
+  ],
+  "is_free": false,
+  "price_cny": 22.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows 7 或更新版本\n处理器: Intel 或 AMD，1 GHz 或更高频率\n内存: 512 MB RAM\n存储空间: 需要 20 MB 可用空间\n声卡: 必须安装声卡\n附注事项: 至少一个录音设备，例如麦克风",
+  "pc_requirements_rec": "",
+  "fetched_at": "2026-08-19T08:25:02Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 103648,
+  "review_percentage": 96.0,
+  "review_score": 9
+}

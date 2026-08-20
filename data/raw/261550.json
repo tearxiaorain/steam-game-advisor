@@ -1,0 +1,71 @@
+{
+  "app_id": "261550",
+  "name": "Mount & Blade II: Bannerlord",
+  "name_cn": "",
+  "short_description": "一个策略/动作类角色扮演游戏。创建一个角色，投身中世纪战场，从事外交、锻造、贸易和征服新的土地。集结你的军团奔赴战场，在大规模实时战斗中体验深奥但又直观的基于技能的战斗系统，与你忠诚的战士们并肩作战、取得胜利。",
+  "detailed_description": "号角震天，群鸦蔽日。卡拉德帝国因内乱而陷入三分之境。新的王国正在悄然崛起。佩好长剑，缚紧盔甲，招兵买马，在卡拉迪亚大陆的战场上策马驰骋，赢取荣耀。荡尽旧世界的灰烬，创造属于你的新世界，建立雄踞一方的新霸权，成为卡拉迪亚的霸主吧！\n\n《骑马与砍杀2：霸主》是一款中世纪战斗模拟游戏，也是《骑马与砍杀：战团》备受万众期待的续作。\n\n根据你的游戏风格创建并培养你自己的角色，在广袤的卡拉迪亚大陆上劫掠、征服，每一轮游戏都是独一无二的。\n\n \n集结军团、参与政治、贸易、锻造武器、招募同伴和管理你的封地，在卡拉迪亚的贵族圈中闯出你的一片天地。\n\n沿用经典的《骑马与砍杀：战团》深奥但直观的四向格斗系统，在大型实时战斗中，通过第一人称或是第三人称的方式与你的士兵们并肩作战。\n\n在多种多样的多人游戏模式中与来自全世界的玩家切磋战斗与战术技巧吧。你既可以参加竞技性强的排位赛，又可以加入休闲游戏模式，再或是使用 Mount & Blade II: Dedicated Server 文件搭建属于自己的服务器。\n\n使用 Mount & Blade II: Bannerlord - Modding Kit 自定义游戏体验，创造属于你自己的全新冒险。通过 Steam Workshop 分享你的创意。\n\n本游戏由骑砍中文站倾情汉化，支持简体/繁体中文。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "独立",
+    "角色扮演",
+    "模拟",
+    "策略"
+  ],
+  "tags": [
+    "动作",
+    "独立",
+    "角色扮演",
+    "模拟",
+    "策略"
+  ],
+  "categories": [
+    "单人",
+    "多人",
+    "玩家对战",
+    "线上玩家对战",
+    "Steam 成就",
+    "Steam 集换式卡牌",
+    "Steam 创意工坊",
+    "部分支持控制器",
+    "Steam 云",
+    "包含关卡编辑器",
+    "在平板上远程畅玩",
+    "家庭共享"
+  ],
+  "developers": [
+    "TaleWorlds Entertainment"
+  ],
+  "publishers": [
+    "TaleWorlds Entertainment"
+  ],
+  "release_date": "2022 年 10 月 25 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语*",
+    "简体中文",
+    "土耳其语",
+    "繁体中文",
+    "法语",
+    "意大利语",
+    "日语",
+    "韩语",
+    "波兰语",
+    "葡萄牙语 - 巴西",
+    "俄语",
+    "西班牙语 - 拉丁美洲",
+    "德语\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 248.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统 *: Windows 7 (64-bit only)\n处理器: Intel® Core™ i3-8100 / AMD Ryzen™ 3 1200\n内存: 6 GB RAM\n显卡: Intel® UHD Graphics 630 / NVIDIA® GeForce® GTX 660 2GB / AMD Radeon™ HD 7850 2GB\n存储空间: 需要 60 GB 可用空间\n附注事项: 集成显卡额外需要 2 GB 系统内存。以上仅为估算配置，可能会在游戏正式推出时发生变化。",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10 (64-bit only)\n处理器: Intel® Core™ i5-9600K / AMD Ryzen™ 5 3600X\n内存: 8 GB RAM\n显卡: NVIDIA® GeForce® GTX 1060 3GB / AMD Radeon™ RX 580\n存储空间: 需要 60 GB 可用空间\n附注事项: 以上仅为估算配置，可能会在游戏正式推出时发生变化。",
+  "fetched_at": "2026-08-19T08:22:56Z",
+  "review_desc": "Very Positive",
+  "review_count": 295956,
+  "review_percentage": 87.7,
+  "review_score": 8
+}

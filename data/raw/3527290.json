@@ -1,0 +1,70 @@
+{
+  "app_id": "3527290",
+  "name": "PEAK",
+  "name_cn": "",
+  "short_description": "《PEAK》是一款需要细致合作的登山游戏，作为流落神秘岛屿的童子军探险家，无论单人独闯抑或团队协力，你们唯一获救的希望便是登上岛中那座巍峨的山峰，自然荒野险途漫漫，稍有不慎便会大难临头。顶峰在望，你有魄力能征服它吗？",
+  "detailed_description": "《PEAK》是一款需要细致合作的登山游戏，作为流落神秘岛屿的童子军探险家，无论单人独闯抑或团队协力，你们唯一获救的希望便是登上岛中那座巍峨的山峰，自然荒野险途漫漫，稍有不慎便会大难临头。顶峰在望，你有魄力能征服它吗？\n\n团队协作\n\n需要搭把手吗？和萍水相逢的朋友患难与共，无论是帮忙登上岩架，抑或是放置绳索岩钉为后来人开路，要想登上日日变换的高山，朋友们的援手是你唯一的依靠。\n\n攀登\n\n大山不讲慈悲！4 种独特的生态地貌横亘在你们前往顶峰的途中，各自有着各自的危险要命套路。寻找一切可疑的食物以求果腹，小心照料身上的伤口——任何不利因素都会限制体能，令你的攀登之途更加险阻。\n\n生存\n\n只做最坏打算：探索多种实用生存道具，能量饮料助你恢复体力，攀岩钢钉助你突破险境，更有神秘的反重绳索等你深挖妙用。唯有善用每一项优势，才能有望征服顶峰。\n\n每天岛屿不重样\n\n游戏地图每 24 小时轮换一次！每天都能体验新的场景布局，或者在一天内盯死同个岛屿重复挑战，直至挑战成功。\n\n赢取奖章\n\n争当老练童军：赢取酷炫外观，用各色奖章向大家证明你才是真正的生存专家！\n\n与友共攀乐趣多\n\n《PEAK》的多人模式仅限好友协力——邀请至多 3 名 Steam 好友一起共攀高峰吧，若是真的够胆，独闯山巅自然未尝不可！\n\n本作特色\n\n4 名好友共同攀登\n\n近距聊天保持交流 \n\n4 种生态等待探索\n\n各种可疑果腹食物\n\n多种独特登山道具\n\n围着营火烤棉花糖\n\n可自定义个性角色\n\n在线合作离线独闯\n\n死了还能变成鬼魂",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "冒险",
+    "独立"
+  ],
+  "tags": [
+    "动作",
+    "冒险",
+    "独立"
+  ],
+  "categories": [
+    "单人",
+    "多人",
+    "合作",
+    "在线合作",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "DUALSHOCK 控制器支持",
+    "DUALSHOCK 控制器支持",
+    "DualSense 控制器支持",
+    "DualSense 控制器支持",
+    "家庭共享"
+  ],
+  "developers": [
+    "Team PEAK"
+  ],
+  "publishers": [
+    "Aggro Crab",
+    "Evil Landfall?"
+  ],
+  "release_date": "2025 年 6 月 16 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语",
+    "法语",
+    "意大利语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "日语",
+    "韩语",
+    "葡萄牙语 - 巴西",
+    "俄语",
+    "简体中文",
+    "西班牙语 - 拉丁美洲",
+    "乌克兰语",
+    "波兰语",
+    "土耳其语",
+    "繁体中文"
+  ],
+  "is_free": false,
+  "price_cny": 33.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统: Win 10\n处理器: Intel Core i5 @ 2.5 GHz or equivalent\n内存: 8 GB RAM\n显卡: GTX 1060 or RX 6600 XT\nDirectX 版本: 12\n存储空间: 需要 4 GB 可用空间\n附注事项: Requires a 64-bit processor and operating system",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: Win 11\n处理器:  Intel Core i5 @ 3.0 GHz or AMD Ryzen 5 or equivalent\n内存: 16 GB RAM\n显卡: RTX 2060 or RX 7600xt or equivalent\nDirectX 版本: 12\n存储空间: 需要 6 GB 可用空间\n附注事项: Requires a 64-bit processor and operating system",
+  "fetched_at": "2026-08-19T08:20:01Z",
+  "review_desc": "Very Positive",
+  "review_count": 355144,
+  "review_percentage": 94.5,
+  "review_score": 8
+}

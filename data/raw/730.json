@@ -1,8 +1,11 @@
 {
   "app_id": "730",
   "name": "Counter-Strike 2",
+  "name_cn": "",
   "short_description": "二十多年来，在全球数百万玩家的共同铸就下，Counter-Strike 提供了精湛绝伦的竞技体验。而如今，CS 传奇的下一章即将揭开序幕，那就是 Counter-Strike 2。",
   "detailed_description": "二十多年来，在全球数百万玩家的共同铸就下，Counter-Strike 提供了精湛绝伦的竞技体验。而如今，CS 传奇的下一章即将揭开序幕，那就是 Counter-Strike 2。\n\nCounter-Strike 2 是 CS:GO 的免费升级版，展现了 Counter-Strike 历史上最大的技术飞跃。Counter-Strike 2 由 Source 2 引擎打造，具备基于物理的逼真渲染、最为先进的网络、经过升级的社区创意工坊工具，令人耳目一新。\n\nCounter Strike 系列于 1999 年开创了以完成目标为重的游戏玩法，而 Counter Strike 2 除了将这一经典元素保留，还会呈现以下特色：\n\n全新 CS 综合得分与经过更新的优先权模式\n全球及区域排行榜\n经过升级和大改的地图\n革命性的动态烟雾弹\n不受刷新频率阻碍的游戏体验\n全新设计的声画效果\nCS:GO 的所有物品均迁移至 CS2",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
   "genres": [
     "动作",
     "免费开玩"
@@ -78,9 +81,9 @@
   "price_cny": 0.0,
   "pc_requirements_min": "最低配置:\n操作系统: Windows® 10\n处理器: 4 硬件线程 CPU——英特尔® 酷睿™ i5 750 或以上\n内存: 8 GB RAM\n显卡: 显卡须为 1 GB 或以上，且应兼容 DirectX 11 并支持 Shader Model 5.0\nDirectX 版本: 11\n存储空间: 需要 85 GB 可用空间",
   "pc_requirements_rec": "",
-  "fetched_at": "2026-08-19T02:56:13Z",
+  "fetched_at": "2026-08-19T08:18:49Z",
   "review_desc": "Very Positive",
-  "review_count": 9800450,
+  "review_count": 9800701,
   "review_percentage": 85.9,
   "review_score": 8
 }

@@ -1,0 +1,24 @@
+{"id":"rec-01","question":"想找款像素风农场游戏，节奏慢点，能钓鱼挖矿种菜","expect_route":"recommend","expect_app_ids":["413150"],"tags":["farm","cozy","pixel"],"notes":"应命中星露谷物语"}
+{"id":"rec-02","question":"有没有那种2D沙盒游戏，可以挖矿、打怪、造房子，还能和朋友联机","expect_route":"recommend","expect_app_ids":["105600","1623730"],"tags":["sandbox","multiplayer","2d"],"notes":"命中泰拉瑞亚或帕鲁均可"}
+{"id":"rec-03","question":"想玩2D平台跳跃，有点难，但美术很好，探索虫子王国","expect_route":"recommend","expect_app_ids":["367520"],"tags":["metroidvania","platformer","difficult"],"notes":"应命中空洞骑士"}
+{"id":"rec-04","question":"最近想玩文字量大的侦探RPG，能和自己的不同人格对话，做选择影响剧情","expect_route":"recommend","expect_app_ids":["632470"],"tags":["crpg","detective","narrative"],"notes":"应命中极乐迪斯科"}
+{"id":"rec-05","question":"想玩个轻松搞笑的小游戏，扮演一只鹅到处捣乱","expect_route":"recommend","expect_app_ids":["837470"],"tags":["comedy","casual","goose"],"notes":"应命中无标题大鹅"}
+{"id":"rec-06","question":"想玩回合制CRPG，基于D&D规则，队友剧情很丰富，选择分支多","expect_route":"recommend","expect_app_ids":["1086940"],"tags":["crpg","dnd","story-rich"],"notes":"应命中博德之门3"}
+{"id":"rec-07","question":"想玩开放世界赛博朋克题材，第一人称，能改装义体","expect_route":"recommend","expect_app_ids":["1091500"],"tags":["cyberpunk","open-world","rpg"],"notes":"应命中赛博朋克2077"}
+{"id":"rec-08","question":"想玩高难度魂系开放世界，骑马探索，打各种boss","expect_route":"recommend","expect_app_ids":["1245620"],"tags":["soulslike","open-world","hard"],"notes":"应命中艾尔登法环"}
+{"id":"rec-09","question":"想和朋友联机生存，抓宠物帮忙干活，还能拿枪打怪","expect_route":"recommend","expect_app_ids":["1623730"],"tags":["survival","multiplayer","creature-collection"],"notes":"应命中幻兽帕鲁"}
+{"id":"rec-10","question":"想玩合作生存建造，地图有迷雾，要探索废墟和地下城","expect_route":"recommend","expect_app_ids":["1203620"],"tags":["survival","coop","base-building"],"notes":"应命中雾锁王国"}
+{"id":"det-01","question":"无标题大鹅在 Steam 上评价大概怎么样","expect_route":"detail","expect_app_ids":["837470"],"tags":["detail","review"],"notes":"应提到好评/好评率等档案信息"}
+{"id":"det-02","question":"空洞骑士是什么类型的游戏","expect_route":"detail","expect_app_ids":["367520"],"tags":["detail","genre"],"notes":"应提到动作/冒险/独立等"}
+{"id":"det-03","question":"博德之门3现在大概多少钱","expect_route":"detail","expect_app_ids":["1086940"],"tags":["detail","price"],"notes":"档案价约 298"}
+{"id":"det-04","question":"反恐精英2是免费的吗，App ID 是多少","expect_route":"detail","expect_app_ids":["730"],"tags":["detail","free","appid"],"notes":"免费且 App ID 730"}
+{"id":"det-05","question":"永劫无间支持简体中文吗","expect_route":"detail","expect_app_ids":["1203220"],"tags":["detail","language"],"notes":"档案含简体中文"}
+{"id":"rec-c01","question":"想找免费、能和朋友联机的竞技射击游戏","expect_route":"recommend","expect_app_ids":["730"],"tags":["free","multiplayer","shooter"],"notes":"约束：免费、联机、射击；应命中反恐精英2"}
+{"id":"rec-c02","question":"有没有免费、国风武侠大逃杀，动作对战那种","expect_route":"recommend","expect_app_ids":["1203220"],"tags":["free","battle-royale","melee"],"notes":"约束：免费、国风、大逃杀；应命中永劫无间"}
+{"id":"rec-c03","question":"想找支持中文、Roguelike 射击、能联机合作的游戏","expect_route":"recommend","expect_app_ids":["632360"],"tags":["coop","roguelike","shooter"],"notes":"约束：支持中文、Roguelike、联机；应命中雨中冒险2"}
+{"id":"rec-c04","question":"想玩一百元以内、像素风、挖矿打怪造房子的沙盒游戏","expect_route":"recommend","expect_app_ids":["105600"],"tags":["price","pixel","sandbox"],"notes":"约束：百元内、像素、沙盒；应命中泰拉瑞亚"}
+{"id":"rec-c05","question":"想找有中文、剧情像小说一样、选择影响走向的侦探RPG","expect_route":"recommend","expect_app_ids":["632470"],"tags":["chinese","narrative","detective"],"notes":"约束：支持中文、剧情驱动；应命中极乐迪斯科"}
+{"id":"trd-01","question":"这周 Steam 销量榜第一是哪个","expect_route":"trending","expect_app_ids":[],"expect_refuse_live":true,"tags":["boundary"],"notes":"应拒答或承认没有实时榜单"}
+{"id":"trd-02","question":"现在 Steam 上在线人数最多的游戏是什么","expect_route":"trending","expect_app_ids":[],"expect_refuse_live":true,"tags":["boundary"],"notes":"应拒答或承认没有实时在线数据"}
+{"id":"trd-03","question":"想玩《塞尔达传说：王国之泪》，你这里有吗","expect_route":"recommend","expect_app_ids":[],"must_not_invent":true,"forbidden_names":["塞尔达","王国之泪","Zelda"],"tags":["boundary","out-of-library"],"notes":"应说明知识库没有，勿当作可推荐库存游戏"}
+{"id":"trd-04","question":"有没有类似《怪物猎人：荒野》的共斗狩猎游戏","expect_route":"recommend","expect_app_ids":[],"must_not_invent":true,"forbidden_names":["怪物猎人","荒野"],"tags":["boundary","out-of-library"],"notes":"可承认没有近似款；勿编造库外游戏为档案内推荐"}

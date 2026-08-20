@@ -81,41 +81,137 @@ trending - 本周榜、现在最热、同时在线、刚打折的实时热度
         return "recommend"
 
     def query_rewrite(self, query: str) -> str:
+        """单次检索改写：扩通用玩法词，并做硬约束清洗。"""
         prompt = PromptTemplate(
-            template="""你是游戏检索查询改写器。把玩家原话改写成更利于「中文游戏档案检索」的查询。
+            template="""你是游戏检索查询改写器。把玩家原话改写成一行更利于中文游戏档案检索的查询。
 
-目标：提高召回，而不是改写玩家人设。
+规则（必须遵守）：
+1. 只输出一行；不要解释、不要引号、不要编号。
+2. 保留原意。
+3. **禁止添加**原句没有的约束词：免费/免费开玩、中文/简体/繁体、单人、合作、开黑、Mac/苹果、具体价格。
+4. **必须保留**原句已有的约束词（尤其是免费、中文、联机/合作、价格）；不要为了「更干净」而删掉它们。
+5. 可以把黑话扩成通用描述词（类型、玩法、氛围、难度、视角）。
+6. 禁止发明原句没有的游戏名或 App ID；原句已有的游戏名必须保留。
+7. 若原句已点名某游戏并询问评价/价格/类型/语言/App ID：保留游戏名，只补很少的检索词（评价/价格/类型/语言等），不要扩成推荐向长句。
 
-规则：
-1. 保留原意与约束（免费、中文、价格、联机、单机等一定留下）。
-2. 把圈内黑话/简称扩成商店简介里更常见的**通用描述词**（类型、玩法、氛围、视角、难度），不要只重复黑话。
-3. 禁止发明或点名具体游戏名、App ID（除非原句已经出现该名字，则保留）。
-4. 已是明确点名某游戏的详情问法：可轻微补「评价/类型/价格/语言」等检索词，不要扩成推荐向长句。
-5. 输出一行中文关键词/短句即可，空格或逗号分隔，不要解释、不要引号、不要编号。
-
-扩写参考（有则用，无则跳过）：
-- 魂系/类魂 → 高难度 动作角色扮演 Boss战 探索 惩罚死亡 硬核
-- 种田/治愈/养老 → 农场 种植 经营 模拟 放松 慢节奏 生活模拟
-- 虫子王国/类银河战士空洞感 → 2D 动作冒险 平台跳跃 探索 独立 地图互联
-- 侦探/人格对话/技能检定感 → 角色扮演 剧情 选择 文字 叙事 侦探 对话
-- Roguelike 射击 → Roguelike 射击 合作 随机 通关失败重来
-- 赛博/义体 → 赛博朋克 开放世界 第一人称 角色扮演 改造
-- 抓宠打工/帕鲁感 → 生存 建造 捕捉 宠物 联机 制作
-- 大鹅捣乱 → 鹅 恶作剧 休闲 独立 喜剧
+扩写参考（原句相关才用，且不要顺带加入免费/中文）：
+- 魂系 → 高难度 动作角色扮演 Boss战 探索 硬核 开放世界 骑马
+- 种田/治愈 → 农场 种植 经营 模拟 放松 慢节奏
+- 虫子王国 → 2D 动作冒险 平台跳跃 探索 独立 地图互联
+- 侦探/人格对话 → 角色扮演 剧情 选择 文字 叙事 侦探 对话
+- Roguelike 射击 → Roguelike 射击 合作 随机 失败重来
+- 竞技射击/枪战 → FPS 射击 枪战 多人 对战 竞技 反恐
+- 迷雾/废墟建造 → 生存 建造 合作 迷雾 废墟 探索 地下城
 - CRPG/D&D → 回合制 角色扮演 龙与地下城 队友 剧情分支
-- 共斗狩猎 → 合作 多人 动作 战斗 Boss 联机
 
 原始查询: {query}
 
 改写结果:""",
             input_variables=["query"],
         )
-        chain = {"query": RunnablePassthrough()} | prompt | self.llm | StrOutputParser()
-        response = chain.invoke(query).strip()
+        chain = prompt | self.llm | StrOutputParser()
+        response = chain.invoke({"query": query}).strip()
         response = response.strip("\"'`").splitlines()[0].strip()
+        response = self._sanitize_rewrite(query, response)
         if response != query:
             logger.info("查询已重写: '%s' → '%s'", query, response)
         return response or query
+
+    def expand_queries(self, query: str, n: int = 2) -> List[str]:
+        """一次 LLM 调用生成至多 n 条检索变体；返回 [原句, ...变体]，去重。"""
+        n = max(1, min(int(n), 3))
+        prompt = PromptTemplate(
+            template="""你是游戏检索的「多重查询」生成器。针对同一玩家问题，写出 {n} 条不同侧重点的中文检索查询。
+
+目标：提高召回（少漏检），不是改写玩家人设。
+
+规则：
+1. 每条一行；不要编号、不要引号、不要解释。
+2. 只保留原句里已经出现的约束（免费、中文、价格、联机、单机等）；**原句没有的约束词一律不要加**。
+3. 把黑话扩成商店简介里更常见的通用描述词；不同行侧重点要不同（例如：玩法机制 / 类型标签 / 氛围难度）。
+4. 禁止发明原句没有的游戏名或 App ID；原句已有的游戏名必须保留在至少一条里。
+5. 不要重复原句本身；不要为了「更好搜」而硬塞无关热门词。
+
+扩写参考（有则用，且不要额外加免费/中文）：
+- 魂系 → 高难度 动作角色扮演 Boss战 探索 硬核 开放世界 骑马
+- 种田/治愈 → 农场 种植 经营 模拟 放松 慢节奏
+- 虫子王国/类银河战士 → 2D 动作冒险 平台跳跃 探索 独立 地图互联
+- 侦探/人格对话 → 角色扮演 剧情 选择 文字 叙事 侦探 对话
+- Roguelike 射击 → Roguelike 射击 合作 随机 失败重来
+- 竞技射击/枪战 → FPS 射击 枪战 多人 对战 竞技
+- 迷雾/废墟建造 → 生存 建造 合作 迷雾 废墟 探索 地下城
+
+原始问题: {query}
+
+输出 {n} 行查询:""",
+            input_variables=["query", "n"],
+        )
+        chain = prompt | self.llm | StrOutputParser()
+        raw = chain.invoke({"query": query, "n": n}).strip()
+        variants: List[str] = []
+        for line in raw.splitlines():
+            line = line.strip().lstrip("0123456789.-、)） ").strip("\"'`")
+            line = self._sanitize_rewrite(query, line)
+            if not line or line == query:
+                continue
+            if line not in variants:
+                variants.append(line)
+            if len(variants) >= n:
+                break
+
+        result = [query]
+        for item in variants:
+            if item not in result:
+                result.append(item)
+        logger.info("多重查询变体: %s", result)
+        return result
+
+    @staticmethod
+    def _sanitize_rewrite(original: str, rewritten: str) -> str:
+        """去掉原句未出现的约束词，避免改写模型擅自加过滤条件。"""
+        if not rewritten:
+            return original
+        text = rewritten
+        guarded = [
+            ("免费", ("免费开玩", "免费")),
+            ("中文", ("简体中文", "繁体中文", "简体", "繁体", "中文")),
+            ("合作", ("在线合作", "同屏合作", "合作")),
+            ("开黑", ("开黑",)),
+            ("Mac", ("macOS", "Mac OS", "Mac")),
+            ("苹果", ("苹果",)),
+        ]
+        for trigger, tokens in guarded:
+            if trigger in original:
+                continue
+            for token in sorted(tokens, key=len, reverse=True):
+                text = text.replace(token, " ")
+
+        if "单人" not in original:
+            text = text.replace("单人", " ")
+        if "单机" not in original and "单人" not in original:
+            text = text.replace("单机", " ")
+
+        text = re.sub(r"[，,]+", " ", text)
+        text = re.sub(r"\s+", " ", text).strip(" ，,")
+
+        # 原句有的硬约束若被模型删掉，补回（过滤依赖原句，但 BM25/向量仍需要这些词）
+        keep: List[str] = []
+        if "免费" in original and "免费" not in text:
+            keep.append("免费")
+        if ("中文" in original or "简体" in original) and (
+            "中文" not in text and "简体" not in text
+        ):
+            keep.append("中文")
+        if ("联机" in original or "多人" in original) and (
+            "联机" not in text and "多人" not in text
+        ):
+            keep.append("联机")
+        if "合作" in original and "合作" not in text:
+            keep.append("合作")
+        if keep:
+            text = f"{text} {' '.join(keep)}".strip()
+
+        return text or original
 
     def generate_recommend_answer(self, query: str, context_docs: List[Document]) -> str:
         if not context_docs:

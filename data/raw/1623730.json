@@ -1,8 +1,11 @@
 {
   "app_id": "1623730",
-  "name": "Palworld / 幻兽帕鲁",
+  "name": "Palworld",
+  "name_cn": "Palworld / 幻兽帕鲁",
   "short_description": "在广阔的世界中收集神奇的生物“帕鲁”，派他们进行战斗、建造、做农活，工业生产等，这是一款支持多人游戏模式的全新开放世界生存制作游戏。",
   "detailed_description": "Q. 这是一款怎样的游戏呢？\n\nA. 在帕鲁的世界，你可以选择与神奇的生物「帕鲁」一同享受悠闲的生活，也可以投身于与偷猎者进行生死搏斗的冒险。\n\n帕鲁可以进行战斗、繁殖、协助你做农活，也可以为你在工厂工作。\n\n你也可以将它们进行售卖，或肢解后食用。\n\n生存\n\n食物短缺、恶劣的环境……非法的偷猎者。这个世界危机四伏。为了生存你只能不择手段。有时候，你甚至要用帕鲁来充饥……\n\n骑乘、探索\n\n你可以骑着帕鲁去陆地、海洋、天空，在各种不同的场所进行探索。\n\n建造\n\n想建造金字塔吗？这时候就让大量的帕鲁为你做建造的工作吧。帕鲁并不受劳动法规的约束，尽请放心。\n\n生活\n\n生火、发电、采掘……。收集各种不同类型的便利帕鲁，来享受舒适的生活吧。\n\n农业\n\n不同的帕鲁擅长播种、浇水、收割等各类不同的工作。和帕鲁一起，打造美好的农园吧。\n\n工业、自动化\n\n为了实现自动化，将手工作业交给帕鲁就尤为重要。建造工厂，并安排帕鲁在其中工作吧。只要有足够的食物，帕鲁就可以不断地工作，直到它们生命的尽头。\n\n地下城探索\n\n有帕鲁在，哪怕危险的区域也大可放心。在危机时刻，你可以让帕鲁做你的替身。它们会不惜一切，哪怕舍弃自己的生命也会保护你。\n\n繁殖、遗传\n\n繁殖后，帕鲁将会继承父母的特性。将稀有的帕鲁组合在一起，繁育出最强的帕鲁吧！\n\n偷猎、犯罪\n\n在禁猎区栖息着濒临灭绝的稀有帕鲁。悄悄潜入那里并捕获它们你就能够大赚一笔！只要不被发现，就不算是犯罪。\n\n多人游戏\n\n支持多人游戏模式。邀请你的朋友一起来冒险吧！当然，你们也可以进行对战以及交易。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
   "genres": [
     "动作",
     "冒险",
@@ -65,9 +68,9 @@
   "price_cny": 108.0,
   "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10 (64-Bit)\n处理器: Intel Core i5-9400F\n内存: 16 GB RAM\n显卡: GeForce GTX 1660\nDirectX 版本: 11\n网络: 宽带互联网连接\n存储空间: 需要 40 GB 可用空间\n附注事项: SSD Required - Performance may vary depending on the amount of active Pals.",
   "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 11 (64-Bit)\n处理器: Intel Core i5-12400 / AMD Ryzen 5 5600X\n内存: 32 GB RAM\n显卡: GeForce RTX 3060 Ti / Radeon RX 6700 XT\nDirectX 版本: 11\n网络: 宽带互联网连接\n存储空间: 需要 40 GB 可用空间\n附注事项: SSD Required - Performance may vary depending on the amount of active Pals.",
-  "fetched_at": "2026-08-19T02:56:53Z",
+  "fetched_at": "2026-08-19T08:19:29Z",
   "review_desc": "Very Positive",
-  "review_count": 477967,
+  "review_count": 478036,
   "review_percentage": 94.5,
   "review_score": 8
 }

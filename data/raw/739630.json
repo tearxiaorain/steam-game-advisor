@@ -1,0 +1,90 @@
+{
+  "app_id": "739630",
+  "name": "Phasmophobia",
+  "name_cn": "Phasmophobia 恐鬼症",
+  "short_description": "Phasmophobia is a 4 player online co-op psychological horror. Paranormal activity is on the rise and it’s up to you and your team to use all the ghost-hunting equipment at your disposal in order to gather as much evidence as you can.",
+  "detailed_description": "Join Our Discord\n\nRoadmap\n\nAbout the GamePhasmophobia is a 4-player, online co-op, psychological horror game. You and your team of paranormal investigators will enter haunted locations filled with paranormal activity and try to gather as much evidence as you can. Use your ghost-hunting equipment to gather paranormal evidence... Before you become part of the haunting yourself.\n\n \n\nImmersive Experience: Realistic graphics and sounds as well as a minimal user interface ensure a totally immersive experience that will keep you on your toes. \n\nUnique Ghosts: Identify over 20 different ghost types, each with unique traits, personalities, and abilities to make each investigation feel different from the last. \n\nEquipment: Use well-known ghost-hunting equipment such as EMF Readers, Spirit Boxes, Thermometers, and Night Vision Cameras to find clues and gather as much paranormal evidence as you can. Find Cursed Possessions that grant information or abilities in exchange for your sanity. \n\nFull Voice Recognition:  The Ghosts are listening! Use your actual voice to interact with the Ghosts through Ouija Boards and EVP Sessions using a Spirit Box.\n\nLocations: Choose from over 10 different haunted locations, each with unique twists, hiding spots, and layouts.\n\nGame Modes: With 5 default difficulties and hand crafted weekly challenges, there are plenty of ways to test your skills.\n\nTeamwork: Dive in head first, get your hands dirty searching for evidence while fighting for your life. If you're not feeling up to the task, play it safe and support your team from the truck by monitoring the investigation with CCTV and motion sensors.\n\nCustom Difficulty: Create your own games to tailor the difficulty to your or your group's needs, with proportional rewards and come up with crazy game modes of your own!\n\n \n\nCo-operate: Play alongside your friends with up to 4 players in this co-op horror where teamwork is key to your success.\n\nPlay together: Phasmophobia supports all players together, play with your friends with any combination of input types.",
+  "description_lang_short": "en",
+  "description_lang_detail": "en",
+  "genres": [
+    "动作",
+    "独立",
+    "抢先体验"
+  ],
+  "tags": [
+    "动作",
+    "独立",
+    "抢先体验"
+  ],
+  "categories": [
+    "单人",
+    "多人",
+    "合作",
+    "在线合作",
+    "Steam 成就",
+    "完全支持控制器",
+    "定位控制器支持",
+    "已支持 VR",
+    "Steam 集换式卡牌",
+    "视角舒适度",
+    "可调整难度",
+    "无需应对快速反应事件",
+    "DUALSHOCK 控制器支持",
+    "DUALSHOCK 控制器支持",
+    "DualSense 控制器支持",
+    "DualSense 控制器支持",
+    "立体声",
+    "环绕声",
+    "Steam 云",
+    "在手机上远程畅玩",
+    "在平板上远程畅玩",
+    "家庭共享"
+  ],
+  "developers": [
+    "Kinetic Games"
+  ],
+  "publishers": [
+    "Kinetic Games"
+  ],
+  "release_date": "2020 年 9 月 18 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语*",
+    "葡萄牙语 - 葡萄牙",
+    "西班牙语 - 西班牙",
+    "葡萄牙语 - 巴西",
+    "德语",
+    "法语",
+    "意大利语",
+    "保加利亚语",
+    "捷克语",
+    "丹麦语",
+    "荷兰语",
+    "芬兰语",
+    "希腊语",
+    "匈牙利语",
+    "日语",
+    "韩语",
+    "挪威语",
+    "波兰语",
+    "罗马尼亚语",
+    "俄语",
+    "简体中文",
+    "瑞典语",
+    "繁体中文",
+    "土耳其语",
+    "乌克兰语",
+    "加泰罗尼亚语\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 68.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10 64Bit\n处理器: Intel Core i5-4590 / AMD Ryzen 5 2600\n内存: 8 GB RAM\n显卡: NVIDIA GTX 970 / AMD Radeon R9 390\nDirectX 版本: 11\n存储空间: 需要 21 GB 可用空间\n支持 VR: OpenXR\n附注事项: Minimum Specs are for VR, lower specs may work for Non-VR.",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10 64Bit\n处理器: Intel Core i5-10600 / AMD Ryzen 5 3600\n内存: 8 GB RAM\n显卡: NVIDIA RTX 2060 / AMD Radeon RX 5700\nDirectX 版本: 11\n网络: 宽带互联网连接\n存储空间: 需要 21 GB 可用空间",
+  "fetched_at": "2026-08-19T08:24:24Z",
+  "review_desc": "Very Positive",
+  "review_count": 837244,
+  "review_percentage": 94.4,
+  "review_score": 8
+}

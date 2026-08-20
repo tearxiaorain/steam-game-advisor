@@ -1,0 +1,83 @@
+{
+  "app_id": "3419430",
+  "name": "Bongo Cat",
+  "name_cn": "",
+  "short_description": "邦戈猫需要你的帮助。邦戈猫需要更多的帽子！！！每次你按键时，邦戈猫都会敲击任务栏。打字、点击鼠标、玩游戏、工作都可以收集积分。快来看看能收集到什么样的帽子吧！",
+  "detailed_description": "邦戈猫需要你的帮助。邦戈猫需要更多的帽子！！！每次你按键时，邦戈猫都会敲击任务栏。打字、点击鼠标、玩游戏、工作都可以收集积分。快来看看能收集到什么样的帽子吧！\n\n物品掉落概率*:普通 - 90%\n\n罕见 - 9.5%\n\n稀有 - 0.49%\n\n史诗 - 0.01%\n\n传说 - 五十万分之一\n\n*之后版本有可能变化\n\n特点:你自己的邦戈猫\n\n超多自定义选项\n\n陪伴你工作学习的小伙伴\n\nBased on the artwork and meme of @StrayRogue",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "休闲",
+    "独立",
+    "大型多人在线",
+    "模拟",
+    "免费开玩"
+  ],
+  "tags": [
+    "休闲",
+    "独立",
+    "大型多人在线",
+    "模拟",
+    "免费开玩"
+  ],
+  "categories": [
+    "单人",
+    "多人",
+    "合作",
+    "在线合作",
+    "Steam 成就",
+    "DUALSHOCK 控制器支持",
+    "DUALSHOCK 控制器支持",
+    "DualSense 控制器支持",
+    "DualSense 控制器支持",
+    "部分支持控制器",
+    "统计数据",
+    "家庭共享"
+  ],
+  "developers": [
+    "Irox Games"
+  ],
+  "publishers": [
+    "Irox Games"
+  ],
+  "release_date": "2025 年 3 月 5 日",
+  "platforms": [
+    "Windows",
+    "Mac"
+  ],
+  "supported_languages": [
+    "英语",
+    "德语",
+    "荷兰语",
+    "日语",
+    "韩语",
+    "波兰语",
+    "葡萄牙语 - 巴西",
+    "葡萄牙语 - 葡萄牙",
+    "俄语",
+    "简体中文",
+    "繁体中文",
+    "乌克兰语",
+    "法语",
+    "意大利语",
+    "西班牙语 - 西班牙",
+    "阿拉伯语",
+    "捷克语",
+    "丹麦语",
+    "芬兰语",
+    "挪威语",
+    "罗马尼亚语",
+    "西班牙语 - 拉丁美洲",
+    "瑞典语",
+    "土耳其语"
+  ],
+  "is_free": true,
+  "price_cny": 0.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10 / 11\n处理器: Intel i5 5200 or AMD Ryzen 5 5600X\n内存: 1 GB RAM\n显卡: Any\n网络: 宽带互联网连接\n存储空间: 需要 100 MB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10 / 11\n处理器: Intel i5 10500 or AMD Ryzen 7\n内存: 2 GB RAM\n显卡: Any\n网络: 宽带互联网连接\n存储空间: 需要 100 MB 可用空间",
+  "fetched_at": "2026-08-19T08:22:43Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 108652,
+  "review_percentage": 96.6,
+  "review_score": 9
+}

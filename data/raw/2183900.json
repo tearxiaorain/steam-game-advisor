@@ -1,0 +1,82 @@
+{
+  "app_id": "2183900",
+  "name": "Warhammer 40,000: Space Marine 2",
+  "name_cn": "Warhammer 40,000: 星际战士2",
+  "short_description": "体验星际战士的超人技能和残暴手段。利用致命能力和毁灭性武器消灭无穷无尽的泰伦虫群。选择单人或多人模式，在恢弘的第三人称战斗中保卫帝国。",
+  "detailed_description": "EDITIONS BREAKDOWN\n\n关于游戏\n\n体验星际战士的超人技能和残暴手段。利用致命技能和毁灭性武器消灭无穷无尽的泰伦虫群。选择单人或多人模式，在恢弘的第三人称战斗中保卫帝国。  \n\n在这款2011年《Space Marine》的续作中，扮演回归极限战士队列的副官德米特里安·泰图斯，对战人类的敌人，再次证明你的忠诚。在遥远星球上展开史诗级战斗，镇压银河系的恐怖乱象，并揭露黑暗秘密，击退永夜威胁。 \n\n \n\n投入星系级战争中！享受激烈而血腥的快节奏第三人称动作玩法，对战屏幕上成百上千的敌人，并清除无穷无尽的泰伦虫群——Saber的专有Swarm引擎让一切成为可能。  \n\n化身为自己的星际战士，畅享残酷不止的可重玩PvE和PvP模式，不断解锁新的技能和装扮！七种独特职业可供选择，每种职业最多可解锁25项特长，将特长添加到你的每种武器上，还有海量装甲和武器装扮用来自定义外观！  \n\n在艰难的3人围攻模式下杀穿一波又一波的泰伦虫族和混沌大军，击退无穷无尽的敌袭，尽量存活更长时间。每打败一波敌人均可积累点数，用于购买弹药、装备充能、医疗激励剂等等……或者用于召唤增援，例如卡迪亚士兵、星际战士，甚至是强大的无畏机甲。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "冒险",
+    "角色扮演"
+  ],
+  "tags": [
+    "动作",
+    "冒险",
+    "角色扮演"
+  ],
+  "categories": [
+    "单人",
+    "多人",
+    "玩家对战",
+    "线上玩家对战",
+    "合作",
+    "在线合作",
+    "跨平台多人",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "可调整文字大小",
+    "视角舒适度",
+    "可选颜色",
+    "自定义音量控制",
+    "可调整难度",
+    "DUALSHOCK 控制器支持",
+    "DualSense 控制器支持",
+    "DualSense 控制器支持",
+    "立体声",
+    "字幕选项",
+    "环绕声",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "Saber Interactive"
+  ],
+  "publishers": [
+    "Focus Entertainment"
+  ],
+  "release_date": "2024 年 9 月 9 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语*",
+    "意大利语",
+    "德语*",
+    "西班牙语 - 西班牙*",
+    "俄语*",
+    "捷克语",
+    "日语*",
+    "韩语",
+    "波兰语",
+    "葡萄牙语 - 巴西",
+    "简体中文*",
+    "西班牙语 - 拉丁美洲",
+    "繁体中文",
+    "土耳其语",
+    "乌克兰语",
+    "泰语\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 249.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10 (1903 min)/11 64-bit\n处理器: AMD Ryzen 5 2600X / Intel Core i5-8600K\n内存: 8 GB RAM\n显卡: 6 GB VRAM, AMD Radeon RX 580 / Nvidia GeForce GTX 1060\nDirectX 版本: 12\n存储空间: 需要 75 GB 可用空间\n附注事项: SSD required. 30 FPS in 1920x1080 with \"Low\" preset.",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10 (1903 min)/11 64-bit\n处理器: AMD Ryzen 7 5800X / Intel Core i7-12700\n内存: 16 GB RAM\n显卡: 8 GB VRAM, AMD Radeon RX 6800 XT / Nvidia GeForce RTX 3070\nDirectX 版本: 12\n存储空间: 需要 75 GB 可用空间\n附注事项: SSD required. 60 FPS in 1920x1080 with the \"Ultra\" preset.",
+  "fetched_at": "2026-08-19T08:24:41Z",
+  "review_desc": "Very Positive",
+  "review_count": 222415,
+  "review_percentage": 83.9,
+  "review_score": 8
+}

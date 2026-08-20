@@ -1,0 +1,71 @@
+{
+  "app_id": "1478500",
+  "name": "Big Walk",
+  "name_cn": "",
+  "short_description": "与好友相伴，在这个广阔世界中闲逛、迷路。《Untitled Goose Game》主创团队带来的在线合作“边走边聊”游戏。",
+  "detailed_description": "《Big Walk》是一款围绕团队协作与沟通的合作多人冒险游戏。\n\n与好友一同出发，穿越一个充满挑战、难题与发现的广阔世界。你们需要齐心协力辨别方向，利用各种工具和玩具保持联络；当你突然变得“有口难言”时，还得想出新的沟通花招。\n\n除了冒险，还有大把时间可以用来闲逛。坐下来看看日落，或者抢走朋友的望远镜，一脚踢进海里。与朋友共度时光，是这场漫步最棒的部分。\n\n特色：开麦！\n\n游戏的空间语音系统让声音随距离渐渐消散，在走廊里回响，穿墙后变得沉闷，还会透过对讲机嘶嘶传来\n\n溜达！\n\n以你们自己的节奏，在开放世界里到处转转\n\n比划！！\n\n说不了话的时候，靠挥手、点头和各种动作来沟通（或者干脆乱挥一气）\n\n工具与玩具\n\n对讲机、激光笔、望远镜、扩音器、信号弹、白板（？）、牛铃（？？）、一个巨大的金色头颅（？？？）……还不止这些呢\n\n灵活的玩家人数\n\n《Big Walk》最少 2 人便可游玩（专注的合作体验），最多则可 12 人协作（完全混乱）\n\n跨平台游戏\n\n与其他平台的好友在线同玩\n\n有始有终\n\n与其他平台的好友在线同玩",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "冒险"
+  ],
+  "tags": [
+    "冒险"
+  ],
+  "categories": [
+    "多人",
+    "合作",
+    "在线合作",
+    "跨平台多人",
+    "Steam 成就",
+    "完全支持控制器",
+    "视角舒适度",
+    "可选颜色",
+    "可调整难度",
+    "无需应对快速反应事件",
+    "DUALSHOCK 控制器支持",
+    "DUALSHOCK 控制器支持",
+    "DualSense 控制器支持",
+    "DualSense 控制器支持",
+    "随时保存",
+    "立体声",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "House House"
+  ],
+  "publishers": [
+    "Panic"
+  ],
+  "release_date": "2026 年 8 月 4 日",
+  "platforms": [
+    "Windows",
+    "Mac"
+  ],
+  "supported_languages": [
+    "英语",
+    "法语",
+    "意大利语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "日语",
+    "韩语",
+    "波兰语",
+    "葡萄牙语 - 巴西",
+    "俄语",
+    "简体中文",
+    "西班牙语 - 拉丁美洲",
+    "繁体中文",
+    "土耳其语"
+  ],
+  "is_free": false,
+  "price_cny": 78.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10\n处理器: Intel Core i7-7700K or AMD Ryzen 5 1600X\n内存: 12 GB RAM\n显卡: NVIDIA GeForce GTX 750 TI, 2GB or AMD Radeon R7 370, 2 GB or Intel Arc A380, 6 GB",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 11\n处理器: Intel Core i5-10600K or Ryzen 7 3700X\n内存: 16 GB RAM\n显卡: NVIDIA GeForce GTX 1070, 8 GB or Radeon RX 5600 XT, 8 GB or Intel Arc A750, 8GB",
+  "fetched_at": "2026-08-19T08:23:02Z",
+  "review_desc": "Very Positive",
+  "review_count": 20266,
+  "review_percentage": 94.2,
+  "review_score": 8
+}

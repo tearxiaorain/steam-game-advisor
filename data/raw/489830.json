@@ -1,0 +1,58 @@
+{
+  "app_id": "489830",
+  "name": "The Elder Scrolls V: Skyrim Special Edition",
+  "name_cn": "",
+  "short_description": "荣获超过200项年度游戏大奖的《The Elder Scrolls V: Skyrim》推出特别版，以令人惊叹的细致画面带来史诗奇幻巨作。特别版内含大获好评的主游戏、附加内容，还有全新功能。",
+  "detailed_description": "《The Elder Scrolls V: Skyrim》Anniversary Edition\nAnniversary Edition包含了十年的内容：广受好评的核心游戏和《Skyrim》特别版的附加内容，以及2021年11月11日或之前发布的Creation Club内容，包括任务、地牢、头目、武器、法术，以及更多丰富内容。\n\n关于游戏荣获超过200项年度游戏大奖的《The Elder Scrolls V: Skyrim》推出特别版，以令人惊叹的细致画面带来史诗奇幻巨作。特别版内含大获好评的主游戏、附加内容，还有重制的艺术和特效、体积光效、动态景深、屏幕空间反射等全新功能。\n\n现在PC和主机也能使用Bethesda Game Studios创作的强大功能了。新推出的任务、环境、角色、对话、装备、武器和更多内容，再搭配创作，为你带来无限游戏体验。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "角色扮演"
+  ],
+  "tags": [
+    "角色扮演"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "无需应对快速反应事件",
+    "随时保存",
+    "立体声",
+    "环绕声",
+    "部分支持控制器",
+    "Steam 云",
+    "在手机上远程畅玩",
+    "在平板上远程畅玩",
+    "家庭共享"
+  ],
+  "developers": [
+    "Bethesda Game Studios"
+  ],
+  "publishers": [
+    "Bethesda Softworks"
+  ],
+  "release_date": "2016 年 10 月 27 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语*",
+    "意大利语*",
+    "德语*",
+    "西班牙语 - 西班牙*",
+    "波兰语*",
+    "繁体中文",
+    "俄语*",
+    "日语*\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 165.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows 7/8.1/10 (64-bit Version)\n处理器: Intel i5-750/AMD Phenom II X4-945\n内存: 8 GB RAM\n显卡: NVIDIA GTX 470 1GB /AMD HD 7870 2GB\n存储空间: 需要 12 GB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n操作系统 *: Windows 7/8.1/10 (64-bit Version)\n处理器: Intel i5-2400/AMD FX-8320\n内存: 8 GB RAM\n显卡: NVIDIA GTX 780 3GB /AMD R9 290 4GB\n存储空间: 需要 12 GB 可用空间",
+  "fetched_at": "2026-08-19T08:22:14Z",
+  "review_desc": "Very Positive",
+  "review_count": 374047,
+  "review_percentage": 92.5,
+  "review_score": 8
+}

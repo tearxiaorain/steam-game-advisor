@@ -1,8 +1,11 @@
 {
   "app_id": "837470",
   "name": "Untitled Goose Game",
+  "name_cn": "",
   "short_description": "今天村里天气真不错，而你是一只可怕的鹅。",
   "detailed_description": "Untitled Goose Game 是一款偷袭式闹剧风格的开放式游戏，你在游戏里是一只鹅，让原本清静的村庄心神不宁。在小镇上四处游荡，从后院到街头店铺，再到村里的绿地，搞恶作剧、偷帽子、嘎嘎叫，毁掉所有人一天的生活。特点：\n 可怕的鹅（就是你）\n  一个充满居民的小镇，他们只想平静地生活（你却讨厌他们）\n 专用鹅叫按钮（！！！)另外哎呀！两只可怕的鹅！\n\n现在，你可以在新的双玩家合作模式下，与朋友一起玩 Untitled Goose Game。作为两只可怕的鹅，玩过整个游戏，两只一起叫，一起搞恶作剧，一起毁掉所有人一天的生活。\n\n 向 Untitled Goose Game 所有用户提供的免费更新\n 两个玩家一起玩整个游戏\n 新鹅，新叫声，仍旧很可怕",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
   "genres": [
     "动作",
     "独立"
@@ -59,9 +62,9 @@
   "price_cny": 70.0,
   "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统 *: Windows 7 SP1 64-Bit\nDirectX 版本: 10\n存储空间: 需要 830 MB 可用空间",
   "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统",
-  "fetched_at": "2026-08-19T02:59:00Z",
+  "fetched_at": "2026-08-19T08:19:24Z",
   "review_desc": "Overwhelmingly Positive",
-  "review_count": 25030,
+  "review_count": 25033,
   "review_percentage": 95.9,
   "review_score": 9
 }

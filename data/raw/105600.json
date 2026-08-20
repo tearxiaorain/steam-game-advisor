@@ -1,8 +1,11 @@
 {
   "app_id": "105600",
   "name": "Terraria",
+  "name_cn": "",
   "short_description": "挖掘，战斗，探索，建造！在这个动感十足的冒险游戏里没有什么是不可能的。四人包依然可用！",
   "detailed_description": "挖掘，战斗，探索，建造！在这个动感十足的冒险游戏里没有什么是不可能的。世界是你的画布，地面是你的油漆。 \n拿起你的工具出发！制造武器和各种各样的敌人作战。前往地下寻找配件，金钱，以及其他有用的东西。收集资源创造你的世界所需要的一切。建造一栋房子，一个堡垒，甚至是一座城堡。人们会搬到那里居住，而或许他们还会卖给你不同的商品来协助你完成旅程。\n但要注意，那有很多挑战在等着你……你能完成任务吗？\n主要特点：\n沙盒游戏\n 随机生成的世界\n免费的内容更新",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
   "genres": [
     "动作",
     "冒险",
@@ -58,9 +61,9 @@
   "price_cny": 42.0,
   "pc_requirements_min": "操作系统：Windows Xp，Vista，7 \n处理器：1.6 Ghz \n内存：512 MB\n硬盘所需空间：200 MB  \n显卡：128 MB 显存，能够运行 Shader Model 1.1 \nDirectX®：9.0c 或更高",
   "pc_requirements_rec": "RECOMMENDEDOS: Windows 7, 8/8.1, 10 \n\t\t\t\t\t\t\t\t\t\tProcessor: Dual Core 3.0 Ghz \n\t\t\t\t\t\t\t\t\t\tMemory: 4GB\n\t\t\t\t\t\t\t\t\t\tHard Disk Space: 200MB  \t\n\t\t\t\t\t\t\t\t\t\tVideo Card: 256mb Video Memory, capable of Shader Model 2.0+ \n\t\t\t\t\t\t\t\t\t\tDirectX®: 9.0c or Greater",
-  "fetched_at": "2026-08-19T02:56:18Z",
+  "fetched_at": "2026-08-19T08:18:53Z",
   "review_desc": "Overwhelmingly Positive",
-  "review_count": 1545912,
+  "review_count": 1545940,
   "review_percentage": 97.4,
   "review_score": 9
 }

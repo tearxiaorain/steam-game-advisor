@@ -120,6 +120,31 @@ def main() -> None:
     )
     parser.add_argument("--limit", type=int, default=0, help="只跑前 N 题，0 表示全部")
     parser.add_argument("--label", type=str, default="", help="本轮备注，如 grounding-v1")
+    parser.add_argument(
+        "--multi-query",
+        action="store_true",
+        help="启用多重查询（expand_queries + 多路 RRF），覆盖 config 默认",
+    )
+    parser.add_argument(
+        "--mmr",
+        action="store_true",
+        help="启用 MMR 游戏级重排（RRF 候选池内多样化），覆盖 config 默认",
+    )
+    parser.add_argument(
+        "--detail-name-boost",
+        action="store_true",
+        help="详情题启用游戏名/别名精确匹配加分",
+    )
+    parser.add_argument(
+        "--no-genre-filter",
+        action="store_true",
+        help="关闭非游戏 genre 过滤（默认开启）",
+    )
+    parser.add_argument(
+        "--rebuild-index",
+        action="store_true",
+        help="强制重建向量索引",
+    )
     args = parser.parse_args()
 
     if not os.getenv("DEEPSEEK_API_KEY"):
@@ -130,8 +155,16 @@ def main() -> None:
         cases = cases[: args.limit]
 
     advisor = SteamGameAdvisor()
+    if args.multi_query:
+        advisor.config.use_multi_query = True
+    if args.mmr:
+        advisor.config.use_mmr = True
+    if args.detail_name_boost:
+        advisor.config.detail_name_boost = True
+    if args.no_genre_filter:
+        advisor.config.exclude_non_game_genres = False
     advisor.initialize_system()
-    advisor.build_knowledge_base()
+    advisor.build_knowledge_base(force_rebuild=args.rebuild_index)
 
     corpus_ids = {
         str(doc.metadata.get("app_id"))
@@ -152,8 +185,16 @@ def main() -> None:
 
         route = advisor.generation_module.query_router(question)
         rewritten = question
+        query_variants = [question]
         if route in {"recommend", "detail"}:
-            rewritten = advisor.generation_module.query_rewrite(question)
+            if advisor.config.use_multi_query:
+                query_variants = advisor.generation_module.expand_queries(
+                    question, n=advisor.config.multi_query_count
+                )
+                rewritten = " | ".join(query_variants)
+            else:
+                rewritten = advisor.generation_module.query_rewrite(question)
+                query_variants = [rewritten]
 
         filters = advisor._extract_filters_from_query(question)
         if route == "trending":
@@ -161,14 +202,9 @@ def main() -> None:
             hits = []
             hit_ids = []
         else:
-            if filters:
-                chunks = advisor.retrieval_module.metadata_filtered_search(
-                    rewritten, filters, top_k=advisor.config.top_k
-                )
-            else:
-                chunks = advisor.retrieval_module.hybrid_search(
-                    rewritten, top_k=advisor.config.top_k
-                )
+            chunks = advisor._retrieve_chunks(
+                route, question, rewritten, query_variants, filters
+            )
             if route == "library":
                 docs = advisor._apply_library_constraint(question, chunks)
             else:

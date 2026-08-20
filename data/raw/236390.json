@@ -1,0 +1,89 @@
+{
+  "app_id": "236390",
+  "name": "War Thunder",
+  "name_cn": "",
+  "short_description": "War Thunder上最全面的免费、跨平台大型多人在线军事类游戏，专注于二战和冷战时期的航空、装甲车辆和海军舰艇。现在就加入进来参与在地面、天空和海洋进行的主要战事，并和来自全球各地的几百万玩家们在不断变化的环境中战斗。",
+  "detailed_description": "War Thunder是Windows、Linux、Mac、PlayStation®4、PlayStation®5、Xbox One及Xbox Series S|X平台上最全面的免费、跨平台大型和Xbox One平台上最全面的免费、跨平台大型多人在线军事类游戏，专注于二战和冷战时期的航空、装甲车辆和海军舰艇。现在就加入进来参与在地面、天空和海洋进行的主要战事，并和来自全球各地的几百万玩家们在不断变化的环境中战斗。\n\n在War Thunder中，飞机、武装直升机、地面部队和海军舰艇将会在历史性的战场上协同作战，有超过3000种载具可供选择，其中有不少是独家载具，您可以操纵轰炸机的自卫炮塔内击毁追击您的敌机，驾驶高射炮保护您的队友免遭空袭，使用多种火箭发射器击落敌机，或用驾驶快艇用鱼雷击沉敌人的战舰。\n\n游戏特色：\n\n超过3000款细节丰富的飞机、直升机、坦克、军舰和其他载具，均通过历史文献和幸存资料来源精心制作。\n\n100多张表现历史上发生的主要战事的地图。\n\n玩家之间的高强度对抗，在全面的战斗任务中可以设置不同难度以体现多种多样的游戏风格和水平。\n\n丰富的人机对抗内容，其中包括动态的历史战役和个人任务。\n\n定期更新内容，包括新载具、地图、任务和国家。\n\n惊人的画质，真实的音效和优美的背景音乐创造了一个能够让您沉浸其中的世界。\n\n无缝衔接的跨平台游戏体验，Windows，Linux，Max，PlayStation®4, PlayStation®5, Xbox One 和 Xbox Series X|S，所有玩家都能在一个服务器上畅玩。\n\n为War Thunder定制优异的内容并在 War Thunder Live上面分享，并有机会获得现金作为奖励！",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "大型多人在线",
+    "模拟",
+    "免费开玩"
+  ],
+  "tags": [
+    "动作",
+    "大型多人在线",
+    "模拟",
+    "免费开玩"
+  ],
+  "categories": [
+    "单人",
+    "多人",
+    "大型多人在线",
+    "玩家对战",
+    "线上玩家对战",
+    "合作",
+    "在线合作",
+    "跨平台多人",
+    "Steam 成就",
+    "完全支持控制器",
+    "已支持 VR",
+    "Steam 集换式卡牌",
+    "应用内购买",
+    "可调整文字大小",
+    "视角舒适度",
+    "可选颜色",
+    "自定义音量控制",
+    "无需应对快速反应事件",
+    "DUALSHOCK 控制器支持",
+    "DualSense 控制器支持",
+    "Steam 输入 API 支持",
+    "立体声",
+    "环绕声",
+    "在手机上远程畅玩",
+    "在平板上远程畅玩"
+  ],
+  "developers": [
+    "Gaijin Entertainment"
+  ],
+  "publishers": [
+    "Gaijin Network Ltd"
+  ],
+  "release_date": "2013 年 8 月 15 日",
+  "platforms": [
+    "Windows",
+    "Mac",
+    "Linux"
+  ],
+  "supported_languages": [
+    "英语*",
+    "德语*",
+    "法语*",
+    "意大利语*",
+    "西班牙语 - 西班牙*",
+    "简体中文",
+    "俄语*",
+    "日语*",
+    "波兰语*",
+    "捷克语*",
+    "土耳其语*",
+    "葡萄牙语 - 葡萄牙",
+    "韩语",
+    "葡萄牙语 - 巴西",
+    "匈牙利语",
+    "乌克兰语",
+    "繁体中文",
+    "罗马尼亚语\n*具有完全音频支持的语言"
+  ],
+  "is_free": true,
+  "price_cny": 0.0,
+  "pc_requirements_min": "最低配置:\n操作系统: Windows 10 (64bit)\n处理器: Dual-Core 2.2 GHz\n内存: 4 GB RAM\n显卡: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.\nDirectX 版本: 11\n网络: 宽带互联网连接\n存储空间: 需要 70 GB 可用空间\n支持 VR: SteamVR. Keyboard or gamepad required",
+  "pc_requirements_rec": "推荐配置:\n操作系统: Windows 10/11 (64bit)\n处理器: Intel Core i5 or Ryzen 5 3600 or better\n内存: 16 GB RAM\n显卡: DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher\nDirectX 版本: 12\n网络: 宽带互联网连接\n存储空间: 需要 95 GB 可用空间",
+  "fetched_at": "2026-08-19T08:20:39Z",
+  "review_desc": "Mostly Positive",
+  "review_count": 776203,
+  "review_percentage": 71.2,
+  "review_score": 6
+}

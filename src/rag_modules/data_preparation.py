@@ -7,10 +7,16 @@ import logging
 import re
 import uuid
 from pathlib import Path
-from typing import Any, Dict, List
+from typing import Any, Dict, List, Sequence
 
 from langchain_core.documents import Document
 from langchain_text_splitters import MarkdownHeaderTextSplitter
+
+from config import (
+    CORE_GAME_GENRES,
+    DETAIL_NAME_ALIASES,
+    NON_GAME_EXCLUDE_GENRES,
+)
 
 logger = logging.getLogger(__name__)
 
@@ -57,6 +63,100 @@ class DataPreparationModule:
         self.documents = documents
         logger.info("成功加载 %s 个文档", len(documents))
         return documents
+
+    @staticmethod
+    def is_indexable_game(metadata: Dict[str, Any]) -> bool:
+        genres = {str(g) for g in (metadata.get("genres") or [])}
+        if not genres:
+            return True
+        if genres & set(NON_GAME_EXCLUDE_GENRES) and not (genres & set(CORE_GAME_GENRES)):
+            return False
+        return True
+
+    def apply_game_only_filter(self) -> List[Document]:
+        kept, dropped = [], []
+        for doc in self.documents:
+            if self.is_indexable_game(doc.metadata):
+                kept.append(doc)
+            else:
+                dropped.append(doc)
+        if dropped:
+            names = ", ".join(
+                f"{d.metadata.get('name_cn') or d.metadata.get('name')}({d.metadata.get('app_id')})"
+                for d in dropped
+            )
+            logger.info("非游戏 genre 过滤: 排除 %s 款 → %s", len(dropped), names)
+        self.documents = kept
+        return kept
+
+    @staticmethod
+    def _normalize_match_text(text: str) -> str:
+        text = (text or "").lower().strip()
+        text = re.sub(r"[《》「」\"'（）()\[\]·:：,，.!！?？\s]+", "", text)
+        return text
+
+    def match_documents_for_detail(self, *texts: str) -> List[Document]:
+        """详情题：从 query/改写中匹配游戏名或别名，返回父文档。"""
+        merged = " ".join(t for t in texts if t).lower()
+        norm_query = self._normalize_match_text(merged)
+        if not norm_query:
+            return []
+
+        matched_ids: List[str] = []
+        seen_ids: set[str] = set()
+
+        for alias, app_ids in DETAIL_NAME_ALIASES.items():
+            if alias.lower() in merged or self._normalize_match_text(alias) in norm_query:
+                for aid in app_ids:
+                    if aid not in seen_ids:
+                        seen_ids.add(aid)
+                        matched_ids.append(aid)
+
+        for doc in self.documents:
+            app_id = str(doc.metadata.get("app_id") or "")
+            keys: List[str] = []
+            for field in ("name_cn", "name"):
+                raw = str(doc.metadata.get(field) or "").strip()
+                if not raw:
+                    continue
+                keys.append(raw)
+                if "：" in raw:
+                    keys.append(raw.split("：", 1)[0])
+                if ":" in raw:
+                    keys.append(raw.split(":", 1)[0])
+                if " / " in raw:
+                    keys.extend(part.strip() for part in raw.split(" / ") if part.strip())
+            for key in keys:
+                nk = self._normalize_match_text(key)
+                if len(nk) >= 2 and (nk in norm_query or key.lower() in merged):
+                    if app_id and app_id not in seen_ids:
+                        seen_ids.add(app_id)
+                        matched_ids.append(app_id)
+                    break
+
+        out: List[Document] = []
+        id_to_doc = {str(d.metadata.get("app_id")): d for d in self.documents}
+        for aid in matched_ids:
+            doc = id_to_doc.get(aid)
+            if doc:
+                out.append(doc)
+        if out:
+            logger.info(
+                "详情名匹配: %s",
+                ", ".join(f"{d.metadata.get('name_cn') or d.metadata.get('name')}({d.metadata.get('app_id')})" for d in out),
+            )
+        return out
+
+    def get_chunks_for_app_ids(self, app_ids: Sequence[str]) -> List[Document]:
+        want = {str(a) for a in app_ids}
+        out: List[Document] = []
+        seen: set[str] = set()
+        for chunk in self.chunks:
+            aid = str(chunk.metadata.get("app_id") or "")
+            if aid in want and aid not in seen:
+                seen.add(aid)
+                out.append(chunk)
+        return out
 
     def _split_front_matter(self, content: str) -> tuple[str, Dict[str, Any]]:
         if not content.startswith("---"):

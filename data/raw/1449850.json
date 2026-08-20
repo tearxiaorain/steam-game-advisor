@@ -1,0 +1,61 @@
+{
+  "app_id": "1449850",
+  "name": "Yu-Gi-Oh! Master Duel",
+  "name_cn": "",
+  "short_description": "史上最强的数位卡牌遊戏！",
+  "detailed_description": "「遊戏王」成为一款全面的数位卡牌遊戏！\n\n历经 25 多年不断进化的战略性卡牌遊戏决定版！\n史上最强的决斗等着你！\n\n你会关注这场决斗吗！\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【什么是「Yu-Gi-Oh! Master Duel」】\n可以在线上遊玩人气的「遊戏王OCG」卡牌的数位遊戏，用华丽的画面、迷人的音效和轻快的节奏让决斗充满活力！\n与来自世界各地的决斗者一起畅快地玩「遊戏王」！\n\n◇ 首先，决斗只有实战！\n让我们从你得到的第一副卡牌开始决斗吧！\n提供完整的教学，即使是很久没有玩过的人，或者是新手也可以放心玩！\n进行遊戏的同时并收集大量卡牌！\n\n◇ 举办各种规则的官方大赛和活动！\n丰富你的决斗生活！有各种各样的活动和比赛，可以让全世界众多玩家都能乐在其中！\n合计收录超过10,000 种卡牌，享受各种决斗乐趣！\n以成为常规赛No1为目标！\n\n◇卡牌插图中包含的故事剧情！\n搭载单人模式，即使是一个人也能尽性！\n深入了解卡牌相关的各种故事剧情，提高决斗段位！\n不仅推荐给想要更深入体验遊戏王世界的玩家，也推荐给第一次玩或者久未接触的玩家！\n\n◇多种功能支持决斗！\n可与手机遊戏「Yu-Gi-Oh！Neuron」连携！\n参考世界各地的DUELIST的牌组，制作原创牌组! \n可以使用试抽功能在决斗开始时检查您的卡牌！提高牌组的准确性！\n[关于遊戏王]\n「遊戏王」是高桥和希先生创作的知名漫画，由集英社自1996年起于「周刊少年Jump」上连载。\nKonami Digital Entertainment发行的集换式卡牌遊戏 (TCG) 和家庭用主机遊戏以原作漫画「遊戏王」系列的动画为基础（在东京电视台等中播出），该遊戏风靡全世界。\n\n【推荐给这样的玩家！ 】\n正在玩「Yu-Gi-Oh! OCG」的玩家\n正在玩「Yu-Gi-Oh! Duel Links」的玩家\n想玩人气对战遊戏的玩家\n\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n本遊戏包含可购买虚拟货币，这些货币可用来取得随机虚拟遊戏内道具。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "模拟",
+    "策略",
+    "免费开玩"
+  ],
+  "tags": [
+    "模拟",
+    "策略",
+    "免费开玩"
+  ],
+  "categories": [
+    "单人",
+    "多人",
+    "玩家对战",
+    "线上玩家对战",
+    "跨平台多人",
+    "Steam 成就",
+    "Steam 集换式卡牌",
+    "应用内购买",
+    "家庭共享"
+  ],
+  "developers": [
+    "KONAMI"
+  ],
+  "publishers": [
+    "KONAMI"
+  ],
+  "release_date": "2022 年 1 月 18 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语",
+    "法语",
+    "意大利语",
+    "德语",
+    "西班牙语 - 拉丁美洲",
+    "葡萄牙语 - 巴西",
+    "日语",
+    "韩语",
+    "简体中文",
+    "繁体中文"
+  ],
+  "is_free": true,
+  "price_cny": 0.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 11 Home (64bit) latest revision\n处理器: Intel Core i5-9400F\n内存: 8 GB RAM\n显卡: NVIDIA GeForce GTX 1650\nDirectX 版本: 11\n网络: 宽带互联网连接\n存储空间: 需要 64 GB 可用空间\n声卡: On Board\n附注事项: 1280 x 720 monitor resolution",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 11 Home (64bit) latest revision\n处理器: Intel Core i5-11400F\n内存: 16 GB RAM\n显卡: NVIDIA GeForce RTX 3060\nDirectX 版本: 12\n网络: 宽带互联网连接\n存储空间: 需要 128 GB 可用空间\n声卡: On Board\n附注事项: 1920 x 1080 monitor resolution",
+  "fetched_at": "2026-08-19T08:22:03Z",
+  "review_desc": "Mostly Positive",
+  "review_count": 100887,
+  "review_percentage": 71.5,
+  "review_score": 6
+}

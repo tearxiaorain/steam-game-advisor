@@ -1,0 +1,75 @@
+{
+  "app_id": "2622380",
+  "name": "ELDEN RING NIGHTREIGN",
+  "name_cn": "艾尔登法环 黑夜君临",
+  "short_description": "《艾尔登法环 黑夜君临》（ELDEN RING NIGHTREIGN）为基于《艾尔登法环》（ELDEN RING）的世界观， 重新构思游戏的核心设计，带给玩家全新体验的衍生作品。",
+  "detailed_description": "数字豪华版\n本商品包含下列内容：[/p]- 艾尔登法环 黑夜君临（游戏本体）\n\n- 见弃空洞者（追加下载内容）\n\n- 艾尔登法环 黑夜君临 数字美术书＆迷你原声带（应用程序）\n\n下载内容《见弃空洞者》为《艾尔登法环 黑夜君临》的追加下载内容，内容包含2位新角色与2位目标（头目），以及全新的特异地形。敬请享受扩充游戏本体的追加下载内容。\n\n----------------------------------------\n\n※购买后能立刻使用数字美术书＆迷你原声带（应用程序）。\n\n※于2025年12月3日（三）前购买豪华版升级组合包与单独发售的下载内容《见弃空洞者》也会获得数字美术书＆迷你原声带（应用程序）。\n\n※另有单独发售的游戏本体《艾尔登法环 黑夜君临》数字标准版与下载内容《见弃空洞者》，请留意勿重复购买。\n\n关于游戏《艾尔登法环 黑夜君临》（ELDEN RING NIGHTREIGN）为基于《艾尔登法环》（ELDEN RING）的世界观，\n重新构思游戏的核心设计，带给玩家全新体验的衍生作品。\n\n并肩而战与其他玩家合作，对抗逐步逼近的黑夜，以及潜藏其中的危险。\n\n成为英雄可操作角色各个都有独特的能力；通过团队合作，能力的效果会相得益彰。\n\n挑战黑夜每次出击时的环境会有所变化──克服接连而来的威胁，打败夜里出现的强大头目吧。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "角色扮演"
+  ],
+  "tags": [
+    "动作",
+    "角色扮演"
+  ],
+  "categories": [
+    "单人",
+    "多人",
+    "合作",
+    "在线合作",
+    "Steam 成就",
+    "完全支持控制器",
+    "视角舒适度",
+    "自定义音量控制",
+    "推荐使用手柄",
+    "无需应对快速反应事件",
+    "DUALSHOCK 控制器支持",
+    "DUALSHOCK 控制器支持",
+    "DualSense 控制器支持",
+    "DualSense 控制器支持",
+    "Steam 输入 API 支持",
+    "立体声",
+    "环绕声",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "FromSoftware, Inc."
+  ],
+  "publishers": [
+    "FromSoftware, Inc.",
+    "Bandai Namco Entertainment"
+  ],
+  "release_date": "2025 年 5 月 29 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语*",
+    "日语",
+    "法语",
+    "意大利语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "阿拉伯语",
+    "韩语",
+    "波兰语",
+    "葡萄牙语 - 巴西",
+    "俄语",
+    "简体中文",
+    "西班牙语 - 拉丁美洲",
+    "泰语",
+    "繁体中文\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 198.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10\n处理器: Intel Core i5-10600 / AMD RYZEN 5 5500\n内存: 12 GB RAM\n显卡: NVIDIA GeForce GTX 1060 3GB / AMD Radeon RX 580 4GB\nDirectX 版本: 12\n存储空间: 需要 30 GB 可用空间\n声卡: Windows compatible audio device",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 11\n处理器: Intel Core i5-11500 / AMD RYZEN 5 5600\n内存: 16 GB RAM\n显卡: NVIDIA GeForce GTX 1070 8GB / AMD Radeon RX Vega-56 8GB\nDirectX 版本: 12\n存储空间: 需要 30 GB 可用空间\n声卡: Windows compatible audio device",
+  "fetched_at": "2026-08-19T08:24:37Z",
+  "review_desc": "Very Positive",
+  "review_count": 189615,
+  "review_percentage": 81.7,
+  "review_score": 8
+}

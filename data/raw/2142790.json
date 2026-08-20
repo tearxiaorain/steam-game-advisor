@@ -1,0 +1,51 @@
+{
+  "app_id": "2142790",
+  "name": "Fields of Mistria",
+  "name_cn": "",
+  "short_description": "开启全新人生旅程！探索这个充满无限可能的世界，亲手打造你梦想中的农场。魔法、浪漫与冒险都在等你，快来体验这款充满怀旧风情的农场模拟/生活角色扮演游戏吧！",
+  "detailed_description": "⭐ Updates & Announcements我们的简体中文本地化测试版现已推出！\n\n如需了解更多详情，请前往我们 Steam 页面的“近期活动与公告”版块，查看题为《简体中文测试版与 1.0 版本内容常见问题解答》的公告。\n\n关于游戏\n\n准备开启全新人生，探索这个充满无限可能的世界！\n\n米斯特里亚是一个坐落在森林与大海之间的田园村庄，为了换取您的援助，这里向您提供了一处虽杂草丛生但潜力无限的家园。在地震造成严重破坏、奇异魔力开始在这片土地流动之后，重振这座小镇往日的辉煌吧。\n\n本作是90年代末以来农场模拟RPG的精神续作，致敬经典；你将在探索、建造梦想农场的同时，邂逅魔法、浪漫与冒险！\n\n 自定义您的角色、家园和农场，打造属于您的风格！\n\n  通过耕种、钓鱼、采矿和制作，重振小镇生机\n\n 在 12 位可结婚对象中找到你的理想伴侣，组建属于自己的家庭。\n\n  饲养可爱的动物并繁育稀有毛色变种\n\n 解锁能在农耕和冒险中助您一臂之力的魔法\n\n 享受四季变换，体验新的任务、庆典，还有村民们的新服装！\n\n  结识 30 多位村民并体验他们的故事\n\n  在探索古代遗迹时与敌人战斗并发现宝藏\n\n  还有更多精彩内容！",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "独立",
+    "角色扮演",
+    "模拟"
+  ],
+  "tags": [
+    "独立",
+    "角色扮演",
+    "模拟"
+  ],
+  "categories": [
+    "单人",
+    "完全支持控制器",
+    "DUALSHOCK 控制器支持",
+    "DualSense 控制器支持",
+    "DualSense 控制器支持",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "NPC Studio"
+  ],
+  "publishers": [
+    "NPC Studio"
+  ],
+  "release_date": "2026 年 8 月 5 日",
+  "platforms": [
+    "Windows",
+    "Linux"
+  ],
+  "supported_languages": [
+    "英语"
+  ],
+  "is_free": false,
+  "price_cny": 56.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10\n处理器: Intel Core2 Duo E6400 or AMD Phenom X2 Dual-Core GP-7730\n内存: 6 GB RAM\n显卡: NVIDIA GeForce GTX 460, 1GB or AMD Radeon R7 240, 1GB\nDirectX 版本: 11\n存储空间: 需要 2 GB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10\n处理器: Ryzen 3 3300X\n内存: 8 GB RAM\n显卡: RX 480, 8 GB\nDirectX 版本: 11\n存储空间: 需要 2 GB 可用空间",
+  "fetched_at": "2026-08-19T08:24:02Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 32401,
+  "review_percentage": 97.3,
+  "review_score": 9
+}

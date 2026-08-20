@@ -1,0 +1,50 @@
+{
+  "app_id": "322170",
+  "name": "Geometry Dash",
+  "name_cn": "",
+  "short_description": "Jump and fly your way through danger in this rhythm-based action platformer!",
+  "detailed_description": "Jump and fly your way through danger in this rhythm-based action platformer!\n\nPrepare for a near impossible challenge in the world of Geometry Dash. Push your skills to the limit as you jump, fly and flip your way through dangerous passages and spiky obstacles.Game Features\n Rhythm-based Action Platforming!\n Lots of levels with unique soundtracks!\n Build and share your own levels using the level editor!\n Thousands of high quality user generated levels!\n Unlock new icons and colors to customize your character!\n Fly rockets, flip gravity and much more!\n Use practice mode to sharpen your skills!\n Lots of achievements and rewards!\n Challenge yourself with the near impossible!\n Steam users get two exclusive unlockable icons!",
+  "description_lang_short": "en",
+  "description_lang_detail": "en",
+  "genres": [
+    "动作",
+    "独立"
+  ],
+  "tags": [
+    "动作",
+    "独立"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "Steam 集换式卡牌",
+    "部分支持控制器",
+    "包含关卡编辑器",
+    "在手机上远程畅玩",
+    "在平板上远程畅玩",
+    "家庭共享"
+  ],
+  "developers": [
+    "RobTop Games"
+  ],
+  "publishers": [
+    "RobTop Games"
+  ],
+  "release_date": "2014 年 12 月 22 日",
+  "platforms": [
+    "Windows",
+    "Mac"
+  ],
+  "supported_languages": [
+    "英语"
+  ],
+  "is_free": false,
+  "price_cny": 22.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows XP\n处理器: 2.0+ GHz\n内存: 512 MB RAM\n显卡: OpenGL 2.0 support\n存储空间: 需要 100 MB 可用空间",
+  "pc_requirements_rec": "",
+  "fetched_at": "2026-08-19T08:20:48Z",
+  "review_desc": "Very Positive",
+  "review_count": 634026,
+  "review_percentage": 93.0,
+  "review_score": 8
+}

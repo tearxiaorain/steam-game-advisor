@@ -1,8 +1,11 @@
 {
   "app_id": "1091500",
-  "name": "赛博朋克 2077",
+  "name": "Cyberpunk 2077",
+  "name_cn": "赛博朋克 2077",
   "short_description": "《赛博朋克 2077》是一款开放世界动作冒险 RPG 游戏。故事发生在暗黑未来的夜之城，一座五光十色、危机四伏的超级大都会，权力更迭和无尽的身体改造是这里不变的主题。",
   "detailed_description": "《赛博朋克 2077：终极版》\n\n关于游戏",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
   "genres": [
     "角色扮演"
   ],
@@ -67,9 +70,9 @@
   "price_cny": 298.0,
   "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统: 64-bit Windows 10\n处理器: Core i7-6700 or Ryzen 5 1600\n内存: 12 GB RAM\n显卡: GeForce GTX 1060 6GB or Radeon RX 580 8GB or Arc A380\nDirectX 版本: 12\n存储空间: 需要 70 GB 可用空间\n附注事项: SSD required. Attention: In this game you will encounter a variety of visual effects that may provide seizures or loss of consciousness in a minority of people. If you or someone you know experiences any of the above symptoms while playing, stop and seek medical attention immediately.",
   "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: 64-bit Windows 10\n处理器: Core i7-12700 or Ryzen 7 7800X3D\n内存: 16 GB RAM\n显卡: GeForce RTX 2060 SUPER or Radeon RX 5700 XT or Arc A770\nDirectX 版本: 12\n存储空间: 需要 70 GB 可用空间\n附注事项: SSD required.",
-  "fetched_at": "2026-08-19T02:56:27Z",
+  "fetched_at": "2026-08-19T08:19:01Z",
   "review_desc": "Very Positive",
-  "review_count": 973097,
+  "review_count": 973131,
   "review_percentage": 86.8,
   "review_score": 8
 }

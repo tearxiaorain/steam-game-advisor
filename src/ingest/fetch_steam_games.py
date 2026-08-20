@@ -26,7 +26,10 @@ from config import PROJECT_ROOT
 
 RAW_DIR = PROJECT_ROOT / "data" / "raw"
 PROCESSED_DIR = PROJECT_ROOT / "data" / "processed"
-LIBRARY_PATH = PROJECT_ROOT / "data" / "library" / "owned_appids.json"
+LIBRARY_DIR = PROJECT_ROOT / "data" / "library"
+LIBRARY_PATH = LIBRARY_DIR / "owned_appids.json"
+MANIFEST_JSON = LIBRARY_DIR / "games_manifest.json"
+MANIFEST_MD = LIBRARY_DIR / "games_manifest.md"
 
 STEAM_API = "https://api.steampowered.com"
 STORE_API = "https://store.steampowered.com"
@@ -45,7 +48,11 @@ EVAL_SEED_APPIDS = [
     1623730,  # Palworld
     1203620,  # Enshrouded
     1203220,  # NARAKA: BLADEPOINT
+    632360,  # Risk of Rain 2
 ]
+
+# 简介中 CJK 占比低于此阈值时，改用英文商店页正文
+MIN_CJK_RATIO = 0.12
 
 
 def http_get_json(url: str, timeout: int = 30) -> Any:
@@ -116,8 +123,15 @@ def fetch_owned_games(api_key: str, steam_id: str, limit: int) -> List[int]:
     return [int(item["appid"]) for item in games[:limit] if item.get("appid")]
 
 
-def fetch_appdetails(appid: int) -> Optional[Dict[str, Any]]:
-    query = urllib.parse.urlencode({"appids": appid, "l": "schinese", "cc": "cn"})
+def cjk_ratio(text: str) -> float:
+    if not text:
+        return 0.0
+    cjk = sum(1 for ch in text if "\u4e00" <= ch <= "\u9fff")
+    return cjk / max(len(text), 1)
+
+
+def fetch_appdetails(appid: int, lang: str = "schinese") -> Optional[Dict[str, Any]]:
+    query = urllib.parse.urlencode({"appids": appid, "l": lang, "cc": "cn"})
     payload = http_get_json(f"{STORE_API}/api/appdetails?{query}")
     node = payload.get(str(appid)) or {}
     if not node.get("success"):
@@ -126,6 +140,62 @@ def fetch_appdetails(appid: int) -> Optional[Dict[str, Any]]:
     if data.get("type") != "game":
         return None
     return data
+
+
+def fetch_game_details(appid: int) -> Optional[Dict[str, Any]]:
+    """拉简体与英文两版详情，合并名称并择优选简介语言。"""
+    zh = fetch_appdetails(appid, "schinese")
+    if not zh:
+        return None
+    en: Optional[Dict[str, Any]] = None
+    try:
+        en = fetch_appdetails(appid, "english")
+    except (urllib.error.URLError, TimeoutError, json.JSONDecodeError):
+        en = None
+
+    name_en = ((en or {}).get("name") or zh.get("name") or str(appid)).strip()
+    name_zh = (zh.get("name") or "").strip()
+    if cjk_ratio(name_zh) >= MIN_CJK_RATIO and name_zh and name_zh != name_en:
+        name_cn = name_zh
+    elif cjk_ratio(name_en) >= MIN_CJK_RATIO:
+        name_cn = name_en
+        if not name_zh:
+            name_zh = name_en
+    else:
+        name_cn = name_zh if name_zh and name_zh != name_en else ""
+
+    zh_short = strip_html(zh.get("short_description") or "")
+    en_short = strip_html((en or {}).get("short_description") or "")
+    short_description, short_lang = pick_localized_text(zh_short, en_short)
+
+    zh_detail = strip_html(zh.get("detailed_description") or zh.get("about_the_game") or "")
+    en_detail = strip_html(
+        (en or {}).get("detailed_description") or (en or {}).get("about_the_game") or ""
+    )
+    detailed_description, detail_lang = pick_localized_text(zh_detail, en_detail)
+    # 长简介仍偏英文、但短简介已是中文时：游玩方式用英文，简介保留中文一句
+    if detail_lang == "en" and short_lang == "zh" and en_detail:
+        detailed_description = en_detail
+
+    merged = dict(zh)
+    merged["name"] = name_en
+    merged["name_cn"] = name_cn
+    merged["name_zh_store"] = name_zh
+    merged["short_description"] = short_description
+    merged["detailed_description"] = detailed_description
+    merged["description_lang_short"] = short_lang
+    merged["description_lang_detail"] = detail_lang
+    return merged
+
+
+def pick_localized_text(zh_text: str, en_text: str) -> tuple[str, str]:
+    zh_text = (zh_text or "").strip()
+    en_text = (en_text or "").strip()
+    if zh_text and cjk_ratio(zh_text) >= MIN_CJK_RATIO:
+        return zh_text, "zh"
+    if en_text:
+        return en_text, "en"
+    return zh_text or en_text, "mixed"
 
 
 def fetch_review_summary(appid: int) -> Dict[str, Any]:
@@ -185,10 +255,13 @@ def to_record(appid: int, data: Dict[str, Any], reviews: Dict[str, Any]) -> Dict
     return {
         "app_id": str(appid),
         "name": data.get("name") or str(appid),
+        "name_cn": (data.get("name_cn") or "").strip(),
         "short_description": strip_html(data.get("short_description") or ""),
         "detailed_description": strip_html(
             data.get("detailed_description") or data.get("about_the_game") or ""
         ),
+        "description_lang_short": data.get("description_lang_short") or "mixed",
+        "description_lang_detail": data.get("description_lang_detail") or "mixed",
         "genres": genres,
         "tags": genres,
         "categories": categories,
@@ -211,6 +284,10 @@ def to_markdown(record: Dict[str, Any]) -> str:
         "---",
         f'app_id: "{record["app_id"]}"',
         f'name: "{record["name"].replace(chr(34), "")}"',
+    ]
+    if record.get("name_cn"):
+        front.append(f'name_cn: "{str(record["name_cn"]).replace(chr(34), "")}"')
+    front.extend([
         f"genres: {yaml_list(record.get('genres') or [])}",
         f"tags: {yaml_list(record.get('tags') or [])}",
         f"categories: {yaml_list(record.get('categories') or [])}",
@@ -219,7 +296,7 @@ def to_markdown(record: Dict[str, Any]) -> str:
         f"platforms: {yaml_list(record.get('platforms') or [])}",
         f"supported_languages: {yaml_list(record.get('supported_languages') or [])}",
         f"is_free: {str(bool(record.get('is_free'))).lower()}",
-    ]
+    ])
     if record.get("price_cny") is not None:
         front.append(f"price_cny: {record['price_cny']}")
     if record.get("review_percentage") is not None:
@@ -230,11 +307,17 @@ def to_markdown(record: Dict[str, Any]) -> str:
         front.append(f'review_desc: "{record["review_desc"]}"')
     if record.get("release_date"):
         front.append(f'release_date: "{record["release_date"]}"')
+    front.append(f'description_lang_short: "{record.get("description_lang_short", "mixed")}"')
+    front.append(f'description_lang_detail: "{record.get("description_lang_detail", "mixed")}"')
     front.append(f'fetched_at: "{record["fetched_at"]}"')
     front.append("---")
 
+    title = record["name"]
+    if record.get("name_cn") and record["name_cn"] != record["name"]:
+        title = f"{record['name_cn']} / {record['name']}"
+
     body = [
-        f"# {record['name']}（app_id={record['app_id']}）",
+        f"# {title}（app_id={record['app_id']}）",
         "",
         "## 简介",
         record.get("short_description") or "（无简介）",
@@ -285,8 +368,91 @@ def safe_print(message: str) -> None:
 
 
 def write_library(appids: List[int]) -> None:
-    LIBRARY_PATH.parent.mkdir(parents=True, exist_ok=True)
+    LIBRARY_DIR.mkdir(parents=True, exist_ok=True)
     LIBRARY_PATH.write_text(json.dumps(appids, ensure_ascii=False, indent=2), encoding="utf-8")
+
+
+def read_md_manifest_entry(md_path: Path) -> Optional[Dict[str, Any]]:
+    text = md_path.read_text(encoding="utf-8")
+    if not text.startswith("---"):
+        return None
+    end = text.find("\n---", 3)
+    if end < 0:
+        return None
+    front = text[3:end].strip()
+    meta: Dict[str, Any] = {"app_id": md_path.stem}
+    for line in front.splitlines():
+        if ":" not in line:
+            continue
+        key, _, value = line.partition(":")
+        key = key.strip()
+        value = value.strip().strip('"')
+        if key in {"app_id", "name", "name_cn", "description_lang_short", "description_lang_detail"}:
+            meta[key] = value
+    if not meta.get("name"):
+        return None
+    meta.setdefault("name_cn", "")
+    return meta
+
+
+def write_games_manifest(entries: List[Dict[str, Any]], run_meta: Dict[str, Any]) -> None:
+    LIBRARY_DIR.mkdir(parents=True, exist_ok=True)
+    entries = sorted(entries, key=lambda item: int(item["app_id"]))
+    payload = {
+        "generated_at": run_meta.get("generated_at"),
+        "source": run_meta.get("source"),
+        "count": len(entries),
+        "description_policy": (
+            "商店页先拉 schinese，再拉 english；简介/长文 CJK 占比不足时回退英文。"
+            f"阈值={MIN_CJK_RATIO}"
+        ),
+        "games": entries,
+    }
+    MANIFEST_JSON.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
+
+    lines = [
+        "# Steam Game Advisor 游戏清单",
+        "",
+        f"- 生成时间: {payload['generated_at']}",
+        f"- 来源: {payload['source']}",
+        f"- 游戏数: {payload['count']}",
+        f"- 简介策略: {payload['description_policy']}",
+        "",
+        "| App ID | 英文名 | 中文名 | 简介语言 | 长文语言 |",
+        "| --- | --- | --- | --- | --- |",
+    ]
+    for item in entries:
+        lines.append(
+            "| {app_id} | {name} | {name_cn} | {short} | {detail} |".format(
+                app_id=item["app_id"],
+                name=(item.get("name") or "").replace("|", "\\|"),
+                name_cn=(item.get("name_cn") or "—").replace("|", "\\|"),
+                short=item.get("description_lang_short") or "—",
+                detail=item.get("description_lang_detail") or "—",
+            )
+        )
+    lines.append("")
+    MANIFEST_MD.write_text("\n".join(lines), encoding="utf-8")
+
+
+def collect_manifest_from_processed() -> List[Dict[str, Any]]:
+    entries = []
+    for md_path in sorted(PROCESSED_DIR.glob("*.md"), key=lambda p: int(p.stem) if p.stem.isdigit() else p.stem):
+        item = read_md_manifest_entry(md_path)
+        if item:
+            entries.append(item)
+    return entries
+
+
+def manifest_entry_from_record(record: Dict[str, Any], status: str = "fetched") -> Dict[str, Any]:
+    return {
+        "app_id": record["app_id"],
+        "name": record.get("name") or "",
+        "name_cn": record.get("name_cn") or "",
+        "description_lang_short": record.get("description_lang_short") or "mixed",
+        "description_lang_detail": record.get("description_lang_detail") or "mixed",
+        "status": status,
+    }
 
 
 def parse_args() -> argparse.Namespace:
@@ -303,6 +469,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--min-positive", type=float, default=70.0, help="好评率下限（百分比）")
     parser.add_argument("--sleep", type=float, default=1.5, help="商店请求间隔秒数")
     parser.add_argument("--include-eval-seed", action="store_true", help="并入评测集常用 appid")
+    parser.add_argument("--refresh", action="store_true", help="已存在的 processed 也重新拉取（更新简介/中文名）")
     parser.add_argument("--candidates-only", action="store_true", help="只写出候选 appid，不拉详情")
     return parser.parse_args()
 
@@ -350,17 +517,22 @@ def main() -> None:
         return
 
     kept = []
+    manifest_rows: List[Dict[str, Any]] = []
+    fetched_at = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+
     for index, appid in enumerate(candidates, 1):
-        if len(kept) >= args.limit:
+        if len(kept) >= args.limit and not (args.refresh and (PROCESSED_DIR / f"{appid}.md").exists()):
             break
         print(f"[{index}/{len(candidates)}] 拉取 {appid} ...")
         md_path = PROCESSED_DIR / f"{appid}.md"
-        if md_path.exists():
+        if md_path.exists() and not args.refresh:
             kept.append(str(appid))
             safe_print(f"  已存在，跳过 {md_path.name}")
             continue
+        if md_path.exists() and args.refresh:
+            safe_print(f"  --refresh：覆盖 {md_path.name}")
         try:
-            details = fetch_appdetails(appid)
+            details = fetch_game_details(appid)
             time.sleep(args.sleep)
             if not details:
                 print("  跳过：不是游戏或详情失败")
@@ -384,17 +556,35 @@ def main() -> None:
         record = to_record(appid, details, reviews)
         raw_path = RAW_DIR / f"{appid}.json"
         raw_path.write_text(json.dumps(record, ensure_ascii=False, indent=2), encoding="utf-8")
-        md_path = PROCESSED_DIR / f"{appid}.md"
         md_path.write_text(to_markdown(record), encoding="utf-8")
-        kept.append(record["app_id"])
-        safe_print(f"  已写入 {md_path.name}  {record['name']}  {reviews.get('review_desc')}")
+        if record["app_id"] not in kept:
+            kept.append(record["app_id"])
+        manifest_rows.append(manifest_entry_from_record(record, status="fetched"))
+        lang_note = f"{record.get('description_lang_short')}/{record.get('description_lang_detail')}"
+        safe_print(
+            f"  已写入 {md_path.name}  {record.get('name_cn') or record['name']}  "
+            f"({lang_note})  {reviews.get('review_desc')}"
+        )
 
     summary_path = RAW_DIR / "fetch_summary.json"
     summary_path.write_text(
-        json.dumps({"kept": kept, "count": len(kept)}, ensure_ascii=False, indent=2),
+        json.dumps({"kept": kept, "count": len(kept), "fetched_at": fetched_at}, ensure_ascii=False, indent=2),
         encoding="utf-8",
     )
-    print(f"完成：写入 {len(kept)} 款，摘要 {summary_path}")
+
+    # 清单覆盖库内全部 processed（含跳过/历史已有）
+    all_manifest = collect_manifest_from_processed()
+    write_games_manifest(
+        all_manifest,
+        {
+            "generated_at": fetched_at,
+            "source": args.source + ("+eval-seed" if args.include_eval_seed else ""),
+        },
+    )
+    print(f"完成：库内共 {len(all_manifest)} 款（本轮新写入/刷新 {len(manifest_rows)} 款）")
+    print(f"  摘要: {summary_path}")
+    print(f"  清单 JSON: {MANIFEST_JSON}")
+    print(f"  清单 Markdown: {MANIFEST_MD}")
 
 
 if __name__ == "__main__":

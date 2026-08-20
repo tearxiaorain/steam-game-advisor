@@ -1,0 +1,51 @@
+{
+  "app_id": "3241660",
+  "name": "R.E.P.O.",
+  "name_cn": "",
+  "short_description": "An online co-op horror game with up to 6 players. Locate valuable, fully physics-based objects and handle them with care as you retrieve and extract to satisfy your creator's desires.",
+  "detailed_description": "R.E.P.O. is an online co-op horror game featuring physics, proximity voice chat and scary monsters. You and up to 5 friends can venture into terrifying environments to extract valuable objects using your physics-based grabbing tool.\n\nEven the monsters are affected by Newton's law of gravity!\nUnder the employ of a mysterious computer intelligence. It is your job to locate, transport and extract valuable items from the haunted remains of a long lost humanity.\n\n...but know when to stay quiet.\nTransport anything from heavy pianos to fragile ceramics and use teamwork to make sure that the precious cargo will safely reach its destination.\n\nRobotic enhancements  increase your chances!\nUse your hard earned cash [SURPLUS] to purchase upgrades and weapons from your heartless [GENEROUS] creator.",
+  "description_lang_short": "en",
+  "description_lang_detail": "en",
+  "genres": [
+    "动作",
+    "抢先体验"
+  ],
+  "tags": [
+    "动作",
+    "抢先体验"
+  ],
+  "categories": [
+    "单人",
+    "多人",
+    "合作",
+    "在线合作",
+    "视角舒适度",
+    "自定义音量控制",
+    "无需应对快速反应事件",
+    "立体声",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "semiwork"
+  ],
+  "publishers": [
+    "semiwork"
+  ],
+  "release_date": "2025 年 2 月 26 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语*\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 35.0,
+  "pc_requirements_min": "最低配置:\n操作系统: Windows 10\n处理器: Core i5 6600\n内存: 8 GB RAM\n显卡: GTX 970\nDirectX 版本: 10\n网络: 宽带互联网连接\n存储空间: 需要 1 GB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n操作系统: Windows 11\n处理器: Intel Core i7 8700\n内存: 8 GB RAM\n显卡: GTX 1070\nDirectX 版本: 12\n网络: 宽带互联网连接\n存储空间: 需要 1 GB 可用空间",
+  "fetched_at": "2026-08-19T08:21:43Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 418307,
+  "review_percentage": 96.0,
+  "review_score": 9
+}

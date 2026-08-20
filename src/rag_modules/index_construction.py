@@ -1,8 +1,9 @@
 """索引构建：嵌入与 FAISS 持久化。"""
 
+import json
 import logging
 from pathlib import Path
-from typing import List
+from typing import Any, Dict, List
 
 from langchain_community.vectorstores import FAISS
 from langchain_core.documents import Document
@@ -49,12 +50,25 @@ class IndexConstructionModule:
         logger.info("正在添加 %s 个新文档到索引...", len(new_chunks))
         self.vectorstore.add_documents(new_chunks)
 
-    def save_index(self):
+    def save_index(self, meta: Dict[str, Any] | None = None):
         if not self.vectorstore:
             raise ValueError("请先构建向量索引")
         Path(self.index_save_path).mkdir(parents=True, exist_ok=True)
         self.vectorstore.save_local(self.index_save_path)
+        if meta is not None:
+            meta_path = Path(self.index_save_path) / "index_meta.json"
+            meta_path.write_text(json.dumps(meta, ensure_ascii=False, indent=2), encoding="utf-8")
         logger.info("向量索引已保存到: %s", self.index_save_path)
+
+    @staticmethod
+    def load_index_meta(index_save_path: str) -> Dict[str, Any] | None:
+        meta_path = Path(index_save_path) / "index_meta.json"
+        if not meta_path.exists():
+            return None
+        try:
+            return json.loads(meta_path.read_text(encoding="utf-8"))
+        except json.JSONDecodeError:
+            return None
 
     def load_index(self):
         if not self.embeddings:
