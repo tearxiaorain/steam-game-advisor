@@ -22,6 +22,9 @@ class RetrievalOptimizationModule:
         mmr_lambda: float = 0.7,
         mmr_pool_size: int = 24,
         use_section_weights: bool = True,
+        use_tag_breadth_penalty: bool = True,
+        tag_breadth_free: int = 2,
+        tag_breadth_alpha: float = 0.1,
     ):
         self.vectorstore = vectorstore
         self.chunks = chunks
@@ -29,6 +32,9 @@ class RetrievalOptimizationModule:
         self.mmr_lambda = mmr_lambda
         self.mmr_pool_size = mmr_pool_size
         self.use_section_weights = use_section_weights
+        self.use_tag_breadth_penalty = use_tag_breadth_penalty
+        self.tag_breadth_free = tag_breadth_free
+        self.tag_breadth_alpha = tag_breadth_alpha
         self.setup_retrievers()
 
     def setup_retrievers(self):
@@ -69,6 +75,8 @@ class RetrievalOptimizationModule:
         fused = self._rrf_fuse(ranked_lists)
         if self.use_section_weights:
             fused = self._apply_section_weights(fused)
+        if self.use_tag_breadth_penalty:
+            fused = self._apply_tag_breadth_penalty(fused)
         if self.use_mmr:
             diversified = self._game_level_mmr(uniq[0], fused, top_k=top_k)
         else:
@@ -104,6 +112,30 @@ class RetrievalOptimizationModule:
                 doc.metadata["section_weight"] = weight
             base = float(doc.metadata.get("rrf_score", 0.0))
             doc.metadata["rrf_score"] = base * weight
+        return sorted(
+            docs, key=lambda d: float(d.metadata.get("rrf_score", 0.0)), reverse=True
+        )
+
+    def _apply_tag_breadth_penalty(self, docs: List[Document]) -> List[Document]:
+        """genres 越多，类型匹配越「泛」，对 RRF 分乘 <1 的因子。
+
+        只用 genres，不用 categories：Steam 分类含成就/创意工坊等，几乎人人一堆，
+        会误伤正常游戏并相对抬高「genres 很少但分类很多」的噪声款（如 BTD6）。
+
+        factor = 1 / (1 + alpha * max(0, n - free))
+        """
+        free = max(0, int(self.tag_breadth_free))
+        alpha = max(0.0, float(self.tag_breadth_alpha))
+        for doc in docs:
+            genres = doc.metadata.get("genres") or []
+            if not isinstance(genres, list):
+                genres = [genres]
+            n = len([g for g in genres if str(g).strip()])
+            factor = 1.0 / (1.0 + alpha * max(0, n - free))
+            base = float(doc.metadata.get("rrf_score", 0.0))
+            doc.metadata["tag_breadth_n"] = n
+            doc.metadata["tag_breadth_factor"] = factor
+            doc.metadata["rrf_score"] = base * factor
         return sorted(
             docs, key=lambda d: float(d.metadata.get("rrf_score", 0.0)), reverse=True
         )

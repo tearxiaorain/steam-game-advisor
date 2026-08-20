@@ -1,0 +1,11 @@
+{
+  "unknown_genres": {},
+  "unknown_categories": {},
+  "taxonomy_path": "D:\\rag\\steam-game-advisor\\data\\library\\tag_taxonomy.json",
+  "counts": {
+    "play_genres": 12,
+    "non_game_genres": 7,
+    "play_categories": 14,
+    "platform_features": 46
+  }
+}

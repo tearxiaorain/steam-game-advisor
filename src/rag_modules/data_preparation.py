@@ -13,11 +13,13 @@ from langchain_core.documents import Document
 from langchain_text_splitters import MarkdownHeaderTextSplitter
 
 from config import (
-    CORE_GAME_GENRES,
     DETAIL_NAME_ALIASES,
-    NON_GAME_EXCLUDE_GENRES,
+    INDEX_EXCLUDE_SECTIONS,
+    PLAYSTYLE_DENOISE_MAX_CHARS,
+    PLAYSTYLE_DROP_LINE_PATTERNS,
     SECTION_WEIGHTS,
 )
+from .tag_taxonomy import get_taxonomy
 
 logger = logging.getLogger(__name__)
 
@@ -67,10 +69,13 @@ class DataPreparationModule:
 
     @staticmethod
     def is_indexable_game(metadata: Dict[str, Any]) -> bool:
+        tax = get_taxonomy()
         genres = {str(g) for g in (metadata.get("genres") or [])}
         if not genres:
             return True
-        if genres & set(NON_GAME_EXCLUDE_GENRES) and not (genres & set(CORE_GAME_GENRES)):
+        has_non_game = bool(genres & tax.non_game_genres)
+        has_play = bool(genres & tax.play_genres)
+        if has_non_game and not has_play:
             return False
         return True
 
@@ -253,6 +258,106 @@ class DataPreparationModule:
                 len(kept),
             )
         return kept
+
+    @classmethod
+    def denoise_playstyle_text(
+        cls, text: str, max_chars: int = PLAYSTYLE_DENOISE_MAX_CHARS
+    ) -> str:
+        """去掉营销/更新/法务模板句，只保留开头核心段落，供检索索引使用。"""
+        # 法务分隔线之后整段丢掉
+        cut = re.split(r"\n\*{3,}\n", text, maxsplit=1)
+        text = cut[0]
+        drop_re = [
+            re.compile(p, re.IGNORECASE) for p in PLAYSTYLE_DROP_LINE_PATTERNS
+        ]
+        kept_lines: List[str] = []
+        for line in text.splitlines():
+            s = line.strip()
+            if not s:
+                if kept_lines and kept_lines[-1] != "":
+                    kept_lines.append("")
+                continue
+            if any(r.search(s) for r in drop_re):
+                continue
+            kept_lines.append(line.rstrip())
+        body = "\n".join(kept_lines).strip()
+        body = re.sub(r"\n{3,}", "\n\n", body)
+
+        # 拆段落：保留标题行 + 首个实质玩法段，丢掉后面功能清单
+        lines = body.splitlines()
+        header: List[str] = []
+        rest: List[str] = []
+        for line in lines:
+            if not rest and (
+                line.startswith("#") or line.startswith("游戏名:")
+            ):
+                header.append(line)
+            else:
+                rest.append(line)
+        rest_text = "\n".join(rest).strip()
+        paras = [p.strip() for p in re.split(r"\n\s*\n", rest_text) if p.strip()]
+        core = paras[0] if paras else rest_text
+        body = "\n".join(header + ([core] if core else [])).strip()
+
+        if max_chars > 0 and len(body) > max_chars:
+            trimmed = body[:max_chars]
+            if "\n" in trimmed:
+                trimmed = trimmed.rsplit("\n", 1)[0]
+            body = trimmed.rstrip() + "…"
+        return body
+
+    def prepare_index_chunks(
+        self,
+        chunks: List[Document] | None = None,
+        *,
+        use_section_weights: bool = False,
+        use_playstyle_denoise: bool = True,
+        playstyle_max_chars: int = PLAYSTYLE_DENOISE_MAX_CHARS,
+        use_taxonomy_scrub: bool = True,
+    ) -> List[Document]:
+        """生成仅用于检索的 chunk 副本：排除配置块，游玩方式/类型块清洗。
+
+        不修改父文档；生成回答仍读 self.documents 全文。
+        """
+        src = chunks if chunks is not None else self.chunks
+        exclude = {str(s) for s in INDEX_EXCLUDE_SECTIONS}
+        tax = get_taxonomy() if use_taxonomy_scrub else None
+        out: List[Document] = []
+        denoised = 0
+        scrubbed = 0
+        for chunk in src:
+            section = str(
+                chunk.metadata.get("section") or chunk.metadata.get("二级标题") or ""
+            ).strip()
+            if section in exclude:
+                continue
+            if use_section_weights and float(chunk.metadata.get("section_weight", 1.0)) <= 0:
+                continue
+            meta = dict(chunk.metadata)
+            content = chunk.page_content
+            if use_playstyle_denoise and section == "游玩方式":
+                cleaned = self.denoise_playstyle_text(content, max_chars=playstyle_max_chars)
+                if cleaned != content:
+                    meta["index_denoised"] = True
+                    meta["index_orig_len"] = len(content)
+                    meta["index_denoised_len"] = len(cleaned)
+                    denoised += 1
+                content = cleaned or content[:playstyle_max_chars]
+            if tax is not None and section == "类型与标签":
+                cleaned = tax.scrub_genre_section_text(content, meta)
+                if cleaned != content:
+                    meta["index_taxonomy_scrubbed"] = True
+                    scrubbed += 1
+                content = cleaned
+            out.append(Document(page_content=content, metadata=meta))
+        logger.info(
+            "索引切块准备完成: 输入 %s → 保留 %s（游玩方式降噪 %s，类型块清洗 %s）",
+            len(src),
+            len(out),
+            denoised,
+            scrubbed,
+        )
+        return out
 
     def _markdown_header_split(self) -> List[Document]:
         splitter = MarkdownHeaderTextSplitter(

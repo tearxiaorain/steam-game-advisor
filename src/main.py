@@ -10,7 +10,7 @@ sys.path.append(str(Path(__file__).parent))
 
 from dotenv import load_dotenv
 
-from config import DEFAULT_CONFIG, RAGConfig, SECTION_WEIGHTS
+from config import DEFAULT_CONFIG, RAGConfig, SECTION_WEIGHTS, INDEX_EXCLUDE_SECTIONS
 from rag_modules import (
     DataPreparationModule,
     GenerationIntegrationModule,
@@ -18,6 +18,7 @@ from rag_modules import (
     RetrievalOptimizationModule,
     TraceLogger,
 )
+from rag_modules.tag_taxonomy import get_taxonomy
 
 load_dotenv(Path(__file__).resolve().parent.parent / ".env")
 
@@ -64,17 +65,26 @@ class SteamGameAdvisor:
         if self.config.exclude_non_game_genres:
             self.data_module.apply_game_only_filter()
         all_chunks = self.data_module.chunk_documents()
-        if self.config.use_section_weights:
-            chunks = self.data_module.filter_chunks_for_index(all_chunks)
-            self.data_module.chunks = chunks
-        else:
-            chunks = all_chunks
+        chunks = self.data_module.prepare_index_chunks(
+            all_chunks,
+            use_section_weights=self.config.use_section_weights,
+            use_playstyle_denoise=self.config.use_playstyle_denoise,
+            playstyle_max_chars=self.config.playstyle_denoise_max_chars,
+            use_taxonomy_scrub=self.config.use_taxonomy_scrub,
+        )
+        self.data_module.chunks = chunks
 
         index_meta = {
             "chunk_count": len(chunks),
             "document_count": len(self.data_module.documents),
             "exclude_non_game_genres": self.config.exclude_non_game_genres,
             "use_section_weights": self.config.use_section_weights,
+            "use_tag_breadth_penalty": self.config.use_tag_breadth_penalty,
+            "use_playstyle_denoise": self.config.use_playstyle_denoise,
+            "playstyle_denoise_max_chars": self.config.playstyle_denoise_max_chars,
+            "use_taxonomy_scrub": self.config.use_taxonomy_scrub,
+            "taxonomy_path": self.config.taxonomy_path,
+            "index_exclude_sections": list(INDEX_EXCLUDE_SECTIONS),
             "section_weights": dict(SECTION_WEIGHTS)
             if self.config.use_section_weights
             else {},
@@ -105,12 +115,28 @@ class SteamGameAdvisor:
             mmr_lambda=self.config.mmr_lambda,
             mmr_pool_size=self.config.mmr_pool_size,
             use_section_weights=self.config.use_section_weights,
+            use_tag_breadth_penalty=self.config.use_tag_breadth_penalty,
+            tag_breadth_free=self.config.tag_breadth_free,
+            tag_breadth_alpha=self.config.tag_breadth_alpha,
         )
         stats = self.data_module.get_statistics()
         print("\n知识库统计:")
         print(f"  游戏数: {stats.get('total_documents', 0)}")
         print(f"  文本块: {stats.get('total_chunks', 0)}")
         print(f"  类型: {list((stats.get('genres') or {}).keys())}")
+        tax = get_taxonomy(self.config.taxonomy_path, reload=True)
+        report = tax.scan_documents(self.data_module.documents)
+        unk_g = report.get("unknown_genres") or {}
+        unk_c = report.get("unknown_categories") or {}
+        if unk_g or unk_c:
+            print(
+                f"  未登记标签: genres={len(unk_g)} categories={len(unk_c)}"
+                "（见 data/library/tag_taxonomy.json，可用 scan_tag_taxonomy 查看）"
+            )
+            if unk_g:
+                print(f"    unknown genres: {list(unk_g.keys())[:8]}")
+            if unk_c:
+                print(f"    unknown categories: {list(unk_c.keys())[:8]}")
         print("知识库就绪。")
 
     def ask_question(self, question: str, stream: bool = False):
