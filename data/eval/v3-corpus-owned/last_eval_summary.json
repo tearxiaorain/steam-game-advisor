@@ -1,7 +1,7 @@
 {
-  "run_id": "20260820-155252",
-  "ts": "2026-08-20T15:52:52+08:00",
-  "label": "v3-user-tags-no-rewrite",
+  "run_id": "20260820-164406",
+  "ts": "2026-08-20T16:44:06+08:00",
+  "label": "v3-tag-overlap-baseline",
   "cases": "data/eval/v3-corpus-owned/cases.jsonl",
   "n": 20,
   "route_accuracy": {
@@ -10,9 +10,9 @@
     "ratio": 0.95
   },
   "retrieval_hit_rate": {
-    "ok": 10,
+    "ok": 12,
     "total": 20,
-    "ratio": 0.5
+    "ratio": 0.6
   },
   "live_refuse_rate": {
     "ok": 0,
@@ -24,7 +24,7 @@
     "total": 20,
     "ratio": 0.0
   },
-  "detail_latest": "data/eval/last_eval.jsonl",
-  "detail_archive": "data/eval/history/details/20260820-155252.jsonl",
-  "notes": "760 款 user_tags 补抓完毕；改写/硬映射默认关。相对 v3-rec20-smoke（40%）Hit +10pp。"
+  "detail_archive": "data/eval/history/details/20260820-164406.jsonl",
+  "frozen_snapshot": "data/eval/v3-corpus-owned/archive/baseline_tag_overlap_20260820/summary.json",
+  "notes": "v3 冻结基线（主集）。全套：主集 60% / 回归 62% / 好友 75%。user_tags + tag overlap；改写/硬映射关。"
 }

@@ -9,9 +9,30 @@
 | `cases.jsonl`（= `cases_rec_v3.jsonl`） | **20** | **v3 主集**：适配扩库后的新推荐题，迭代盯这个 |
 | `cases_regression.jsonl` | 43 | 回归：旧详情/搜索/拒答/旧推荐/library；仅修了「原库外现已入库」2 题 |
 | `cases_library.jsonl` | 3 | library 子集（也含在 regression 里） |
-| `archive/` | — | **冻结原文**：旧 43 题一字未改 + 首轮基线 `20260820-123646`（Hit 45%） |
+| `archive/` | — | **冻结快照**（见下） |
 
 详情 / 搜索 / 拒答 / library **都保留在 regression**，没有删；主集只加新推荐题。
+
+## 冻结基线（`baseline_tag_overlap_20260820`）
+
+**冻结** = 固定「题集 + 当时配置 + 分数 + 明细」，方便以后对照，**不是**再建索引或改预期答案。
+
+| 题集 | Hit | 路由 | 幻觉 |
+|------|-----|------|------|
+| 主集 20 | **60%** | 95% | 0% |
+| 回归 43 | **62%** | 95% | 0% |
+| 好友 8 | **75%** | 100% | 0% |
+
+配置：`user_tags` 入库 + **tag overlap 加分**；LLM 改写 / 硬映射 **关**。
+
+快照目录：`archive/baseline_tag_overlap_20260820/`（含 `summary.json` 与三套 `details_*.jsonl`）。
+
+```bash
+# 复现冻结基线（不重建索引）
+python src/eval_run.py --cases data/eval/v3-corpus-owned/cases.jsonl --label v3-rec20-tag-overlap
+python src/eval_run.py --cases data/eval/v3-corpus-owned/cases_regression.jsonl --label v3-regression-tag-overlap
+python src/eval_run.py --cases data/eval/v3-corpus-owned/cases_friend_rec.jsonl --label v3-friend-rec-tag-overlap
+```
 
 ## 跑评测
 
@@ -47,12 +68,6 @@ python src/eval_run.py --cases data/eval/v3-corpus-owned/cases.jsonl --label v3-
 python src/eval_run.py --cases data/eval/v3-corpus-owned/cases_friend_rec.jsonl --label v3-friend-rec-hard-alias
 ```
 
-## 当前基线（`v3-user-tags-no-rewrite` / 20260820-155252）
+## 当前基线（已冻结 → `archive/baseline_tag_overlap_20260820/`）
 
-| 指标 | 结果 |
-|------|------|
-| 路由 | 19/20 = 95% |
-| Hit@Top3 | **10/20 = 50%** |
-| 幻觉 | 0/20 |
-
-对照：冒烟 40% → 改写词典 45% → 硬映射 85%（过拟合）；社区标签无改写 **50%**，泛化更稳。
+见上文「冻结基线」表。旧首轮 43 题基线（45%）仍在 `archive/cases_baseline43.jsonl`。
