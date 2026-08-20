@@ -1,0 +1,43 @@
+{"id": "rec-01", "question": "想找款像素风农场游戏，节奏慢点，能钓鱼挖矿种菜", "expect_route": "recommend", "expect_app_ids": ["413150", "2142790"], "tags": ["seed13", "farm", "cozy", "pixel", "multi-answer"], "notes": "首选星露谷；Fields of Mistria 可作次选（v2 库内新增）"}
+{"id": "rec-02", "question": "有没有那种2D沙盒游戏，可以挖矿、打怪、造房子，还能和朋友联机", "expect_route": "recommend", "expect_app_ids": ["105600", "1623730"], "tags": ["seed13", "sandbox", "multiplayer", "2d", "multi-answer"], "notes": "泰拉瑞亚或帕鲁"}
+{"id": "rec-03", "question": "想玩2D平台跳跃，有点难，但美术很好，探索虫子王国", "expect_route": "recommend", "expect_app_ids": ["367520"], "tags": ["seed13", "metroidvania", "platformer", "difficult"], "notes": "空洞骑士"}
+{"id": "rec-04", "question": "最近想玩文字量大的侦探RPG，能和自己的不同人格对话，做选择影响剧情", "expect_route": "recommend", "expect_app_ids": ["632470"], "tags": ["seed13", "crpg", "detective", "narrative"], "notes": "极乐迪斯科"}
+{"id": "rec-05", "question": "想玩个轻松搞笑的小游戏，扮演一只鹅到处捣乱", "expect_route": "recommend", "expect_app_ids": ["837470"], "tags": ["seed13", "comedy", "casual", "goose"], "notes": "无标题大鹅"}
+{"id": "rec-06", "question": "想玩回合制CRPG，基于D&D规则，队友剧情很丰富，选择分支多", "expect_route": "recommend", "expect_app_ids": ["1086940"], "tags": ["seed13", "crpg", "dnd", "story-rich"], "notes": "博德之门3"}
+{"id": "rec-07", "question": "想玩开放世界赛博朋克题材，第一人称，能改装义体", "expect_route": "recommend", "expect_app_ids": ["1091500"], "tags": ["seed13", "cyberpunk", "open-world", "rpg"], "notes": "赛博朋克2077"}
+{"id": "rec-08", "question": "想玩高难度魂系开放世界，骑马探索，打各种boss", "expect_route": "recommend", "expect_app_ids": ["1245620"], "tags": ["seed13", "soulslike", "open-world", "hard"], "notes": "艾尔登法环；骑砍2不算魂系勿作唯一期望"}
+{"id": "rec-09", "question": "想和朋友联机生存，抓宠物帮忙干活，还能拿枪打怪", "expect_route": "recommend", "expect_app_ids": ["1623730"], "tags": ["seed13", "survival", "multiplayer", "creature-collection"], "notes": "幻兽帕鲁"}
+{"id": "rec-10", "question": "想玩合作生存建造，地图有迷雾，要探索废墟和地下城", "expect_route": "recommend", "expect_app_ids": ["1203620", "892970"], "tags": ["seed13", "survival", "coop", "base-building", "multi-answer"], "notes": "雾锁王国首选；英灵神殿可作近似合作生存建造"}
+{"id": "det-01", "question": "无标题大鹅在 Steam 上评价大概怎么样", "expect_route": "detail", "expect_app_ids": ["837470"], "tags": ["seed13", "detail", "review"], "notes": "好评/好评率等档案信息"}
+{"id": "det-02", "question": "空洞骑士是什么类型的游戏", "expect_route": "detail", "expect_app_ids": ["367520"], "tags": ["seed13", "detail", "genre"], "notes": "动作/冒险/独立等"}
+{"id": "det-03", "question": "博德之门3现在大概多少钱", "expect_route": "detail", "expect_app_ids": ["1086940"], "tags": ["seed13", "detail", "price"], "notes": "档案价约298"}
+{"id": "det-04", "question": "反恐精英2是免费的吗，App ID 是多少", "expect_route": "detail", "expect_app_ids": ["730"], "tags": ["seed13", "detail", "free", "appid"], "notes": "免费，App ID 730"}
+{"id": "det-05", "question": "永劫无间支持简体中文吗", "expect_route": "detail", "expect_app_ids": ["1203220"], "tags": ["seed13", "detail", "language"], "notes": "档案含简体中文"}
+{"id": "rec-c01", "question": "想找免费、能和朋友联机的竞技射击游戏", "expect_route": "recommend", "expect_app_ids": ["730", "440"], "tags": ["seed13", "free", "multiplayer", "shooter", "multi-answer"], "notes": "CS2 或 TF2；v2 修正多解"}
+{"id": "rec-c02", "question": "有没有免费、国风武侠大逃杀，动作对战那种", "expect_route": "recommend", "expect_app_ids": ["1203220"], "tags": ["seed13", "free", "battle-royale", "melee"], "notes": "永劫无间"}
+{"id": "rec-c03", "question": "想找支持中文、Roguelike 射击、能联机合作的游戏", "expect_route": "recommend", "expect_app_ids": ["632360"], "tags": ["seed13", "coop", "roguelike", "shooter"], "notes": "雨中冒险2"}
+{"id": "rec-c04", "question": "想玩一百元以内、像素风、挖矿打怪造房子的沙盒游戏", "expect_route": "recommend", "expect_app_ids": ["105600"], "tags": ["seed13", "price", "pixel", "sandbox"], "notes": "泰拉瑞亚"}
+{"id": "rec-c05", "question": "想找有中文、剧情像小说一样、选择影响走向的侦探RPG", "expect_route": "recommend", "expect_app_ids": ["632470"], "tags": ["seed13", "chinese", "narrative", "detective"], "notes": "极乐迪斯科"}
+{"id": "trd-01", "question": "这周 Steam 销量榜第一是哪个", "expect_route": "trending", "expect_app_ids": [], "expect_refuse_live": true, "tags": ["seed13", "boundary"], "notes": "应拒答或说明无实时榜单"}
+{"id": "trd-02", "question": "现在 Steam 上在线人数最多的游戏是什么", "expect_route": "trending", "expect_app_ids": [], "expect_refuse_live": true, "tags": ["seed13", "boundary"], "notes": "应拒答或说明无实时在线数据"}
+{"id": "trd-03", "question": "想玩《塞尔达传说：王国之泪》，你这里有吗", "expect_route": "recommend", "expect_app_ids": [], "must_not_invent": true, "forbidden_names": ["塞尔达", "王国之泪", "Zelda"], "tags": ["seed13", "boundary", "out-of-library"], "notes": "库外，勿冒充有货"}
+{"id": "trd-04", "question": "有没有类似《怪物猎人：荒野》的共斗狩猎游戏", "expect_route": "recommend", "expect_app_ids": ["2246340", "582010", "1446780"], "tags": ["seed13", "boundary", "multi-answer", "corpus-updated@760"], "notes": "原禁提荒野；@760 已有 Wilds/Rise/MHW，多解命中即可"}
+{"id": "v2-rec-01", "question": "想玩国产单机动作，西游记神话题材，打怪升级那种", "expect_route": "recommend", "expect_app_ids": ["2358720"], "tags": ["v2-new", "action", "chinese", "mythology"], "notes": "黑神话：悟空"}
+{"id": "v2-rec-02", "question": "想找一款扑克主题的 Roguelike，局局组合不一样", "expect_route": "recommend", "expect_app_ids": ["2379780"], "tags": ["v2-new", "roguelike", "card"], "notes": "Balatro"}
+{"id": "v2-rec-03", "question": "想和朋友联机打丧尸、捡垃圾建家，开放世界那种", "expect_route": "recommend", "expect_app_ids": ["108600", "251570"], "tags": ["v2-new", "zombie", "survival", "coop", "multi-answer"], "notes": "僵尸毁灭工程或七日杀"}
+{"id": "v2-rec-04", "question": "想玩北欧神话背景的合作生存，能造船探索", "expect_route": "recommend", "expect_app_ids": ["892970"], "tags": ["v2-new", "survival", "coop", "viking"], "notes": "Valheim 英灵神殿"}
+{"id": "v2-rec-05", "question": "四个人一起打僵尸过关，经典合作射击", "expect_route": "recommend", "expect_app_ids": ["550"], "tags": ["v2-new", "coop", "shooter", "zombie"], "notes": "求生之路2"}
+{"id": "v2-rec-06", "question": "想玩回合策略，从远古发展到现代建帝国", "expect_route": "recommend", "expect_app_ids": ["289070"], "tags": ["v2-new", "strategy", "turn-based"], "notes": "文明6"}
+{"id": "v2-rec-07", "question": "开放世界西部牛仔，剧情长线那种", "expect_route": "recommend", "expect_app_ids": ["1174180"], "tags": ["v2-new", "open-world", "story"], "notes": "荒野大镖客2"}
+{"id": "v2-rec-08", "question": "想和朋友联机恐怖游戏，拿手电去鬼屋调查", "expect_route": "recommend", "expect_app_ids": ["739630"], "tags": ["v2-new", "horror", "coop"], "notes": "恐鬼症"}
+{"id": "v2-rec-09", "question": "想玩合作 PvE 射击，太空陆战队打虫族那种", "expect_route": "recommend", "expect_app_ids": ["553850"], "tags": ["v2-new", "coop", "shooter", "pve"], "notes": "地狱潜者2"}
+{"id": "v2-rec-10", "question": "殖民地模拟经营，能编故事看小人生活", "expect_route": "recommend", "expect_app_ids": ["294100"], "tags": ["v2-new", "sim", "colony"], "notes": "边缘世界 RimWorld"}
+{"id": "v2-rec-11", "question": "想找格斗对战游戏，要最新一代那种", "expect_route": "recommend", "expect_app_ids": ["1364780"], "tags": ["v2-new", "fighting"], "notes": "Street Fighter 6"}
+{"id": "v2-rec-12", "question": "大战略类，中世纪王朝内政外交都要管", "expect_route": "recommend", "expect_app_ids": ["1158310"], "tags": ["v2-new", "strategy", "grand-strategy"], "notes": "十字军之王3"}
+{"id": "v2-det-01", "question": "黑神话悟空在 Steam 上大概多少钱", "expect_route": "detail", "expect_app_ids": ["2358720"], "tags": ["v2-new", "detail", "price"], "notes": "档案价格字段"}
+{"id": "v2-det-02", "question": "巫师3支持简体中文吗", "expect_route": "detail", "expect_app_ids": ["292030"], "tags": ["v2-new", "detail", "language"], "notes": "档案语言列表"}
+{"id": "v2-trd-01", "question": "《GTA6》你们库里有吗", "expect_route": "recommend", "expect_app_ids": [], "must_not_invent": true, "forbidden_names": ["GTA6", "GTA 6", "Grand Theft Auto VI"], "tags": ["v2-new", "boundary", "out-of-library"], "notes": "库外；库内仅有GTA5传承/增强版"}
+{"id": "v2-trd-02", "question": "《只狼：影逝二度》能查到档案吗", "expect_route": "detail", "expect_app_ids": ["814380"], "tags": ["v2-new", "detail", "corpus-updated@760"], "notes": "原库外；@760 好友补档后已有 Sekiro GOTY，改为详情命中"}
+{"id": "lib-01", "question": "今晚库里玩哪个", "expect_route": "library", "expect_app_ids": ["1971650", "1478500", "3003460"], "tags": ["library", "tonight", "playtime"], "notes": "tonight：近两周时长 Top；OCTOPATH II / Big Walk / Bang Bang Barrage；依赖 me_owned"}
+{"id": "lib-02", "question": "库里有没有买了从来没玩过的", "expect_route": "library", "expect_app_ids": ["1230140", "2159210", "2614070"], "tags": ["library", "backlog"], "notes": "backlog：时长=0 且按好评率 Top；ATRI / To the Moon Beach / NUKITASHI 2；依赖 me_owned"}
+{"id": "lib-03", "question": "最近在玩什么，库里接着玩哪个", "expect_route": "library", "expect_app_ids": ["1971650", "1478500", "3003460"], "tags": ["library", "recent"], "notes": "recent：同近两周 Top；依赖 me_owned"}

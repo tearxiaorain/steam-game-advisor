@@ -1,40 +1,40 @@
-# v3 评测集（扩库后：本人库存 + 好友补档）
+# v3 评测集（@760：本人 + 好友补档语料）
 
-对应知识库：`data/processed/` 当前约 **760** 款（本人 + 好友缺档补抓完成）。
+对应知识库：`data/processed/` ≈ **760** 款。
 
-相对冻结的 `v2-corpus77/`（@74 时代）：
+## 题集怎么拆
 
-- 语料扩大（本人库存补档 + 好友库存缺档补抓）
-- 题集 = v2 主集 40 题 + library 3 题
-- library 题依赖 `data/library/me_owned.json`
+| 文件 | 题数 | 用途 |
+|------|------|------|
+| `cases.jsonl`（= `cases_rec_v3.jsonl`） | **20** | **v3 主集**：适配扩库后的新推荐题，迭代盯这个 |
+| `cases_regression.jsonl` | 43 | 回归：旧详情/搜索/拒答/旧推荐/library；仅修了「原库外现已入库」2 题 |
+| `cases_library.jsonl` | 3 | library 子集（也含在 regression 里） |
+| `archive/` | — | **冻结原文**：旧 43 题一字未改 + 首轮基线 `20260820-123646`（Hit 45%） |
 
-## 内容
-
-| 文件 | 说明 |
-|------|------|
-| `cases.jsonl` | 全量 43 题 |
-| `cases_library.jsonl` | 仅 library 3 题 |
-| `history/runs.jsonl` | 本目录时代的跑分（初始为空，评测追加到全局 `data/eval/history/` 亦可） |
-| `last_eval_summary.json` | 首轮全量基线（跑完后写入） |
-
-## 首轮基线（@760）
-
-| 指标 | 结果 |
-|------|------|
-| run_id | `20260820-123646` |
-| 路由准确率 | 41/43 = **95%** |
-| 检索命中率（Hit@Top3） | 17/38 = **45%** |
-| 实时拒答 | 2/2 = 100% |
-| 幻觉率 | 2/43 = 5% |
-
-对照：v2 冻结基线（@74）Hit **23/35≈66%**。语料从 ~74 扩到 760 后稀释明显，**不可与 v2 直接比绝对分**。
+详情 / 搜索 / 拒答 / library **都保留在 regression**，没有删；主集只加新推荐题。
 
 ## 跑评测
 
 ```bash
-python src/eval_run.py --cases data/eval/v3-corpus-owned/cases.jsonl --label v3-corpus-owned-baseline --rebuild-index
+# v3 主集（默认）
+python src/eval_run.py --cases data/eval/v3-corpus-owned/cases.jsonl --label v3-rec20-baseline
+
+# 回归（旧能力）
+python src/eval_run.py --cases data/eval/v3-corpus-owned/cases_regression.jsonl --label v3-regression43
 ```
 
 ## 已抓取列表
 
-跳过逻辑以 `data/processed/*.md` 为准；旁路清单：`data/library/fetched_appids.json`（当前 count=760）。
+跳过逻辑以 `data/processed/*.md` 为准；旁路清单：`data/library/fetched_appids.json`（本地，gitignore）。
+
+个人/好友库存快照不入库。
+
+## 主集冒烟（`v3-rec20-smoke` / `20260820-130421`）
+
+| 指标 | 结果 |
+|------|------|
+| 路由 | 19/20 = 95% |
+| Hit@Top3 | **8/20 = 40%** |
+| 幻觉 | 0/20 |
+
+说明：新主集仍难，后续优先做「本人/好友偏置」再盯这 20 题。
