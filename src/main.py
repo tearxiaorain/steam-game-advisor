@@ -159,6 +159,9 @@ class SteamGameAdvisor:
             use_tag_breadth_penalty=self.config.use_tag_breadth_penalty,
             tag_breadth_free=self.config.tag_breadth_free,
             tag_breadth_alpha=self.config.tag_breadth_alpha,
+            use_user_tag_overlap_boost=self.config.use_user_tag_overlap_boost,
+            user_tag_overlap_bonus=self.config.user_tag_overlap_bonus,
+            user_tag_overlap_max=self.config.user_tag_overlap_max,
         )
         stats = self.data_module.get_statistics()
         print("\n知识库统计:")

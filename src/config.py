@@ -233,6 +233,11 @@ class RAGConfig:
     # 硬映射与 LLM 改写独立；默认关，便于对照「用户标签入库」效果
     use_rewrite_hard_aliases: bool = False
 
+    # 问句与 user_tags 字面重叠时对 RRF 分加分（推荐/过滤检索均生效）
+    use_user_tag_overlap_boost: bool = True
+    user_tag_overlap_bonus: float = 0.012  # 每命中 1 个标签加至 rrf_score
+    user_tag_overlap_max: int = 4  # 单块最多计分标签数
+
     @classmethod
     def from_dict(cls, config_dict: Dict[str, Any]) -> "RAGConfig":
         return cls(**config_dict)

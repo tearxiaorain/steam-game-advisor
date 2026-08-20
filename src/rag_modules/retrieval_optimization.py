@@ -3,6 +3,7 @@
 import hashlib
 import logging
 import math
+import re
 from typing import Any, Dict, List, Sequence
 
 from langchain_community.retrievers import BM25Retriever
@@ -25,6 +26,9 @@ class RetrievalOptimizationModule:
         use_tag_breadth_penalty: bool = True,
         tag_breadth_free: int = 2,
         tag_breadth_alpha: float = 0.1,
+        use_user_tag_overlap_boost: bool = False,
+        user_tag_overlap_bonus: float = 0.012,
+        user_tag_overlap_max: int = 4,
     ):
         self.vectorstore = vectorstore
         self.chunks = chunks
@@ -35,6 +39,9 @@ class RetrievalOptimizationModule:
         self.use_tag_breadth_penalty = use_tag_breadth_penalty
         self.tag_breadth_free = tag_breadth_free
         self.tag_breadth_alpha = tag_breadth_alpha
+        self.use_user_tag_overlap_boost = use_user_tag_overlap_boost
+        self.user_tag_overlap_bonus = user_tag_overlap_bonus
+        self.user_tag_overlap_max = max(0, int(user_tag_overlap_max))
         self.setup_retrievers()
 
     def setup_retrievers(self):
@@ -77,6 +84,8 @@ class RetrievalOptimizationModule:
             fused = self._apply_section_weights(fused)
         if self.use_tag_breadth_penalty:
             fused = self._apply_tag_breadth_penalty(fused)
+        if self.use_user_tag_overlap_boost:
+            fused = self._apply_user_tag_overlap_boost(uniq, fused)
         if self.use_mmr:
             diversified = self._game_level_mmr(uniq[0], fused, top_k=top_k)
         else:
@@ -112,6 +121,71 @@ class RetrievalOptimizationModule:
                 doc.metadata["section_weight"] = weight
             base = float(doc.metadata.get("rrf_score", 0.0))
             doc.metadata["rrf_score"] = base * weight
+        return sorted(
+            docs, key=lambda d: float(d.metadata.get("rrf_score", 0.0)), reverse=True
+        )
+
+    @staticmethod
+    def _query_terms_for_tag_overlap(queries: Sequence[str]) -> tuple[str, set[str]]:
+        parts: set[str] = set()
+        for q in queries:
+            text = (q or "").strip().lower()
+            if not text:
+                continue
+            parts.add(text)
+            for piece in re.split(r"[，,、；;。！？!?/\s]+", text):
+                piece = piece.strip()
+                if len(piece) >= 2:
+                    parts.add(piece)
+        blob = " ".join(sorted(parts, key=len, reverse=True))
+        return blob, parts
+
+    @staticmethod
+    def _count_user_tag_overlaps(
+        queries: Sequence[str], tags: Sequence[Any]
+    ) -> int:
+        blob, parts = RetrievalOptimizationModule._query_terms_for_tag_overlap(
+            queries
+        )
+        if not blob:
+            return 0
+        matched = 0
+        seen: set[str] = set()
+        for raw in tags:
+            tag = str(raw).strip()
+            if len(tag) < 2:
+                continue
+            tl = tag.lower()
+            if tl in seen:
+                continue
+            hit = tl in blob or any(
+                len(p) >= 2 and (p in tl or tl in p) for p in parts
+            )
+            if hit:
+                seen.add(tl)
+                matched += 1
+        return matched
+
+    def _apply_user_tag_overlap_boost(
+        self, queries: Sequence[str], docs: List[Document]
+    ) -> List[Document]:
+        """问句与 metadata.user_tags 字面重叠时，对 RRF 分做小幅加分。"""
+        bonus = max(0.0, float(self.user_tag_overlap_bonus))
+        cap = self.user_tag_overlap_max
+        if bonus <= 0 or not docs:
+            return docs
+        for doc in docs:
+            tags = doc.metadata.get("user_tags") or []
+            if not isinstance(tags, list):
+                tags = [tags]
+            overlap = self._count_user_tag_overlaps(queries, tags)
+            if cap:
+                overlap = min(overlap, cap)
+            if overlap <= 0:
+                continue
+            base = float(doc.metadata.get("rrf_score", 0.0))
+            doc.metadata["user_tag_overlap"] = overlap
+            doc.metadata["rrf_score"] = base + bonus * overlap
         return sorted(
             docs, key=lambda d: float(d.metadata.get("rrf_score", 0.0)), reverse=True
         )
