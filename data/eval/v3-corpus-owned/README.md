@@ -29,7 +29,18 @@ python src/eval_run.py --cases data/eval/v3-corpus-owned/cases_regression.jsonl 
 
 个人/好友库存快照不入库。
 
-## 主集冒烟（`v3-rec20-smoke` / `20260820-130421`）
+## 好友向偏置（关键词闸门）
+
+主路由仍是 **LLM** 四分类；`library` 子策略与「是否好友向」是 **关键词**。
+
+拥有度偏置仅当：`recommend` + 问句含好友/朋友/开黑/一起玩等。  
+好友向小题：`cases_friend_rec.jsonl`（8 题）。
+
+```bash
+python src/eval_run.py --cases data/eval/v3-corpus-owned/cases_friend_rec.jsonl --label v3-friend-rec-bias
+python src/eval_run.py --cases data/eval/v3-corpus-owned/cases.jsonl --label v3-rec20-no-friend-bias-check
+```
+
 
 | 指标 | 结果 |
 |------|------|

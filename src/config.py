@@ -102,15 +102,16 @@ class RAGConfig:
     index_save_path: str = str(PROJECT_ROOT / "vector_index")
     trace_path: str = str(PROJECT_ROOT / "data" / "eval" / "traces" / "traces.jsonl")
 
-    # 推荐拥有度实验：v3-rec20 上乘性/滤长尾均掉分（40%→25~35%），默认关；代码保留可开
-    use_ownership_bias: bool = False
+    # 拥有度偏置：默认仅「好友向推荐」关键词触发；全局 recommend 不开
+    use_ownership_bias: bool = True
+    ownership_bias_friends_only: bool = True
     ownership_pool_size: int = 24
     ownership_filter_longtail: bool = True
-    ownership_use_score_boost: bool = False
-    ownership_me_factor: float = 1.0
-    ownership_multi_friend_factor: float = 1.12  # >=3 好友
-    ownership_duo_friend_factor: float = 1.05  # 2 好友
-    ownership_longtail_factor: float = 0.88  # 仅 1 好友（score_boost 用）
+    ownership_use_score_boost: bool = True
+    ownership_me_factor: float = 1.15  # 合玩时本人也有略加分
+    ownership_multi_friend_factor: float = 1.25  # >=3 好友
+    ownership_duo_friend_factor: float = 1.12  # 2 好友
+    ownership_longtail_factor: float = 0.75  # 仅 1 好友
 
     embedding_model: str = _embedding_model_path()
     llm_model: str = "deepseek-chat"

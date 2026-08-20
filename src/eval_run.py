@@ -145,6 +145,11 @@ def main() -> None:
         action="store_true",
         help="强制重建向量索引",
     )
+    parser.add_argument(
+        "--no-ownership-bias",
+        action="store_true",
+        help="关闭拥有度偏置（对比实验）",
+    )
     args = parser.parse_args()
 
     if not os.getenv("DEEPSEEK_API_KEY"):
@@ -157,6 +162,8 @@ def main() -> None:
     advisor = SteamGameAdvisor()
     if args.multi_query:
         advisor.config.use_multi_query = True
+    if args.no_ownership_bias:
+        advisor.config.use_ownership_bias = False
     if args.mmr:
         advisor.config.use_mmr = True
     if args.detail_name_boost:

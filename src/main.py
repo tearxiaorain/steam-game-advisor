@@ -29,6 +29,7 @@ from rag_modules.library_profile import (
 from rag_modules.ownership_prior import (
     OwnershipPrior,
     apply_ownership_bias,
+    detect_friend_recommend_intent,
     filter_longtail_docs,
     load_ownership_prior,
 )
@@ -395,7 +396,19 @@ class SteamGameAdvisor:
         filters: dict,
     ):
         top_k = self.config.top_k
-        apply_bias = route_type == "recommend" and self.config.use_ownership_bias
+        friend_intent = detect_friend_recommend_intent(question)
+        apply_bias = (
+            route_type == "recommend"
+            and self.config.use_ownership_bias
+            and (
+                not self.config.ownership_bias_friends_only or friend_intent
+            )
+        )
+        if apply_bias:
+            print(
+                "拥有度偏置: 开"
+                + ("（好友向）" if friend_intent else "")
+            )
         fetch_k = (
             max(int(self.config.ownership_pool_size), top_k) if apply_bias else top_k
         )

@@ -1,0 +1,8 @@
+{"id": "friend-rec-01", "question": "想和朋友联机恐怖捡垃圾，在月亮上刮点任务", "expect_route": "recommend", "expect_app_ids": ["1966720"], "tags": ["friend-bias", "horror", "coop"], "notes": "Lethal Company；多好友拥有"}
+{"id": "friend-rec-02", "question": "开黑玩饥荒那种黑暗生存，别饿死别发疯", "expect_route": "recommend", "expect_app_ids": ["322330"], "tags": ["friend-bias", "survival", "coop"], "notes": "饥荒联机版"}
+{"id": "friend-rec-03", "question": "好友都在玩的大逃杀吃鸡，跳伞搜枪", "expect_route": "recommend", "expect_app_ids": ["578080"], "tags": ["friend-bias", "battle-royale"], "notes": "PUBG"}
+{"id": "friend-rec-04", "question": "和朋友一起拿手电去鬼屋调查的联机恐怖", "expect_route": "recommend", "expect_app_ids": ["739630"], "tags": ["friend-bias", "horror", "coop"], "notes": "恐鬼症"}
+{"id": "friend-rec-05", "question": "四个人开黑打僵尸过关，经典合作射击", "expect_route": "recommend", "expect_app_ids": ["550"], "tags": ["friend-bias", "coop", "shooter"], "notes": "求生之路2"}
+{"id": "friend-rec-06", "question": "想和朋友联机抓宠物干活还能拿枪，帕鲁那种", "expect_route": "recommend", "expect_app_ids": ["1623730"], "tags": ["friend-bias", "survival", "multiplayer"], "notes": "幻兽帕鲁"}
+{"id": "friend-rec-07", "question": "朋友喊我开黑打战术射击，破门配合那种", "expect_route": "recommend", "expect_app_ids": ["359550"], "tags": ["friend-bias", "tactical", "fps"], "notes": "彩虹六号围攻"}
+{"id": "friend-rec-08", "question": "和好友联机免费竞技枪战", "expect_route": "recommend", "expect_app_ids": ["730"], "tags": ["friend-bias", "fps", "free"], "notes": "CS2"}

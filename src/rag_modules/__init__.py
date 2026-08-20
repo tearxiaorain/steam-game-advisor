@@ -12,6 +12,7 @@ from .library_profile import (
 from .ownership_prior import (
     OwnershipPrior,
     apply_ownership_bias,
+    detect_friend_recommend_intent,
     filter_longtail_docs,
     load_ownership_prior,
 )
@@ -28,6 +29,7 @@ __all__ = [
     "select_owned_candidates",
     "OwnershipPrior",
     "apply_ownership_bias",
+    "detect_friend_recommend_intent",
     "filter_longtail_docs",
     "load_ownership_prior",
 ]

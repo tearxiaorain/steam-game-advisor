@@ -12,6 +12,38 @@ from langchain_core.documents import Document
 
 logger = logging.getLogger(__name__)
 
+# 好友向推荐：关键词闸门（主路由仍是 LLM；此处只决定要不要开拥有度偏置）
+FRIEND_RECOMMEND_KEYWORDS: tuple[str, ...] = (
+    "好友",
+    "朋友",
+    "室友",
+    "开黑",
+    "一起玩",
+    "联机玩",
+    "和同学",
+    "和队友",
+    "好友库",
+    "朋友都有",
+    "好友都有",
+    "好友在玩",
+    "朋友在玩",
+    "合玩",
+    "双人成行",  # 常见合玩表述，可与游戏名撞车，下方会再看语境
+)
+
+
+def detect_friend_recommend_intent(question: str) -> bool:
+    """问法是否偏向「和好友/朋友一起」的推荐（关键词，非 LLM）。"""
+    q = (question or "").strip()
+    if not q:
+        return False
+    # 「双人成行」单独出现多为点名游戏，不算好友意图
+    if "双人成行" in q and not any(
+        k in q for k in ("好友", "朋友", "开黑", "一起", "联机", "合玩")
+    ):
+        return False
+    return any(k in q for k in FRIEND_RECOMMEND_KEYWORDS)
+
 
 @dataclass
 class OwnershipPrior:
