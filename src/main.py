@@ -10,7 +10,7 @@ sys.path.append(str(Path(__file__).parent))
 
 from dotenv import load_dotenv
 
-from config import DEFAULT_CONFIG, RAGConfig
+from config import DEFAULT_CONFIG, RAGConfig, SECTION_WEIGHTS
 from rag_modules import (
     DataPreparationModule,
     GenerationIntegrationModule,
@@ -63,12 +63,21 @@ class SteamGameAdvisor:
         self.data_module.load_documents()
         if self.config.exclude_non_game_genres:
             self.data_module.apply_game_only_filter()
-        chunks = self.data_module.chunk_documents()
+        all_chunks = self.data_module.chunk_documents()
+        if self.config.use_section_weights:
+            chunks = self.data_module.filter_chunks_for_index(all_chunks)
+            self.data_module.chunks = chunks
+        else:
+            chunks = all_chunks
 
         index_meta = {
             "chunk_count": len(chunks),
             "document_count": len(self.data_module.documents),
             "exclude_non_game_genres": self.config.exclude_non_game_genres,
+            "use_section_weights": self.config.use_section_weights,
+            "section_weights": dict(SECTION_WEIGHTS)
+            if self.config.use_section_weights
+            else {},
         }
         saved_meta = None if force_rebuild else self.index_module.load_index_meta(
             self.config.index_save_path
@@ -95,6 +104,7 @@ class SteamGameAdvisor:
             use_mmr=self.config.use_mmr,
             mmr_lambda=self.config.mmr_lambda,
             mmr_pool_size=self.config.mmr_pool_size,
+            use_section_weights=self.config.use_section_weights,
         )
         stats = self.data_module.get_statistics()
         print("\n知识库统计:")

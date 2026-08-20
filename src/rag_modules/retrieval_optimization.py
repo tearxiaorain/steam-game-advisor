@@ -21,12 +21,14 @@ class RetrievalOptimizationModule:
         use_mmr: bool = False,
         mmr_lambda: float = 0.7,
         mmr_pool_size: int = 24,
+        use_section_weights: bool = True,
     ):
         self.vectorstore = vectorstore
         self.chunks = chunks
         self.use_mmr = use_mmr
         self.mmr_lambda = mmr_lambda
         self.mmr_pool_size = mmr_pool_size
+        self.use_section_weights = use_section_weights
         self.setup_retrievers()
 
     def setup_retrievers(self):
@@ -65,6 +67,8 @@ class RetrievalOptimizationModule:
             self.bm25_retriever.k = old_bm25_k
 
         fused = self._rrf_fuse(ranked_lists)
+        if self.use_section_weights:
+            fused = self._apply_section_weights(fused)
         if self.use_mmr:
             diversified = self._game_level_mmr(uniq[0], fused, top_k=top_k)
         else:
@@ -78,6 +82,31 @@ class RetrievalOptimizationModule:
             len(diversified),
         )
         return diversified
+
+    @staticmethod
+    def _apply_section_weights(docs: List[Document]) -> List[Document]:
+        """按切块 section 乘权重后重排（简介/标签抬高，游玩方式/配置压低）。"""
+        for doc in docs:
+            weight = float(doc.metadata.get("section_weight", 1.0))
+            if "section_weight" not in doc.metadata:
+                section = str(
+                    doc.metadata.get("section")
+                    or doc.metadata.get("二级标题")
+                    or ""
+                ).strip()
+                # 延迟导入避免循环；缺省 1.0
+                try:
+                    from config import SECTION_WEIGHTS
+
+                    weight = float(SECTION_WEIGHTS.get(section, 1.0))
+                except Exception:
+                    weight = 1.0
+                doc.metadata["section_weight"] = weight
+            base = float(doc.metadata.get("rrf_score", 0.0))
+            doc.metadata["rrf_score"] = base * weight
+        return sorted(
+            docs, key=lambda d: float(d.metadata.get("rrf_score", 0.0)), reverse=True
+        )
 
     @staticmethod
     def diversify_by_game(docs: List[Document], top_k: int) -> List[Document]:

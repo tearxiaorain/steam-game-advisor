@@ -49,6 +49,16 @@ DETAIL_NAME_ALIASES: Dict[str, List[str]] = {
     "巫师 3": ["292030"],
 }
 
+# 切块 section 权重：简介/标签抬高，配置等降权；0=不进检索索引
+SECTION_WEIGHTS: Dict[str, float] = {
+    "简介": 1.5,
+    "类型与标签": 1.4,
+    "语言": 1.1,
+    "评价摘要": 0.9,
+    "游玩方式": 0.65,
+    "配置与平台": 0.0,
+}
+
 
 def _embedding_model_path() -> str:
     if (LOCAL_EMBEDDING_DIR / "model.safetensors").exists():
@@ -82,6 +92,9 @@ class RAGConfig:
     # 语料卫生：剔除非游戏 genre；详情题对游戏名做精确匹配加分
     exclude_non_game_genres: bool = True
     detail_name_boost: bool = True
+
+    # 切块类型加权：按二级标题抬/降 RRF；weight=0 不进索引。v2 评测曾 63%→57%，默认关
+    use_section_weights: bool = False
 
     @classmethod
     def from_dict(cls, config_dict: Dict[str, Any]) -> "RAGConfig":

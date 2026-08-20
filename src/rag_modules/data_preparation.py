@@ -16,6 +16,7 @@ from config import (
     CORE_GAME_GENRES,
     DETAIL_NAME_ALIASES,
     NON_GAME_EXCLUDE_GENRES,
+    SECTION_WEIGHTS,
 )
 
 logger = logging.getLogger(__name__)
@@ -236,6 +237,23 @@ class DataPreparationModule:
         logger.info("分块完成，共 %s 个 chunk", len(chunks))
         return chunks
 
+    def filter_chunks_for_index(self, chunks: List[Document] | None = None) -> List[Document]:
+        """丢掉 section_weight=0 的块（如配置与平台），不参与向量/BM25 索引。"""
+        src = chunks if chunks is not None else self.chunks
+        kept = [
+            c
+            for c in src
+            if float(c.metadata.get("section_weight", 1.0)) > 0
+        ]
+        dropped = len(src) - len(kept)
+        if dropped:
+            logger.info(
+                "切块索引过滤: 排除 weight=0 的 %s 块，保留 %s",
+                dropped,
+                len(kept),
+            )
+        return kept
+
     def _markdown_header_split(self) -> List[Document]:
         splitter = MarkdownHeaderTextSplitter(
             headers_to_split_on=[
@@ -257,6 +275,7 @@ class DataPreparationModule:
                 parent_id = doc.metadata["parent_id"]
                 for i, chunk in enumerate(md_chunks):
                     child_id = str(uuid.uuid4())
+                    section = str(chunk.metadata.get("二级标题") or "").strip()
                     chunk.metadata.update(doc.metadata)
                     chunk.metadata.update(
                         {
@@ -264,6 +283,10 @@ class DataPreparationModule:
                             "parent_id": parent_id,
                             "doc_type": "child",
                             "chunk_index": i,
+                            "section": section,
+                            "section_weight": float(
+                                SECTION_WEIGHTS.get(section, 1.0)
+                            ),
                         }
                     )
                     self.parent_child_map[child_id] = parent_id
