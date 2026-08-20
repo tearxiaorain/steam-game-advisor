@@ -81,46 +81,22 @@ trending - 本周榜、现在最热、同时在线、刚打折的实时热度
         return "recommend"
 
     def query_rewrite(self, query: str) -> str:
-        """单次检索改写：扩通用玩法词，并做硬约束清洗。"""
+        """单次检索改写：扩通用玩法词，并做硬约束清洗。
+
+        默认可由 config.use_query_rewrite 关闭；Prompt 见 rewrite_prompts.py。
+        """
+        from config import DEFAULT_CONFIG
+
+        if not DEFAULT_CONFIG.use_query_rewrite:
+            text = query
+            if DEFAULT_CONFIG.use_rewrite_hard_aliases:
+                text = self.apply_rewrite_hard_aliases(query, query)
+            return text or query
+
+        from .rewrite_prompts import QUERY_REWRITE_PROMPT
+
         prompt = PromptTemplate(
-            template="""你是游戏检索查询改写器。把玩家原话改写成一行更利于中文游戏档案检索的查询。
-
-规则（必须遵守）：
-1. 只输出一行；不要解释、不要引号、不要编号。
-2. 保留原意。
-3. **禁止添加**原句没有的约束词：免费/免费开玩、中文/简体/繁体、单人、合作、开黑、Mac/苹果、具体价格。
-4. **必须保留**原句已有的约束词（尤其是免费、中文、联机/合作、价格）；不要为了「更干净」而删掉它们。
-5. 可以把黑话扩成通用描述词（类型、玩法、氛围、难度、视角）。
-6. 禁止发明原句没有的游戏名或 App ID；原句已有的游戏名必须保留。
-7. 若原句已点名某游戏并询问评价/价格/类型/语言/App ID：保留游戏名，只补很少的检索词（评价/价格/类型/语言等），不要扩成推荐向长句。
-
-扩写参考（原句相关才用，且不要顺带加入免费/中文；不要发明原句没有的游戏名）：
-- 魂系 → 高难度 动作角色扮演 Boss战 探索 硬核；若说「不是开放大地图/不骑马」则偏 关卡制 线性 黑暗之魂 系列，少写开放世界骑马
-- 种田/治愈 → 农场 种植 经营 模拟 放松 慢节奏
-- 虫子王国 → 2D 动作冒险 平台跳跃 探索 独立 地图互联
-- 侦探/人格对话 → 角色扮演 剧情 选择 文字 叙事 侦探 对话
-- Roguelike 射击 → Roguelike 射击 合作 随机 失败重来
-- 竞技射击/枪战 → FPS 射击 枪战 多人 对战 竞技 反恐；若「免费竞技」可保留 反恐 竞技 枪战
-- 写实战术射击/破门/运营商 → 战术射击 破门 人质 干员 五对五 近距离 配合
-- 迷雾/废墟建造 → 生存 建造 合作 迷雾 废墟 探索 地下城
-- CRPG/D&D → 回合制 角色扮演 龙与地下城 队友 剧情分支
-- MOBA/推塔/打野/团战 → MOBA 推塔 打野 团战 英雄 多人对战 野区
-- 大逃杀/吃鸡/跳伞搜枪 → 大逃杀 吃鸡 跳伞 搜刮 战术竞技 百人 生存竞技
-- 开放世界犯罪/开车抢劫 → 开放世界 犯罪 驾驶 抢劫 都市 第三人称 自由行动
-- 废土/建定居点 → 废土 末日 开放世界 RPG 定居点 建造 第一人称射击
-- 以撒/房间清层 Roguelike → 弹幕 地牢 房间 随机 高难度 Roguelike 像素
-- 社交推理/内鬼/完成任务 → 社交推理 内鬼 伪装 投票 派对 太空 任务
-- 希腊神话/冥界往上打 Roguelike → 希腊神话 冥界 动作 Roguelike 逃离 神明 武器组合 随机构筑
-- 魔法学校/学咒语/城堡 → 魔法学校 巫师 咒语 城堡 开放世界 探索 上课
-- 精准跳跃/山峰平台 → 精准平台 跳跃 山峰 高难度 辅助模式 像素平台
-- 联机恐怖捡垃圾/月亮/公司任务 → 联机恐怖 捡垃圾 月球 废料 配额 公司 合作生存
-- 幸存者like/站桩自动射击清屏 → 幸存者 站桩 自动攻击 清屏 升级武器 割草
-- 拿手电鬼屋调查 → 联机恐怖 手电筒 鬼屋 灵异 调查 证据 合作
-- 开黑打僵尸过关/经典合作射击 → 合作射击 僵尸 过关 关卡 四人 联机
-
-原始查询: {query}
-
-改写结果:""",
+            template=QUERY_REWRITE_PROMPT,
             input_variables=["query"],
         )
         chain = prompt | self.llm | StrOutputParser()
@@ -134,43 +110,16 @@ trending - 本周榜、现在最热、同时在线、刚打折的实时热度
 
     def expand_queries(self, query: str, n: int = 2) -> List[str]:
         """一次 LLM 调用生成至多 n 条检索变体；返回 [原句, ...变体]，去重。"""
+        from config import DEFAULT_CONFIG
+
+        if not DEFAULT_CONFIG.use_query_rewrite:
+            return [query]
+
+        from .rewrite_prompts import MULTI_QUERY_PROMPT
+
         n = max(1, min(int(n), 3))
         prompt = PromptTemplate(
-            template="""你是游戏检索的「多重查询」生成器。针对同一玩家问题，写出 {n} 条不同侧重点的中文检索查询。
-
-目标：提高召回（少漏检），不是改写玩家人设。
-
-规则：
-1. 每条一行；不要编号、不要引号、不要解释。
-2. 只保留原句里已经出现的约束（免费、中文、价格、联机、单机等）；**原句没有的约束词一律不要加**。
-3. 把黑话扩成商店简介里更常见的通用描述词；不同行侧重点要不同（例如：玩法机制 / 类型标签 / 氛围难度）。
-4. 禁止发明原句没有的游戏名或 App ID；原句已有的游戏名必须保留在至少一条里。
-5. 不要重复原句本身；不要为了「更好搜」而硬塞无关热门词。
-
-扩写参考（有则用，且不要额外加免费/中文；不要发明原句没有的游戏名）：
-- 魂系 → 高难度 动作角色扮演 Boss战 探索 硬核；非开放大地图则偏 关卡制 线性
-- 种田/治愈 → 农场 种植 经营 模拟 放松 慢节奏
-- 虫子王国/类银河战士 → 2D 动作冒险 平台跳跃 探索 独立 地图互联
-- 侦探/人格对话 → 角色扮演 剧情 选择 文字 叙事 侦探 对话
-- Roguelike 射击 → Roguelike 射击 合作 随机 失败重来
-- 竞技射击/枪战 → FPS 射击 枪战 多人 对战 竞技
-- 写实战术射击/破门/运营商 → 战术射击 破门 人质 干员 配合
-- 迷雾/废墟建造 → 生存 建造 合作 迷雾 废墟 探索 地下城
-- MOBA/推塔/打野 → MOBA 推塔 打野 团战 英雄
-- 大逃杀/吃鸡 → 大逃杀 吃鸡 跳伞 搜刮 战术竞技
-- 开放世界犯罪/抢劫 → 开放世界 犯罪 驾驶 抢劫 都市
-- 废土定居点 → 废土 定居点 建造 第一人称射击 RPG
-- 社交推理/内鬼 → 社交推理 内鬼 投票 派对 任务
-- 希腊神话冥界 Roguelike → 希腊神话 冥界 动作 Roguelike 逃离
-- 魔法学校咒语城堡 → 魔法学校 巫师 咒语 城堡 探索
-- 幸存者like/站桩清屏 → 幸存者 自动攻击 清屏 站桩 割草
-- 联机恐怖捡垃圾/月亮 → 联机恐怖 捡垃圾 月球 废料 配额
-- 拿手电鬼屋 → 手电筒 鬼屋 灵异 调查 联机恐怖
-- 开黑打僵尸过关 → 合作射击 僵尸 过关 四人
-
-原始问题: {query}
-
-输出 {n} 行查询:""",
+            template=MULTI_QUERY_PROMPT,
             input_variables=["query", "n"],
         )
         chain = prompt | self.llm | StrOutputParser()
@@ -179,6 +128,8 @@ trending - 本周榜、现在最热、同时在线、刚打折的实时热度
         for line in raw.splitlines():
             line = line.strip().lstrip("0123456789.-、)） ").strip("\"'`")
             line = self._sanitize_rewrite(query, line)
+            if DEFAULT_CONFIG.use_rewrite_hard_aliases:
+                line = self.apply_rewrite_hard_aliases(query, line)
             if not line or line == query:
                 continue
             if line not in variants:

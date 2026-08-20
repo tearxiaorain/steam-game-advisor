@@ -228,8 +228,10 @@ class RAGConfig:
     # 标签词表：类型块索引只保留玩法 genres/categories
     use_taxonomy_scrub: bool = True
     taxonomy_path: str = str(PROJECT_ROOT / "data" / "library" / "tag_taxonomy.json")
-    # 推荐改写硬映射（规则并入检索词）；默认开
-    use_rewrite_hard_aliases: bool = True
+    # LLM 查询改写（Prompt 归档在 rewrite_prompts.py）；默认关
+    use_query_rewrite: bool = False
+    # 硬映射与 LLM 改写独立；默认关，便于对照「用户标签入库」效果
+    use_rewrite_hard_aliases: bool = False
 
     @classmethod
     def from_dict(cls, config_dict: Dict[str, Any]) -> "RAGConfig":

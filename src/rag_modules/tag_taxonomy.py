@@ -107,11 +107,19 @@ class TagTaxonomy:
                 raw = [x.strip() for x in m.group(1).split(",") if x.strip()]
                 genres = self.play_genres_only(raw) or raw
         cats = self.play_categories_only(meta.get("categories") or [])
+        user_tags = [str(x).strip() for x in (meta.get("user_tags") or []) if str(x).strip()]
+        if not user_tags:
+            m2 = re.search(r"用户标签:\s*(.+)", text)
+            if m2:
+                user_tags = [x.strip() for x in m2.group(1).split(",") if x.strip()]
 
         lines = [line for line in text.splitlines() if line.startswith("#")]
         lines.append("类型: " + (", ".join(genres) if genres else "（无）"))
         if cats:
             lines.append("分类: " + ", ".join(cats))
+        if user_tags:
+            # 社区标签原样保留（检索黑话关键）；不经 play_genres 白名单过滤
+            lines.append("用户标签: " + ", ".join(user_tags))
         return "\n".join(lines).strip()
 
     def scan_documents(self, documents: Iterable[Any]) -> Dict[str, Any]:

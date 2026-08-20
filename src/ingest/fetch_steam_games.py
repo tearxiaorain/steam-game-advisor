@@ -67,6 +67,54 @@ def http_get_json(url: str, timeout: int = 30) -> Any:
         return json.loads(response.read().decode("utf-8"))
 
 
+def http_get_text(url: str, timeout: int = 45) -> str:
+    request = urllib.request.Request(
+        url,
+        headers={
+            "User-Agent": (
+                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+            ),
+            "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+            "Cookie": "birthtime=0; wants_mature_content=1; lastagecheckage=1-0-1990",
+        },
+    )
+    with urllib.request.urlopen(request, timeout=timeout) as response:
+        return response.read().decode("utf-8", "replace")
+
+
+def fetch_store_user_tags(appid: int, lang: str = "schinese") -> List[str]:
+    """从商店页 InitAppTagModal 解析热门用户自定义标签名。"""
+    url = f"{STORE_API}/app/{appid}/?l={lang}"
+    try:
+        html = http_get_text(url)
+    except Exception as exc:
+        print(f"  用户标签抓取失败 {appid}: {exc}")
+        return []
+    modal = re.search(r"InitAppTagModal\([^,]+,\s*(\[.*?\])\s*,", html, re.S)
+    names: List[str] = []
+    if modal:
+        try:
+            raw = json.loads(modal.group(1))
+            for item in raw:
+                name = str(item.get("name") or "").strip()
+                if name and name not in {"+", "(?)"} and name not in names:
+                    names.append(name)
+            return names
+        except json.JSONDecodeError:
+            pass
+    chips = re.findall(
+        r'class="[^"]*app_tag[^"]*"[^>]*>\s*([^<]+?)\s*<',
+        html,
+        flags=re.I,
+    )
+    for c in chips:
+        name = c.strip()
+        if name and name not in {"+", "(?)"} and name not in names:
+            names.append(name)
+    return names
+
+
 def strip_html(text: str) -> str:
     if not text:
         return ""
@@ -264,6 +312,7 @@ def to_record(appid: int, data: Dict[str, Any], reviews: Dict[str, Any]) -> Dict
         "description_lang_detail": data.get("description_lang_detail") or "mixed",
         "genres": genres,
         "tags": genres,
+        "user_tags": data.get("user_tags") or [],
         "categories": categories,
         "developers": data.get("developers") or [],
         "publishers": data.get("publishers") or [],
@@ -290,6 +339,7 @@ def to_markdown(record: Dict[str, Any]) -> str:
     front.extend([
         f"genres: {yaml_list(record.get('genres') or [])}",
         f"tags: {yaml_list(record.get('tags') or [])}",
+        f"user_tags: {yaml_list(record.get('user_tags') or [])}",
         f"categories: {yaml_list(record.get('categories') or [])}",
         f"developers: {yaml_list(record.get('developers') or [])}",
         f"publishers: {yaml_list(record.get('publishers') or [])}",
@@ -325,6 +375,7 @@ def to_markdown(record: Dict[str, Any]) -> str:
         "## 类型与标签",
         "类型: " + ", ".join(record.get("genres") or []) or "（无）",
         "分类: " + ", ".join(record.get("categories") or []) or "（无）",
+        "用户标签: " + (", ".join(record.get("user_tags") or []) or "（无）"),
         "",
         "## 游玩方式",
         record.get("detailed_description") or "（无详细介绍）",
@@ -636,6 +687,8 @@ def main() -> None:
                 continue
             reviews = fetch_review_summary(appid)
             time.sleep(args.sleep)
+            user_tags = fetch_store_user_tags(appid)
+            time.sleep(args.sleep)
         except (urllib.error.URLError, TimeoutError, json.JSONDecodeError) as exc:
             print(f"  失败: {exc}")
             time.sleep(args.sleep)
@@ -650,6 +703,7 @@ def main() -> None:
             print(f"  跳过：好评率 {review_percentage} < {args.min_positive}")
             continue
 
+        details["user_tags"] = user_tags
         record = to_record(appid, details, reviews)
         raw_path = RAW_DIR / f"{appid}.json"
         raw_path.write_text(json.dumps(record, ensure_ascii=False, indent=2), encoding="utf-8")

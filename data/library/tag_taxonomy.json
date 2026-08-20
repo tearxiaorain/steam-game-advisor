@@ -1,7 +1,7 @@
 {
   "version": 1,
   "updated_at": "2026-08-20",
-  "notes": "受控词表：入库校验与索引清洗用。扩库后跑 scan 看 unknown_*。社区玩家标签暂未接入。",
+  "notes": "受控词表：入库校验与索引清洗用。扩库后跑 scan 看 unknown_*。社区用户标签写入 user_tags 字段并进入类型块检索，不经本白名单过滤。",
   "play_genres": [
     "动作",
     "冒险",

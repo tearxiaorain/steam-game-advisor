@@ -213,7 +213,16 @@ class DataPreparationModule:
         metadata.setdefault("name", md_file.stem)
         metadata.setdefault("app_id", md_file.stem)
         metadata["app_id"] = str(metadata["app_id"])
-        for list_key in ("genres", "tags", "categories", "platforms", "supported_languages", "developers", "publishers"):
+        for list_key in (
+            "genres",
+            "tags",
+            "user_tags",
+            "categories",
+            "platforms",
+            "supported_languages",
+            "developers",
+            "publishers",
+        ):
             value = metadata.get(list_key)
             if isinstance(value, str):
                 metadata[list_key] = [item.strip() for item in value.split(",") if item.strip()]

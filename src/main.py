@@ -92,6 +92,12 @@ class SteamGameAdvisor:
                 f"friend_apps={len(self.ownership_prior.friend_owners)} "
                 f"pool={self.config.ownership_pool_size}"
             )
+        print(
+            "查询改写: "
+            + ("开" if self.config.use_query_rewrite else "关（Prompt 见 rewrite_prompts.py）")
+            + "；硬映射: "
+            + ("开" if self.config.use_rewrite_hard_aliases else "关")
+        )
         print("系统初始化完成。")
 
     def build_knowledge_base(self, force_rebuild: bool = False):
