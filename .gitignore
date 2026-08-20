@@ -13,4 +13,5 @@ data/eval/last_eval.jsonl
 data/eval/last_eval_summary.json
 # 个人/好友库存快照（含 SteamID、昵称），不入库
 data/library/me_owned.json
+data/library/owned_appids.json
 data/library/friends/
