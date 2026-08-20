@@ -1,0 +1,70 @@
+{
+  "app_id": "1286990",
+  "name": "CONSCRIPT: Director’s Cut",
+  "name_cn": "战壕惊魂: Director's Cut",
+  "short_description": "在第一次世界大战肆虐的战火中，你是一位孤身奋战的法国士兵。战壕如同迷宫般错综曲折、危机四伏，资源和补给非常有限，还有各种复杂的谜题需要解开。你能否克服重重挑战，在人类历史上最残酷、最恐怖的冲突中生存下来？来《CONSCRIPT》体验对经典生存恐怖游戏的全新诠释。",
+  "detailed_description": "Reviews Plaque\n\nTrench Raider PackBattle through the trenches with 3 additional uniforms to choose from in the Trench Raider Pack, containing:\n\n• Elite Trench Raider\n\n• Pilot\n\n• English Tommy\n\n关于游戏生存恐怖游戏《CONSCRIPT》的背景设于 1916 年第一次世界大战期间，灵感来自多款同类游戏经典之作，融合了早期恐怖游戏众多挑战机制，为你呈现连贯、紧张且独一无二的体验。\n\n在《CONSCRIPT》中，你是凡尔登“绞肉机”之战中的一位法国士兵，需要寻找自己失踪的弟弟。焦黑荒凉的战场上，战壕如迷宫般错综曲折，零落的碉堡中不知是敌是友，每个角落都可能潜伏着危险。你能否克服重重挑战，穿越可怖的无人废土，带弟弟活着回家？\n\n走进独特的历史舞台背景——凡尔登战役，体验策略和谨慎为王的经典生存恐怖玩法。\n多种难度、多重结局，还有追加服装和武器，让你通关一周目还想重开。\n\n使用各类一战近战武器和枪械，击败多种敌方士兵和战斗人员。\n\n独特像素风格，阴郁的声音设计，营造出令人压抑的紧张氛围，让“求生”二字更加有力。\n\n在精心设计的巧妙关卡中，唯有谨慎管理资源、规划路线，同时解开复杂的环境谜题，才能保住性命，不断向前推进。\n\n独特的一战主题环境，地图连贯相同，并有重叠之处。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "冒险",
+    "独立"
+  ],
+  "tags": [
+    "动作",
+    "冒险",
+    "独立"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "视角舒适度",
+    "可选颜色",
+    "自定义音量控制",
+    "可调整难度",
+    "可以仅用键盘",
+    "无需应对快速反应事件",
+    "DUALSHOCK 控制器支持",
+    "DualSense 控制器支持",
+    "立体声",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "Jordan Mochi",
+    "Catchweight Studio"
+  ],
+  "publishers": [
+    "Team17"
+  ],
+  "release_date": "2024 年 7 月 23 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语",
+    "法语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "日语",
+    "波兰语",
+    "葡萄牙语 - 巴西",
+    "俄语",
+    "简体中文",
+    "西班牙语 - 拉丁美洲",
+    "繁体中文",
+    "土耳其语"
+  ],
+  "is_free": false,
+  "price_cny": 31.28,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10\n处理器: Intel Core2 Duo E4400 or AMD Athlon 64 X2 Dual Core 6400+\n内存: 4 GB RAM\n显卡: NVIDIA GeForce GT 1030, 2GB or AMD Radeon HD 5970, 2GB or Intel Arc A310, 4GB\nDirectX 版本: 9.0\n存储空间: 需要 1 GB 可用空间\n附注事项: 1080p @ 30FPS",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10\n处理器: Intel Core i3-540 or AMD Phenom II X3 720\n内存: 8 GB RAM\n显卡: NVIDIA GeForce GTX 750, 2GB or AMD Radeon R7 260X, 2GB or Intel Arc A310, 4GB\nDirectX 版本: 9.0\n存储空间: 需要 1 GB 可用空间\n附注事项: 1080p @ 60 FPS",
+  "fetched_at": "2026-08-20T04:17:14Z",
+  "review_desc": "Very Positive",
+  "review_count": 2512,
+  "review_percentage": 90.4,
+  "review_score": 8
+}

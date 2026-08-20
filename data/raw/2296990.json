@@ -1,0 +1,79 @@
+{
+  "app_id": "2296990",
+  "name": "We Were Here Expeditions: The FriendShip",
+  "name_cn": "我们曾到此探险：友谊考验 - 友谊考验",
+  "short_description": "与您的朋友在线合作，通过一起解决废弃游乐园中的谜题来测试您的友谊。在这个独立的《We Were Here》游戏体验中一起努力克服这些考验智力的挑战。",
+  "detailed_description": "想试试与你最好的朋友一起面对任何挑战吗？我们很想看看你们的尝试！这个全新的《We Were Here》独立游戏体验将真正考验你们的友谊。为了证明你们的友谊可以克服任何困难，你们需要一起应对几个需要解密的挑战。\n\n这一切都与沟通、团队合作以及信任有关。一起交流，共同努力，最重要的是你们之间的信任程度。\n\n当你们追寻一个神秘的求救信号时，你们两人在海上孤身一人，最终抵达了一个废弃的游乐园里的神秘船。这将是一次难忘的航程，需要两个人共同解决谜题。你们的友谊状态将直接影响你们的船只状态！\n\n请注意，这是一次真正的考验，因为你将根据你们解决这些难题的能力得到评分！友谊真的能持续永远吗？还是这条船友谊将沉入海底？\n\nWe Were Here ‘Expedition’ 系列\n来自著名的《We Were Here》系列制作人，新推出的小型合作解谜游戏《We Were Here Expeditions》！这是新探险家尝试我们合作解谜游戏的绝佳机会，老玩家也可以尝试获得完美的成绩。和朋友一起玩游戏，一切都变得更好，支持跨平台游玩，所以如果你的朋友使用不同的平台，你们也可以一起畅游友谊的海洋！\n\n与朋友一起玩游戏并保持良好沟通是这个系列的关键：非对称的谜题给玩家不同的视角，只有一起解决才能完成。但不要担心，你们可以通过对讲机保持联系。通话结束！\n\n注意：本游戏仅限合作模式。它要求双方玩家都配备可用的麦克风和互联网连接。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "冒险",
+    "休闲",
+    "独立"
+  ],
+  "tags": [
+    "冒险",
+    "休闲",
+    "独立"
+  ],
+  "categories": [
+    "多人",
+    "合作",
+    "在线合作",
+    "跨平台多人",
+    "Steam 成就",
+    "自定义音量控制",
+    "DUALSHOCK 控制器支持",
+    "DUALSHOCK 控制器支持",
+    "DualSense 控制器支持",
+    "DualSense 控制器支持",
+    "字幕选项",
+    "部分支持控制器",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "Total Mayhem Games"
+  ],
+  "publishers": [
+    "Total Mayhem Games"
+  ],
+  "release_date": "2023 年 9 月 14 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语",
+    "意大利语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "阿拉伯语",
+    "捷克语",
+    "丹麦语",
+    "荷兰语",
+    "芬兰语",
+    "日语",
+    "韩语",
+    "挪威语",
+    "波兰语",
+    "葡萄牙语 - 巴西",
+    "葡萄牙语 - 葡萄牙",
+    "俄语",
+    "简体中文",
+    "西班牙语 - 拉丁美洲",
+    "瑞典语",
+    "泰语",
+    "繁体中文",
+    "土耳其语\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 18.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10 64 bit\n处理器: Intel Core i5 4000 series or equivalent\n内存: 8 GB RAM\n显卡: Nvidia GTX 1060 6GB or equivalent, integrated graphics not supported\nDirectX 版本: 11\n网络: 宽带互联网连接\n存储空间: 需要 10 GB 可用空间\n附注事项: A working PC-compatible microphone",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10 64 bit\n处理器: Intel Core i5 4000 series or equivalent\n内存: 8 GB RAM\n显卡: Nvidia GTX 1660TI or equivalent, integrated graphics not supported\nDirectX 版本: 11\n网络: 宽带互联网连接\n存储空间: 需要 10 GB 可用空间\n附注事项: A working PC-compatible microphone",
+  "fetched_at": "2026-08-20T04:03:52Z",
+  "review_desc": "Very Positive",
+  "review_count": 24037,
+  "review_percentage": 90.1,
+  "review_score": 8
+}

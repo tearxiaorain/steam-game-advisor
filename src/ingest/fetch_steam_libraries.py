@@ -155,7 +155,6 @@ def fetch_owned_games_full(
     resp = payload.get("response") or {}
     games = resp.get("games")
     if games is None:
-        # 常见：库存设为私密时返回空 response / 无 games 字段
         return [], "private_or_empty"
     rows: List[Dict[str, Any]] = []
     for item in games:
@@ -249,8 +248,8 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--friend-limit",
         type=int,
-        default=20,
-        help="最多拉取多少位好友的库存（0=全部）",
+        default=0,
+        help="最多拉取多少位好友的库存（0=全部，默认全部）",
     )
     parser.add_argument("--sleep", type=float, default=0.35, help="请求间隔秒数")
     parser.add_argument("--skip-friends", action="store_true", help="只拉本人库存")
@@ -342,8 +341,7 @@ def main() -> None:
             friend_since=int(fr.get("friend_since") or 0) or None,
             error=err,
         )
-        rel = FRIENDS_BY_ID_DIR / f"{sid}.json"
-        write_json(rel, record)
+        write_json(FRIENDS_BY_ID_DIR / f"{sid}.json", record)
         friend_records.append(record)
 
         by_steamid[sid] = f"by_steamid/{sid}.json"

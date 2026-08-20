@@ -1,0 +1,60 @@
+{
+  "app_id": "990630",
+  "name": "The Last Campfire",
+  "name_cn": "",
+  "short_description": "《最后的篝火》（Last Campfire）是一个以冒险为主题的游戏，游戏主线描述的是一个迷失的余烬角色被困在一个谜题世界，为了寻找家园的定义和曲折返乡之旅的故事",
+  "detailed_description": "追寻真谛《最后的篝火》（Last Campfire）是一个以冒险为主题的游戏，游戏主线描述的是一个迷失的余烬角色被困在一个谜题世界，为了寻找家园的定义和曲折返乡之旅的故事\n\n一场探险旅程深入黑暗森林境外的神秘土地，攻克摆在你面前的逆境。\n\n发现神秘世界一个充满迷失角色，奇怪生物和神秘废墟的世界，随角色领略唯美纷呈的秘境。\n\n照亮最后的篝火寻找希望之火，一路小心护送，在旅程中点燃最后的篝火。\n\n小工作室精品制作LostWinds主创人员，Hello Games诚挚打造的独特故事。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "冒险",
+    "独立"
+  ],
+  "tags": [
+    "冒险",
+    "独立"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "Hello Games"
+  ],
+  "publishers": [
+    "Hello Games"
+  ],
+  "release_date": "2021 年 10 月 7 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语",
+    "法语",
+    "意大利语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "阿拉伯语",
+    "荷兰语",
+    "日语",
+    "韩语",
+    "葡萄牙语 - 巴西",
+    "俄语",
+    "简体中文",
+    "繁体中文",
+    "土耳其语"
+  ],
+  "is_free": false,
+  "price_cny": 58.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10 (64-bit)\n处理器: Intel Core i5 1.8 GHz\n内存: 4 GB RAM\n显卡: NVIDIA GTX 480/AMD Radeon 7870\n存储空间: 需要 3 GB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10 (64-bit)\n处理器: Intel Core i5 2.8 GHz\n内存: 8 GB RAM\n显卡: NVIDIA GTX 1660/AMD RX 5600 XT\n存储空间: 需要 3 GB 可用空间",
+  "fetched_at": "2026-08-20T04:20:42Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 20327,
+  "review_percentage": 97.5,
+  "review_score": 9
+}

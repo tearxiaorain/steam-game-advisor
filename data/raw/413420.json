@@ -1,0 +1,53 @@
+{
+  "app_id": "413420",
+  "name": "Danganronpa 2: Goodbye Despair",
+  "name_cn": "超級槍彈辯駁2 再會了絕望學園",
+  "short_description": "Jabberwock Island—You and your classmates were ready for fun in the sun until Monokuma returned to restart his murderous game! Trapped in a kill-or-be-killed situation, your only hope rests in solving the island’s mysteries.",
+  "detailed_description": "Jabberwock Island – once a popular tourist destination, this now uninhabited island remains oddly pristine. You and your classmates at the elite Hope's Peak Academy have been brought to this island by your super-cute teacher for a “lovey-dovey, heart-throbbing school trip.” Everyone seems to be having fun in the sun...until Monokuma returns to restart his murderous game! Trapped on this island of mutual killing, your only hope of escape rests in solving the island’s mysteries. But be warned—sometimes the truth can be its own despair...\n\nKey Features\nDeadly Island Vibes: Murder is the only means of escape when you’re trapped on this island paradise. As your fellow classmates start dropping like coconuts, you’ll need to delve into each murderous incident, forage for clues, and interview your classmates to reveal the opportunity, motive, and means behind each killer case! \n\nTribal Council: You’ll go head-to-head in all new minigames with the other students during the Class Trial, shooting down their false truths and using your evidence to uncover what really happened. But watch out! If a student is unconvinced, they'll challenge you to a one-on-one Rebuttal Showdown and force you to defend your argument! \n\nSurvival of the Keenest: Match up your evidence with your fellow classmates’ arguments and determine who’s really telling the truth. Once you’ve got a suspect in your sights, turn up that tropical heat in a variety of timing and reflex-based game systems to reveal the ultimate truth and escape with your life!\n\nSteam Features: Supports Steam Achievements and Steam Cloud with plans to add Steam Trading Cards",
+  "description_lang_short": "en",
+  "description_lang_detail": "en",
+  "genres": [
+    "冒险"
+  ],
+  "tags": [
+    "冒险"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "DUALSHOCK 控制器支持",
+    "Steam 云",
+    "在手机上远程畅玩",
+    "在平板上远程畅玩",
+    "家庭共享"
+  ],
+  "developers": [
+    "Spike Chunsoft Co., Ltd.",
+    "Abstraction Games"
+  ],
+  "publishers": [
+    "Spike Chunsoft Co., Ltd."
+  ],
+  "release_date": "2016 年 4 月 18 日",
+  "platforms": [
+    "Windows",
+    "Mac",
+    "Linux"
+  ],
+  "supported_languages": [
+    "英语*",
+    "日语*",
+    "繁体中文\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 68.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows 7\n处理器: 2.8 GHz Intel Core 2 Duo or better\n内存: 3 GB RAM\n显卡: OpenGL 3.2 compatible GPU with at least 1GB of VRAM\nDirectX 版本: 9.0c\n存储空间: 需要 5 GB 可用空间\n附注事项: PS4 or Xbox 360 Controller or Direct Input compatible controller",
+  "pc_requirements_rec": "推荐配置:\n操作系统 *: Windows 7\n处理器: Intel(R) Core(TM) i5-3470 or better\n内存: 4 GB RAM\n显卡: OpenGL 3.2 compatible GPU with at least 1GB of VRAM\nDirectX 版本: 9.0c\n存储空间: 需要 6 GB 可用空间\n附注事项: PS4 or Xbox 360 Controller or Direct Input compatible controller",
+  "fetched_at": "2026-08-20T03:41:28Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 32522,
+  "review_percentage": 95.8,
+  "review_score": 9
+}

@@ -1,0 +1,81 @@
+{
+  "app_id": "239140",
+  "name": "Dying Light",
+  "name_cn": "",
+  "short_description": "以丧尸横行的末世为背景的开放世界第一人称动作生存游戏。在一个被神秘病毒摧残过后的城市里漫游。收集物资，制作武器并迎战成群的感染者。",
+  "detailed_description": "DYING LIGHT: THE BEAST凯尔·克兰回来了！这位哈兰的英雄已消失了十多年，但他将在《消逝的光芒：困兽》中强势回归！ \n\n \n\n《消逝的光芒：困兽》是一款激动人心的独立丧尸冒险，将继续讲述克兰的传奇故事！请查看专属产品页面以了解更多信息，并将游戏加入心愿单以获取最新动态！\n\n关于游戏重要：润色更新带来增强画面、重制原声、图形改良——拥有任何版本《消逝的光芒》的玩家都可以免费获得。\n\n《消逝的光芒》精要版包含：\n\n《消逝的光芒》（原版游戏）\n\n波扎克部落DLC\n\n餐馆和铁路站DLC\n\n终极幸存者礼包\n\n5周年礼包\n\n10周年礼包\n\n哈兰突击队礼包\n\n疯狂枪手礼包\n\n夜魔猎手礼包\n\n复古枪手礼包\n\n鼠战士礼包\n\n来自《Dead Island》和《Call of Juarez》的创作团队。荣获50多次业界奖项与提名。由于对游戏性的不懈追求，本作品为第一人称丧尸游戏设立了新的标杆。在推出后的七年时间中，我们仍旧在优化内容。今天，它已经成为有史以来最优秀的丧尸题材游戏之一。\n\n在丧尸病毒肆虐的城市里求生！执行秘密任务期间，发现你不得不做出艰难的选择。对上级的忠心能否胜过拯救幸存者的意愿？选择权在你手中……\n\n广阔的开放世界\n\n以前所未有的高自由度在城市里漫游，全面感受其独特的氛围。用跑酷技巧在建筑物间穿行，并到达遥远的区域。\n\n新意十足的战斗\n\n在血腥的战斗中探索对抗敌人的无数种手段。配合环境对各类武器及技能进行搭配，以在战斗时获得优势。\n\n日夜更替系统\n\n体验世界的昼夜剧变——日落之后，你将从猎手变成猎物。要么直面来袭的威胁，要么头也不回地拼命逃跑。\n\n4名玩家组队\n\n在激动人心的合作模式中，与其他玩家携手并战以提高生存几率。组队完成故事战役，检测你们作为一个团队的实力。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "冒险",
+    "角色扮演"
+  ],
+  "tags": [
+    "动作",
+    "冒险",
+    "角色扮演"
+  ],
+  "categories": [
+    "单人",
+    "多人",
+    "玩家对战",
+    "线上玩家对战",
+    "合作",
+    "在线合作",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "Steam 创意工坊",
+    "DUALSHOCK 控制器支持",
+    "DUALSHOCK 控制器支持",
+    "DualSense 控制器支持",
+    "DualSense 控制器支持",
+    "Steam 云",
+    "已启用 Valve 反作弊保护",
+    "包含关卡编辑器",
+    "在平板上远程畅玩",
+    "在电视上远程畅玩",
+    "家庭共享"
+  ],
+  "developers": [
+    "Techland"
+  ],
+  "publishers": [
+    "Techland"
+  ],
+  "release_date": "2015 年 1 月 26 日",
+  "platforms": [
+    "Windows",
+    "Mac",
+    "Linux"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语*",
+    "意大利语*",
+    "德语*",
+    "西班牙语 - 西班牙*",
+    "荷兰语",
+    "波兰语*",
+    "葡萄牙语 - 巴西*",
+    "俄语",
+    "韩语",
+    "简体中文",
+    "西班牙语 - 拉丁美洲",
+    "日语",
+    "泰语",
+    "繁体中文",
+    "土耳其语",
+    "捷克语\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 98.0,
+  "pc_requirements_min": "MINIMUM:\nOS *: Windows® 7 64-bit / Windows® 8 64-bit / Windows® 8.1 64-bit\n\tProcessor: Intel® Core™ i5-2500 @3.3 GHz / AMD FX-8320 @3.5 GHz\n\tMemory: 4 GB RAM DDR3\n\tHard Drive: 40 GB free space\n\tGraphics: NVIDIA® GeForce® GTX 560 / AMD Radeon™ HD 6870 (1GB VRAM)\n        DirectX®: Version 11\n        Sound: DirectX® compatible\n        Additional Notes: Laptop versions of graphics cards may work but are NOT officially supported.\n\nWindows-compatible keyboard, mouse, optional controller (Xbox 360 Controller for Windows recommended)",
+  "pc_requirements_rec": "RECOMMENDED:\nOS *: Windows® 7 64-bit / Windows® 8 64-bit / Windows® 8.1 64-bit\n\tProcessor: Intel® Core™ i5-4670K @3.4 GHz / AMD FX-8350 @4.0 GHz \n\tMemory: 8 GB RAM DDR3\n\tHard Drive: 40 GB free space\n\tGraphics: NVIDIA® GeForce® GTX 780 / AMD Radeon™ R9 290 (2GB VRAM)\n        DirectX®: Version 11\n        Sound: DirectX® compatible\n        Additional Notes: Laptop versions of graphics cards may work but are NOT officially supported.\n\nWindows-compatible keyboard, mouse, optional controller (Xbox 360 Controller for Windows recommended)",
+  "fetched_at": "2026-08-20T04:00:32Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 494028,
+  "review_percentage": 95.2,
+  "review_score": 9
+}

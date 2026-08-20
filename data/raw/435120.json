@@ -1,0 +1,66 @@
+{
+  "app_id": "435120",
+  "name": "Rusty Lake Hotel",
+  "name_cn": "",
+  "short_description": "Rusty Lake Hotel 是一款由Rusty Lake和Cube Escape系列游戏创作者开发的点击式冒险游戏。",
+  "detailed_description": "The Past Within - A Rusty Lake co-op Adventure\n\n关于游戏迎接我们的贵客入住锈湖旅馆，让他们度过一段愉快的时光。我们将摆设五场盛宴，确保每位贵客都死得其所。\n\nRusty Lake Hotel 是一款由Rusty Lake和Cube Escape系列游戏创作者开发的点击式冒险游戏。\n\n关键特征：\n\n操作简单：容易上手，一旦投入就爱不释手。\n\n各式谜题：6个房间，谜题各异，妙趣横生。\n\n悬而未决的故事：我们将在旅馆举行五场盛宴，和贵客们一起共度奇妙时光。\n\n悬念丛生的氛围：锈湖旅馆是一个离奇的地方，在这里什么都有可能发生……\n\n扣人心弦的配乐：每个房间都有特别设计的主题曲。\n\n成就：一个你前所未见的菜品图鉴。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "冒险",
+    "独立"
+  ],
+  "tags": [
+    "冒险",
+    "独立"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "Steam 集换式卡牌",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "Rusty Lake"
+  ],
+  "publishers": [
+    "Rusty Lake"
+  ],
+  "release_date": "2016 年 1 月 29 日",
+  "platforms": [
+    "Windows",
+    "Mac"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语",
+    "意大利语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "捷克语",
+    "丹麦语",
+    "荷兰语",
+    "日语",
+    "韩语",
+    "波兰语",
+    "葡萄牙语 - 葡萄牙",
+    "葡萄牙语 - 巴西",
+    "罗马尼亚语",
+    "俄语",
+    "简体中文",
+    "西班牙语 - 拉丁美洲",
+    "繁体中文",
+    "土耳其语",
+    "越南语\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 11.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Microsoft® Windows® XP/Vista/7,8, 10\n处理器: 1.8 Ghz Processor\n内存: 1 GB RAM\n存储空间: 需要 40 MB 可用空间",
+  "pc_requirements_rec": "",
+  "fetched_at": "2026-08-20T04:02:20Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 10498,
+  "review_percentage": 96.1,
+  "review_score": 9
+}

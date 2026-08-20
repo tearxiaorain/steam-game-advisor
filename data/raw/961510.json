@@ -1,0 +1,55 @@
+{
+  "app_id": "961510",
+  "name": "MarisaLand Legacy",
+  "name_cn": "",
+  "short_description": "黄昏边境最新作！东方Project二次创作「魔理沙大陆・遗产」 吃掉蘑菇头身就会增长，操作简单的2D横版过关！ 不仅是头身，人数也增加了！魔理沙的冒险，再度起航・・・！！",
+  "detailed_description": "黄昏边境最新作！东方Project二次创作游戏「魔理沙大陆・遗产」\n吃掉蘑菇头身就会增长，简单的2D横板过关游戏。故事概要一直对奇怪的蘑菇魔法抱有兴趣的魔理沙，不小心吃了变成2头身且不能使用魔法的蘑菇，为了寻找能变回原样的蘑菇魔理沙踏上旅途。\n\n把顺路捡到的蘑菇吃掉变大吧！\n不仅是头身，人数也增加了魔理沙的冒险，再度起航…!游戏特征・从2头身到8头身不等的可爱魔理沙闪亮登场。\n\n・虽然只限本地环境，但增加了多人游戏模式。（XInput最多可对应4人游戏）\n・ 在全32关之上，免费更新32关「困难关卡」。\n・在全32关通关后，追加32关「困难关卡」，共计64关可供游玩。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "休闲",
+    "独立"
+  ],
+  "tags": [
+    "动作",
+    "休闲",
+    "独立"
+  ],
+  "categories": [
+    "单人",
+    "多人",
+    "玩家对战",
+    "同屏/分屏玩家对战",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 云",
+    "远程同乐",
+    "家庭共享"
+  ],
+  "developers": [
+    "黄昏フロンティア"
+  ],
+  "publishers": [
+    "DLsite"
+  ],
+  "release_date": "2018 年 11 月 1 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "日语",
+    "英语",
+    "简体中文",
+    "繁体中文"
+  ],
+  "is_free": false,
+  "price_cny": 62.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows 7/8/10\n内存: 1 GB RAM\n显卡: DirectX 11 compatible graphics card\nDirectX 版本: 11\n存储空间: 需要 100 MB 可用空间",
+  "pc_requirements_rec": "",
+  "fetched_at": "2026-08-20T04:20:57Z",
+  "review_desc": "Mostly Positive",
+  "review_count": 135,
+  "review_percentage": 79.3,
+  "review_score": 6
+}

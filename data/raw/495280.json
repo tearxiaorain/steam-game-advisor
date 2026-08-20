@@ -1,0 +1,48 @@
+{
+  "app_id": "495280",
+  "name": "Disgaea 2 PC",
+  "name_cn": "",
+  "short_description": "The Overlord Zenon has cursed the land, leaving a young man named Adell to seek vengeance. However, all hell breaks loose as Adell accidentally kidnaps the Princess of the Netherworld. Will Adell be able to return the Princess, defeat Zenon, and break the Overlord's dark curse?",
+  "detailed_description": "~ The DEFINITIVE Edition! Includes all content from Disgaea 2: Cursed Memories (PS2) and Disgaea 2: Dark Hero Days (PSP) ~\n\nDarkness is back. Overlord Zenon has cursed the land, and now, Veldime is transforming into a nasty Netherworld. Memories are sterilized, bodies demonized, the world is falling into chaos. The only one unaffected is a young man, Adell. He stands up to fight the curse, but things never go as planned. The haughty daughter of Zenon, a filthy little frog, lovable demon siblings and a washed-up rock star!? No one can ever predict what goes on in the world of Disgaea. And of course, other Overlords refuse to sit still watching...\n\nKey Features:\n Choose from over 200 character classes for your squad!\n All-new Dark Court system where the good are punished and the evil praised.\n The Item World is back! Customize your items to make them even better.\n Utilize the new Stack Attack option, adding another layer of strategy.\n Enter the Dark World: a hardcore world setting where you can display massive amounts of damage!\n Play through Axel Mode and help Axel regain his popularity!\n Head over to the Land of Carnage, defeat high level enemies, and claim victory!New to Disgaea 2 PC:\n Updated UI, keyboard and mouse support\n New keyboard shortcuts\n Playable on Macs & Steam Machines!\n Three playable characters that never made it to the West: Dark Eclair, Gig, and Miabel!",
+  "description_lang_short": "en",
+  "description_lang_detail": "en",
+  "genres": [
+    "角色扮演"
+  ],
+  "tags": [
+    "角色扮演"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "Nippon Ichi Software, Inc."
+  ],
+  "publishers": [
+    "NIS America, Inc."
+  ],
+  "release_date": "2017 年 1 月 30 日",
+  "platforms": [
+    "Windows",
+    "Mac",
+    "Linux"
+  ],
+  "supported_languages": [
+    "英语*",
+    "日语*\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 76.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows 10/8/7\n处理器: Core2 Duo 2.60 GHz\n内存: 2 GB RAM\n显卡: GeForce 9500 GT, Radeon HD 5450 (OpenGL 3.0)\n存储空间: 需要 2 GB 可用空间\n声卡: Onboard",
+  "pc_requirements_rec": "推荐配置:\n操作系统 *: Windows 10/8/7\n处理器: Core i5-2500 3.30 GHz\n内存: 4 GB RAM\n显卡: GeForce GTS 450, Radeon HD 5750\n存储空间: 需要 2 GB 可用空间\n声卡: Onboard",
+  "fetched_at": "2026-08-20T04:25:39Z",
+  "review_desc": "Very Positive",
+  "review_count": 1700,
+  "review_percentage": 91.6,
+  "review_score": 8
+}

@@ -1,0 +1,50 @@
+{
+  "app_id": "235900",
+  "name": "RPG Maker XP",
+  "name_cn": "",
+  "short_description": "RPG MAKER lets you create an original role-playing game without any prior specialized knowledge or training. RPG MAKER XP is full of the functions you've been asking for, including game data encryption and a scripting feature that lets you change the very heart of the RPG MAKER engine.",
+  "detailed_description": "THE LATEST VERSION OF RPG MAKER SERIES ON STEAM, \"RPG MAKER MZ\"THE LATEST INSTALLMENT IN THE RPG MAKER SERIES, RPG MAKER MZ, BRINGS SIGNIFICANT ENHANCEMENTS TO THE FEATURES INTRODUCED IN ITS PREDECESSOR, MV. IT IS A NO-CODE GAME DEVELOPMENT TOOL THAT SIMPLIFIES GAME CREATION, EVEN FOR BEGINNERS. IT INCORPORATES MANY NEW FEATURES, INCLUDING AUTO-SAVE AND EVENT SKIPPING.\n\nAbout the SoftwareRPG MAKER lets you create an original role-playing game without any prior specialized knowledge or training. RPG MAKER XP is full of the functions you've been asking for, including game data encryption and a scripting feature that lets you change the very heart of the RPG MAKER engine. \n\nBy improving the operating environment, the program can now provide support for a full-colour display and greatly enhanced graphic capabilities. With support for PNG full-color mode and alpha channel, you can adjust the settings for graphic translucency as well as specify the transparent color. RPG Maker XP includes three map layers, allowing you to create complex and layered maps. The program includes a base set of graphics and sounds that you can use and modify at no extra charge. You can also import your own graphics and sounds, making your game truly stand out.\n\nRPG MAKER XP is equipped with the Ruby Game Scripting System (RGSS1), based on the Ruby language and customized especially for this program. Though mastering RGSS may take some time, it is a powerful tool in fully customizing your game. You can use RGSS to change how your game looks, feels, sounds and plays. If programming is just not your forte, you can turn to a wide variety of user-created scripts that's shared within the RPG Maker community.\n\nRPG MAKER XP is perfect for beginners and experts alike.",
+  "description_lang_short": "en",
+  "description_lang_detail": "en",
+  "genres": [
+    "角色扮演",
+    "设计和插画",
+    "教育",
+    "网络出版",
+    "游戏开发"
+  ],
+  "tags": [
+    "角色扮演",
+    "设计和插画",
+    "教育",
+    "网络出版",
+    "游戏开发"
+  ],
+  "categories": [
+    "单人"
+  ],
+  "developers": [
+    "Gotcha Gotcha Games",
+    "KADOKAWA",
+    "Yoji Ojima"
+  ],
+  "publishers": [
+    "Gotcha Gotcha Games"
+  ],
+  "release_date": "2013 年 12 月 13 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语"
+  ],
+  "is_free": false,
+  "price_cny": 92.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Microsoft® Windows® XP/2000 0 (64-bit OS is NOT supported)\n处理器: PC with 800MHz Intel® Pentium® III equivalent or higher processor\n内存: 128 MB RAM\n显卡: 1024x768 or better video resolution in High Color mode\n存储空间: 需要 100 MB 可用空间\n声卡: DirectSound-compatible sound card",
+  "pc_requirements_rec": "推荐配置:\n操作系统 *: Microsoft® Windows® XP/2000 0 (64-bit OS is NOT supported)\n处理器: PC with 1.5GHz Intel® Pentium® 4 equivalent or higher processor\n内存: 256 MB RAM\n显卡: 1024x768 or better video resolution in True Color mode\n存储空间: 需要 500 MB 可用空间\n声卡: DirectSound-compatible sound card",
+  "fetched_at": "2026-08-20T04:29:29Z",
+  "review_desc": "Very Positive",
+  "review_count": 1966,
+  "review_percentage": 93.4,
+  "review_score": 8
+}

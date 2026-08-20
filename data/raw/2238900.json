@@ -1,0 +1,68 @@
+{
+  "app_id": "2238900",
+  "name": "STAR OCEAN THE SECOND STORY R",
+  "name_cn": "",
+  "short_description": "爱与勇气的RPG，再度回归",
+  "detailed_description": "STAR OCEAN THE SECOND STORY R - DEMO\n《STAR OCEAN THE SECOND STORY R - DEMO》\n本体验版可游玩《STAR OCEAN THE SECOND STORY R》的开头至攻略完迷宫“克洛斯洞穴”为止，可以体验到由全新画面描绘出的原野以及包含新系统的战斗。\n\n※本体验版以正式版为基础重新编辑，限制了部分功能。\n※体验版中，每个保存数据都设有3个小时的时间限制。\n※体验版的游戏进度和角色等级可以继承至正式版。\n※唯有第一次启动正式版时可以选择是否继承体验版的保存数据。\n\n关于游戏于1998年在日本发售的系列第二部作品《STAR OCEAN THE SECOND STORY》，隆重推出重制版《STAR OCEAN THE SECOND STORY R》！\n本作不仅打造融合精美3D原野和怀旧2D像素角色的美术风格，还以原版为基础重新绘制所有角色插图。更邀请原版配音员献声，首次替所有事件完整配音。战斗也沿袭“STAR OCEAN”系列“简单、畅快、超华丽”的特色，游戏节奏变得更快，还能体验更多与伙伴联手合作的乐趣。\n和焕然一新的“STAR OCEAN”一起再度航向银河，展开守护星球与爱的冒险。\n\n    融合3D与2D！以全新画面风格打造精致世界\n原野、城镇和迷宫等所有地图都焕然一新。以精美的3D与怀旧的2D角色融合而成的全新画面，描绘出崭新的“STAR OCEAN”世界。\n    邀请原版配音员录制所有事件的完整语音\n所有事件首次由原版配音员录制语音，实现了在1998年时未能达成的效果。还收录了2008年发售的《STAR OCEAN 2 SECOND EVOLUTION》的角色语音，玩家随时都能自由切换每个角色的语音。\n    以原作为蓝本，由“梶本ユキヒロ”全新绘制角色插图\n由曾担任诸多“STAR OCEAN”系列插图的“梶本ユキヒロ”替本作的可操作角色绘制全新插图。以原作为蓝本的全新克洛德、蕾娜和伙伴们将闪亮登场。\n    由“桜庭統”重制所有配乐，全数由乐团实际演奏\n由创作原版配乐的“桜庭統”亲自重制本作配乐。战斗曲全部重新编曲并由乐团实际演奏，原野与过场影片的乐曲则加入弦乐等乐器，进化得更为豪华。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "角色扮演"
+  ],
+  "tags": [
+    "动作",
+    "角色扮演"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "Steam 集换式卡牌",
+    "视角舒适度",
+    "可选颜色",
+    "自定义音量控制",
+    "可调整难度",
+    "可以仅用键盘",
+    "无需应对快速反应事件",
+    "DUALSHOCK 控制器支持",
+    "DUALSHOCK 控制器支持",
+    "DualSense 控制器支持",
+    "DualSense 控制器支持",
+    "随时保存",
+    "立体声",
+    "部分支持控制器",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "Square Enix",
+    "Gemdrops, Inc."
+  ],
+  "publishers": [
+    "Square Enix"
+  ],
+  "release_date": "2023 年 11 月 2 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语",
+    "意大利语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "日语*",
+    "韩语",
+    "简体中文",
+    "繁体中文\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 198.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统: Windows® 10 / 11 64-bit\n处理器: AMD A8-7600 / Intel® Core™ i3-3210\n内存: 8 GB RAM\n显卡: AMD Radeon™ RX 460 / Intel® Arc™ A380 / NVIDIA® GeForce® GTX 750 Ti\nDirectX 版本: 11\n存储空间: 需要 20 GB 可用空间\n附注事项: Expected framerate: 30FPS with 1280x720 resolution and default graphics options",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: Windows® 10 / 11 64-bit\n处理器: AMD Ryzen™ 3 1200 / Intel® Core™ i5-3330\n内存: 8 GB RAM\n显卡: AMD Radeon™ RX 470 / Intel® Arc™ A750 / NVIDIA® GeForce® GTX 1650\nDirectX 版本: 11\n存储空间: 需要 20 GB 可用空间\n附注事项: Expected framerate: 60FPS with 1920x1080 resolution and default graphics options",
+  "fetched_at": "2026-08-20T04:12:17Z",
+  "review_desc": "Very Positive",
+  "review_count": 3994,
+  "review_percentage": 93.2,
+  "review_score": 8
+}

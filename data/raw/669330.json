@@ -1,0 +1,65 @@
+{
+  "app_id": "669330",
+  "name": "Mechabellum",
+  "name_cn": "钢铁指挥官",
+  "short_description": "在这款机甲自走棋游戏中，你将指挥钢铁洪流主宰未来战场！整编部队，研发科技，排兵布阵，掌控全局，率领您专属的钢铁雄师在战场上粉碎强敌！！全程策略，拒绝无脑点击。1v1 巅峰对决；2v2 携手破敌；4人混战厮杀；生存模式挑战极限；时空裂隙征服未知！以智取胜，总有一个战场适合你！",
+  "detailed_description": "钢铁指挥官：豪华版\n\n关于游戏\n\n你就是前线指挥官！ 从轻型战机到巨型泰坦，集结部队，铸成一支无坚不摧的钢铁劲旅。定制单位，研发科技，挥师破阵，所向披靡。\n\n将军以智取胜。谨慎洞察战场，精准料敌先机，从容随机应变，计谋决胜千里！胜负在智，无关手速。\n\n打造你独有的策略体系！ 在军工厂中定制单位，在战斗中升级以反制敌军。将狙击机甲改造为横扫集群的收割机器，或为重型坦克加装致命的自爆模组。用你独创的战法战胜强敌！\n\n从休闲娱乐到硬核竞技，总有一方战场属于你。在1v1天梯与锦标赛中竞逐荣耀；在2v2中与队友携手破敌；在生存模式中挑战极限；在4人混战中捭阖博弈；甚至还有规则不断流转的裂隙模式，战局千变万化，常玩常新！",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "独立",
+    "大型多人在线",
+    "模拟",
+    "策略"
+  ],
+  "tags": [
+    "动作",
+    "独立",
+    "大型多人在线",
+    "模拟",
+    "策略"
+  ],
+  "categories": [
+    "单人",
+    "多人",
+    "玩家对战",
+    "线上玩家对战",
+    "合作",
+    "在线合作",
+    "家庭共享"
+  ],
+  "developers": [
+    "Game River"
+  ],
+  "publishers": [
+    "Dreamhaven"
+  ],
+  "release_date": "2024 年 9 月 26 日",
+  "platforms": [
+    "Windows",
+    "Mac"
+  ],
+  "supported_languages": [
+    "简体中文",
+    "英语",
+    "法语",
+    "德语",
+    "繁体中文",
+    "西班牙语 - 西班牙",
+    "日语",
+    "韩语",
+    "波兰语",
+    "西班牙语 - 拉丁美洲",
+    "俄语"
+  ],
+  "is_free": false,
+  "price_cny": 36.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统 *: Windows 8 and above (64 bits)\n处理器: Intel, AMD 2 cores CPU at 2Ghz\n内存: 6 GB RAM\n显卡: AMD Radeon™ HD 7730, NVIDIA GeForce® GT 640\n网络: 宽带互联网连接\n存储空间: 需要 15 GB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10 or higher\n处理器: Intel Core i7- 8 Gen / AMD Ryzen 5 5600X 6 cores 3.7 GHz\n内存: 16 GB RAM\n显卡: NVIDIA GeForce RTX 2080 / AMD Radeon RX 6700 XT\nDirectX 版本: 12\n网络: 宽带互联网连接\n存储空间: 需要 20 GB 可用空间",
+  "fetched_at": "2026-08-20T04:23:40Z",
+  "review_desc": "Very Positive",
+  "review_count": 19284,
+  "review_percentage": 83.8,
+  "review_score": 8
+}

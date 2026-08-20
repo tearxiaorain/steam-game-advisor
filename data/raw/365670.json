@@ -1,0 +1,55 @@
+{
+  "app_id": "365670",
+  "name": "Blender",
+  "name_cn": "",
+  "short_description": "Blender is the free and open source 3D creation suite. Free to use for everyone, for any purpose.",
+  "detailed_description": "Blender is a free and open source 3D creation suite. It supports the entirety of the 3D pipeline—modeling, rigging, animation, simulation, rendering, compositing and motion tracking, and video editing. Advanced users employ Blender’s API for Python scripting to customize the application and write specialized tools; often these are included in Blender’s future releases. Blender is well suited to individuals and small studios who benefit from its unified pipeline and responsive development process. Examples from many Blender-based projects are available in the showcase.\n\r\n\n\r\nBlender is cross-platform and runs equally well on Linux, Windows and Macintosh computers. Its interface uses OpenGL to provide a consistent experience. To confirm specific compatibility, the list of supported platforms indicates those regularly tested by the development team.\n\r\n\n\r\nAs a community-driven project under the GNU General Public License (GPL), the public is empowered to make small and large changes to the code base, which leads to new features, responsive bug fixes, and better usability. Blender has no price tag, but you can invest, participate, and help to advance a powerful collaborative tool: Blender is your own 3D software.",
+  "description_lang_short": "en",
+  "description_lang_detail": "en",
+  "genres": [
+    "动画制作和建模",
+    "设计和插画",
+    "视频制作"
+  ],
+  "tags": [
+    "动画制作和建模",
+    "设计和插画",
+    "视频制作"
+  ],
+  "categories": [],
+  "developers": [
+    "Blender Foundation"
+  ],
+  "publishers": [
+    "Blender Foundation"
+  ],
+  "release_date": "2015 年 4 月 24 日",
+  "platforms": [
+    "Windows",
+    "Mac",
+    "Linux"
+  ],
+  "supported_languages": [
+    "英语",
+    "法语",
+    "意大利语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "日语",
+    "葡萄牙语 - 葡萄牙",
+    "俄语",
+    "乌克兰语",
+    "韩语",
+    "简体中文",
+    "越南语"
+  ],
+  "is_free": true,
+  "price_cny": 0.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统 *: Windows 8.1\n处理器: 4 cores with SSE4.2 support\n内存: 8 GB RAM\n显卡: 2GB RAM, OpenGL 4.3\n存储空间: 需要 1 GB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10 or Windows 11\n处理器: 8 cores\n内存: 32 GB RAM\n显卡: 8GB RAM",
+  "fetched_at": "2026-08-20T04:07:00Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 90491,
+  "review_percentage": 96.0,
+  "review_score": 9
+}

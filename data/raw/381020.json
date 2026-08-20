@@ -1,0 +1,69 @@
+{
+  "app_id": "381020",
+  "name": "Sky Rogue",
+  "name_cn": "",
+  "short_description": "Sky Rouge是一款节奏明快的rouge-lite动作飞行模拟器！在程序自生成的群岛上空痛击陆、海、空中的敌人，与敌王牌飞行员鏖战，或主攻巨型航母，但请务必留心导弹，因为阵亡者不可复生。",
+  "detailed_description": "Sky Rouge是一款节奏明快的rouge-lite动作飞行模拟器！在程序自生成的群岛上空痛击陆、海、空中的敌人，与敌王牌飞行员鏖战，或主攻巨型航母，但请务必留心导弹，因为阵亡者不可复生。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "独立",
+    "模拟"
+  ],
+  "tags": [
+    "动作",
+    "独立",
+    "模拟"
+  ],
+  "categories": [
+    "单人",
+    "多人",
+    "合作",
+    "同屏/分屏合作",
+    "同屏/分屏",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 创意工坊",
+    "Steam 云",
+    "在电视上远程畅玩",
+    "远程同乐",
+    "家庭共享"
+  ],
+  "developers": [
+    "Fractal Phase"
+  ],
+  "publishers": [
+    "Fractal Phase"
+  ],
+  "release_date": "2017 年 8 月 24 日",
+  "platforms": [
+    "Windows",
+    "Mac",
+    "Linux"
+  ],
+  "supported_languages": [
+    "英语",
+    "法语",
+    "日语",
+    "简体中文",
+    "意大利语",
+    "德语",
+    "韩语",
+    "西班牙语 - 西班牙",
+    "葡萄牙语 - 葡萄牙",
+    "葡萄牙语 - 巴西",
+    "俄语",
+    "西班牙语 - 拉丁美洲",
+    "繁体中文"
+  ],
+  "is_free": false,
+  "price_cny": 77.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows XP SP2\n处理器: Dual core or better\n内存: 512 MB RAM\n显卡: Integrated graphics card (Intel), generally anything from 2004 or later\nDirectX 版本: 9.0c\n存储空间: 需要 200 MB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n操作系统 *: Windows 7\n内存: 1 GB RAM\n显卡: Dedicated graphics card (NVidia or ATI)\nDirectX 版本: 11\n存储空间: 需要 300 MB 可用空间",
+  "fetched_at": "2026-08-20T04:27:26Z",
+  "review_desc": "Very Positive",
+  "review_count": 1227,
+  "review_percentage": 92.6,
+  "review_score": 8
+}

@@ -1,0 +1,60 @@
+{
+  "app_id": "335300",
+  "name": "DARK SOULS™ II: Scholar of the First Sin",
+  "name_cn": "",
+  "short_description": "DARK SOULS™ II：原罪学者。 当然，不管你是对是错，DARK SOULS™ II : Scholar of the First Sin，或者说是从初版特别“Direction Cut”版开始的全新体验，一触即触。",
+  "detailed_description": "DARK SOULS™ II：原罪学者。 当然，不管你是对是错，DARK SOULS™ II  Scholar of the First Sin，或者说是从初版特别“Direction Cut”版开始的全新体验，一触即触。\n\r\n\n\r\nToykakai 拥有的最新、最完整的 DARK SOULS™ II 工会。 这个联合，好像是避无可避啊！ 从30fps的跳跃到60fps，1080p的高画质，加入了游戏，画面也进行了更新细化。 相比之下，DARK SOULS™ II 视觉效果的极致真实，是前所未有的震撼体验。 战场场景更加流畅真实，提供更加完美的游乐体验。 同时，它也为深受喜爱的DARK SOULS™系列保持一贯的挑战难度。\n\r\n\n\r\n敌人的位置已经重新调整，呈现出前所未有的娱乐体验。 敌人的力量可以定期突破，并发起新的攻击。 安全区永远是安全的！ 物品放置和取货地点已更改。 完全遗忘，征服 DARK SOULS™ II。\n\r\n\n\r\n全新的NPC，荒凉的入侵者是关键角色，游戏系统已经完全重新设计。 只需游玩就行，失落之人（Forlorn）出现在首都之时！\n\r\n\n\r\n在线播放也很强大。 装备系统升级，在战斗中可以获得特殊道具和收敛之魂。 不断加入阵容。 可以在线玩的参与者人数从4人增加到6人。 完全重新设计的在线游戏玩法，也提供了一种全新的游戏方式。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "角色扮演"
+  ],
+  "tags": [
+    "动作",
+    "角色扮演"
+  ],
+  "categories": [
+    "单人",
+    "多人",
+    "合作",
+    "Steam 成就",
+    "完全支持控制器",
+    "在手机上远程畅玩",
+    "在平板上远程畅玩",
+    "在电视上远程畅玩",
+    "家庭共享"
+  ],
+  "developers": [
+    "FromSoftware, Inc."
+  ],
+  "publishers": [
+    "Bandai Namco Entertainment",
+    "FromSoftware, Inc."
+  ],
+  "release_date": "2015 年 4 月 1 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语",
+    "意大利语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "波兰语",
+    "葡萄牙语 - 巴西",
+    "俄语",
+    "韩语",
+    "繁体中文\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 198.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows 7 SP1 64bit, Windows 8.1 64bit\n处理器: AMD® A8 3870 3,6 Ghz or Intel® Core ™ i3 2100 3.1Ghz\n内存: 4 GB RAM\n显卡: NVIDIA® GeForce  GTX 465 / ATI Radeon TM HD 6870\nDirectX 版本: 11\n网络: 宽带互联网连接\n存储空间: 需要 23 GB 可用空间\n声卡: DirectX 11 sound device",
+  "pc_requirements_rec": "推荐配置:\n操作系统 *: Windows 7 SP1 64bit, Windows 8.1 64bit\n处理器: AMD® FX 8150 3.6 GHz or Intel® Core™ i7 2600 3.4 GHz\n内存: 8 GB RAM\n显卡: NVIDIA® GeForce® GTX 750, ATI Radeon™ HD 7850\nDirectX 版本: 11\n网络: 宽带互联网连接\n存储空间: 需要 23 GB 可用空间\n声卡: DirectX 11 sound device",
+  "fetched_at": "2026-08-20T04:27:46Z",
+  "review_desc": "Very Positive",
+  "review_count": 131379,
+  "review_percentage": 83.9,
+  "review_score": 8
+}

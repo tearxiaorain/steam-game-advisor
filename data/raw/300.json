@@ -1,0 +1,54 @@
+{
+  "app_id": "300",
+  "name": "Day of Defeat: Source",
+  "name_cn": "",
+  "short_description": "Valve 的经典二战游戏 - 现已支持 Mac。",
+  "detailed_description": "Day of Defeat 再现了第二次世界大战中欧洲战场上的火热豪情。 有步兵、狙击手或机枪手等多种角色设定。 DoD:S 借助 Valve 最新的引擎技术 Source，使游戏画面更加绚丽，音效更加震撼。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作"
+  ],
+  "tags": [
+    "动作"
+  ],
+  "categories": [
+    "多人",
+    "跨平台多人",
+    "Steam 成就",
+    "Steam 集换式卡牌",
+    "视角舒适度",
+    "可选颜色",
+    "自定义音量控制",
+    "可调整难度",
+    "立体声",
+    "环绕声",
+    "已启用 Valve 反作弊保护",
+    "统计数据",
+    "包括 Source SDK",
+    "家庭共享"
+  ],
+  "developers": [
+    "Valve"
+  ],
+  "publishers": [
+    "Valve"
+  ],
+  "release_date": "2010 年 7 月 12 日",
+  "platforms": [
+    "Windows",
+    "Linux"
+  ],
+  "supported_languages": [
+    "英语"
+  ],
+  "is_free": false,
+  "price_cny": 42.0,
+  "pc_requirements_min": "最低配置：1.7 GHz 处理器，512MB 内存，DirectX® 8 显卡，Windows® 7（32/64位）/Vista/XP，鼠标，键盘，互联网连接\n\n建议配置：Pentium 4 处理器（3.0GHz 或更高），1GB 内存，DirectX® 9 显卡，Windows® 7（32/64位）/Vista/XP，鼠标，键盘，互联网连接",
+  "pc_requirements_rec": "",
+  "fetched_at": "2026-08-20T04:07:51Z",
+  "review_desc": "Very Positive",
+  "review_count": 23573,
+  "review_percentage": 91.8,
+  "review_score": 8
+}

@@ -1,0 +1,65 @@
+{
+  "app_id": "3562120",
+  "name": "Magical Princess",
+  "name_cn": "梦幻魔法公主",
+  "short_description": "你将扮演一位父亲，引导女儿在魔法国度的学园中茁壮成长。养成方式多种多样：读书学习、打工挣钱……修习剑术也是不错的出路。根据你所作出的选择，海量的故事文本可导向超过50种分支结局。来亲手养育出世界第一可爱的小公主吧！",
+  "detailed_description": "在这款究极美少女养成游戏里，养出世界第一可爱的女儿吧！你是不是一直就想养个可爱又贴心的小棉袄呢？这个愿望，在这里就能实现！\n\n本游戏中你将成为父亲，一手将年幼的爱女养大，直至她魔导学园毕业。\n\n至于孩子怎么成长，就取决于你的育儿方针了！是让她好好读书，成为学霸？\n\n还是打扮得光鲜亮丽，站上舞台？\n\n或是提起宝剑，驰骋沙场—— \n\n又或许作恶多端，成为魔王……？！\n\n你所做的任何选择，都将极大影响女儿的未来！\n\n游戏特征自由度MAX的养成系统 — 上课、打工、约会、夜游……有时还能选择从事可疑的工作，甚至是……偷窃？！\n\n海量内容 — 超过170种约会事件、50多种结局供你探索！\n\n角色个性丰富 — 游戏拥有超过30位登场人物，与他们携手编织欢乐多彩的校园生活吧。\n\n故事引人入胜 — 每到满月染红天际的异变“赤月之夜”，就有魔物大肆袭来。扑朔迷离之下暗含因果……一切的关键都握在女儿手中？！\n\n一手养大全世界最最可爱的小公主！在这款养成游戏中，你将能体会到养育女儿的诸多乐趣，以及对她的深深挂念。\n\n女儿的未来，都由你的选择来创造。\n\n来亲手为她谱写轰轰烈烈的人生故事吧！\n\n那么——准备好成为一名父亲了吗？",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "冒险",
+    "独立",
+    "角色扮演",
+    "模拟"
+  ],
+  "tags": [
+    "冒险",
+    "独立",
+    "角色扮演",
+    "模拟"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "自定义音量控制",
+    "可以仅用键盘",
+    "可以仅用鼠标",
+    "#category_playable_at_your_own_pace",
+    "无需应对快速反应事件",
+    "DUALSHOCK 控制器支持",
+    "DUALSHOCK 控制器支持",
+    "DualSense 控制器支持",
+    "DualSense 控制器支持",
+    "立体声",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "Neotro Inc.",
+    "MAGI Inc."
+  ],
+  "publishers": [
+    "MAGI Inc."
+  ],
+  "release_date": "2026 年 4 月 27 日",
+  "platforms": [
+    "Windows",
+    "Mac"
+  ],
+  "supported_languages": [
+    "英语",
+    "简体中文",
+    "日语*",
+    "繁体中文\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 48.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统: Windows10 / Windows11\n处理器: Intel Core i3-6100 / AMD Ryzen 3 2200U\n内存: 8 GB RAM\n显卡: NVIDIA GeForce GTX 650 / AMD Radeon HD 7770\nDirectX 版本: 11\n存储空间: 需要 10 GB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: Windows10 / Windows11\n处理器: Intel Core i5-7500 / AMD Ryzen 5 1500X\n内存: 8 GB RAM\n显卡: NVIDIA GeForce GTX 1060 / AMD Radeon RX 560\nDirectX 版本: 11\n存储空间: 需要 10 GB 可用空间\n附注事项: 1080p / 60 FPS. SSD recommended.",
+  "fetched_at": "2026-08-20T03:36:07Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 7935,
+  "review_percentage": 96.8,
+  "review_score": 9
+}

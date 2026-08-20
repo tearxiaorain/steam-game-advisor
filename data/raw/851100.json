@@ -1,0 +1,56 @@
+{
+  "app_id": "851100",
+  "name": "Touhou Luna Nights",
+  "name_cn": "",
+  "short_description": "Touhou Luna Nights为2D探索型动作(类银河战士恶魔城)游戏。　 是曾经制作参与过多款动作游戏Team Ladybug的最新作品。",
+  "detailed_description": "Touhou Luna Nights为2D探索型动作(类银河战士恶魔城)游戏。　\n是曾经制作参与过多款动作游戏Team Ladybug的最新作品。\n\n“――来吧，开始我的世界”\n\n女仆「十六夜 咲夜」\n突然被红魔馆的主人·吸血鬼「蕾米莉亚·斯卡蕾特」\n送往了与幻想乡似是而非的异世界。\n\n从未到过的地方，从未见过的妖怪，以及被封印的力量。\n蕾米莉亚的目的到底是什么･･･？本游戏的特点\n\n需要灵活运用时间停止等特殊能力的地图机关\n\n利用擦弹进行属性回复\n\n充分展现东方世界观魅力的美术\n来自发行方的话\n\"Team Ladybug的作品从《Pharaoh  Rebirth》开始，推出了《复活的贝尔迪亚》、《真・女神转生SYNCHRONICITY PROLOGUE》\n等等许多有趣的游戏，非常令人期待。\"\n\n这次的作品是以在世界范围内都十分知名的《东方Project》为原作的2次创作游戏，\n从背景作图到角色的动作、技能等等方面都能看出作者对游戏制作的热忱与对东方Project的热爱。\n\n本作是类似恶魔城的2D探索型游戏，同时也是在类银河战士恶魔城游戏中偶尔可见的，\n不用拘泥于重复要素与道具收集也可以顺利推进的游戏。这样出色的游戏性背后，\n可以说是Team Ladybug至今为止一直不断努力，用心培养出的游戏制作技能的出色成果。\n\n我个人特别瞩目的地方是精致的动画。不仅是主人公角色的动作，过场与敌方角色也都充满了制作者对动画表现的追求，\n有很多第一眼甚至看不出来的细节表现，相信也会让玩家感到非常有趣。\n\nTouhou Luna Nights这款游戏，不仅面向东方Project的粉丝，同时也值得向所有喜欢2D动作类游戏的玩家强烈推荐。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "冒险",
+    "独立"
+  ],
+  "tags": [
+    "动作",
+    "冒险",
+    "独立"
+  ],
+  "categories": [
+    "单人",
+    "部分支持控制器",
+    "Steam 云",
+    "在手机上远程畅玩",
+    "在平板上远程畅玩",
+    "家庭共享"
+  ],
+  "developers": [
+    "Team Ladybug",
+    "WSS playground"
+  ],
+  "publishers": [
+    "WSS playground",
+    "Alliance Arts"
+  ],
+  "release_date": "2019 年 2 月 25 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语",
+    "简体中文",
+    "日语",
+    "韩语",
+    "法语",
+    "德语"
+  ],
+  "is_free": false,
+  "price_cny": 62.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows 2000 / XP / Vista / 7 / 8 / 10\n处理器: Intel Core2 Duo or higher\n内存: 2 GB RAM\n显卡: Open GL compliant video card\n存储空间: 需要 50 MB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n操作系统 *: Windows 2000 / XP / Vista / 7 / 8 / 10\n处理器: Intel Core2 Duo or higher\n内存: 2 GB RAM\n显卡: Open GL compliant video card\n存储空间: 需要 1 GB 可用空间",
+  "fetched_at": "2026-08-20T04:22:06Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 14927,
+  "review_percentage": 97.3,
+  "review_score": 9
+}

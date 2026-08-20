@@ -1,0 +1,80 @@
+{
+  "app_id": "552990",
+  "name": "World of Warships",
+  "name_cn": "",
+  "short_description": "投身惊心动魄的海战，在超过800艘来自20世纪上半叶的战舰中组建您的舰队——从隐蔽的驱逐舰到巨型战列舰。变换您的战舰外观并选择适合您游戏风格的升级品，与其他玩家在战斗中并肩作战！",
+  "detailed_description": "海战从未如此震撼！免费下载《战舰世界》，在宏大的地图上指挥庞大舰队展开惊心动魄的激战——每一次机动、齐射或突进都可能决定最终是完胜还是惨败。\n\n从威猛无比的大和号到神出鬼没的U-190号，您将体验近乎无尽的玩法，在历史战列舰、驱逐舰、巡洋舰、潜艇与航空母舰上尽情探索——每一艘都以3D再现其风貌。\n\n如果独狼式的战斗不适合您，那就邀请好友创建小队，一起挑战团队配合极限！若渴望更高难度的挑战，那就加入军团，在军团联盟段位中不断攀升，力争成为您所在服务器的最强者！\n\n在13个国家的科技树中规划航线，通过安装模组、解锁指挥官技能、为舰队搭配涂装与其他外观要素，精心打造属于您的海战策略与风格。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "大型多人在线",
+    "模拟",
+    "策略",
+    "免费开玩"
+  ],
+  "tags": [
+    "动作",
+    "大型多人在线",
+    "模拟",
+    "策略",
+    "免费开玩"
+  ],
+  "categories": [
+    "多人",
+    "大型多人在线",
+    "玩家对战",
+    "线上玩家对战",
+    "合作",
+    "在线合作",
+    "Steam 成就",
+    "Steam 集换式卡牌",
+    "应用内购买",
+    "可调整文字大小",
+    "视角舒适度",
+    "可选颜色",
+    "自定义音量控制",
+    "无需应对快速反应事件",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "Wargaming Group Limited"
+  ],
+  "publishers": [
+    "Wargaming Group Limited"
+  ],
+  "release_date": "2017 年 11 月 15 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语*",
+    "德语*",
+    "捷克语",
+    "日语*",
+    "波兰语*",
+    "俄语*",
+    "泰语",
+    "土耳其语",
+    "西班牙语 - 西班牙*",
+    "韩语*",
+    "葡萄牙语 - 巴西*",
+    "繁体中文*",
+    "意大利语*",
+    "简体中文*",
+    "乌克兰语",
+    "荷兰语*",
+    "西班牙语 - 拉丁美洲*\n*具有完全音频支持的语言"
+  ],
+  "is_free": true,
+  "price_cny": 0.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统 *: Windows 7 x64 SP1 / 8.1 / 10 / 11\n处理器: Intel® Core™ i3-3210 @ 3.2GHz, AMD Athlon™ II X2 245 @ 2.9 GHz\n内存: 6 GB RAM\n显卡: 1280×720; NVIDIA® GeForce® GT 640, AMD Radeon™ R7 240, Intel® HD 4000\nDirectX 版本: 11\n网络: 宽带互联网连接\n存储空间: 需要 67.2 GB 可用空间\n声卡: DirectX 11\n附注事项: 由于技术原因，只支持使用Steam版本创建的游戏账号。",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10 / 11\n处理器: Intel® Core™ i5-4460 @ 3.2 GHz, AMD FX-8320 @ 3.5 GHz\n内存: 8 GB RAM\n显卡: 1920×1080; NVIDIA® GeForce® GTX 770, AMD Radeon™ R9 270X 4Gb\nDirectX 版本: 11\n网络: 宽带互联网连接\n存储空间: 需要 67.2 GB 可用空间\n声卡: DirectX 11.1\n附注事项: 由于技术原因，只支持使用Steam版本创建的游戏账号。",
+  "fetched_at": "2026-08-20T04:06:24Z",
+  "review_desc": "Mostly Positive",
+  "review_count": 156088,
+  "review_percentage": 76.4,
+  "review_score": 6
+}

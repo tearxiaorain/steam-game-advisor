@@ -1,0 +1,62 @@
+{
+  "app_id": "1507190",
+  "name": "Machinika: Museum",
+  "name_cn": "",
+  "short_description": "欢迎来到异星装置博物馆！走进这个氛围浓厚的解谜游戏，跨越整个星系，探索美妙而又神秘的地外装置，利用自己的逻辑思维和观察能力将它们修复。你有能力挖出这些装置背后的故事吗？有希望了解它们主人的过去吗？",
+  "detailed_description": "研究员？你这么喜欢烧脑的东西，乐于解锁与探秘，这份工作肯定适合你。\n\n异星装置博物馆邀请你到一个非常特别的地方负责研究员的工作。如此遥远的未来，外星文明的机器并不稀罕。这家博物馆专门收藏这类机器，自然更是随处可见。你作为馆里的研究员，职责就是接收这些装置，然后摸清它们的维修方法。\n\n不过，这次的情况有些特殊——你没有收到任何资料，而且这次的工作似乎十分紧急……这些机器是什么来历？寄件人是谁？为什么没人解答你的疑问？你只能自己解开这些装置背后的秘密，调查它们的故事。\n\n《异星装置博物馆》受到《Myst》和《The Room》等新老经典解谜游戏的启发，游戏氛围扑朔迷离，视觉效果美观华丽，各种机械谜题等待玩家解开。重要特色内容：\n谜题烧脑：需要严密的逻辑推理能力和敏锐的观察能力\n科幻剧情丰富，氛围扑朔迷离，很多事情需要你慢慢了解……\n视效精彩，神秘的外星装置外观引人注意\n操作简单流畅，为什么要弄得那么复杂？\n游戏流程共计两到四个小时，谜题不断，神秘重重",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "冒险",
+    "休闲",
+    "独立"
+  ],
+  "tags": [
+    "冒险",
+    "休闲",
+    "独立"
+  ],
+  "categories": [
+    "单人",
+    "完全支持控制器",
+    "DUALSHOCK 控制器支持",
+    "DUALSHOCK 控制器支持",
+    "DualSense 控制器支持",
+    "DualSense 控制器支持",
+    "家庭共享"
+  ],
+  "developers": [
+    "Littlefield Studio"
+  ],
+  "publishers": [
+    "Dear Villagers"
+  ],
+  "release_date": "2021 年 3 月 23 日",
+  "platforms": [
+    "Windows",
+    "Mac"
+  ],
+  "supported_languages": [
+    "英语",
+    "法语",
+    "意大利语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "简体中文",
+    "繁体中文",
+    "韩语",
+    "日语",
+    "波兰语",
+    "葡萄牙语 - 巴西",
+    "俄语"
+  ],
+  "is_free": false,
+  "price_cny": 32.0,
+  "pc_requirements_min": "最低配置:\n操作系统: Windows7或更新版本\n处理器: 双核2 Ghz\n内存: 3 GB RAM\n显卡: 512M VRAM\nDirectX 版本: 11\n存储空间: 需要 2 GB 可用空间\n附注事项: 需要64位CPU和操作系统",
+  "pc_requirements_rec": "",
+  "fetched_at": "2026-08-20T03:43:52Z",
+  "review_desc": "Very Positive",
+  "review_count": 6287,
+  "review_percentage": 92.7,
+  "review_score": 8
+}

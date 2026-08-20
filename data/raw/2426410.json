@@ -1,0 +1,49 @@
+{
+  "app_id": "2426410",
+  "name": "Boti: Byteland Overclocked - Prologue",
+  "name_cn": "",
+  "short_description": "欢迎来到Byteland！Boti是一个勇敢可爱的数据机器人，他邀请你参与一场经典的3D平台冒险，你可以随着音乐和更多元素跳跃、冲刺及滑行！在《Boti: Byteland Overclocked》序章中，你将能体验到完整版中所有的奇妙内容。",
+  "detailed_description": "Come talk to other adventurers\n\n关于游戏开启你在Byteland的冒险\n《Boti: Byteland Overclocked》将创新融入了经典的3D平台游戏。在鲜活的关卡中进行二段跳、冲刺、浮空及滑行，探索由电脑及科技精华启发的美妙连击操作。啊对了，还有丝滑的双人模式。处理器等待你的援手\n你将化身Boti，一名可爱的数据机器人，在新手教程中迈出第一步。当你做好准备后，将与两个欢乐的好伙伴Zero和One一起进行奇幻冒险，在更长的游戏第一关中探索神秘的Motherboard Island！。一起……滑行、滑翔、使用磁力\n跟随Byteland的节奏滑行，使出超酷的连击，或通过随时可进退的合作模式，同朋友家人一起探索这个活力四射、五彩缤纷的网络世界，分享纯粹的乐趣！",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "冒险",
+    "休闲",
+    "独立",
+    "免费开玩"
+  ],
+  "tags": [
+    "冒险",
+    "休闲",
+    "独立",
+    "免费开玩"
+  ],
+  "categories": [
+    "单人",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "Purple Ray Studio"
+  ],
+  "publishers": [
+    "Untold Tales",
+    "CouchPlay Interactive"
+  ],
+  "release_date": "2023 年 8 月 16 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语*\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": null,
+  "pc_requirements_min": "最低配置:\n操作系统: Windows 10\n处理器: Intel Core i5-7500 // AMD Ryzen 5 3600\n内存: 8 GB RAM\n显卡: Nvidia GTX 1660ti //  rx 580\nDirectX 版本: 11\n存储空间: 需要 20 GB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n操作系统: Windows 10\n处理器: Intel Core i5 10400 // AMD ryzen 5 5600g\n内存: 8 GB RAM\n显卡: Nvidia RTX 2060 // AMD RX 5700\nDirectX 版本: 11\n存储空间: 需要 20 GB 可用空间",
+  "fetched_at": "2026-08-20T04:11:13Z",
+  "review_desc": "Mostly Positive",
+  "review_count": 131,
+  "review_percentage": 75.6,
+  "review_score": 6
+}

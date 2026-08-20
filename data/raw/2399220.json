@@ -1,0 +1,44 @@
+{
+  "app_id": "2399220",
+  "name": "NUKITASHI",
+  "name_cn": "",
+  "short_description": "萌系游戏大赏2018剧本赏金赏！由Qruppo社所推出的一款逃亡？冒险类型的游戏！ 故事藉由架空的世界阐述了现代的社会议题，搭配无厘头的搞笑桥段以及王道的热血战斗，结合燃、泣、剧情三种元素。 游玩过的玩家好评不断，逐渐建立起口碑。 普通的冒险游戏？不不，它可是个脑洞大开的杰出作品。",
+  "detailed_description": "游戏特色：登场的女主角皆有全程配音！\n游玩时间：20小时～故事大纲青蓝岛──施行特殊条例的乐园岛屿。\n不过岛上依然存在着不愿遵守条例的人们。\n\n喜欢同性，除了哥哥以外无法接受异性的妹妹。\n时常被误会的辣妹同学。\n因为身材娇小，而被误认为未达条例年龄的前辈。\n以及对自己抱有强烈自卑感的少年。\n\n主角──橘淳之介与这样的少女们在暗中集结，\n组成了反对条例的秘密组织【NLNS】。\n\n提供他们秘密基地，并出钱赞助的【神秘老人】所提出的条件只有一个，\n就是「找出某位少女，并保护她」。\n──据说该名少女便是能够摧毁岛上的条例的关键。\n\n既然如此，要做的只有一件事──\n欺骗敌对组织，保护自己，并找出那名少女。\n然後──摧毁可恶的条例！！\n登场角色\n片桐奈奈濑\n（CV：柳ひとみ/Hitomi Yanagi）\n校内最有名的？？领袖。\n不时会传出创下壮举的传闻。\n她反过来利用这些传闻，与主角一起迴避着条例的限制。\n\n橘 麻沙音\n（CV：そらまめ。/Soramame）\n主角的妹妹，也是最瞭解他的人。\n虽然对男性没兴趣，但非常喜欢哥哥和女孩子，\n对比自己年长的人和辣妹特别没抵抗力。\n\n渡会雏见\n（CV：飴川紫乃/Shino Amekawa）\n因为非常娇小，怎麽看都太年少而被认为不适用「条例」，\n但其实是三年级生的前辈。\n心胸无比开阔，可以靠满溢的母性包容一切。\n连主角都会忍不住被雏见的包容力所折服。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "冒险"
+  ],
+  "tags": [
+    "冒险"
+  ],
+  "categories": [
+    "单人",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "Qruppo"
+  ],
+  "publishers": [
+    "Shiravune"
+  ],
+  "release_date": "2023 年 6 月 23 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语",
+    "简体中文",
+    "繁体中文"
+  ],
+  "is_free": false,
+  "price_cny": 92.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10 / 11\n处理器: Intel Core i-series 4000 or higher\n内存: 8 GB RAM\n显卡: NVIDIA GeForce GTX1080\nDirectX 版本: 11\n存储空间: 需要 10 GB 可用空间\n声卡: PCM (DirectSound support)",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10 / 11\n处理器: Intel Core i-series 6000 or higher\n内存: 16 GB RAM\n显卡: NVIDIA GeForce GTX1660ti\nDirectX 版本: 11\n存储空间: 需要 20 GB 可用空间\n声卡: PCM (DirectSound support)",
+  "fetched_at": "2026-08-20T03:44:18Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 3772,
+  "review_percentage": 95.3,
+  "review_score": 9
+}

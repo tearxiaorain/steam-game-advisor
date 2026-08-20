@@ -1,0 +1,60 @@
+{
+  "app_id": "744190",
+  "name": "Rusty Lake Paradise",
+  "name_cn": "",
+  "short_description": "《锈湖：天堂岛》的故事发生在一个被埃及十灾诅咒的偏远小岛上。游戏延续了锈湖系列独一无二的风格和惊险刺激的设计，快来开启这段黑暗骇人又充满谜团的冒险吧。",
+  "detailed_description": "The Past Within - A Rusty Lake co-op Adventure\n\n关于游戏艾兰德（Eilander）家族中的长子——雅各布（Jakob）在母亲去世后回到了天堂岛。自从母亲离奇死亡后，这座岛屿仿佛被十灾诅咒了。一起来寻找母亲的隐藏记忆，参加离奇的家族仪式，阻止灾祸的发生！\n\n《锈湖：天堂岛》是由创作了《方块逃脱》系列、《锈湖旅馆》和《锈湖根源》的锈湖推出的第三个点选式冒险游戏。\n\n游戏特性：\n\n游戏容易上手：易于上手却让你爱不释手\n独特的故事情节：首个基于埃及十灾的冒险游戏\n一玩难忘的解谜游戏体验：每一场灾祸都有独特的风格、悬念及充满锈湖特色的烧脑谜题\n令人激动的画面设计：由荷兰画家约翰·赦夫特（Johan Scherft）手绘的粉笔画背景\n超有画面感的游戏音乐：每场灾祸都有自己的主题曲和变奏曲\n成就：岛上还有更多的秘密等你揭开",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "冒险",
+    "独立"
+  ],
+  "tags": [
+    "冒险",
+    "独立"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "Steam 集换式卡牌",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "Rusty Lake"
+  ],
+  "publishers": [
+    "Rusty Lake"
+  ],
+  "release_date": "2018 年 1 月 11 日",
+  "platforms": [
+    "Windows",
+    "Mac"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语",
+    "意大利语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "葡萄牙语 - 巴西",
+    "简体中文",
+    "丹麦语",
+    "日语",
+    "韩语",
+    "荷兰语",
+    "波兰语",
+    "俄语",
+    "土耳其语\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 18.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Microsoft® Windows® XP/Vista/7,8, 10 or later\n处理器: 1.8 Ghz Processor\n显卡: Direct X 9.0c compatible video card\nDirectX 版本: 9.0\n存储空间: 需要 100 MB 可用空间",
+  "pc_requirements_rec": "",
+  "fetched_at": "2026-08-20T04:01:54Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 7509,
+  "review_percentage": 95.2,
+  "review_score": 9
+}

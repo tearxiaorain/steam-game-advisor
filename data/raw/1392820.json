@@ -1,0 +1,56 @@
+{
+  "app_id": "1392820",
+  "name": "Milk inside a bag of milk inside a bag of milk",
+  "name_cn": "",
+  "short_description": "A short story about what sort of challenges everyday little things can be. Help the girl buy milk, be the first not to disappoint her.",
+  "detailed_description": "https://store.steampowered.com/app/1593020/Milk_inside_a_bag_of_milk_inside_a_bag_of_milk_Soundtrack/\n\r\n\n\r\n这是一个短篇故事，讲述了我们眼中易如反掌的日常小事，也有可能变成意外棘手的挑战。你的任务是帮助这个小姑娘买到牛奶，努力成为第一个不会让她失望的“好搭档”吧。\n\r\n\n\r\n这是一个短篇故事，讲述了我们眼中易如反掌的日常小事，也有可能变成意外棘手的挑战。你的任务是帮助这个小姑娘买到牛奶，努力成为第一个不会让她失望的“好搭档”吧。\n\r\n\n\r\n这是一款流程较短的视觉小说游戏，有用图像展示的有趣抽象概念，也有值得回味的文字游戏，还有令人痛苦的精神障碍发作片段。如果我们声称“本游戏是基于现实事件改编而成的”，那会很容易让其他人通过经历定位到具体的个人，所以还是把这款游戏仅仅当成抽象概念和文字游戏的结合会更好。\n\r\n\n\r\n这部作品本身是对文字和叙事结构的一种艺术性的尝试，其次才是一款游戏。\n\r\n\n\r\n\n\r\n游戏特色：\n\r\n\n\r\n流程较短（10-15分钟）\n\r\n\n\r\n独特的游戏视觉风格\n\r\n\n\r\n真实音轨，质感逼真",
+  "description_lang_short": "en",
+  "description_lang_detail": "zh",
+  "genres": [
+    "冒险",
+    "独立"
+  ],
+  "tags": [
+    "冒险",
+    "独立"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "家庭共享"
+  ],
+  "developers": [
+    "Nikita Kryukov"
+  ],
+  "publishers": [
+    "Nikita Igorevich Studio"
+  ],
+  "release_date": "2020 年 8 月 26 日",
+  "platforms": [
+    "Windows",
+    "Mac",
+    "Linux"
+  ],
+  "supported_languages": [
+    "英语",
+    "俄语",
+    "西班牙语 - 西班牙",
+    "简体中文",
+    "葡萄牙语 - 巴西",
+    "波兰语",
+    "土耳其语",
+    "法语",
+    "意大利语",
+    "日语",
+    "阿拉伯语"
+  ],
+  "is_free": false,
+  "price_cny": 8.24,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows 7\n处理器: i3\n内存: 1 GB RAM\n显卡: Any\n存储空间: 需要 250 MB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n存储空间: 需要 250 MB 可用空间",
+  "fetched_at": "2026-08-20T04:16:06Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 34209,
+  "review_percentage": 96.4,
+  "review_score": 9
+}

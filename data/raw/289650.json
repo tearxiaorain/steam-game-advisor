@@ -1,0 +1,66 @@
+{
+  "app_id": "289650",
+  "name": "Assassin's Creed® Unity",
+  "name_cn": "刺客信条：大革命",
+  "short_description": "巴黎，1789 年。在这款动作冒险游戏中，以阿尔诺·多里安的视角，亲历法国大革命的风云。化身刺客，为拯救祖国，揭穿革命幕后黑手的面纱。",
+  "detailed_description": "无情的新世界，凶猛的新主角扮演全新一代刺客阿尔诺，掌握比前辈们更加致命的手段。你的猎物将面对各种强劲武器，比如兼备十字弓功能的袖剑“幻刃”。\n\n体验无缝糅合跑酷、战斗、潜行的玩法通过无缝跑酷、全新战斗系统以及改进的潜行玩法，随心所欲操控你的刺客角色。\n\n探索风云变幻的巴黎原本优雅的魅力之都，燃起了恐怖混乱的革命之火。你将在这个全比例还原的开放世界中，亲眼见证令人惊叹的历史篇章。从攻占巴士底狱到处决路易十六国王，一桩桩关键事件将彻底改变巴黎街头的面貌，最终决定法国的命运。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "冒险"
+  ],
+  "tags": [
+    "动作",
+    "冒险"
+  ],
+  "categories": [
+    "单人",
+    "多人",
+    "合作",
+    "Steam 成就",
+    "应用内购买",
+    "自定义音量控制",
+    "可调整难度",
+    "可以仅用鼠标",
+    "无需应对快速反应事件",
+    "随时保存",
+    "立体声",
+    "环绕声",
+    "部分支持控制器"
+  ],
+  "developers": [
+    "Ubisoft"
+  ],
+  "publishers": [
+    "Ubisoft"
+  ],
+  "release_date": "2014 年 11 月 12 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语*",
+    "意大利语*",
+    "德语*",
+    "西班牙语 - 西班牙*",
+    "捷克语",
+    "日语*",
+    "韩语",
+    "波兰语",
+    "葡萄牙语 - 巴西",
+    "俄语*",
+    "繁体中文",
+    "荷兰语\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 128.0,
+  "pc_requirements_min": "最低配置:\n操作系统: Windows 10 (64-bit versions only)\n处理器: Intel Core i5-2500K @ 3.3 GHz or AMD FX-8350 @ 4.0 GHz\n内存: 6 GB RAM\n显卡: NVIDIA GeForce GTX 680 or AMD Radeon HD 7970 (2 GB VRAM)\n存储空间: 需要 50 GB 可用空间\n声卡: DirectX 9.0c compatible sound card with latest drivers\n附注事项: Windows-compatible keyboard and mouse required, optional controller",
+  "pc_requirements_rec": "推荐配置:\n操作系统: Windows 10 (64-bit versions only)\n处理器: Intel Core i7-3770 @ 3.4 GHz or AMD FX-8350 @ 4.0 GHz or better\n内存: 8 GB RAM\n显卡: NVIDIA GeForce GTX 780 or AMD Radeon R9 290X (3 GB VRAM)\n存储空间: 需要 50 GB 可用空间\n声卡: DirectX 9.0c compatible sound card with latest drivers\n附注事项: Supported video cards at the time of release: NVIDIA GeForce GTX 680 or better, GeForce GTX 700 series; AMD Radeon HD7970 or better, Radeon R9 200 series Note: Laptop versions of these cards may work but are NOT officially supported.",
+  "fetched_at": "2026-08-20T04:28:19Z",
+  "review_desc": "Mostly Positive",
+  "review_count": 85384,
+  "review_percentage": 77.8,
+  "review_score": 6
+}

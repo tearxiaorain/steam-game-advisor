@@ -1,0 +1,75 @@
+{
+  "app_id": "553420",
+  "name": "TUNIC",
+  "name_cn": "",
+  "short_description": "在TUNIC中探索一个失落的传说、古老的力量和凶猛的怪物的土地，这是一个关于小狐狸大冒险的无透视三维动作游戏。",
+  "detailed_description": "Full Controller SupportTUNIC on PC is best experienced with a gamepad or controller.\n\n关于游戏在TUNIC中探索一个失落的传说、古老的力量和凶猛的怪物的土地，这是一个关于小狐狸大冒险的无透视三维动作游戏。滞留在一片废墟上，仅凭自己的好奇心，你将面对巨大的野兽，收集奇怪而强大的物品，并揭开尘封已久的秘密。\n\n成为一个传奇\n\n传说这片土地上蕴藏着丰富的宝藏。也许就藏在那扇金门的后面？或者在地下深处的某个地方？有些故事讲述了云中有一座宫殿，古代的生物拥有不可思议的力量。你会有什么发现？\n\n重修圣书\n\n在你的旅行过程中，你将重构游戏的指导手册。你将逐页揭开地图、小提示、特殊技巧和最深的秘密。如果你找到了所有这些，也许会有好事发生……\n\n鼓起勇气，小家伙！\n\n全情投入到各种各样的技巧战斗中。闪避，格挡，招架和攻击！学习如何征服各种大大小小怪物，并发现有用的新物品助你前行。\n\n探索一个危机四伏和错综复杂的世界，有阴暗的森林，蔓生的废墟，迷宫般的地下墓穴\n\n在地底深处，云端之上，和陌生的地方与强大的BOSS战斗\n\n收集缺失的手册书页，充满各种小提示及原始的全彩插图\n\n寻找隐藏的宝藏助你前行\n\n发掘秘密文物、秘密技术、秘密拼图，还有……听着，这儿有很多秘密！\n\n由Power Up Audio提供音效设计支持\n\n由Lifeformed (Terence Lee + Janice Kwan)提供原声带\n\n勇敢点，小狐狸",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "冒险",
+    "角色扮演"
+  ],
+  "tags": [
+    "动作",
+    "冒险",
+    "角色扮演"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "TUNIC Team"
+  ],
+  "publishers": [
+    "Finji"
+  ],
+  "release_date": "2022 年 3 月 16 日",
+  "platforms": [
+    "Windows",
+    "Mac"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语*",
+    "意大利语*",
+    "德语*",
+    "西班牙语 - 西班牙*",
+    "保加利亚语*",
+    "捷克语*",
+    "丹麦语*",
+    "荷兰语*",
+    "芬兰语*",
+    "希腊语*",
+    "匈牙利语*",
+    "日语*",
+    "韩语*",
+    "挪威语*",
+    "波兰语*",
+    "葡萄牙语 - 巴西*",
+    "罗马尼亚语*",
+    "俄语*",
+    "简体中文*",
+    "西班牙语 - 拉丁美洲*",
+    "瑞典语*",
+    "繁体中文*",
+    "土耳其语*",
+    "乌克兰语*",
+    "葡萄牙语 - 葡萄牙*",
+    "阿拉伯语*\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 108.0,
+  "pc_requirements_min": "最低配置:\n操作系统: Windows 10\n处理器: Intel i5 Quad-Core, 2.7 GHz\n内存: 8 GB RAM\n显卡: GTX 660 / RX 460\n存储空间: 需要 2 GB 可用空间\n附注事项: Gamepad or Controller Recommended.",
+  "pc_requirements_rec": "推荐配置:\n操作系统: Windows 10\n处理器: Intel i5 Quad-Core, 3 GHz\n内存: 8 GB RAM\n显卡: GTX 1080 Ti / RX Vega 64\n存储空间: 需要 2 GB 可用空间\n附注事项: Gamepad or Controller Recommended.",
+  "fetched_at": "2026-08-20T03:36:15Z",
+  "review_desc": "Very Positive",
+  "review_count": 18349,
+  "review_percentage": 91.2,
+  "review_score": 8
+}

@@ -1,0 +1,75 @@
+{
+  "app_id": "686200",
+  "name": "Door Kickers: Action Squad",
+  "name_cn": "破门而入：行动小队",
+  "short_description": "拯救人质、解除炸弹，并拯救这所旧学校。这是一款有着复古的画面和感觉的横版卷轴动作游戏。包含在线游戏和本地合作模式。",
+  "detailed_description": "破门而入：行动小队是一款疯狂的老派横版卷轴动作游戏，你扮演特警士兵的角色，被派去处理美国 Nowhere 市的坏人。\n\n选择你的装备，然后踢开门并展开行动。适应并摸索着做出反应，如果需要的话，不要犹豫，重新开始吧。掌握武器的后坐力和装弹时间，利用距离和掩体，并使用游戏中的战略能力来自己决定何时需要医药包或装备，或者你的队友是否值得救援。或者干脆把分数攒起来，在棘手的最终房间释放你的终极技能，大杀四方。\n\n如果游戏太难，带个朋友帮忙吧。\n\n快捷要点：细节丰富的复古画面\n6 个可玩角色，每个角色都有独特的游戏玩法和升级选项\n独特的游戏内建战略能力系统\n完成 84 个非线性关卡\n超过 60 种武器和装备物品\n20 多种敌人类型和 4 大任务目标\n无尽高塔模式\n僵尸入侵模式，让你以全新的方式重玩游戏\n本地和在线合作多人游戏",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "休闲",
+    "独立",
+    "模拟",
+    "策略"
+  ],
+  "tags": [
+    "动作",
+    "休闲",
+    "独立",
+    "模拟",
+    "策略"
+  ],
+  "categories": [
+    "单人",
+    "多人",
+    "合作",
+    "在线合作",
+    "同屏/分屏合作",
+    "同屏/分屏",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "Steam 创意工坊",
+    "Steam 云",
+    "统计数据",
+    "Steam 排行榜",
+    "包含关卡编辑器",
+    "在电视上远程畅玩",
+    "远程同乐",
+    "家庭共享"
+  ],
+  "developers": [
+    "PixelShard",
+    "KillHouse Games"
+  ],
+  "publishers": [
+    "KillHouse Games"
+  ],
+  "release_date": "2018 年 9 月 10 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "俄语",
+    "日语",
+    "韩语",
+    "葡萄牙语 - 葡萄牙",
+    "葡萄牙语 - 巴西",
+    "简体中文",
+    "意大利语\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 56.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows Vista\n处理器: 1 GHz\n内存: 512 MB RAM\n显卡: 3D Accelerated 128MB Graphics Card\nDirectX 版本: 9.0c\n存储空间: 需要 100 MB 可用空间\n声卡: Yes",
+  "pc_requirements_rec": "推荐配置:\n操作系统 *: Windows 7\n处理器: 2 GHz\n内存: 1 GB RAM\n显卡: 3D Accelerated 512MB Graphics Card\nDirectX 版本: 9.0c\n存储空间: 需要 100 MB 可用空间\n声卡: Yes",
+  "fetched_at": "2026-08-20T04:23:31Z",
+  "review_desc": "Very Positive",
+  "review_count": 10595,
+  "review_percentage": 94.7,
+  "review_score": 8
+}

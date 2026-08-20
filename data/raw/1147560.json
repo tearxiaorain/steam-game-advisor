@@ -1,0 +1,60 @@
+{
+  "app_id": "1147560",
+  "name": "Skul: The Hero Slayer",
+  "name_cn": "小骨：英雄杀手(Skul: The Hero Slayer)",
+  "short_description": "Skul：The Hero Slayer是2D Rogue Lite动作平台游戏。负责魔王城平安的小骷髅“Skul”，为了拯救被人类捉住的魔王，一个人独自对抗帝国军队开始冒险。",
+  "detailed_description": "背景与之前一样，人类再次袭击魔王城，但这次与之前不同， 冒险者们决定与帝国军和《卡利恩的勇者》联手发动全面进攻 。希望一劳永逸的彻底摧毁魔王城， 而他们成功的以压倒性的数量将魔王城毁于一旦。\n\n横版动作游戏Skul：The Hero Slayer是平台动作游戏，具备每次游戏时都会变化的地图和多样的奖励系统、以及一旦失败便会重新开始等Rogue-lite的经典特点 。\n\n万千头骨，万千可操控角色Skul是一个特殊的小骷髅，除了他独特的战斗技能外，他也可以通过戴上其他头骨来获得崭新的能力。每次最多可以装备两个头骨，每一个头骨都有自己独特的攻击范围，速度与力量！\n选择属于你自己的风格的组合，在火热的战斗中击败敌人吧！\n\n冒险家在冒险途中的小骨与一伙冒险家对上了眼神！那些贪婪的家伙把狩猎魔族当作了娱乐赛事…并想通过狩猎你而一战成名！\n但是“小骨虽小，力能击石！”谁是猎手谁是猎物可不一定呢…\n\n被黑暗魔石所侵蚀的Boss们每个章节的最后一关，小骨会与因黑魔石的严重侵蚀而变得强大到不可理喻的最大敌人正面交锋！黑魔石是从生命自身的憎恨和痛苦中提取的邪恶石头，它能污染并控制一切触碰到它的生灵，也因此几乎无人能够熟练的掌控黑魔石。\n\nBUG反馈及玩法交流\n玩家QQ群：420112400\nB站：",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "独立"
+  ],
+  "tags": [
+    "动作",
+    "独立"
+  ],
+  "categories": [
+    "单人",
+    "完全支持控制器",
+    "Steam 云",
+    "在手机上远程畅玩",
+    "在平板上远程畅玩",
+    "在电视上远程畅玩",
+    "家庭共享"
+  ],
+  "developers": [
+    "SOUTHPAW GAMES"
+  ],
+  "publishers": [
+    "NEOWIZ"
+  ],
+  "release_date": "2021 年 1 月 20 日",
+  "platforms": [
+    "Windows",
+    "Mac",
+    "Linux"
+  ],
+  "supported_languages": [
+    "英语",
+    "日语",
+    "韩语",
+    "简体中文",
+    "德语",
+    "法语",
+    "西班牙语 - 西班牙",
+    "俄语",
+    "繁体中文",
+    "葡萄牙语 - 巴西",
+    "波兰语"
+  ],
+  "is_free": false,
+  "price_cny": 70.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows 7+\n处理器: Dual core from Intel or AMD at 2.8 GHz\n内存: 4 GB RAM\n显卡: Nvidia 450 GTS / Radeon HD 5750 or better\nDirectX 版本: 11\n存储空间: 需要 1 GB 可用空间\n附注事项: DirectX 9.1+ or OpenGL 3.2+",
+  "pc_requirements_rec": "推荐配置:\n操作系统 *: Windows 7+\n处理器: Dual core from Intel or AMD at 2.8 GHz\n内存: 8 GB RAM\n显卡: Nvidia GTX 460 / Radeon HD 7800 or better\nDirectX 版本: 12\n存储空间: 需要 2 GB 可用空间\n附注事项: DirectX 9.1+ or OpenGL 3.2+",
+  "fetched_at": "2026-08-20T03:43:13Z",
+  "review_desc": "Very Positive",
+  "review_count": 57524,
+  "review_percentage": 93.3,
+  "review_score": 8
+}

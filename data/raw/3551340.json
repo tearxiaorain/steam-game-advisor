@@ -1,0 +1,76 @@
+{
+  "app_id": "3551340",
+  "name": "Football Manager 26",
+  "name_cn": "足球经理26",
+  "short_description": "站在替补席前全面体验未来足球经理生涯。",
+  "detailed_description": "全新起点，定义属于自己的足球命运。《足球经理26》采用Unity引擎打造，不仅拥有原汁原味的体验，更推陈出新，营造全面革新的剧情体验。 \n\n全新界面设计与沉浸式比赛日体验，让玩家亲临激战现场，主宰每个决胜时刻。 \n\n以革新转会工具重塑球队，用前所未有的真实战术体验，打造只属于自己的足球哲学。\n\n快来参加全世界最盛大的国际足球赛事，赢取胜利！探索管理国家/地区队的全新工具，在专属启动日期开启你的2026年国际足联世界杯™旅程——还有官方授权的超写实转播界面、赛事品牌标志、比赛用球与球衣等精彩内容，伴你驰骋绿茵场！\n\n 感受系列史上最真实的比赛日体验。全面升级球员动态，尽数还原赛场细节，让每场比赛都充满前所未有的深度与戏剧性。  \n\n全新动作捕捉与体积动画更忠实呈现球员个性，体验肾上腺素飙升的刺激，感受千钧一发的直塞球助攻，亲手创造压哨夺冠的传奇时刻。\n\n征战英国足球之巅！英超官方授权真实队徽、球衣及官方球员照已加入游戏。 \n\n坐镇转播席，感受更加真实的赛事直播氛围，问鼎足球联赛的至高荣耀。\n\n  \n\n新加入的持球阵型与无球阵型机制，为玩家带来前所未有的赛场掌控力，球场上每一个角落的战术安排都触手可及。\n\n全新定义的球员角色与动态可视化工具，将清晰展示球队在每个比赛阶段中的调整与走位，让赛前准备更上一层楼。\n\n经过革新的 UI 界面专为现代经理人打造，提供更加清爽、直观的视觉体验；更有全新的门户系统为玩家汇集足球世界的方方面面。\n\n玩家可通过新加入的书签快捷链接定制优先次序，也可通过全面改造的搜索功能与全新的足球经理大百科术语表进一步了解游戏详情。\n\n \n\n万众瞩目的女子足球即将正式加入《FM》系列，与其他联赛身处同一个世界，一同开启无限可能的全新篇章。 \n\n体验横跨11个国家的14个可游玩联赛，探索足球新天地，其中包括英格兰女足超级联赛、美国国家女足联赛等赛事。每一场足球经理生涯都将带来全新挑战，涌现冉冉升起的新星。\n\n借助TransferRoom™的强大力量，横跨多个赛季制定长期规划，合理打造冠军队伍。\n\n通过招募需求功能向全球俱乐部发布招募优先事项，借助全新兜售报价机会功能，洞察竞争对手的需求，让玩家在每一次签约与转会中都能拥有更智能、更精准的掌控。\n\n革新足球经理生涯创建体验，让每一段足球经理生涯更能反映玩家个性与风格。 \n\n通过升级版角色创建系统塑造角色形象，打造独一无二的角色背景故事，为玩家的执教生涯带来无可替代的影响。\n\n在《足球经理26》中按照自己的理念打造足球世界。比赛结果，尽在手中。 \n\n*因授权仍在审批中，并非所有“2026年国际足联世界杯™”球队的球衣都将同步推出，部分球衣将在之后加入。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "模拟",
+    "体育",
+    "策略"
+  ],
+  "tags": [
+    "模拟",
+    "体育",
+    "策略"
+  ],
+  "categories": [
+    "单人",
+    "多人",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 创意工坊",
+    "可调整文字大小",
+    "无需应对快速反应事件",
+    "DUALSHOCK 控制器支持",
+    "DUALSHOCK 控制器支持",
+    "DualSense 控制器支持",
+    "DualSense 控制器支持",
+    "随时保存",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "Sports Interactive"
+  ],
+  "publishers": [
+    "SEGA"
+  ],
+  "release_date": "2025 年 11 月 4 日",
+  "platforms": [
+    "Windows",
+    "Mac"
+  ],
+  "supported_languages": [
+    "英语",
+    "法语",
+    "意大利语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "丹麦语",
+    "荷兰语",
+    "希腊语",
+    "日语",
+    "韩语",
+    "挪威语",
+    "波兰语",
+    "葡萄牙语 - 葡萄牙",
+    "俄语",
+    "简体中文",
+    "西班牙语 - 拉丁美洲",
+    "瑞典语",
+    "土耳其语",
+    "阿拉伯语"
+  ],
+  "is_free": false,
+  "price_cny": 107.2,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10 (with updates 22H2), Windows 11 (with updates 23H2)\n处理器: Desktop: Intel Core i3-530 or AMD FX-4100  Laptop: Intel Core i3-330M or AMD A6-5200  Requires SSE4.2 & SSSE3\n内存: 4 GB RAM\n显卡: Desktop: NVIDIA GeForce GTX 960 or AMD Radeon R9 380 or Intel HD 530  Laptop: NVIDIA GeForce GTX 960M or AMD Radeon R9 M375 or Intel HD 530  512MiB VRAM \nDirectX 版本: 11\n存储空间: 需要 20 GB 可用空间\n附注事项: Microsoft no longer supports Windows 10 or older versions.",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 11 – with updates (23H2)\n处理器: Desktop: Intel Core i5-9600 or AMD Ryzen 5 2600  Laptop: Intel Core i5-1035G7 or AMD Ryzen 7 3750H\n内存: 12 GB RAM\n显卡: Desktop: NVIDIA GeForce RTX 2060 or AMD Radeon RX 5600 XT  Laptop: NVIDIA GeForce RTX 2060 Mobile or AMD Radeon RX 6600M\nDirectX 版本: 11\n存储空间: 需要 20 GB 可用空间\n附注事项: Microsoft no longer supports Windows 10 or older versions.",
+  "fetched_at": "2026-08-20T04:09:04Z",
+  "review_desc": "Mostly Negative",
+  "review_count": 35225,
+  "review_percentage": 35.0,
+  "review_score": 4
+}

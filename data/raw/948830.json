@@ -1,0 +1,51 @@
+{
+  "app_id": "948830",
+  "name": "寄甡  Symbiotic Love",
+  "name_cn": "",
+  "short_description": "《寄甡》是一款百合向视觉小说游戏，讲述了一场现代百合版、宛如“罗密欧与朱丽叶”的凄美爱情故事。",
+  "detailed_description": "about\n\r\n\n\r\n发生在中国南方某座城市中的百合版的“罗密欧与朱丽叶”。\n\r\n\n\r\n\n\r\nstory\n\r\n\n\r\n所有的故事，都是这样开场\n\r\n月光之下并无新鲜事\n\r\n一颗星星陨落了\n\r\n必有另一颗闪闪发亮\n\r\n\n\r\n然而\n\r\n并非所有的故事，都是那样开场\n\r\n月光之下仍无新鲜事\n\r\n一颗星星陨落了\n\r\n另一颗也跟着坠堕\n\r\n\n\r\n接下来要讲的，亦是罗密欧和朱丽叶的故事\n\r\n是身为“罗密欧”与名为“朱丽叶”的少女们的\n\r\n自说自话\n\r\n\n\r\n\n\r\nfeature\n\r\n\n\r\n凄美绝伦的百合恋情\n\r\n丝丝入扣的全员语音\n\r\n动人心弦的华美音乐\n\r\n精致细腻的CG画面\n\r\n真实考究的剧情细节\n\r\n不同选择的多个结局\n\r\n\n\r\nstaff\n\r\n\n\r\n【企划】\n\r\n白露社（White Dew Game）\n\r\n【配音】\n\r\n林簌SUSU\n\r\n她放慢步调\n\r\n闲踏梧桐\n\r\n桂圆翊宝\n\r\n浅熙\n\r\n凤小离\n\r\n颜律行\n\r\n【人设】\n\r\n永恒的旋律\n\r\n【CG】\n\r\n永恒的旋律\n\r\n【背景】\n\r\n海胆\n\r\n【音乐】\n\r\nSaulRobinson\n\r\n【UI】\n\r\n匣中猫\n\r\n【PV】\n\r\n匣中猫\n\r\n【剧本】\n\r\nHの天平\n\r\n【演出】\n\r\n芥子小姐不迷茫\n\r\n荣耀属于加雷马",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "冒险",
+    "休闲",
+    "独立",
+    "模拟"
+  ],
+  "tags": [
+    "冒险",
+    "休闲",
+    "独立",
+    "模拟"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "支持字幕",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "白露社"
+  ],
+  "publishers": [
+    "PeriScope Game"
+  ],
+  "release_date": "2019 年 3 月 21 日",
+  "platforms": [
+    "Windows",
+    "Mac"
+  ],
+  "supported_languages": [
+    "简体中文*\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 28.0,
+  "pc_requirements_min": "最低配置:\n操作系统: WIN7 SP1/WIN8/WIN10\n处理器: i3 2GHz\n内存: 2 GB RAM\n显卡: GeForce GT 625M\n存储空间: 需要 1 GB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n操作系统: WIN7 SP1/WIN8/WIN10\n处理器: i3 2GHz\n内存: 8 GB RAM\n显卡: GeForce GTX 650 Ti\n存储空间: 需要 2 GB 可用空间",
+  "fetched_at": "2026-08-20T03:40:34Z",
+  "review_desc": "Very Positive",
+  "review_count": 1659,
+  "review_percentage": 91.4,
+  "review_score": 8
+}

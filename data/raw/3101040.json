@@ -1,0 +1,55 @@
+{
+  "app_id": "3101040",
+  "name": "Magical Girl Witch Trials",
+  "name_cn": "魔法少女的魔女审判",
+  "short_description": "迎接少女们的，是一场残酷的死亡游戏……在即将来临的“魔女审判”中，击破魔法和谎言的幻影，揪出混入少女之中的“魔女”吧。这部魔法辩论×悬疑ADV作品，由日本原创品牌“Acacia”为您呈献。",
+  "detailed_description": "本作中文版发行由CIRCLE LINE GAMES负责。\n欢迎关注我们的发行商官方社媒，了解中文版最新资讯！\n哔哩哔哩/小红书号：@CircleLineGames（其他平台链接，请见PC版页面右侧的链接一览。）\n\n◆故事简介“我们之中混入了一名魔女。”\n怀着对崭新高中生活的满心期待，艾玛坠入了梦乡。\n可第二天醒来，她发现自己竟身处昏暗的牢房之中。\n她没有任何头绪，自己为什么会被抓到牢里。\n而这座监牢，更是坐落于与世隔绝的孤岛——\n艾玛陷入了混乱。而陷入混乱的也不只有她……\n\n一只会说话的猫头鹰向来到这里的13名少女通告。\n\n“经认定，各位相当可能是【魔女】——你们将会对人类社会造成威胁。”\n“请各位以囚犯的身份，在这里生活下去。”\n\n曾是理所当然的日常就此崩塌。\n\n艾玛开始了她的囚犯生活。\n这期间，她和其他同为预备魔女的少女们相处融洽，渐渐熟识——\n可某天，有一名少女忽然被杀害了。\n\n猫头鹰向囚犯少女们宣告。\n\n“现在即将举行【魔女审判】。”\n\n少女们需要最终票选出一名【魔女】，\n将其亲手送上处刑台……\n残忍的死亡游戏开始了——\n\n■游戏特色・围绕13名少女展开的本格哥特风推理剧\n主角“樱羽艾玛”被关进充满谜团的监牢，与其他“预备魔女”开展共同生活。\n“监牢”有什么意义？“魔女”又为何存在？真正的幕后黑手又会是谁？\n在故事告一段落后，又会迎来全新的故事体验，且将以全新角度展现完全不同的故事。\n\n・充满疑心和背叛的囚犯生活\n玩家需要从个性迥异的少女们的话语中，以及共同生活的踪迹中获取提示，\n揭开她们发言中的矛盾，找出其中说谎的“魔女”。\n\n・命悬一线的辩论环节\n混入监牢内的“魔女”将导演一出又一出的杀人连续剧。\n你需要在定期举行的“魔女审判”中，通过辩论和推理，揪出背后的杀人凶手。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "冒险",
+    "独立",
+    "模拟"
+  ],
+  "tags": [
+    "冒险",
+    "独立",
+    "模拟"
+  ],
+  "categories": [
+    "单人",
+    "自定义音量控制",
+    "可以仅用鼠标",
+    "无需应对快速反应事件",
+    "可以仅用触控",
+    "Steam 云",
+    "在平板上远程畅玩",
+    "家庭共享"
+  ],
+  "developers": [
+    "Acacia",
+    "Re,AER"
+  ],
+  "publishers": [
+    "Re,AER",
+    "CIRCLE LINE GAMES"
+  ],
+  "release_date": "2025 年 7 月 18 日",
+  "platforms": [
+    "Windows",
+    "Mac"
+  ],
+  "supported_languages": [
+    "日语*",
+    "简体中文\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 80.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10\n处理器: Generic Dual Core Processor\n内存: 6 GB RAM\n显卡: Recent DirectX 11-capable GPUs (incl. Integrated Graphics)\nDirectX 版本: 11\n存储空间: 需要 6 GB 可用空间\n附注事项: Vulkan graphic API available via `-force-vulkan` argument for diagnosing purpose. All the information here may subject to change without prior notice.",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10 64‑bit\n处理器: AMD Ryzen 7 2700 (8 cores / 16 threads)\n内存: 16 GB RAM\n显卡: GeForce RTX 2060\n存储空间: 需要 10 GB 可用空间\n附注事项: Provisional information as per development validation. Subject to change in the future when further optimization is implemented.",
+  "fetched_at": "2026-08-20T03:35:53Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 33636,
+  "review_percentage": 96.5,
+  "review_score": 9
+}

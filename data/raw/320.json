@@ -1,0 +1,48 @@
+{
+  "app_id": "320",
+  "name": "Half-Life 2: Deathmatch",
+  "name_cn": "",
+  "short_description": "《半条命 2》游戏系列中的快节奏多人动作游戏！ HL2 的物理效果将死亡竞赛模式提升到了一个新的高度。直接进入死亡竞赛模式，或加入联合军 VS 反抗军的团队模式。今天就来试试用马桶砸好友的滋味！",
+  "detailed_description": "《半条命 2》游戏系列中的快节奏多人动作游戏！ HL2 的物理效果将死亡竞赛模式提升到了一个新的高度。直接进入死亡竞赛模式，或加入联合军 VS 反抗军的团队模式。今天就来试试用马桶砸好友的滋味！",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作"
+  ],
+  "tags": [
+    "动作"
+  ],
+  "categories": [
+    "多人",
+    "自定义音量控制",
+    "无需应对快速反应事件",
+    "立体声",
+    "环绕声",
+    "已启用 Valve 反作弊保护",
+    "包括 Source SDK",
+    "家庭共享"
+  ],
+  "developers": [
+    "Valve"
+  ],
+  "publishers": [
+    "Valve"
+  ],
+  "release_date": "2004 年 11 月 1 日",
+  "platforms": [
+    "Windows",
+    "Linux"
+  ],
+  "supported_languages": [
+    "英语"
+  ],
+  "is_free": false,
+  "price_cny": null,
+  "pc_requirements_min": "最低配置：1.2 GHz 处理器，256MB 内存，DirectX 7 显卡，Windows XP，鼠标，键盘，互联网连接\n\n建议配置：2.4 GHz 处理器，512MB 内存，DirectX 9 显卡，Windows XP，鼠标，键盘，互联网连接",
+  "pc_requirements_rec": "",
+  "fetched_at": "2026-08-20T04:00:38Z",
+  "review_desc": "Very Positive",
+  "review_count": 15321,
+  "review_percentage": 90.7,
+  "review_score": 8
+}

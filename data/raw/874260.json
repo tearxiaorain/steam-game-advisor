@@ -1,0 +1,55 @@
+{
+  "app_id": "874260",
+  "name": "The Forgotten City",
+  "name_cn": "遗忘之城",
+  "short_description": "穿越回 2000 年前，重温被诅咒罗马城最后的时光。在那里，如果一个人犯了罪，所有人都会死。通过利用致命的时间循环、询问当地人、探索和解决谜题，揭开城市中心的神秘面纱。这座城市的命运完全掌握在你的手中！",
+  "detailed_description": "Awards & Nominations\n\n关于游戏\n\n《The Forgotten City》是一款融合了探索和推理的神秘冒险游戏。它重制了广受好评的 Mod。该 Mod 赢得了澳大利亚编剧工会奖且下载量超过 300 万次。\n\n战斗是一种选择，但暴力不是万能的。只有通过询问错综复杂的角色群体，巧妙利用时间循环，并做出艰难的道德抉择，你才有希望解决这个史诗级谜题。切记：在这里，你的决定至关重要。这座城市的命运完全掌握在你的手中！\n\n探索开放世界式罗马古城，感受逼真的艺术、建筑、服饰和风俗\n调查一起扣人心弦的非线性神秘事件，体验多个不同结局\n与血肉丰满的角色深度互动，同呼吸共命运\n在决定生死的两难道德困境中饱受煎熬\n随心所欲选择角色性别、种族和背景故事\n依靠推理、魅力、贿赂、恐吓、暴力或者干脆巧用时间循环，机智解决问题\n\n喜欢原 Mod 吗？\n如果你喜欢这个 Mod，也定会喜欢这款独立游戏的。我们采用了原 Mod 原中最好的元素，重新编写了脚本，使其达到了原版的两倍多，超过了 8 万字。此外，还新增了大量激动人心的故事转折、结局和惊喜。走在焕然一新的城市街道上。了解重制的角色。用全新的游戏机制解决极具挑战性的全新谜题，并畅享全新配乐和专业配音。这是我们一直想讲的故事，愿您尽情享受，反复游玩。\n\n《The Forgotten City》是由一个 3 人组成的核心团队花费 4 年时间开发完成的。您的支持一直鼓励着我们继续做喜欢的事情，对此，我们深表感激。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "冒险",
+    "独立",
+    "角色扮演"
+  ],
+  "tags": [
+    "冒险",
+    "独立",
+    "角色扮演"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "Modern Storyteller"
+  ],
+  "publishers": [
+    "Dear Villagers"
+  ],
+  "release_date": "2021 年 7 月 28 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语*",
+    "德语",
+    "法语",
+    "西班牙语 - 西班牙",
+    "简体中文",
+    "俄语",
+    "日语",
+    "韩语\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 92.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows 7 SP1 64-bit\n处理器: 3GHz (4 Core) CPU\n内存: 8 GB RAM\n显卡: NVIDIA GTX 750 Ti 2GB | AMD Radeon R7 265\nDirectX 版本: 11\n存储空间: 需要 26 GB 可用空间\n声卡: DirectX Compatible",
+  "pc_requirements_rec": "推荐配置:\n操作系统: Windows 10 64-bit\n处理器: 3.2 GHz (4 Core) CPU\n内存: 8 GB RAM\n显卡: NVIDIA GTX 1060 | AMD Radeon RX 580\nDirectX 版本: 11\n存储空间: 需要 26 GB 可用空间\n声卡: DirectX Compatible\n附注事项: Recommend installing on SSD",
+  "fetched_at": "2026-08-20T04:21:51Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 13566,
+  "review_percentage": 95.9,
+  "review_score": 9
+}

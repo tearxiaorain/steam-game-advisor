@@ -1,0 +1,66 @@
+{
+  "app_id": "1145960",
+  "name": "The White Door",
+  "name_cn": "",
+  "short_description": "進入那扇白門，探尋鏽湖世界獨一無二的秘密！探尋Robert Hill的夢境並幫他找到失去的記憶。你能忍受每天嚴格的作息，直到讓Robert的生活重新充滿色彩嗎？",
+  "detailed_description": "The Past Within - A Rusty Lake co-op Adventure\n\n关于游戏在一所精神衛生中心裡醒來的Robert Hill罹患了嚴重的失憶症。他需要每天遵循嚴格的作息時間，通過探索自己的夢境來找回記憶。\n\nThe White Door是一款由方塊逃脫和鏽湖系列遊戲的開發者製作的指向與點擊式冒險遊戲。\n\n關鍵特徵:\n\n■ 操作簡單\n容易上手，但一旦玩起來就停不下來\n\n■ 獨特的故事線\n每天恪守嚴格的作息時間，探尋夢境，並找回記憶。多樣的謎題妙趣橫生，讓你意猶未盡。\n\n■ 前所未有的分屏式體驗\n你將有機會探尋Robert Hill在精神衛生中心裡的經歷，而全新的分屏模式也會帶給你一個嶄新的體驗。\n\n■ 極具代入感的氛圍\n精神衛生中心每天的氣氛變幻莫測，懸念叢生，讓你沉浸在詭譎疊起的情節裡不能自拔。\n\n■ 身臨其境般的音效\n由Victor Butzelaar製作的主題曲和音效讓你身臨其境。\n\n■ 特別成就\nThe White Door會留下很多尚待揭曉的懸念。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "冒险",
+    "独立"
+  ],
+  "tags": [
+    "冒险",
+    "独立"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "Rusty Lake"
+  ],
+  "publishers": [
+    "Second Maze",
+    "Rusty Lake"
+  ],
+  "release_date": "2020 年 1 月 9 日",
+  "platforms": [
+    "Windows",
+    "Mac"
+  ],
+  "supported_languages": [
+    "英语",
+    "法语",
+    "意大利语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "丹麦语",
+    "荷兰语",
+    "日语",
+    "韩语",
+    "波兰语",
+    "葡萄牙语 - 葡萄牙",
+    "俄语",
+    "简体中文",
+    "瑞典语",
+    "繁体中文",
+    "土耳其语",
+    "越南语",
+    "葡萄牙语 - 巴西",
+    "西班牙语 - 拉丁美洲",
+    "捷克语"
+  ],
+  "is_free": false,
+  "price_cny": 18.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Microsoft® Windows® XP/Vista/7,8, 10 or later\n处理器: 1.8 Ghz Processor\n内存: 1 GB RAM\n显卡: Direct X 9.0c compatible video card\nDirectX 版本: 9.0c\n存储空间: 需要 100 MB 可用空间",
+  "pc_requirements_rec": "",
+  "fetched_at": "2026-08-20T03:59:51Z",
+  "review_desc": "Very Positive",
+  "review_count": 6819,
+  "review_percentage": 93.9,
+  "review_score": 8
+}

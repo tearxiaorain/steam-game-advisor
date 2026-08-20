@@ -1,0 +1,70 @@
+{
+  "app_id": "1172470",
+  "name": "Apex Legends™",
+  "name_cn": "",
+  "short_description": "由Respawn Entertainment开发制作，屡获殊荣的《Apex Legends》，是一款免费大逃杀英雄射击游戏。在这款革命性的新一代大逃杀英雄射击游戏中，掌控日益丰富且拥有强大技能的传奇角色，深度体验战术小队玩法及创新游戏元素。",
+  "detailed_description": "Apex Legends：诸神烙印\n\n关于游戏在《Apex Legends》这款免费*英雄射击游戏中脱颖而出，掌控角色，征服群雄，集结技艺超群的强大传奇角色，组队在边境之地为名利而战。\n\n掌控丰富的传奇角色群、深度战术小队玩法以及大胆革新的元素，获得前所未有的新一代大逃杀竞技射击游戏体验——在这崎岖的世界，一切皆有可能。欢迎来到新一代英雄射击游戏。\n\n主要特色：\n\n本游戏含非必要的虚拟货币购买，用于获得游戏内虚拟物品，其中包括一些随机的游戏内虚拟物品。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "冒险",
+    "免费开玩"
+  ],
+  "tags": [
+    "动作",
+    "冒险",
+    "免费开玩"
+  ],
+  "categories": [
+    "多人",
+    "玩家对战",
+    "线上玩家对战",
+    "合作",
+    "在线合作",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "应用内购买",
+    "聊天语音转文字",
+    "无需应对快速反应事件",
+    "DUALSHOCK 控制器支持",
+    "DualSense 控制器支持",
+    "DualSense 控制器支持"
+  ],
+  "developers": [
+    "Respawn"
+  ],
+  "publishers": [
+    "Electronic Arts"
+  ],
+  "release_date": "2020 年 11 月 4 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语*",
+    "意大利语*",
+    "德语*",
+    "西班牙语 - 西班牙*",
+    "日语*",
+    "韩语*",
+    "波兰语*",
+    "葡萄牙语 - 巴西",
+    "俄语*",
+    "简体中文*",
+    "繁体中文",
+    "西班牙语 - 拉丁美洲",
+    "阿拉伯语\n*具有完全音频支持的语言"
+  ],
+  "is_free": true,
+  "price_cny": 0.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统: 64-bit Windows 10\n处理器: AMD FX 4350 or Equivalent, Intel Core i3 6300 or Equivalent\n内存: 6 GB RAM\n显卡: AMD Radeon™ HD 7790 (2 GB), NVIDIA GeForce® GTX 950\nDirectX 版本: 12\n网络: 宽带互联网连接\n存储空间: 需要 75 GB 可用空间\n附注事项: ~3.8GB for 1 localized language",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: 64-bit Windows 10\n处理器: Ryzen 5 CPU or Equivalent\n内存: 8 GB RAM\n显卡: AMD Radeon™ R9 290, NVIDIA GeForce® GTX 970\nDirectX 版本: 12\n网络: 宽带互联网连接\n存储空间: 需要 75 GB 可用空间\n附注事项: ~3.8GB for 1 localized language",
+  "fetched_at": "2026-08-20T03:59:09Z",
+  "review_desc": "Mixed",
+  "review_count": 1064597,
+  "review_percentage": 67.7,
+  "review_score": 5
+}

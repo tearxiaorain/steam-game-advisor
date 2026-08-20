@@ -1,0 +1,79 @@
+{
+  "app_id": "386940",
+  "name": "Ultimate Chicken Horse",
+  "name_cn": "超级鸡马",
+  "short_description": "Ultimate Chicken Horse 是一款由玩家自行创作关卡的互动游戏，在想方设法妨碍对手到达终点的同时，也不要栽在自己设下的陷阱和障碍面前。",
+  "detailed_description": "Wishlist Ultimate Sheep Raccoon!\n\n关于游戏幻想变身一匹会反弹跳、闪躲弓箭和设陷阱的小马，打败您的动物伙伴们，顺利闯过大家一起设置的障碍冒险关卡？\n\n愿望实现了！\n\n超级鸡马是一款玩家不断制造陷阱来妨碍对手到达终点的互动游戏，其中的关卡由您和好友一道设置。若您闯关成功而好友却未能通关，那么您将得分！无论是联机还是单机游戏，都能和您的动物朋友们一起挑战不同地点的各种关卡，与好友共同寻找开心玩乐的新方式。关键特色联机和单机游戏（最多 4 名玩家） \n从脑洞大开的障碍设置到千方百计地顺利通关，游戏的每一步都充满独特的乐趣 \n18 个各具特色的关卡\n可自行建造关卡并分享\n可在挑战关卡与全球玩家同榜竞技，全平台参与\n各式各样的障碍物搭建出花样无限的关卡 \n可自定义规则和游戏模式\n共享控制器模式可让数名玩家用同一个控制器或键盘同时畅玩\n尝试小鸡、小马、绵羊、浣熊和其他奇妙的动物角色 \n欢乐无限的卡通风格 \n不容错过的超酷配乐  请注意：本游戏主体是多人游戏。挑战关卡虽然可以单独创建和游玩，但要解锁角色和关卡，就需要通关主游戏模式（例如派对模式），而这些模式只有多人制的形式。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "休闲",
+    "独立"
+  ],
+  "tags": [
+    "动作",
+    "休闲",
+    "独立"
+  ],
+  "categories": [
+    "多人",
+    "玩家对战",
+    "线上玩家对战",
+    "同屏/分屏玩家对战",
+    "合作",
+    "在线合作",
+    "同屏/分屏合作",
+    "同屏/分屏",
+    "跨平台多人",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "DUALSHOCK 控制器支持",
+    "DualSense 控制器支持",
+    "DualSense 控制器支持",
+    "Steam 云",
+    "包含关卡编辑器",
+    "在电视上远程畅玩",
+    "远程同乐",
+    "家庭共享"
+  ],
+  "developers": [
+    "Clever Endeavour Games"
+  ],
+  "publishers": [
+    "Clever Endeavour Games"
+  ],
+  "release_date": "2016 年 3 月 4 日",
+  "platforms": [
+    "Windows",
+    "Mac",
+    "Linux"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语*",
+    "意大利语*",
+    "德语*",
+    "西班牙语 - 西班牙*",
+    "日语*",
+    "韩语*",
+    "波兰语*",
+    "葡萄牙语 - 巴西*",
+    "俄语*",
+    "简体中文*",
+    "瑞典语*",
+    "繁体中文*",
+    "土耳其语*",
+    "捷克语*\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 55.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows 7 or later\n处理器: 1.5GHZ +\n内存: 2 GB RAM\n显卡: 512 MB VRAM  Intel HD 4000 / GeForce 200  Series / Radeon HD 4000 Series\nDirectX 版本: 9.0c\n存储空间: 需要 2 GB 可用空间\n附注事项: Broadband internet is required for online play.",
+  "pc_requirements_rec": "推荐配置:\n操作系统 *: Windows 7 or later\n处理器: Dual Core 2.3 GHZ\n内存: 4 GB RAM\n显卡: 1024 MB VRAM\nDirectX 版本: 9.0\n存储空间: 需要 2 GB 可用空间\n附注事项: Broadband internet is required for online play.",
+  "fetched_at": "2026-08-20T03:38:17Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 53330,
+  "review_percentage": 95.8,
+  "review_score": 9
+}

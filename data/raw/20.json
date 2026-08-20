@@ -1,0 +1,59 @@
+{
+  "app_id": "20",
+  "name": "Team Fortress Classic",
+  "name_cn": "",
+  "short_description": "一款风靡全球的联机对战游戏 - Team Fortress Classic，九种游戏角色任你选择 - 从实习医生、间谍到战争狂人 - 以其鲜明的个性游走于网络激战的世界。 游戏中提供多种团队对战模式，每种角色都拥有不同的武器、物品和能力。",
+  "detailed_description": "一款风靡全球的联机对战游戏 - Team Fortress Classic，九种游戏角色任你选择 - 从实习医生、间谍到战争狂人 - 以其鲜明的个性游走于网络激战的世界。 游戏中提供多种团队对战模式，每种角色都拥有不同的武器、物品和能力。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作"
+  ],
+  "tags": [
+    "动作"
+  ],
+  "categories": [
+    "多人",
+    "玩家对战",
+    "线上玩家对战",
+    "同屏/分屏玩家对战",
+    "自定义音量控制",
+    "可以仅用键盘",
+    "立体声",
+    "已启用 Valve 反作弊保护",
+    "远程同乐",
+    "家庭共享"
+  ],
+  "developers": [
+    "Valve"
+  ],
+  "publishers": [
+    "Valve"
+  ],
+  "release_date": "1999 年 4 月 1 日",
+  "platforms": [
+    "Windows",
+    "Mac",
+    "Linux"
+  ],
+  "supported_languages": [
+    "英语",
+    "法语",
+    "德语",
+    "意大利语",
+    "西班牙语 - 西班牙",
+    "韩语",
+    "俄语",
+    "简体中文",
+    "繁体中文"
+  ],
+  "is_free": false,
+  "price_cny": 22.0,
+  "pc_requirements_min": "最低配置：500 mhz 处理器，96mb 内存，16mb 显卡，Windows XP，鼠标，键盘，互联网连接\n\n建议配置：800 mhz 处理器，128mb 内存，32mb 以上的显卡，Windows XP，鼠标，键盘，互联网连接",
+  "pc_requirements_rec": "",
+  "fetched_at": "2026-08-20T04:08:28Z",
+  "review_desc": "Very Positive",
+  "review_count": 9262,
+  "review_percentage": 87.2,
+  "review_score": 8
+}

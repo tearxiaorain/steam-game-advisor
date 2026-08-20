@@ -97,6 +97,7 @@ def _embedding_model_path() -> str:
 class RAGConfig:
     data_path: str = str(PROJECT_ROOT / "data" / "processed")
     library_path: str = str(PROJECT_ROOT / "data" / "library" / "owned_appids.json")
+    me_owned_path: str = str(PROJECT_ROOT / "data" / "library" / "me_owned.json")
     index_save_path: str = str(PROJECT_ROOT / "vector_index")
     trace_path: str = str(PROJECT_ROOT / "data" / "eval" / "traces" / "traces.jsonl")
 

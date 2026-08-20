@@ -1,0 +1,58 @@
+{
+  "app_id": "94400",
+  "name": "Nidhogg",
+  "name_cn": "",
+  "short_description": "Nidhogg 是一款史诗级获奖的击剑拔河游戏，并配有飞翔的巨型蠕虫。",
+  "detailed_description": "Nidhogg 是一款史诗级获奖的击剑拔河游戏，充满优雅的特技和笨拙的刺击。\n\n在这场快节奏的击剑与近战攻击双人对决中，真实世界中的喊叫和兴奋可能会发生。请注意，Nidhogg 中的优势往往转瞬即逝，因为新的对手不断出现在你的路上。持剑时，请运用多种击剑技巧——例如刺击、挡击，甚至可以使出丢剑等卑劣手段；如果失去武器，则以拳击、扫踢、跃踢、翻滚和墙跳前进。\n\n战斗竞技场向两个方向延展，虽然击败对手只能为你赢得些许进展。比赛并非凭借一次击杀来决定输赢，而是一系列击杀赋予你跑向、战斗或逃往自己目标区的权利。\n\n每个竞技场都有不同的战略阵形和关键位置可供利用，直到你到达自己的目标区，一切皆有可能。在 Nidhogg 中有一点是确定的……获胜的唯一方式是智取对手。En Garde!",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "独立",
+    "体育"
+  ],
+  "tags": [
+    "动作",
+    "独立",
+    "体育"
+  ],
+  "categories": [
+    "单人",
+    "多人",
+    "玩家对战",
+    "线上玩家对战",
+    "同屏/分屏玩家对战",
+    "同屏/分屏",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "统计数据",
+    "Steam 排行榜",
+    "在电视上远程畅玩",
+    "远程同乐",
+    "家庭共享"
+  ],
+  "developers": [
+    "Messhof"
+  ],
+  "publishers": [
+    "Messhof"
+  ],
+  "release_date": "2014 年 1 月 13 日",
+  "platforms": [
+    "Windows",
+    "Mac"
+  ],
+  "supported_languages": [
+    "英语"
+  ],
+  "is_free": false,
+  "price_cny": 42.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Microsoft® Windows® XP / Vista / 7\n处理器: 1.2GHz processor\n内存: 512 MB RAM\n显卡: DirectX 8-compatible graphics card with at least 32MB of video memory\nDirectX 版本: 9.0c\n网络: 宽带互联网连接\n存储空间: 需要 200 MB 可用空间\n附注事项: Microsoft Xbox 360 Controller or Direct Input compatible controller",
+  "pc_requirements_rec": "推荐配置:\n操作系统 *: Microsoft® Windows® XP / Vista / 7\n处理器: 1.4GHz processor or faster\n内存: 1 GB RAM\n显卡: DirectX 8-compatible graphics card with at least 32MB of video memory\nDirectX 版本: 9.0c\n网络: 宽带互联网连接\n存储空间: 需要 200 MB 可用空间\n附注事项: Microsoft Xbox 360 Controller or Direct Input compatible controller",
+  "fetched_at": "2026-08-20T04:30:26Z",
+  "review_desc": "Very Positive",
+  "review_count": 7897,
+  "review_percentage": 90.0,
+  "review_score": 8
+}

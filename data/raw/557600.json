@@ -1,0 +1,65 @@
+{
+  "app_id": "557600",
+  "name": "Gorogoa",
+  "name_cn": "",
+  "short_description": "Gorogoa 是一款独具特色的解谜游戏，其故事情节采用由 Jason Roberts 设计和作画的精美手绘插画展开。",
+  "detailed_description": "Gorogoa 是一款独具特色的解谜游戏，其故事情节采用由 Jason Roberts 设计和作画的精美手绘插画展开。\n\n充满独特想象力的谜团\nGorogoa 的情节设计均为原创，游戏中有多个细节丰富的插画格子，玩家可按照自己的想法通过移动和组合插画格子来解谜。操作极为简单，内容却复杂有趣。\n\n精美的手绘游戏情节\nJason Roberts 精心制作了数千张极为精细的插画，构成极为丰富的 Gorogoa 特色游戏 情节。\n\n全新的叙述方式\nGorogoa 不仅是一款游戏，还是一件艺术品，它用充满情感、极富魅力的插画和构思奇妙的解谜机制诉说着自己的故事。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "冒险",
+    "休闲",
+    "独立"
+  ],
+  "tags": [
+    "冒险",
+    "休闲",
+    "独立"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "Steam 集换式卡牌",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "Buried Signal"
+  ],
+  "publishers": [
+    "Annapurna Interactive"
+  ],
+  "release_date": "2017 年 12 月 14 日",
+  "platforms": [
+    "Windows",
+    "Mac"
+  ],
+  "supported_languages": [
+    "英语",
+    "法语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "日语",
+    "波兰语",
+    "葡萄牙语 - 巴西",
+    "俄语",
+    "简体中文",
+    "意大利语",
+    "韩语",
+    "阿拉伯语",
+    "荷兰语",
+    "瑞典语",
+    "泰语",
+    "繁体中文",
+    "土耳其语"
+  ],
+  "is_free": false,
+  "price_cny": 60.0,
+  "pc_requirements_min": "最低配置:\n操作系统: Windows 10\n处理器: 1 GHz\n内存: 512 MB RAM\n显卡: GeForce 6 or Radeon X1000\nDirectX 版本: 9.0c\n存储空间: 需要 680 MB 可用空间",
+  "pc_requirements_rec": "",
+  "fetched_at": "2026-08-20T03:39:53Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 20634,
+  "review_percentage": 97.5,
+  "review_score": 9
+}

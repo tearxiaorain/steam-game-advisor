@@ -1,0 +1,50 @@
+{
+  "app_id": "825630",
+  "name": "STEINS;GATE 0",
+  "name_cn": "",
+  "short_description": "为了改变被注定的命运，造访各个世界线进行干涉，只为了将未来引导至理想的世界。《STEINS;GATE（命运石之门）》带有充满着科幻感的时间悖论与平行世界的世界观，让玩家们能够体验到本作虽看似複杂但却深奥十足的故事。",
+  "detailed_description": "本作接续了前作『STEINS;GATE』中主角冈部伦太郎所造访的其中一条世界线——“β世界线”中发生的悲剧后续。在想要同时拯救自己深爱的人与青梅竹马的冈部眼前迎来残酷的命运。没有方法可以拯救被绝望所压垮的他……。\n\r\n\n\r\n本作『STEINS；GATE 0（命运石之门 0）』是从一个像是最坏的结局起所开始描绘出的故事。等待在冈部前方的，是新的希望吗？抑或是……？\n\r\n\n\r\n・许多个性独特的角色登场\n\r\n以冈部及他创立的“Lab”为首，许多个性独特的角色登场在故事中也是『STEINS；GATE』系列的最大特色。剧情也会随着那些角色变得时而诙谐，时而严肃。\n\r\n\n\r\n・与「Amadeus」系统的相遇改变了命运\n\r\n在漫长世界线旅途的终点，冈部失去了他所深爱的女人‧红莉栖。被无法拯救她的后悔与失意之感压垮的他，也逐渐地回归到了日常生活中。\n\r\n\n\r\n他的新人生目标，就是进入红莉栖曾经就读的“维克托康多利亚大学”。冈部在某个研讨会中认识了雷斯金涅教授、比屋定真帆两人。他们正在研究将人类的记忆保存至电脑中活用，被称呼为“Amadeus”的系统。在某个契机之下，冈部也看到了他们研究的成果。在那个系统中所载入的记忆是……？\n\r\n\n\r\n・手机APP「RINE」将会改变未来\n\r\n在本作故事中，根据安装在冈部的智慧型手机中的APP使用方法，将会大大地改变未来。做为试验员取得了存取权的APP“Amadeus”，以及和同伴们之间的通讯APP“RINE”，这两个软体将会成为连结到未知的故事道路。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "冒险"
+  ],
+  "tags": [
+    "冒险"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "Steam 集换式卡牌",
+    "部分支持控制器",
+    "Steam 云",
+    "在手机上远程畅玩",
+    "在平板上远程畅玩",
+    "家庭共享"
+  ],
+  "developers": [
+    "MAGES. Inc."
+  ],
+  "publishers": [
+    "Spike Chunsoft Co., Ltd."
+  ],
+  "release_date": "2018 年 5 月 8 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语",
+    "日语*",
+    "简体中文",
+    "繁体中文\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 120.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows: 7/8.1/10\n处理器: Intel Core i5\n内存: 4 GB RAM\n显卡: Intel HD Graphics Series (With 1GB memory allocation)\nDirectX 版本: 9.0\n网络: 宽带互联网连接\n存储空间: 需要 15 GB 可用空间\n声卡: Direct Sound compatible sound device.\n附注事项: Minimum resolution: 1280x720 (Recommended: 1920x1080)",
+  "pc_requirements_rec": "推荐配置:\n操作系统 *: Windows: 7/8.1/10 (64-bit)\n处理器: Core i3 (Sandy Bridge or better)\n内存: 4 GB RAM\n显卡: Geforce (VRAM 1GB or better)\nDirectX 版本: 9.0\n网络: 宽带互联网连接\n存储空间: 需要 15 GB 可用空间\n声卡: Direct Sound compatible sound device.\n附注事项: Minimum resolution: 1280x720 (Recommended: 1920x1080)",
+  "fetched_at": "2026-08-20T03:42:16Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 8360,
+  "review_percentage": 96.1,
+  "review_score": 9
+}

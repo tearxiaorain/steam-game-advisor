@@ -1,0 +1,75 @@
+{
+  "app_id": "1811260",
+  "name": "EA SPORTS™ FIFA 23",
+  "name_cn": "EA SPORTS™《FIFA 23》",
+  "short_description": "《FIFA 23》将这个世界性游戏带回球场，采用 HyperMotion2 技术，更有男子和女子 FIFA World Cup™、女子俱乐部球队、跨平台游戏功能**，以及更多精彩内容。",
+  "detailed_description": "随着《EA SPORTS FC™ 24》一起加入俱乐部\n\n高光时刻\n\n关于游戏世界级运动\n\n6 月 27 日起，无需额外费用即可在 EA SPORTS™《FIFA 23》中通过 FIFA Women’s World Cup Australia and New Zealand 2023™ 体验女子国际足球的巅峰*。代表你国家的颜色，以最沉浸式的方式体验 EA SPORTS™ FIFA Women’s World Cup™，使用 32 支晋级的国家队参与角逐，更有自定义球场装饰、电影化转场、比赛介绍、专属评论，当然，最后还可以举起真实的奖杯。\n\nEA SPORTS™《FIFA 23》将这个世界性游戏带回球场,采用 HyperMotion2 技术，让游戏更加真实，男子和女子 FIFA World Cup™ 将会在发布后作为更新推出，新增女子俱乐部球队、跨平台联机**，以及更多精彩内容。19,000 多名球员、700 多支球队、100 座球场和 30 多个联赛让您在《FIFA 23》中体验无与伦比的真实感。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "模拟",
+    "体育"
+  ],
+  "tags": [
+    "模拟",
+    "体育"
+  ],
+  "categories": [
+    "单人",
+    "多人",
+    "玩家对战",
+    "线上玩家对战",
+    "同屏/分屏玩家对战",
+    "合作",
+    "在线合作",
+    "同屏/分屏合作",
+    "同屏/分屏",
+    "跨平台多人",
+    "Steam 成就",
+    "完全支持控制器",
+    "应用内购买"
+  ],
+  "developers": [
+    "EA Canada",
+    "EA Romania"
+  ],
+  "publishers": [
+    "Electronic Arts"
+  ],
+  "release_date": "2022 年 9 月 30 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语*",
+    "意大利语*",
+    "德语*",
+    "西班牙语 - 西班牙*",
+    "阿拉伯语*",
+    "捷克语",
+    "丹麦语",
+    "荷兰语*",
+    "日语*",
+    "韩语",
+    "挪威语",
+    "波兰语*",
+    "葡萄牙语 - 葡萄牙",
+    "葡萄牙语 - 巴西*",
+    "俄语*",
+    "简体中文*",
+    "西班牙语 - 拉丁美洲",
+    "瑞典语",
+    "繁体中文",
+    "土耳其语\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": null,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10 - 64-Bit (Latest Update)\n处理器: Intel Core i5 6600k or AMD Ryzen 5 1600\n内存: 8 GB RAM\n显卡: NVIDIA GeForce GTX 1050 Ti or AMD Radeon RX 570\nDirectX 版本: 12\n网络: 宽带互联网连接\n存储空间: 需要 100 GB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10 - 64-Bit (Latest Update)\n处理器: Intel Core i7 6700 or AMD Ryzen 7 2700X\n内存: 12 GB RAM\n显卡: NVIDIA GeForce GTX 1660 or AMD Radeon RX 5600 XT\nDirectX 版本: 12\n网络: 宽带互联网连接\n存储空间: 需要 100 GB 可用空间",
+  "fetched_at": "2026-08-20T04:14:04Z",
+  "review_desc": "Mixed",
+  "review_count": 150316,
+  "review_percentage": 57.0,
+  "review_score": 5
+}

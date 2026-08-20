@@ -1,0 +1,68 @@
+{
+  "app_id": "2947440",
+  "name": "SILENT HILL f",
+  "name_cn": "",
+  "short_description": "主人公是居住在群山环绕的日本乡村小镇·戎之丘的高中生·深水雏子。 她的日常生活因为神秘白色“怪物”的出现突然崩塌。 她一边在面目全非的熟悉小镇中探索、战斗、解谜，一边迎来属于她的“结局”。",
+  "detailed_description": "DELUXE EDITION《Deluxe Edition 收录内容》●游戏本体 \n●数字美术设定集（※1）\n●数字原声带（※1）\n●粉色兔子服（※2）\n\n※1\n数字美术设定集与数字原声带为特典专用应用程序。\n数字原声带可通过Steam启动器以mp3/wav格式进行下载。\n\n※2\n雏子换装服饰。\n可通过游戏内“祠堂”的“换装”菜单进行更改。\n\n※注意\n-本商品部分内容与《SILENT HILL f - Deluxe Upgrade》相同，购买时请留意避免重复购买。\n-数字原声带包含日语歌词的音乐。\n\n关于游戏依恋、纠结、后悔、避无可避的选择，以及自身的罪孽。\n无法正视这些的人们，将迷失在这个迷雾重重的世界……\n\n以扭曲的内心景象为主题塑造的怪物和世界观，\n充满恐惧与疯狂的心理恐怖游戏《寂静岭》系列最新作。\n\n以日本为舞台的全新“心理恐怖故事”即将上演。\n\n在旧日的昭和时期，位于某处偏远山区的萧条乡镇·戎之丘，住着名为深水雏子的高中生。\n尽管她的生活稍显单调，也终究与多数平凡的青春期孩子别无二致。\n\n然而，习以为常的平静却在顷刻间崩塌。\n熟悉的小镇被浓雾环绕，逐渐变得阴森可怖。\n镇上的烟火气消失不见，取而代之的是浓雾中蠢蠢欲动的奇怪生物。\n\n在变得面目全非的小镇中探索、解谜。为了自保，为了生存而战斗。\n\n为了面对那避无可避的选择。\n以及，为了将该死之人置于死地……\n\n她将做出美丽的选择，\n亦或是令人毛骨悚然的选择？\n\n本作将为您呈献一个美丽而又令人战栗的抉择。独立于《SILENT HILL》系列的外传作品保留《SILENT HILL》系列特有的“心理恐怖”魅力的同时，采用了对初次接触系列作品的玩家也独具吸引力的故事构成。\n以1960年代昭和时期的日本为舞台本作的舞台是1960年代日本名为“戎之丘”的小镇。通过与以往作品不同的角色和舞台，编织出全新的故事。\n由龙骑士07先生打造的迷雾重重的故事包括主角雏子的朋友们的台词在内，全篇以充满谜团的展开推进故事。眼前发生的现象究竟是现实，还是雏子的妄想，抑或是本土信仰所引发的怪异现象？\n美丽与战栗共存的视觉效果，以及融入雅乐的音效以4K精美画面再现尽管怪诞又诡异，却依然美丽优雅的世界。\n3D环绕音效，能让玩家清晰感知到暗处和背后的细微响动，加剧不安感与危机感。\n多结局一周目的结局固定。但从二周目起，会根据玩家的行动，到达不同的结局和发展。共存在5种结局。通过达成不同结局，揭开故事的全貌吧！",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "冒险"
+  ],
+  "tags": [
+    "动作",
+    "冒险"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "可选颜色",
+    "自定义音量控制",
+    "推荐使用手柄",
+    "无需应对快速反应事件",
+    "DUALSHOCK 控制器支持",
+    "DualSense 控制器支持",
+    "DualSense 控制器支持",
+    "立体声",
+    "字幕选项",
+    "环绕声",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "NeoBards Entertainment Ltd."
+  ],
+  "publishers": [
+    "KONAMI"
+  ],
+  "release_date": "2025 年 9 月 24 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语",
+    "意大利语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "西班牙语 - 拉丁美洲",
+    "葡萄牙语 - 巴西",
+    "波兰语",
+    "俄语",
+    "简体中文",
+    "繁体中文",
+    "日语*",
+    "韩语\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 391.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 11 x64\n处理器: Intel Core i5-8400 / AMD Ryzen 5 2600\n内存: 16 GB RAM\n显卡: NVIDIA® GeForce® GTX 1070 Ti or AMD Radeon™ RX 5700\nDirectX 版本: 12\n存储空间: 需要 50 GB 可用空间\n声卡: Windows Compatible Audio Device.\n附注事项: Playing on minimum requirements should enable to play on Performance quality settings in 30 at 720p. SSD is recommended.",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 11 x64\n处理器: Intel Core i7-9700 / AMD Ryzen 5 5500\n内存: 16 GB RAM\n显卡: NVIDIA® GeForce® RTX 2080 or AMD Radeon™ RX 6800XT\nDirectX 版本: 12\n存储空间: 需要 50 GB 可用空间\n声卡: Windows Compatible Audio Device.\n附注事项: Playing on recommended requirements should enable to play on Performance settings in 60 FPS or Quality settings in 30 FPS at FullHD (or 4k using DLSS or similar technology). SSD required.",
+  "fetched_at": "2026-08-20T04:09:58Z",
+  "review_desc": "Very Positive",
+  "review_count": 28612,
+  "review_percentage": 80.5,
+  "review_score": 8
+}

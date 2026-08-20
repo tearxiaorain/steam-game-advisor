@@ -1,0 +1,75 @@
+{
+  "app_id": "753640",
+  "name": "Outer Wilds",
+  "name_cn": "",
+  "short_description": "Outer Wilds再添一项大奖，被Giant Bomb、Polygon、Eurogamer和The Guardian评为“2019年度游戏”！备受赞誉、屡获大奖的Outer Wilds是一款开放世界冒险类游戏，游戏背景是一个困在无尽的时间循环之中的太阳系。",
+  "detailed_description": "Outer Wilds再添一项大奖，被Giant Bomb、Polygon、Eurogamer和The Guardian评为“2019年度游戏”！备受赞誉、屡获大奖的Outer Wilds是一款开放世界冒险类游戏，游戏背景是一个困在无尽的时间循环之中的太阳系。\n\n欢迎加入太空计划！\n你是 Outer Wilds 冒险的最新成员，这个新手太空计划是为了在一个奇怪的、不断演变的太阳系中寻找答案。\n\n太阳系的奥秘...\n不祥的 Dark Bramble 星球中心潜伏着什么？月球上的外星人遗迹是谁建造的？能否停止无尽的时间循环？答案在最危险的太空区域等待着你。\n\n一个随时间改变的世界\nOuter Wilds 的星球上有许多随时间改变的隐秘地点。在某个地下城市被沙土吞噬之前拜访它，或在某个星球于你脚下破碎时探索其表面。每个秘密都受到危险环境和自然灾难的保护。\n\n带上你的星际徒步装备！\n系好你的徒步靴、检查你的氧气量并准备好进入太空冒险。使用各种独特的小设备探查周围环境、追踪神秘信号、破译古老的外星文字以及烤出完美的棉花糖。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "冒险"
+  ],
+  "tags": [
+    "动作",
+    "冒险"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "可调整文字大小",
+    "视角舒适度",
+    "可选颜色",
+    "自定义音量控制",
+    "推荐使用手柄",
+    "可以仅用键盘",
+    "无需应对快速反应事件",
+    "DUALSHOCK 控制器支持",
+    "DUALSHOCK 控制器支持",
+    "DualSense 控制器支持",
+    "DualSense 控制器支持",
+    "立体声",
+    "环绕声",
+    "Steam 云",
+    "在手机上远程畅玩",
+    "在平板上远程畅玩",
+    "在电视上远程畅玩",
+    "家庭共享"
+  ],
+  "developers": [
+    "Mobius Digital"
+  ],
+  "publishers": [
+    "Annapurna Interactive"
+  ],
+  "release_date": "2020 年 6 月 18 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语",
+    "意大利语",
+    "德语",
+    "日语",
+    "韩语",
+    "波兰语",
+    "葡萄牙语 - 巴西",
+    "俄语",
+    "简体中文",
+    "西班牙语 - 拉丁美洲",
+    "西班牙语 - 西班牙",
+    "土耳其语\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 95.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10\n处理器: Intel Core i5-2300 | AMD FX-4350\n内存: 6 GB RAM\n显卡: Nvidia GeForce GTX 660, 2 GB | AMD Radeon HD 7870, 2 GB\n存储空间: 需要 8 GB 可用空间\n附注事项: Gamepad or Controller Recommended (Xbox and PS4 Natively Supported)",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10\n处理器: Intel Core i5-8400 | AMD Ryzen 5 2600X\n内存: 8 GB RAM\n显卡: Nvidia GeForce GTX 1060 | AMD Radeon RX 580\n存储空间: 需要 8 GB 可用空间\n附注事项: Gamepad or Controller Recommended (Xbox and PS4 Natively Supported)",
+  "fetched_at": "2026-08-20T04:00:02Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 106709,
+  "review_percentage": 95.6,
+  "review_score": 9
+}

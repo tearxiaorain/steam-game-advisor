@@ -1,0 +1,52 @@
+{
+  "app_id": "1869270",
+  "name": "Multi Turret Academy",
+  "name_cn": "多炮塔神教",
+  "short_description": "《多炮塔神教》是一个稍微带点肉鸽要素的俯视角坦克射击游戏，你将作为苏联车长指挥各种二战坦克参加模拟战。在战斗中，你可以缴获敌车的炮塔来增强自己，并招募形形色色的学生们加入车组，和你一起赢得胜利。",
+  "detailed_description": "想成为这游戏的一部分吗？这是我个人开发的第一款游戏，如果有任何建议或反馈，欢迎加群私聊我痛陈利害~~\n\n我的B站账号：尤利娅游戏\n\n《多炮塔神教》官方QQ 4群：214766578\n\n官方QQ 3群（已满）：954137960\n\n官方QQ 2群（已满）：474080837\n\n官方QQ 1群（已满）：487922705\n\n官方邮箱：multiturretacademy@gmail.com\n\n更新路线图\n\n关于游戏欢迎，车长同志！《多炮塔神教》是一个稍微带点肉鸽要素的俯视角坦克射击游戏，你将在苏联校园成为车长，带领坦克社团的学生们进行坦克游戏。\n\n选择车辆目前游戏中有超过100辆二战载具，你可以选择一辆作为出击载具。\n\n改装车辆每辆坦克的炮塔是可随意拆卸的，在任务中还能获得其他车辆的炮塔装在自己身上，变得更强。\n\n招募乘员坦克社团的学生们各具特色，在战斗中将她们加入车组能使车辆获得新能力，和你一起赢得胜利！",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "独立",
+    "抢先体验"
+  ],
+  "tags": [
+    "动作",
+    "独立",
+    "抢先体验"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "Yulia Games"
+  ],
+  "publishers": [
+    "Yulia Games",
+    "Flashlight Games"
+  ],
+  "release_date": "2024 年 1 月 18 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语",
+    "简体中文",
+    "俄语",
+    "繁体中文",
+    "日语"
+  ],
+  "is_free": false,
+  "price_cny": 36.0,
+  "pc_requirements_min": "最低配置:\n操作系统: Windows 10 x64\n处理器: Intel Core i3-6100\n内存: 4 GB RAM\n显卡: NVIDIA GeForce GTX 750ti\nDirectX 版本: 12\n存储空间: 需要 3 GB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n操作系统: Windows 10/11 x64\n处理器: Intel Core i5-8400\n内存: 8 GB RAM\n显卡: NVIDIA GeForce GTX 1050ti\nDirectX 版本: 12\n存储空间: 需要 3 GB 可用空间",
+  "fetched_at": "2026-08-20T04:13:47Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 1817,
+  "review_percentage": 95.3,
+  "review_score": 9
+}

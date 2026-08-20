@@ -1,0 +1,57 @@
+{
+  "app_id": "1382070",
+  "name": "Viewfinder",
+  "name_cn": "",
+  "short_description": "使用一台拍立得相机，挑战你的认知、重新定义现实，并重塑周围的世界。《Viewfinder》是一款全新单人游戏，让玩家在数小时的有趣体验中揭开开遗留的谜团。",
+  "detailed_description": "使用一台拍立得相机，挑战你的认知、重新定义现实，并重塑周围的世界。《Viewfinder》是一款全新单人游戏，让玩家在数小时的有趣体验中揭开开遗留的谜团。\n\n《Viewfinder》是一款烧脑的第一人称冒险游戏。在游戏中，你可以通过把照片放置在世界中而将其变成现实。\n\n重塑现实。不只是照片，绘画、素描、屏幕截图和明信片全都可以变成现实，同时改变这个世界\n探索就是学习。玩家将了解这个世界的秘密、其存在的原因以及什么是创造的自由。探索多个复杂的枢纽世界，它们相互关联，既有相似点，又各有不同。\n你可以随心所欲地探索。《Viewfinder》的叙事是由玩家驱动的。对于只想解谜的玩家来说，它易于上手、难度友善；而对于那些喜欢钻研的玩家来说，这绝对是一个精心设计的丰富世界。 \n一旦踏入《Viewfinder》的世界，你就将为不可能的问题找到答案。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "冒险",
+    "独立"
+  ],
+  "tags": [
+    "冒险",
+    "独立"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "家庭共享"
+  ],
+  "developers": [
+    "Sad Owl Studios"
+  ],
+  "publishers": [
+    "Thunderful Publishing"
+  ],
+  "release_date": "2023 年 7 月 18 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语",
+    "意大利语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "日语",
+    "韩语",
+    "俄语",
+    "简体中文",
+    "葡萄牙语 - 巴西",
+    "阿拉伯语",
+    "西班牙语 - 拉丁美洲",
+    "繁体中文\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 92.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10\n处理器: Intel i5-9600K / AMD Ryzen 5\n内存: 8 GB RAM\n显卡: GeForce GTX 970\nDirectX 版本: 11\n存储空间: 需要 20 GB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统",
+  "fetched_at": "2026-08-20T04:04:17Z",
+  "review_desc": "Very Positive",
+  "review_count": 12973,
+  "review_percentage": 94.5,
+  "review_score": 8
+}

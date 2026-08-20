@@ -1,0 +1,53 @@
+{
+  "app_id": "889510",
+  "name": "SENRAN KAGURA Burst Re:Newal",
+  "name_cn": "",
+  "short_description": "爆乳超级格斗“闪乱神乐”系列原点作品，值得纪念的第1作《闪乱神乐 -少女们的真影-》，包含其内容的第2作《闪乱神乐 Burst -红莲的少女们-》终于HD化，登陆Steam舞台！",
+  "detailed_description": "限量版\n\n关于游戏\n\n忍者——\n\n那是在很久之前，战国时期中暗影般的存在。\n隐藏于世人中，打探、煽动、欺骗、破坏，以及——暗杀。\n是接受各种暗地工作委托的暗影般的存在——\n不知何时，他们消失在人们的心中，\n成为了仅仅在传说故事中出现的虚渺之物。\n\n但是，即便他们从人们的心中消失，即便岁月长河慢慢流淌，人们的恶业却不从改变。如今依旧需要这些存活于暗黑世界之人。\n\n没错。直至今日，忍者依然存在。\n\n接下来要开始的故事，是以忍者为生的少女们战斗的轨迹。\n\n本作的特征\n《闪乱神乐》系列原点作品强化后复活！\n图像品质得到大幅度强化，以《闪乱神乐EV》为基础，添加了新系统，从横向卷轴型动作游戏进化为可以在空间纵横无尽来回运动的3D动作游戏！来体验这系列的最初的故事吧！\n\n通过最新的战斗系统来把握战况，灵活应付战斗！\n本作中，当敌人做出攻击动作时，可以感知其发出的“杀气”并看出其攻击范围。因为通过范围效果的颜色，可以判别攻击是否可以防御，从防御、弹刀、躲避中选择最佳方案，支配战局吧！\n\n用爆裂模式将敌人击溃！\n爆裂槽集满发动爆裂模式后，一段时间内攻击力会超大提升！飞翔乱舞也能无限连击！爆裂模式中按特定键，不管是空中还是地上都可以使出扫清敌人的强力特殊攻击“爆裂终结”！如果在“爆裂模式”中击败首领角色，进而可以将其服装“完全破坏”！\n\n揭露忍者少女们的秘密！\n找出隐藏在各个关卡中少女们的秘密文件，可以对不为世人所知的忍者世界以及忍者们平时的生活略窥一二。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作"
+  ],
+  "tags": [
+    "动作"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "DUALSHOCK 控制器支持",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "Tamsoft"
+  ],
+  "publishers": [
+    "XSEED Games",
+    "Marvelous USA, Inc.",
+    "Marvelous"
+  ],
+  "release_date": "2019 年 1 月 22 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语",
+    "日语*",
+    "法语",
+    "韩语",
+    "简体中文",
+    "繁体中文\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 90.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows 7+\n处理器: Intel i5 @ 2.8GHz\n内存: 6 GB RAM\n显卡: NVIDIA GeForce GTX 750\nDirectX 版本: 11\n存储空间: 需要 23 GB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n操作系统: Windows 10\n处理器: Intel i5 @ 3.5 GHz\n内存: 8 GB RAM\n显卡: NVIDIA GeForce GTX 750 Ti\nDirectX 版本: 11\n存储空间: 需要 23 GB 可用空间",
+  "fetched_at": "2026-08-20T03:38:04Z",
+  "review_desc": "Very Positive",
+  "review_count": 2613,
+  "review_percentage": 93.3,
+  "review_score": 8
+}

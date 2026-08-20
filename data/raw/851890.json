@@ -1,0 +1,51 @@
+{
+  "app_id": "851890",
+  "name": "Gal*Gun 2",
+  "name_cn": "",
+  "short_description": "『少女☆射击2』是一款因为奇妙事件而成为超级万人迷的主角，使用眼力（通称：费洛蒙射击）让接二连三前来追求的女孩子们升天，并以属意的女主角为目标的奇特眼力射击游戏。 有点无厘头又色色的内容依然健在！ 除了各式各样的新要素之外，还能透过本作独有的「吸入」，尽情享受女孩子们惹人怜爱的反应！",
+  "detailed_description": "『少女☆射击2』是一款因为奇妙事件而成为超级万人迷的主角，使用眼力（通称：费洛蒙射击）让接二连三前来追求的女孩子们升天，并以属意的女主角为目标的奇特眼力射击游戏。\n\r\n有点无厘头又色色的内容依然健在！\n\r\n除了各式各样的新要素之外，还能透过本作独有的「吸入」，尽情享受女孩子们惹人怜爱的反应！",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "冒险"
+  ],
+  "tags": [
+    "动作",
+    "冒险"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "定位控制器支持",
+    "已支持 VR",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "INTI CREATES CO., LTD."
+  ],
+  "publishers": [
+    "PQube"
+  ],
+  "release_date": "2018 年 7 月 20 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语",
+    "日语*",
+    "韩语",
+    "繁体中文\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 109.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统 *: Windows 7, 8.1, 10 (64 bit only)\n处理器: Intel Core i5-4670 / AMD FX 8350\n内存: 4 GB RAM\n显卡: NVIDIA GeForce GTX 970 / AMD Radeon RX 570\nDirectX 版本: 11\n存储空间: 需要 8 GB 可用空间\n支持 VR: SteamVR",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统 *: Windows 7, 8.1, 10 (64 bit only)\n处理器: Intel Core i5-4670 / AMD FX 8350\n内存: 8 GB RAM\n显卡: NVIDIA GeForce GTX 1080 / AMD Radeon RX 480\nDirectX 版本: 11\n存储空间: 需要 8 GB 可用空间",
+  "fetched_at": "2026-08-20T03:42:26Z",
+  "review_desc": "Very Positive",
+  "review_count": 2493,
+  "review_percentage": 83.4,
+  "review_score": 8
+}

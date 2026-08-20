@@ -1,0 +1,54 @@
+{
+  "app_id": "913060",
+  "name": "Jet Lancer",
+  "name_cn": "",
+  "short_description": "《Jet Lancer》是一个疯狂的空战缠斗游戏。在这里，您将扮演遥远未来中一位以超音速追猎敌方战机、蚕食巨型机器人、不畏死亡的勇敢佣兵。",
+  "detailed_description": "关于本游戏：\n《Jet Lancer》是一个疯狂的空战缠斗游戏。在这里，您将扮演遥远未来中一位以超音速追猎敌方战机、蚕食巨型机器人、不畏死亡的勇敢佣兵。\n\n为您的喷射战机配备各种武装与升级，追猎世界上最为致命的“猎物”：巨型杀戮机器人。 可靠的导弹集群？具有威慑力的大型激光？还是说，您更喜欢用自己的回转机炮、尾焰或者一点点的生命值展示真正的技术？ 选择在您手中 — 勇气十足，接受挑战。\n\n游戏特效 最后王牌：从菜鸟佣兵到王牌机师，在情节推动的担任战役中逐步成长。\n 超越极限：只有顶尖的喷射战机才能配上如此伟大的机师。您能否释放战机的全部潜力，登上云上巅峰？\n 非凡火力：获得全新武器，定制喷射战机的装备，从而在任务中展现您独有的战斗风格。\n 以小博大：与超越规格的巨型机器人战斗，拯救世界。团队简介\nVladimir Fedyushkin 是《Jet Lancer》的设计者，同时负责美术和初步代码。生命中的一连串随机事件让他义无反顾地加入了游戏开发事业。您可以在 Twitter　(@WhyNotArtDump) 上找到他\nNicolai 是让一切在屏幕上动起来的代码天才。借助他的非凡手法，游戏才变得如同我们心中所想一般有趣。您可以在 Twitter　(@NicolaiGD) 上找到他\nFat Bard 是《Jet Lancer》的音乐负责人。他身兼作曲/音响二职，创作出游戏中令人记忆深刻的音乐与使人身临其境的音效。\n《Jet Lancer》是 Vladimir Fedyushkin 和 Nicolai Danielsen 的游戏处女作。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "独立"
+  ],
+  "tags": [
+    "动作",
+    "独立"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "DUALSHOCK 控制器支持",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "Code Wakers"
+  ],
+  "publishers": [
+    "Armor Games Studios"
+  ],
+  "release_date": "2020 年 5 月 12 日",
+  "platforms": [
+    "Windows",
+    "Mac"
+  ],
+  "supported_languages": [
+    "英语",
+    "俄语",
+    "法语",
+    "德语",
+    "简体中文",
+    "日语"
+  ],
+  "is_free": false,
+  "price_cny": 58.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows 7, 8.1, 10 x64\n处理器: Intel Core2 Duo E7300 (2 * 2660) or  AMD Athlon II X2 270 (2 * 3400) or equivalent\n内存: 4 GB RAM\n显卡: GeForce GT 640 (2048 MB) or Radeon HD 4850 (1024 MB)\n存储空间: 需要 300 MB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n操作系统 *: Windows 7, 8.1, 10 64 bit\n处理器: Intel Pentium G3250 (2*3200) or AMD FX 4350 (4*4200) or equivalent\n内存: 4 GB RAM\n显卡: GeForce GTX 750 (2048 MB) or Radeon RX 560X or GeForce MX 150 or GeForce GTX 970M or Intel UHD 620 or Intel Iris Pro 5200\n存储空间: 需要 300 MB 可用空间",
+  "fetched_at": "2026-08-20T04:21:27Z",
+  "review_desc": "Very Positive",
+  "review_count": 1231,
+  "review_percentage": 92.3,
+  "review_score": 8
+}

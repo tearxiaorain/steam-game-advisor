@@ -1,0 +1,67 @@
+{
+  "app_id": "337340",
+  "name": "Finding Paradise",
+  "name_cn": "Finding Paradise《寻找天堂》",
+  "short_description": "这是一个讲述两个博士借由改变记忆为弥留之际的人们完成他们人生最后愿望的故事。这是《去月球》的续集，但也可以单独玩。",
+  "detailed_description": "罗莎莉恩博士（Dr. Rosalene）和沃茨博士（Dr. Watts）有一份非常特殊的工作：他们可以给人们重活一次的机会，从人生的最开始重头来过，当然这个机会只存在于将死之人的头脑里\n\r\n\n\r\n由于其带来的严重后果，新的人工记忆将取代真实记忆成为病人临终前记住的事， 所以通过修改记忆去满足人们最后愿望的这种技术只能对临死的人实施。\n\r\n\n\r\n《寻找天堂》是《 去月球 》系列作品的第二部完整剧集。 这次故事跟随博士们的新病人——科林（Colin）的一生而展开，他们试图揭开这位病人一分为二的生活，实现他看上去自相矛盾的最后愿望。\n\r\n\n\r\n-------------------------------------------------------------------------------------------\n\r\n*如同《去月球》一样，《寻找天堂》是一个独立完整的游戏，无需玩过任何本系列的游戏即可充分体验。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "冒险",
+    "独立",
+    "角色扮演"
+  ],
+  "tags": [
+    "冒险",
+    "独立",
+    "角色扮演"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "Steam 集换式卡牌",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "Freebird Games"
+  ],
+  "publishers": [
+    "Freebird Games",
+    "Serenity Forge"
+  ],
+  "release_date": "2017 年 12 月 14 日",
+  "platforms": [
+    "Windows",
+    "Mac",
+    "Linux"
+  ],
+  "supported_languages": [
+    "英语",
+    "简体中文",
+    "波兰语",
+    "乌克兰语",
+    "西班牙语 - 西班牙",
+    "韩语",
+    "意大利语",
+    "葡萄牙语 - 巴西",
+    "捷克语",
+    "俄语",
+    "德语",
+    "土耳其语",
+    "匈牙利语",
+    "法语",
+    "西班牙语 - 拉丁美洲",
+    "日语",
+    "越南语"
+  ],
+  "is_free": false,
+  "price_cny": 39.0,
+  "pc_requirements_min": "最低配置:\n操作系统: XP, Vista, 7, 8, 10\n处理器: Intel Pentium III 800 MHz+\n内存: 1 GB RAM\n显卡: 1024x768 High Color +\n声卡: DirectX®: 9.0+\n附注事项: Practically runs on a potato.",
+  "pc_requirements_rec": "",
+  "fetched_at": "2026-08-20T03:41:15Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 20311,
+  "review_percentage": 97.8,
+  "review_score": 9
+}

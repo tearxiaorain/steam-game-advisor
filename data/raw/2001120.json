@@ -1,0 +1,72 @@
+{
+  "app_id": "2001120",
+  "name": "Split Fiction",
+  "name_cn": "双影奇境",
+  "short_description": "深入《双影奇境》的多重世界，体验惊心动魄的时刻，完成突破边界的合作冒险。",
+  "detailed_description": "备受赞誉\n\n好友通行证\n\n关于游戏深入《双影奇境》的多重世界，体验惊心动魄的时刻。这是由 2021 年度最佳游戏《双人成行》工作室打造的又一款创新合作类动作冒险游戏。米欧和佐伊是两位风格截然不同的作家，她们一个擅长科幻小说，另一个专注于奇幻题材。被骗进入一台意在窃取创意的机器后，她们陷入了自己创作的故事之中。她们必须相互依靠，保护自己的记忆不受侵害，进而赢得自由；同时她们还必须共同努力掌握各种技能，在科幻与奇幻的世界间穿梭，在意外萌生的友情中共同克服挑战。\n\n《双影奇境》是一款独一无二的动作类冒险游戏，让你身临其境，感受一个个意想不到的时刻。前一分钟你还在驯服惹人喜爱的龙，下一分钟就变身成为赛博忍者与敌人对战。逃离可怕的巨魔，躲避机器人停车场管理员投掷出的悬浮车辆等等……怪诞，狂野而多彩的体验，专为与伙伴分享体验而设计。\n\n叫上搭档，准备好克服前进过程中遇到的任何障碍。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "冒险"
+  ],
+  "tags": [
+    "动作",
+    "冒险"
+  ],
+  "categories": [
+    "多人",
+    "合作",
+    "在线合作",
+    "同屏/分屏合作",
+    "同屏/分屏",
+    "跨平台多人",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "支持字幕",
+    "视角舒适度",
+    "可选颜色",
+    "DUALSHOCK 控制器支持",
+    "DualSense 控制器支持",
+    "DualSense 控制器支持",
+    "立体声",
+    "环绕声",
+    "Steam 云",
+    "远程同乐",
+    "可用 HDR",
+    "家庭共享"
+  ],
+  "developers": [
+    "Hazelight Studios"
+  ],
+  "publishers": [
+    "Electronic Arts"
+  ],
+  "release_date": "2025 年 3 月 6 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语*",
+    "意大利语*",
+    "德语*",
+    "西班牙语 - 西班牙*",
+    "日语*",
+    "韩语",
+    "波兰语",
+    "葡萄牙语 - 巴西",
+    "简体中文*",
+    "繁体中文\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 198.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统: 64 bit Windows 10/11\n处理器: Intel Core i5-6600K or AMD Ryzen 5 2600X\n内存: 16 GB RAM\n显卡: NVIDIA GeForce GTX 970 - 4GB or Radeon RX 470 - 4GB\nDirectX 版本: 12\n网络: 宽带互联网连接\n存储空间: 需要 85 GB 可用空间\n附注事项: Resolution: 1920x1080 Native FPS: 30 Graphics Settings Preset: Low",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: 64 bit Windows 10/11\n处理器: Intel Core i7-11700k or AMD Ryzen 7 5800X\n内存: 16 GB RAM\n显卡: NVIDIA GeForce RTX 3070 - 8GB or AMD Radeon 6700 XT - 12GB\nDirectX 版本: 12\n网络: 宽带互联网连接\n存储空间: 需要 85 GB 可用空间\n附注事项: Resolution: 2560x1440 Native FPS: 60 Graphics Settings Preset: High",
+  "fetched_at": "2026-08-20T04:04:00Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 125736,
+  "review_percentage": 96.9,
+  "review_score": 9
+}

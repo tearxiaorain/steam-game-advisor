@@ -1,0 +1,47 @@
+{
+  "app_id": "616720",
+  "name": "Live2DViewerEX",
+  "name_cn": "",
+  "short_description": "最好的跨平台Live2D解决方案，三种显示模式（壁纸 / 桌面 / 桌面窗口），多种平台（Windows / MacOS / Android / iOS），自带高精度面部捕捉，以及各种丰富的功能",
+  "detailed_description": "购买前请注意！\n 软件目前仍在开发中，功能待完善\n 使用上遇到问题：\n 请阅读使用文档\n 在社区发帖或者发邮件至 pavostudio@hotmail.com 可以在文档中下载iOS和Android版本\n 如果希望同时使用Wallpaper Engine或自己的壁纸，请右键托盘图标->启动模式，选择桌面模式\n 创意工坊物品均由网友上传提供，如果您遇到体验上的问题，请直接联系上传者，本软件不保证与模型有关的任何内容\n Live2DViewerEX 不属于 Live2D Inc. ，它是一个非官方产品\n---------------------------------------------------------------------关于Live2DViewerEX Live2DViewerEX 是一个非官方跨平台Live2D展示软件，支持Windows、Mac、Android和iOS特性跨平台：Windows、MacOS、Android和iOS\n三种模式：壁纸模式，桌面模式（全屏，工作区和无边框窗口）和窗口模式\n面部捕捉：附赠高精度面部捕捉应用（Windows / MacOS / Android / iOS）\n支持窗口跟随（仅Windows）\n模型：多模型展示、交互、编辑、导入（创意工坊、LPK、Json文件）\n背景：支持图片、视频、全景图片和视频、网页\n特效：雨和雪、可视化效果器、漂浮粒子\n滤镜：多达48种可配置屏幕滤镜\n小部件：数字时钟、模拟时钟、日历、提醒、音乐播放器、资源监视器、桌面图标…\n场景：保存&读取场景\nExAPI：编写您自己的软件并与Live2DViewerEX交互\n创意工坊支持\n多显示器支持\n支持Cubism SDK 4说明关于售价\n受到汇率、开发维护成本及Live2D SDK许可费的影响，售价可能随时会做相应调整，不再另行通知\n\n关于性能和资源占用\n应用针对性能和资源占用已做了优化，但是占用资源的多少随加载内容而有所差别。一般说来桌面模式相比壁纸模式占用资源更少，请按需要选择合适的启动模式",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动画制作和建模",
+    "实用工具"
+  ],
+  "tags": [
+    "动画制作和建模",
+    "实用工具"
+  ],
+  "categories": [
+    "Steam 创意工坊"
+  ],
+  "developers": [
+    "Pavo Studio"
+  ],
+  "publishers": [
+    "Pavo Studio"
+  ],
+  "release_date": "2021 年 12 月 31 日",
+  "platforms": [
+    "Windows",
+    "Mac"
+  ],
+  "supported_languages": [
+    "英语",
+    "简体中文",
+    "繁体中文",
+    "日语",
+    "俄语"
+  ],
+  "is_free": false,
+  "price_cny": 26.0,
+  "pc_requirements_min": "最低配置:\n操作系统: Windows 10 21H1 (build 19043) \n处理器: Intel i3\n内存: 4 GB RAM\n显卡: HD Graphics 4000\nDirectX 版本: 11\n网络: 宽带互联网连接\n存储空间: 需要 3 GB 可用空间",
+  "pc_requirements_rec": "推荐配置:\nDirectX 版本: 11\n网络: 宽带互联网连接",
+  "fetched_at": "2026-08-20T04:06:10Z",
+  "review_desc": "Very Positive",
+  "review_count": 3681,
+  "review_percentage": 92.5,
+  "review_score": 8
+}

@@ -1,0 +1,60 @@
+{
+  "app_id": "570940",
+  "name": "DARK SOULS™: REMASTERED",
+  "name_cn": "",
+  "short_description": "有一天，燃起了第一团火。 重新体验话题性、代表性十足的经典游戏。 经过画质提升，将以惊艳的60fps形式呈现，做好重返罗德兰的准备吧。 黑暗灵魂 Remastered包含游戏本体，以及DLC《Artorias of the Abyss》。",
+  "detailed_description": "有一天，燃起了第一团火。\n\r\n\n\r\n重新体验话题性、代表性十足的经典游戏。\n\r\n经过画质提升，将以惊艳的60fps形式呈现，做好重返罗德兰的准备吧。\n\r\n黑暗灵魂 Remastered包含游戏本体，以及DLC《Artorias of the Abyss》。\n\r\n\n\r\n游戏特色：\n\r\n- 黑暗与深沉的世界观\n\r\n- 每一次结束都是一个新开始\n\r\n- 游戏丰富性与各种可能性\n\r\n- 体验学习、克服、获得成就感的连锁效应\n\r\n- 可多人联机游玩（人数最多可至6人）",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作"
+  ],
+  "tags": [
+    "动作"
+  ],
+  "categories": [
+    "单人",
+    "多人",
+    "Steam 成就",
+    "完全支持控制器",
+    "在手机上远程畅玩",
+    "在平板上远程畅玩",
+    "在电视上远程畅玩",
+    "家庭共享"
+  ],
+  "developers": [
+    "QLOC",
+    "FromSoftware, Inc."
+  ],
+  "publishers": [
+    "FromSoftware, Inc.",
+    "Bandai Namco Entertainment"
+  ],
+  "release_date": "2018 年 5 月 23 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语",
+    "意大利语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "日语",
+    "韩语",
+    "波兰语",
+    "葡萄牙语 - 巴西",
+    "俄语",
+    "简体中文",
+    "繁体中文\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 198.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统 *: Windows 7 64-bit, Service Pack 1\n处理器: Intel Core i5-2300 2.8 GHz / AMD FX-6300, 3.5 GHz\n内存: 6 GB RAM\n显卡: GeForce GTX 460, 1 GB / Radeon HD 6870, 1 GB\nDirectX 版本: 11\n存储空间: 需要 8 GB 可用空间\n声卡: DirectX 11 sound device\n附注事项: Low Settings, 60 FPS @ 1080p",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10 64-bit\n处理器: Intel Core i5-4570 3.2 GHz / AMD FX-8350 4.2 GHz\n内存: 8 GB RAM\n显卡: GeForce GTX 660, 2 GB / Radeon HD 7870, 2 GB\nDirectX 版本: 11\n存储空间: 需要 8 GB 可用空间\n声卡: DirectX 11 sound device\n附注事项: High Settings, 60 FPS @ 1080p",
+  "fetched_at": "2026-08-20T04:06:17Z",
+  "review_desc": "Very Positive",
+  "review_count": 154243,
+  "review_percentage": 92.4,
+  "review_score": 8
+}

@@ -1,0 +1,83 @@
+{
+  "app_id": "1593500",
+  "name": "God of War",
+  "name_cn": "",
+  "short_description": "奎托斯复仇奥林匹斯众神的往事已尘封多年，他现在以凡人的身份生活在北欧众神和怪物环伺的领土中。在这片极寒荒芜的土地上，唯有战斗方能生存……他如是教育其子。",
+  "detailed_description": "踏入北欧国度\n奎托斯复仇奥林匹斯众神的往事已尘封多年，他现在以凡人的身份生活在北欧众神和怪物环伺的领土中。在这片极寒荒芜的土地上，唯有战斗方能生存……他如是教育其子。 \n\n再握机遇 \n奎托斯再为人父。他与儿子阿特柔斯流落在外，身处险地。他是儿子的良师，亦是护卫，阿特柔斯也立志要获得他的尊重。尽管奎托斯一直怒火中烧，却不得不学会处理情绪，控制怒气。 \n\n探访恐怖生物的暗黑本质世界\n从奥林匹斯华丽的大理石雕与石柱，到北欧前维京时代的森林、山脉与洞穴，这是一片全新的大陆，拥有独特的生物、怪物与众神。 \n\n身临其境的狂野肉搏 \n本作采用过肩视角，带给玩家前所未有的临场体验。在《战神™》中，奎托斯将面对庞大威猛、凶狠狡诈的北欧生物，并与之战斗。全新主武器与新型技能与《战神》系列的精神内核一脉相承，但独特的战斗视角在系列中属首开先河。PC 特色功能\n高保真画面\nPC 画质大幅提升。在支持相关功能的设备上 [MU1] 您可尊享真 4K 分辨率与无锁帧率带来的巅峰表现。通过丰富的画面预设和选项进行设置，包括更高分辨率的阴影、改进的屏幕空间反射，新增的 GTAO 与 SSDO 及其他设置。\n\n支持 NVIDIA® DLSS 与 Reflex\n质量与性能相匹配。利用 NVIDIA 深度学习超级采样 (DLSS) 的 AI 功能提高帧率，通过特定 Nvidia GPU 呈现精美清晰的画面。NVIDIA Reflex 低延迟技术，让您可更快地做出反应，完成更加困难的连招，通过 GeForce GPU 尽享酣畅淋漓的游戏体验。\n\n自定义操作方式\n随心畅玩。本游戏支持 DUALSHOCK®4 无线控制器 与 DualSense™ 无线控制器以及其他各类控制器，玩家可以完全自定义鼠标与键盘设置，微调每个动作，玩出个人特色。\n\n超宽幅画面支持\n前所未有的沉浸式体验。北欧之旅中，夺人心魂的峡谷风光在全景宽屏中徐徐展开。《战神™》支持 21:9 超宽屏幕，进一步增强原高清画质，带来影院级视觉体验。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "冒险",
+    "角色扮演"
+  ],
+  "tags": [
+    "动作",
+    "冒险",
+    "角色扮演"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "可调整文字大小",
+    "视角舒适度",
+    "可选颜色",
+    "自定义音量控制",
+    "可调整难度",
+    "可以仅用键盘",
+    "朗读游戏菜单",
+    "无需应对快速反应事件",
+    "DUALSHOCK 控制器支持",
+    "DUALSHOCK 控制器支持",
+    "DualSense 控制器支持",
+    "DualSense 控制器支持",
+    "随时保存",
+    "立体声",
+    "字幕选项",
+    "环绕声",
+    "Steam 云",
+    "在电视上远程畅玩",
+    "家庭共享"
+  ],
+  "developers": [
+    "Santa Monica Studio",
+    "Jetpack Interactive"
+  ],
+  "publishers": [
+    "PlayStation Publishing LLC"
+  ],
+  "release_date": "2022 年 1 月 14 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语*",
+    "意大利语*",
+    "德语*",
+    "西班牙语 - 西班牙*",
+    "荷兰语",
+    "日语*",
+    "韩语",
+    "波兰语*",
+    "葡萄牙语 - 葡萄牙*",
+    "葡萄牙语 - 巴西*",
+    "俄语*",
+    "西班牙语 - 拉丁美洲*",
+    "土耳其语",
+    "繁体中文",
+    "捷克语",
+    "匈牙利语",
+    "希腊语\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 345.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10\n处理器: Intel i5-2500k (4 core 3.3 GHz) or AMD Ryzen 3 1200 (4 core 3.1 GHz)\n内存: 8 GB RAM\n显卡: NVIDIA GTX 960 (4 GB) or AMD R9 290X (4 GB)\nDirectX 版本: 11\n存储空间: 需要 70 GB 可用空间\n附注事项: DirectX feature level 11_1 required",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10\n处理器: Intel i5-6600k (4 core 3.5 GHz) or AMD Ryzen 5 2400 G (4 core 3.6 GHz)\n内存: 8 GB RAM\n显卡: NVIDIA GTX 1060 (6 GB) or AMD RX 570 (4 GB)\nDirectX 版本: 11\n存储空间: 需要 70 GB 可用空间\n附注事项: DirectX feature level 11_1 required",
+  "fetched_at": "2026-08-20T04:15:12Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 183802,
+  "review_percentage": 95.9,
+  "review_score": 9
+}

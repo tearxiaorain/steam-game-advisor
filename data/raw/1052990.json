@@ -1,0 +1,67 @@
+{
+  "app_id": "1052990",
+  "name": "A Monster's Expedition",
+  "name_cn": "怪兽远征",
+  "short_description": "《怪兽远征》是全世界最优秀的益智游戏设计师的作品。",
+  "detailed_description": "Check out our upcoming game\n\n关于游戏《怪兽远征》是全世界最优秀的益智游戏设计师的作品。一群对人类充满好奇的怪物将在开放世界中展开一场迷人而又放松的益智冒险。\n\n把树木推倒来创建道路，在远远近近数百座的岛屿上展开冒险，从而了解“人类”的历史。\n\n来自“人文英格兰”挖掘现场的全新展品让玩家沉浸在人类的文化之中，每一件展品都附有专家的见解*！\n*见解不是一个具有法律约束力的术语，可能包括也可能不包括传闻、谣言和小道消息。\n\n这款迷人的开放世界益智游戏由《雪人难堆》(A Good Snowman is Hard to Build) 和《宇宙快车》(Cosmic Express) 的制作班底打造\n简单却不失深刻的机制让这款游戏充满了有待发现的可能性\n数百个岛屿 – 有些就在你眼前，而另一些则打破了常规，等待真正的解谜爱好者去发现\n通过充满好奇心的怪物视角来了解神秘的人类",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "冒险",
+    "休闲",
+    "独立",
+    "策略"
+  ],
+  "tags": [
+    "冒险",
+    "休闲",
+    "独立",
+    "策略"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 云",
+    "在电视上远程畅玩",
+    "远程同乐",
+    "家庭共享"
+  ],
+  "developers": [
+    "Draknek & Friends"
+  ],
+  "publishers": [
+    "Draknek & Friends"
+  ],
+  "release_date": "2020 年 9 月 10 日",
+  "platforms": [
+    "Windows",
+    "Mac",
+    "Linux"
+  ],
+  "supported_languages": [
+    "英语",
+    "法语",
+    "意大利语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "阿拉伯语",
+    "荷兰语",
+    "日语",
+    "韩语",
+    "葡萄牙语 - 巴西",
+    "俄语",
+    "简体中文",
+    "繁体中文",
+    "土耳其语"
+  ],
+  "is_free": false,
+  "price_cny": 76.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows 7+\n处理器: SSE2 instruction set support\n内存: 2 GB RAM\n显卡: 256 MB NVidia or ATI graphics card, Intel HD Graphics 3000 or better\nDirectX 版本: 9.0c\n存储空间: 需要 1 GB 可用空间",
+  "pc_requirements_rec": "",
+  "fetched_at": "2026-08-20T03:36:41Z",
+  "review_desc": "Very Positive",
+  "review_count": 1716,
+  "review_percentage": 94.6,
+  "review_score": 8
+}

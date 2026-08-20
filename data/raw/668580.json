@@ -1,0 +1,71 @@
+{
+  "app_id": "668580",
+  "name": "Atomic Heart",
+  "name_cn": "原子之心",
+  "short_description": "欢迎进入美妙疯狂的乌托邦世界。生死之战，一触即发。针对独特敌人制定最佳战术，升级装备，利用环境条件完成任务。想要揭开真相？那就做好流血的准备吧！",
+  "detailed_description": "特别版\n\nDiscord\n\n关于游戏欢迎来到奇妙的乌托邦世界。在这里，人类与忠诚热情的机器人和谐共处，生活一直都完美无瑕。\n\n再过几天，最新的机器人控制系统就要启动了，一切都照计划进行，除非忽然出现惨烈的事故，或者什么天大的阴谋……\n\n科学发展的脚步不可阻挡，秘密实验也随之展开，催生了无数骇人的变异体和机器，还有能力超强的机器人，可如今，它们忽然开始反抗自己的造物主。只有你能阻止它们，揭露理想世界背后隐藏的真相。\n\n生死之战，一触即发。善用具有各种能力的试制手套、形形色色的刀剑和走在科学前沿的尖端武器，在爆炸的火光之中杀出一条血路。针对独特敌人制定最佳战术，结合手上的技能和资源，升级装备，利用环境条件，克服重重挑战，为正义而战。\n\n•\t美妙而又疯狂的乌托邦世界\n•\t棘手的战斗难度，恢弘壮观的战斗场面，满屏都是血浆\n•\t用各种技能和尖端武器暴揍高大的机器和变异体\n•\t升级武器库和装备",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "冒险",
+    "角色扮演"
+  ],
+  "tags": [
+    "动作",
+    "冒险",
+    "角色扮演"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "可调整文字大小",
+    "视角舒适度",
+    "可选颜色",
+    "自定义音量控制",
+    "可调整难度",
+    "无需应对快速反应事件",
+    "立体声",
+    "环绕声",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "Mundfish"
+  ],
+  "publishers": [
+    "Focus Entertainment",
+    "4Divinity",
+    "Mundfish"
+  ],
+  "release_date": "2023 年 2 月 20 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语*",
+    "德语*",
+    "西班牙语 - 西班牙*",
+    "日语*",
+    "俄语*",
+    "简体中文*",
+    "韩语",
+    "波兰语*",
+    "葡萄牙语 - 巴西*",
+    "意大利语*",
+    "繁体中文",
+    "乌克兰语\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 239.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10 (20H1 version or newer, 64-bit versions)\n处理器: AMD Ryzen 3 1200 or Intel Core i5-2500\n内存: 8 GB RAM\n显卡: 4 GB VRAM, AMD Radeon R9 380 or NVIDIA GeForce GTX 960\nDirectX 版本: 12\n存储空间: 需要 90 GB 可用空间\n附注事项: 30 FPS, 1920x1080 in low",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10 (20H1 version or newer, 64-bit versions)\n处理器: AMD Ryzen 5 2600X or Intel Core i7-7700K\n内存: 16 GB RAM\n显卡: 8 GB VRAM, AMD RX 6700 XT or NVIDIA GeForce RTX 2070\nDirectX 版本: 12\n存储空间: 需要 90 GB 可用空间\n附注事项: SSD recommended, 60 FPS, 1920x1080 in ultra",
+  "fetched_at": "2026-08-20T04:23:43Z",
+  "review_desc": "Very Positive",
+  "review_count": 51161,
+  "review_percentage": 80.8,
+  "review_score": 8
+}

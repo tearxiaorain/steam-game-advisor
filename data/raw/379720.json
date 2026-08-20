@@ -1,0 +1,61 @@
+{
+  "app_id": "379720",
+  "name": "DOOM",
+  "name_cn": "",
+  "short_description": "Now includes all three premium DLC packs (Unto the Evil, Hell Followed, and Bloodfall), maps, modes, and weapons, as well as all feature updates including Arcade Mode, Photo Mode, and the latest Update 6.66, which brings further multiplayer improvements as well as revamps multiplayer progression.",
+  "detailed_description": "2016 Game Awards Winner\n\nAbout the GameDeveloped by id software, the studio that pioneered the first-person shooter genre and created multiplayer Deathmatch, DOOM returns as a brutally fun and challenging modern-day shooter experience. Relentless demons, impossibly destructive guns, and fast, fluid movement provide the foundation for intense, first-person combat – whether you’re obliterating demon hordes through the depths of Hell in the single-player campaign, or competing against your friends in numerous multiplayer modes. Expand your gameplay experience using DOOM SnapMap game editor to easily create, play, and share your content with the world. \n\nSTORY:\nYou’ve come here for a reason. The Union Aerospace Corporation’s massive research facility on Mars is overwhelmed by fierce and powerful demons, and only one person stands between their world and ours.  As the lone DOOM Marine, you’ve been activated to do one thing – kill them all.KEY FEATURES:A Relentless Campaign\nThere is no taking cover or stopping to regenerate health as you beat back Hell’s raging demon hordes.  Combine your arsenal of futuristic and iconic guns, upgrades, movement and an advanced melee system to knock-down, slash, stomp, crush, and blow apart demons in creative and violent ways. \n\nReturn of id Multiplayer\nDominate your opponents in DOOM’s signature, fast-paced arena-style combat. In both classic and all-new game modes, annihilate your enemies utilizing your personal blend of skill, powerful weapons, vertical movement, and unique power-ups that allow you to play as a demon.\n\nEndless Possibilities\nDOOM SnapMap – a powerful, but easy-to-use game and level editor – allows for limitless gameplay experiences on every platform.  Without any previous experience or special expertise, any player can quickly and easily snap together and visually customize maps, add pre-defined or completely custom gameplay, and even edit game logic to create new modes.  Instantly play your creation, share it with a friend, or make it available to players around the world – all in-game with the push of a button.",
+  "description_lang_short": "en",
+  "description_lang_detail": "en",
+  "genres": [
+    "动作"
+  ],
+  "tags": [
+    "动作"
+  ],
+  "categories": [
+    "单人",
+    "多人",
+    "合作",
+    "Steam 成就",
+    "Steam 集换式卡牌",
+    "可选颜色",
+    "立体声",
+    "环绕声",
+    "部分支持控制器",
+    "Steam 云",
+    "在手机上远程畅玩",
+    "在平板上远程畅玩",
+    "家庭共享"
+  ],
+  "developers": [
+    "id Software"
+  ],
+  "publishers": [
+    "Bethesda Softworks"
+  ],
+  "release_date": "2016 年 5 月 12 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语*",
+    "意大利语*",
+    "德语*",
+    "西班牙语 - 西班牙*",
+    "日语*",
+    "波兰语*",
+    "葡萄牙语 - 巴西*",
+    "俄语*",
+    "繁体中文\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 83.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows 7/8.1/10 (64-bit versions)\n处理器: Intel Core i5-2400/AMD FX-8320 or better\n内存: 8 GB RAM\n显卡: NVIDIA GTX 670 2GB/AMD Radeon HD 7870 2GB or better\n存储空间: 需要 55 GB 可用空间\n附注事项: Requires Steam activation and broadband internet connection for Multiplayer and SnapMap",
+  "pc_requirements_rec": "推荐配置:\n操作系统 *: Windows 7/8.1/10 (64-bit versions)\n处理器: Intel Core i7-3770/AMD FX-8350 or better\n内存: 8 GB RAM\n显卡: NVIDIA GTX 970 4GB/AMD Radeon R9 290 4GB or better\n存储空间: 需要 55 GB 可用空间\n附注事项: Requires Steam activation and broadband internet connection for Multiplayer and SnapMap",
+  "fetched_at": "2026-08-20T04:06:53Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 221039,
+  "review_percentage": 95.5,
+  "review_score": 9
+}

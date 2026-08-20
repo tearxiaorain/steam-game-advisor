@@ -19,6 +19,13 @@ from rag_modules import (
     TraceLogger,
 )
 from rag_modules.tag_taxonomy import get_taxonomy
+from rag_modules.library_profile import (
+    OwnedLibrary,
+    attach_playtime_metadata,
+    detect_library_mode,
+    load_owned_library,
+    select_owned_candidates,
+)
 
 load_dotenv(Path(__file__).resolve().parent.parent / ".env")
 
@@ -37,6 +44,7 @@ class SteamGameAdvisor:
         self.retrieval_module = None
         self.generation_module = None
         self.owned_app_ids = []
+        self.owned_library = OwnedLibrary()
         self.trace_logger = TraceLogger(self.config.trace_path)
 
         if not Path(self.config.data_path).exists():
@@ -56,7 +64,14 @@ class SteamGameAdvisor:
             temperature=self.config.temperature,
             max_tokens=self.config.max_tokens,
         )
-        self.owned_app_ids = DataPreparationModule.load_owned_app_ids(self.config.library_path)
+        self.owned_library = load_owned_library(
+            self.config.me_owned_path, self.config.library_path
+        )
+        self.owned_app_ids = self.owned_library.app_ids or DataPreparationModule.load_owned_app_ids(
+            self.config.library_path
+        )
+        if self.owned_app_ids:
+            print(f"已加载库存 {len(self.owned_app_ids)} 款（含时长画像）。")
         print("系统初始化完成。")
 
     def build_knowledge_base(self, force_rebuild: bool = False):
@@ -176,13 +191,32 @@ class SteamGameAdvisor:
         filters = self._extract_filters_from_query(question)
         if filters:
             print(f"过滤条件: {filters}")
-        relevant_chunks = self._retrieve_chunks(
-            route_type, question, rewritten_query, query_variants, filters
-        )
 
+        library_mode = None
         if route_type == "library":
-            relevant_docs = self._apply_library_constraint(question, relevant_chunks)
+            library_mode = detect_library_mode(question)
+            print(f"库存策略: {library_mode}")
+            if library_mode in {"tonight", "recent", "backlog"}:
+                relevant_docs = self._select_library_docs(library_mode)
+                rewritten_query = f"[library:{library_mode}] {question}"
+                if not relevant_docs:
+                    relevant_chunks = self._retrieve_chunks(
+                        route_type, question, question, [question], filters
+                    )
+                    relevant_docs = self._apply_library_constraint(
+                        question, relevant_chunks, mode="owned"
+                    )
+            else:
+                relevant_chunks = self._retrieve_chunks(
+                    route_type, question, rewritten_query, query_variants, filters
+                )
+                relevant_docs = self._apply_library_constraint(
+                    question, relevant_chunks, mode=library_mode
+                )
         else:
+            relevant_chunks = self._retrieve_chunks(
+                route_type, question, rewritten_query, query_variants, filters
+            )
             relevant_docs = self.data_module.get_parent_documents(relevant_chunks)
 
         hits = [
@@ -229,7 +263,9 @@ class SteamGameAdvisor:
             )
 
         if route_type == "library":
-            answer = self.generation_module.generate_library_answer(question, relevant_docs)
+            answer = self.generation_module.generate_library_answer(
+                question, relevant_docs, library_mode=library_mode or "owned"
+            )
         elif route_type == "detail":
             answer = self.generation_module.generate_detail_answer(question, relevant_docs)
         else:
@@ -265,16 +301,71 @@ class SteamGameAdvisor:
 
         return _gen()
 
-    def _apply_library_constraint(self, question: str, chunks):
+    def _select_library_docs(self, mode: str):
+        """tonight/recent/backlog：直接按库存时长从知识库父文档里取候选。"""
+        id_to_doc = {
+            str(d.metadata.get("app_id")): d for d in self.data_module.documents
+        }
+        kb_ids = list(id_to_doc.keys())
+        pool_limit = 500 if mode == "backlog" else max(self.config.top_k, 3)
+        candidates = select_owned_candidates(
+            self.owned_library,
+            mode,
+            available_app_ids=kb_ids,
+            limit=pool_limit,
+        )
+        if mode == "backlog":
+            # 库内未玩：优先好评率高的档案，避免按名字字典序乱序
+            def _review_score(game):
+                doc = id_to_doc.get(game.app_id)
+                if doc is None:
+                    return -1.0
+                try:
+                    return float(doc.metadata.get("review_percentage") or -1)
+                except (TypeError, ValueError):
+                    return -1.0
+
+            candidates = sorted(candidates, key=_review_score, reverse=True)
+        candidates = candidates[: max(self.config.top_k, 3)]
+
+        docs = []
+        for game in candidates:
+            doc = id_to_doc.get(game.app_id)
+            if doc is None:
+                continue
+            from langchain_core.documents import Document
+
+            clone = Document(page_content=doc.page_content, metadata=dict(doc.metadata))
+            docs.append(attach_playtime_metadata(clone, game))
+        if not docs:
+            print(f"库存策略 {mode} 与知识库无交集。")
+        return docs
+
+    def _apply_library_constraint(self, question: str, chunks, mode: str = None):
         docs = self.data_module.get_parent_documents(chunks)
         owned = set(self.owned_app_ids)
         if not owned:
             print("未导入库存，library 路由将按普通检索结果作答。")
             return docs
-        exclude_owned = any(key in question for key in ("没玩过", "未玩", "还没买", "推荐一款没"))
-        if exclude_owned:
-            return [doc for doc in docs if str(doc.metadata.get("app_id")) not in owned]
-        return [doc for doc in docs if str(doc.metadata.get("app_id")) in owned] or docs
+
+        mode = mode or detect_library_mode(question)
+        if mode == "unowned":
+            filtered = [doc for doc in docs if str(doc.metadata.get("app_id")) not in owned]
+            return filtered
+
+        filtered = [doc for doc in docs if str(doc.metadata.get("app_id")) in owned]
+        if not filtered:
+            # 检索没命中库内档案时，回退到时长排序的库内知识库游戏
+            return self._select_library_docs("tonight")
+
+        enriched = []
+        for doc in filtered:
+            from langchain_core.documents import Document
+
+            clone = Document(page_content=doc.page_content, metadata=dict(doc.metadata))
+            game = self.owned_library.get(str(doc.metadata.get("app_id")))
+            enriched.append(attach_playtime_metadata(clone, game))
+        return enriched or docs
 
     def _retrieve_chunks(
         self,

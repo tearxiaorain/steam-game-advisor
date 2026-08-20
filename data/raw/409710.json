@@ -1,0 +1,62 @@
+{
+  "app_id": "409710",
+  "name": "BioShock™ Remastered",
+  "name_cn": "生化奇兵 重制版",
+  "short_description": "《生化奇兵》是一款独特的射击游戏，其中包含的武器和运用的策略都是你从未体验过的。你将拥有一套完整的军械库任你使用，从简单的左轮手枪到榴弹发射器到化学武器，并且你也会被强制要求基因调整你的DNA来创造一种更为致命的武器：你自己。",
+  "detailed_description": "《生化奇兵》是一款独特的射击游戏，其中包含的武器和运用的策略都是你从未体验过的。你将拥有一套完整的军械库任你使用，从简单的左轮手枪到榴弹发射器到化学武器，并且你也会被强制要求基因调整你的DNA来创造一种更为致命的武器：你自己。游戏特色：“孤儿博物馆”概念作品\n挑战房间\n成就\n完整控制器支持\n高分辨率材质、模型和界面\n4K分辨率支持\n导演评论：Imagining Bioshock，由Ken Levine和Shawn Robertson提供",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "角色扮演"
+  ],
+  "tags": [
+    "动作",
+    "角色扮演"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "Steam 云",
+    "解说可用",
+    "在手机上远程畅玩",
+    "在平板上远程畅玩",
+    "在电视上远程畅玩",
+    "家庭共享"
+  ],
+  "developers": [
+    "2K Boston",
+    "2K Australia",
+    "Blind Squirrel",
+    "Feral Interactive (Mac)"
+  ],
+  "publishers": [
+    "2K",
+    "Feral Interactive (Mac)"
+  ],
+  "release_date": "2016 年 9 月 15 日",
+  "platforms": [
+    "Windows",
+    "Mac"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语*",
+    "意大利语*",
+    "德语*",
+    "西班牙语 - 西班牙*",
+    "日语*",
+    "简体中文\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 64.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统 *: Windows 7 Service Pack 1 64-bit. Platform Update for Windows 7 SP1 and Windows Server 2008 R2 SP1\n处理器: Intel E6750 Core 2 Duo 2.66 GHz / AMD Athlon X2 2.7 GHZ\n内存: 4 GB RAM\n显卡: 2GB AMD Radeon HD 7770 / 2GB NVIDIA GeForce GTX 670\nDirectX 版本: 11\n存储空间: 需要 25 GB 可用空间\n声卡: DirectX Compatible Sound Device\n附注事项: Other Requirements: Software installations required including DirectX and Microsoft Visual C++ 2010 & 2012 Redistributable Package. Some system components such as mobile chipsets, integrated, and AGP graphics cards may be incompatible. Unlisted specifications may not be supported by publisher.",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统 *: Windows 7 Service Pack 1 64-bit. Platform Update for Windows 7 SP1 and Windows Server 2008 R2 SP1\n处理器: 3GHz Quad-Core\n内存: 8 GB RAM\n显卡: 2GB ATI Radeon HD 7970, 2GB NVIDIA GeForce GTX 770 or better\nDirectX 版本: 11\n存储空间: 需要 25 GB 可用空间\n声卡: DirectX Compatible Sound Device",
+  "fetched_at": "2026-08-20T04:26:44Z",
+  "review_desc": "Very Positive",
+  "review_count": 64699,
+  "review_percentage": 83.1,
+  "review_score": 8
+}

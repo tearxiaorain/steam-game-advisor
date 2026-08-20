@@ -1,0 +1,57 @@
+{
+  "app_id": "405640",
+  "name": "Pony Island",
+  "name_cn": "",
+  "short_description": "《小马岛》是一款伪装成悬疑解谜类的游戏。你身陷囹圄，被困在一台由魔鬼亲自设计的恶毒且故障的街机机器中。这并不是一款关于小马的游戏。",
+  "detailed_description": "《小马岛》是一款伪装成悬疑解谜类的游戏。你身陷囹圄，被困在一台由魔鬼亲自设计的恶毒且故障的街机机器中。魔鬼讨厌他的谜题被解开后，糟糕的程序缺陷一览无余；可当你不得不跳出思维框架来游玩这款游戏的时候，又会因此受到侮辱。\n \n 在《小马岛》中你将……   能一窥「小马岛」腐烂帷幕的后面得以去修复其损坏的代码。\n  被迫参与恶魔疯狂的小马游戏。\n  深度探索在他游戏背后运行的那神秘莫测的软件系统。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "独立"
+  ],
+  "tags": [
+    "独立"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "Steam 集换式卡牌",
+    "统计数据",
+    "家庭共享"
+  ],
+  "developers": [
+    "Daniel Mullins Games"
+  ],
+  "publishers": [
+    "Daniel Mullins Games"
+  ],
+  "release_date": "2016 年 1 月 4 日",
+  "platforms": [
+    "Windows",
+    "Mac",
+    "Linux"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语*",
+    "意大利语*",
+    "德语*",
+    "西班牙语 - 西班牙*",
+    "丹麦语*",
+    "土耳其语*",
+    "葡萄牙语 - 葡萄牙*",
+    "波兰语*",
+    "荷兰语*",
+    "俄语*",
+    "简体中文*\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 22.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows XP\n内存: 2 GB RAM\nDirectX 版本: 9.0\n存储空间: 需要 400 MB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n操作系统 *: Windows Vista / 7 / 8 / 10\n内存: 4 GB RAM\nDirectX 版本: 9.0\n存储空间: 需要 400 MB 可用空间",
+  "fetched_at": "2026-08-20T04:26:51Z",
+  "review_desc": "Very Positive",
+  "review_count": 18080,
+  "review_percentage": 95.0,
+  "review_score": 8
+}

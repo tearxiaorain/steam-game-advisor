@@ -1,0 +1,69 @@
+{
+  "app_id": "4108000",
+  "name": "Machine Party",
+  "name_cn": "机械狂欢",
+  "short_description": "《机械狂欢》是一款主打暴力美学的派对游戏合集。本作中，失败不仅仅是输掉比赛，更意味着“命丧黄泉”。召集您的冤种朋友，并在这场以命搏命的较量中，证明自己“命不该绝”吧。危险与机会共存！",
+  "detailed_description": "欢迎游玩《机械狂欢》。在这极其危险、甚至可以说是“法外之地”的派对游戏合集中，您必须使出浑身解数，不择手段地活下去。本作将经典派对模式与颠覆性的恐怖元素相结合，为您与损友带来一场集爆笑、惨叫与惊悚于一体的疯狂机械狂欢！\n\n游戏特色：\n\n硬核风格独树一帜、处处充满危机的暴力派对游戏合集。\n\n支持2~4名损友同台竞技。\n\n由艺术家Alex Peipman倾心打造的工业风原声音乐。\n\n自定义行头，当最靓的仔。\n\n多种阴险小损招，专为“友尽”量身定制。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "独立"
+  ],
+  "tags": [
+    "动作",
+    "独立"
+  ],
+  "categories": [
+    "多人",
+    "合作",
+    "在线合作",
+    "同屏/分屏合作",
+    "同屏/分屏",
+    "Steam 成就",
+    "完全支持控制器",
+    "DUALSHOCK 控制器支持",
+    "远程同乐",
+    "家庭共享"
+  ],
+  "developers": [
+    "Mike Klubnika",
+    "GDeavid"
+  ],
+  "publishers": [
+    "Oro Interactive"
+  ],
+  "release_date": "2026 年 7 月 30 日",
+  "platforms": [
+    "Windows",
+    "Linux"
+  ],
+  "supported_languages": [
+    "英语",
+    "法语",
+    "德语",
+    "日语",
+    "波兰语",
+    "葡萄牙语 - 巴西",
+    "俄语",
+    "简体中文",
+    "西班牙语 - 拉丁美洲",
+    "繁体中文",
+    "土耳其语",
+    "芬兰语",
+    "瑞典语",
+    "西班牙语 - 西班牙",
+    "韩语",
+    "乌克兰语",
+    "爱沙尼亚语"
+  ],
+  "is_free": false,
+  "price_cny": 33.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 11\n处理器: Dual Core 2.4 GHz\n内存: 8 GB RAM\n显卡: Radeon RX 6500 XT / Nvidia 1660\n存储空间: 需要 1 GB 可用空间\n附注事项: Vulkan support required",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统",
+  "fetched_at": "2026-08-20T03:38:27Z",
+  "review_desc": "Very Positive",
+  "review_count": 3874,
+  "review_percentage": 87.2,
+  "review_score": 8
+}

@@ -1,0 +1,49 @@
+{
+  "app_id": "272860",
+  "name": "Wreckfest Sneak Peek 2.0",
+  "name_cn": "",
+  "short_description": "EXCLUSIVE NEXT CAR GAME BONUSThis Next Car Game Technology Sneak Peek features a playground that we use internally to test various features various like car damage and environment destruction. Version 2.0 contains a lot of cool content like physics cannon with explosive missiles, new destructive machinery, more spectacular stunts and a...",
+  "detailed_description": "EXCLUSIVE NEXT CAR GAME BONUS\n\nThis Next Car Game Technology Sneak Peek features a playground that we use internally to test various features various like car damage and environment destruction. Version 2.0 contains a lot of cool content like physics cannon with explosive missiles, new destructive machinery, more spectacular stunts and a ton of dynamic stuff to blow up! The best thing about it is that you will get a chance to have fun with an amazing 24 cars and wreak havoc to your heart's content!",
+  "description_lang_short": "en",
+  "description_lang_detail": "en",
+  "genres": [
+    "动作",
+    "独立",
+    "竞速",
+    "模拟",
+    "体育"
+  ],
+  "tags": [
+    "动作",
+    "独立",
+    "竞速",
+    "模拟",
+    "体育"
+  ],
+  "categories": [
+    "单人",
+    "家庭共享"
+  ],
+  "developers": [
+    "Bugbear"
+  ],
+  "publishers": [
+    "Bugbear"
+  ],
+  "release_date": "2014 年 1 月 14 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语"
+  ],
+  "is_free": false,
+  "price_cny": null,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows XP/Vista/7\n处理器: Intel Dual-Core 2.4 GHz or AMD Dual-Core Athlon 2.5 GHz\n内存: 2 GB RAM\n显卡: NVIDIA GeForce 8800GT or AMD Radeon HD 3830\nDirectX 版本: 9.0c\n存储空间: 需要 500 MB 可用空间\n声卡: DirectX®-compatible",
+  "pc_requirements_rec": "推荐配置:\n操作系统 *: Windows 7 SP1\n处理器: Intel Core i5, AMD Phenom II X4 or better\n内存: 4 GB RAM\n显卡: NVIDIA GeForce GTX 560, AMD Radeon HD 7750 with 1 GB VRAM or better\nDirectX 版本: 9.0c\n存储空间: 需要 500 MB 可用空间\n声卡: DirectX®-compatible",
+  "fetched_at": "2026-08-20T04:28:40Z",
+  "review_desc": "Very Positive",
+  "review_count": 92,
+  "review_percentage": 89.1,
+  "review_score": 8
+}

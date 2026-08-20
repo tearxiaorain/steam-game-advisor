@@ -1,0 +1,66 @@
+{
+  "app_id": "1943950",
+  "name": "Escape the Backrooms",
+  "name_cn": "",
+  "short_description": "《逃离后室》是一款支持1至4名玩家联机的恐怖探索游戏。穿越30多个诡异的后室关卡，同时躲避各种异怪和其他危险。尝试逃离，但请谨记：生死难料。",
+  "detailed_description": "依据广为流传的都市怪谈，在后室中探索层出不穷且莫名熟悉的区域。每个关卡都设有独特的逃脱路径，而危险也如影随形。\n\n沉浸式体验逼真的画面、极简的用户界面与阴森的氛围相融合，营造出极具感染力的恐怖体验。\n\n多人合作模式与最多4名玩家组队，一同探索后室。祝你好运：队友可能会通过空间错位到达地图的其他区域，唯有全体队员生还并抵达出口，方能成功逃脱。绝不能落下任何滞留的玩家。\n\n独特的关卡穿越30余个关于后室传说的独特关卡。切勿远离队伍，因为在这错综复杂的后室空间里，你极易迷失方向。\n\n危险的异怪留意后室中每个角落潜藏的众多敌对异怪。它们各有各的行动模式。若想在这个恐怖的空间中存活，就需迅速掌握（应对之法）。\n\n近距离语音聊天通过近距离语音聊天与队友交流。异怪也能听到你的声音，所以靠近危险时，请保持安静。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "独立"
+  ],
+  "tags": [
+    "动作",
+    "独立"
+  ],
+  "categories": [
+    "单人",
+    "多人",
+    "合作",
+    "在线合作",
+    "Steam 成就",
+    "视角舒适度",
+    "自定义音量控制",
+    "可调整难度",
+    "无需应对快速反应事件",
+    "立体声",
+    "部分支持控制器",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "Fancy Games",
+    "Blackbird Interactive"
+  ],
+  "publishers": [
+    "Secret Mode"
+  ],
+  "release_date": "2025 年 10 月 23 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "俄语",
+    "简体中文",
+    "日语",
+    "韩语",
+    "土耳其语",
+    "波兰语",
+    "葡萄牙语 - 巴西",
+    "繁体中文\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 37.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows 8 / 10 / 11 - 64 bit\n处理器: Intel Core i3\n内存: 8 GB RAM\n显卡: NVIDIA GeForce GTX 650\nDirectX 版本: 11\n存储空间: 需要 25 GB 可用空间\n声卡: Any\n附注事项: 要求可能在未来的更新中发生变化。",
+  "pc_requirements_rec": "推荐配置:\n操作系统: Windows 11 64-bit\n处理器: Intel Core i5-10400 / AMD Ryzen 5 3600\n内存: 16 GB RAM\n显卡: NVIDIA GeForce RTX 2060 / AMD Radeon RX 6600\nDirectX 版本: 11\n存储空间: 需要 25 GB 可用空间",
+  "fetched_at": "2026-08-20T03:59:31Z",
+  "review_desc": "Very Positive",
+  "review_count": 161649,
+  "review_percentage": 89.9,
+  "review_score": 8
+}

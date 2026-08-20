@@ -1,0 +1,71 @@
+{
+  "app_id": "1182900",
+  "name": "A Plague Tale: Requiem",
+  "name_cn": "",
+  "short_description": "走进异象四起却令人屏息的残酷世界，踏上凄婉揪心的旅程。不惜一切代价，只为生存，拯救自己所爱的人，感受其中的纠结与痛苦。利用多种兵器、工具和非同寻常的能力，暗中偷袭抑或发动骇人攻势，",
+  "detailed_description": "遥远的对岸，有一座岛在呼唤……\n走进异象四起的残酷世界，踏上凄婉揪心的旅程。\n\n阿米西亚和雨果逃出了支离破碎的家园，一路南下，前往陌生的地区和热闹的城市。他们希望在那里开始新的生活，遏制雨果的诅咒。\n\n可是，雨果的能力再次觉醒，死亡与毁灭随着洪水一般的鼠群再次袭来。无奈之下，姐弟两人再次离开自己的居所，开始寻找传闻中的一座岛屿，据说那里隐藏着能够拯救雨果的关键秘密。\n\n不惜一切代价，只为生存，拯救自己所爱的人，感受其中的纠结与痛苦。利用多种兵器、工具和非同寻常的能力，暗中偷袭抑或发动骇人攻势，击败一个又一个对手，克服一道又一道难关。\n\n●\t剧情与主题承接获奖冒险游戏《瘟疫传说：无罪》\n●\t异象与跌宕起伏的故事交织\n●\t利用多种工具，暗中偷袭、正面搏斗抑或召唤鼠群，发动骇人攻势\n●\t视觉体验极佳，音乐旋律动人。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "冒险"
+  ],
+  "tags": [
+    "动作",
+    "冒险"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "可调整文字大小",
+    "视角舒适度",
+    "自定义音量控制",
+    "可调整难度",
+    "无需应对快速反应事件",
+    "DUALSHOCK 控制器支持",
+    "立体声",
+    "字幕选项",
+    "环绕声",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "Asobo Studio"
+  ],
+  "publishers": [
+    "Focus Entertainment"
+  ],
+  "release_date": "2022 年 10 月 17 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语*",
+    "意大利语",
+    "德语*",
+    "西班牙语 - 西班牙*",
+    "简体中文*",
+    "繁体中文",
+    "西班牙语 - 拉丁美洲",
+    "波兰语",
+    "葡萄牙语 - 巴西",
+    "俄语",
+    "捷克语",
+    "阿拉伯语",
+    "韩语",
+    "日语",
+    "乌克兰语\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 199.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10 (20H1 64 bits)\n处理器: Intel Core i5-4690K (3.5 GHz)/AMD FX-8300 (3.3 GHz)\n内存: 16 GB RAM\n显卡: 4 GB, GeForce GTX 970/Radeon RX 590\nDirectX 版本: 12\n存储空间: 需要 55 GB 可用空间\n附注事项: 30 FPS, 1920x1080 in low. DirectX 12 Feature Level 12 and Shader Model 6.0 are needed.",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10 (20H1 64 bits)\n处理器: Intel Core i7-8700K (3.7 GHz) / AMD Ryzen 5 3600 (3.6 GHz)\n内存: 16 GB RAM\n显卡: 8 GB, GeForce RTX 3070/Radeon RX 6800 XT\nDirectX 版本: 12\n存储空间: 需要 55 GB 可用空间\n附注事项: 60 FPS, 1920x1080 in ultra. SSD storage is recommended.",
+  "fetched_at": "2026-08-20T04:18:35Z",
+  "review_desc": "Very Positive",
+  "review_count": 26548,
+  "review_percentage": 90.8,
+  "review_score": 8
+}

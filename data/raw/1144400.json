@@ -1,0 +1,53 @@
+{
+  "app_id": "1144400",
+  "name": "Senren＊Banka",
+  "name_cn": "千恋＊万花",
+  "short_description": "《千恋＊万花》是日本美少女游戏品牌Yuzusoft（柚子社）2016年制作的一款和风恋爱题材作品。本作发售后展现出了势如破竹的高人气，并获得萌系游戏大赏的年度准大奖以及Getchu美少女游戏大赏中获得综合类排名第一的殊荣，在剧本、系统、图像、音乐、影片、角色等多个奖项中也均有斩获。",
+  "detailed_description": "《千恋＊万花》是日本美少女游戏品牌Yuzusoft（柚子社）制作的一款和风恋爱题材作品。本作也是柚子社创立十周年的纪念作，在发售当年除展现出势如破竹的高人气外还赢取了大量奖项。除在2016年萌系游戏大赏中获得年度准大赏以及在Getchu所举办的2016年美少女游戏大赏中获得综合类排名第一之外，在剧本、系统、图像、音乐、影片、角色等各个奖项中也均有斩获。\n\nSTEAM版本收录简体中文版、繁体中文版、英文版和日语版的内容并支持游戏内切换，并支持云存储、多达26个成就以及手柄控制等功能。\n\n声明：本作中的所有角色在游戏剧情发生时均已超过18岁。\n\n故事与角色介绍",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "冒险",
+    "休闲"
+  ],
+  "tags": [
+    "冒险",
+    "休闲"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "Steam 集换式卡牌",
+    "部分支持控制器",
+    "Steam 云",
+    "在手机上远程畅玩",
+    "在平板上远程畅玩",
+    "家庭共享"
+  ],
+  "developers": [
+    "YUZUSOFT"
+  ],
+  "publishers": [
+    "HIKARI FIELD",
+    "NekoNyan Ltd."
+  ],
+  "release_date": "2020 年 2 月 14 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "日语*",
+    "简体中文",
+    "繁体中文",
+    "英语\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 88.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows10/8/7/Vista\n处理器: Core2Duo 2.4Ghz\n内存: 2 GB RAM\n显卡: 256M\nDirectX 版本: 9.0c\n存储空间: 需要 10 GB 可用空间\n声卡: PCM",
+  "pc_requirements_rec": "",
+  "fetched_at": "2026-08-20T04:19:17Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 36771,
+  "review_percentage": 98.5,
+  "review_score": 9
+}

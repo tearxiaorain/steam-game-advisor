@@ -1,0 +1,55 @@
+{
+  "app_id": "246420",
+  "name": "Kingdom Rush  - Tower Defense",
+  "name_cn": "",
+  "short_description": "准备踏上一段史诗之旅，运筹各种防御塔和法术，保卫自己的王国抵御兽人、巨魔、邪恶巫师及其他卑鄙的恶魔！在森林、山脉和荒原与敌交战，以不同防御塔升级和特技，定制你的防御策略！ 对敌人降下火雨，召唤援军，指挥部队，召募精灵战士，正面对抗传奇怪物，完成保护王国，抵御黑暗势力的使命！游戏特色： 让你输小数置身于史诗防御战之中! 高清真人秀卡通艺术。 升级8个专业的防御塔伊自定义你的策略！ 强大的野蛮人、奥术巫师、森林游侠，不一而足。 超过 18 种防御塔技能！ 让你的魔法师召唤元素，将敌人变形！ 包括哥布林、恶魔在内的超过61种不同的敌人，每个都有自己的专属技能！（小心山巨魔！） 防御游戏不会上演激烈的头目战！ 13位英雄：选择你的战士统领你的部队取得胜利！",
+  "detailed_description": "准备踏上一段史诗之旅，运筹各种防御塔和法术，保卫自己的王国抵御兽人、巨魔、邪恶巫师及其他卑鄙的恶魔！\n\n在森林、山脉和荒原与敌交战，以不同防御塔升级和特技，定制你的防御策略！ 对敌人降下火雨，召唤援军，指挥部队，召募精灵战士，正面对抗传奇怪物，完成保护王国，抵御黑暗势力的使命！游戏特色：\n 让你输小数置身于史诗防御战之中!\n 高清真人秀卡通艺术。\n 升级8个专业的防御塔伊自定义你的策略！ 强大的野蛮人、奥术巫师、森林游侠，不一而足。\n 超过 18 种防御塔技能！ 让你的魔法师召唤元素，将敌人变形！\n 包括哥布林、恶魔在内的超过61种不同的敌人，每个都有自己的专属技能！（小心山巨魔！）\n 防御游戏不会上演激烈的头目战！\n 13位英雄：选择你的战士统领你的部队取得胜利！\n 超过 70 种成就，让你游戏尽享游戏时间！\n Extra 额外的游戏模式将最大限度的挑战玩家的战术技能\n 提供玩家防御塔和敌人信息的游戏内百科全书。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "策略"
+  ],
+  "tags": [
+    "策略"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "Steam 集换式卡牌",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "Ironhide Game Studio"
+  ],
+  "publishers": [
+    "Ironhide Game Studio"
+  ],
+  "release_date": "2014 年 1 月 6 日",
+  "platforms": [
+    "Windows",
+    "Mac",
+    "Linux"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "日语",
+    "韩语",
+    "葡萄牙语 - 葡萄牙",
+    "俄语",
+    "西班牙语 - 拉丁美洲",
+    "繁体中文\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 37.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows XP Service Pack 3\n处理器: Dual Core CPU\n内存: 1 GB RAM\n显卡: OpenGL 3.0 compliant with 512MB of video RAM.\n存储空间: 需要 1500 MB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n操作系统 *: Windows XP Service Pack 3\n处理器: Dual Core CPU\n内存: 2 GB RAM\n显卡: OpenGL 3.0 compliant with 1.0GB of video RAM.\n存储空间: 需要 1500 MB 可用空间",
+  "fetched_at": "2026-08-20T04:29:12Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 17052,
+  "review_percentage": 97.3,
+  "review_score": 9
+}

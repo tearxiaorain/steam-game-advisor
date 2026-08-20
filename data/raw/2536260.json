@@ -1,0 +1,65 @@
+{
+  "app_id": "2536260",
+  "name": "Mayhemers",
+  "name_cn": "",
+  "short_description": "\"Mayhemers\"是一款最多支持8名玩家的多人混乱创造游戏，具有程序生成的地图。选择你的阵营：你会成为混乱的还是守护者？混乱的任务是制造混乱。守护者的任务是阻止他们。",
+  "detailed_description": "成为混乱的并制造混乱。作为混乱的，你的目标是赚取混乱分数，并在时间耗尽前与队友一起到达逃生区。通过造成破坏、点火、殴打他人等方式赚取混乱分数。\n\n \n\n成为守护者并阻止混乱的人。作为守护者，你的目标是击败所有混乱的人，或阻止他们在时间结束之前达到所需的混乱分数。捡起被打败的混乱的人并将他们投入监狱，以便他们在被救援之前不会重新出现。 \n\n制造混乱制造破坏，点火，制造爆炸。不要让守护者阻止你。\n\n \n\n停止混乱的人阻止混乱的人制造混乱。 抓住他们并关进监狱。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "休闲",
+    "独立",
+    "抢先体验"
+  ],
+  "tags": [
+    "动作",
+    "休闲",
+    "独立",
+    "抢先体验"
+  ],
+  "categories": [
+    "单人",
+    "多人",
+    "玩家对战",
+    "线上玩家对战",
+    "合作",
+    "在线合作",
+    "Steam 成就",
+    "部分支持控制器",
+    "家庭共享"
+  ],
+  "developers": [
+    "Anigtas"
+  ],
+  "publishers": [
+    "Anigtas"
+  ],
+  "release_date": "2025 年 2 月 10 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语",
+    "法语",
+    "意大利语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "简体中文",
+    "日语",
+    "俄语",
+    "土耳其语",
+    "韩语",
+    "波兰语",
+    "葡萄牙语 - 巴西"
+  ],
+  "is_free": false,
+  "price_cny": 29.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10 64-bit\n处理器: AMD Ryzen 5 3550H\n显卡: GeForce GTX 1650\nDirectX 版本: 10\n网络: 宽带互联网连接\n存储空间: 需要 1 GB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统",
+  "fetched_at": "2026-08-20T04:03:49Z",
+  "review_desc": "Very Positive",
+  "review_count": 162,
+  "review_percentage": 84.6,
+  "review_score": 8
+}

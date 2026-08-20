@@ -1,0 +1,58 @@
+{
+  "app_id": "699920",
+  "name": "Despotism 3k",
+  "name_cn": "",
+  "short_description": "人类已经被人工智能奴役……真是可喜可贺，因为我们站在正确的一方。通过压榨人类来获取能量吧，利用这些小人建设属于你的帝国！",
+  "detailed_description": "Our new game\n\n关于游戏人类已经被人工智能奴役……真是可喜可贺，因为我们站在正确的一方。通过剥削人类来榨取能量吧，利用这些小人建设属于你的帝国！你只需要稍微留意人类的状况，确保他们不会死于疲惫与饥饿……不过弱者注定要被扔进生物反应器。\n换句话说，这是一款资源管理类模拟游戏，包含轻度rogue元素，高潮迭起的剧情，以及丰富的流行文化梗。还有笑话。屠杀从未如此充满乐趣！主要特色   和你前男（女）友的心一样黑的黑色幽默。尽情沉浸于残忍无情的暴君生涯中吧！\n 如同打了鸡血一般的资源管理游戏。这需要敏锐的思考，简明扼要的操作，以及彻底放弃怜悯之心！\n 轻度Rogue。随机事件会确保每次流程都有独特的体验。每一次失败都是致命的——你只能重新来过！\n 易于上手，难于精通。掌握游戏机制只需几分钟，但实现最优化绝非易事！",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "独立",
+    "模拟",
+    "策略"
+  ],
+  "tags": [
+    "独立",
+    "模拟",
+    "策略"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "家庭共享"
+  ],
+  "developers": [
+    "Konfa Games"
+  ],
+  "publishers": [
+    "Konfa Games"
+  ],
+  "release_date": "2018 年 11 月 8 日",
+  "platforms": [
+    "Windows",
+    "Mac",
+    "Linux"
+  ],
+  "supported_languages": [
+    "英语*",
+    "俄语*",
+    "德语*",
+    "简体中文*",
+    "西班牙语 - 西班牙*",
+    "韩语*",
+    "日语*",
+    "葡萄牙语 - 巴西*",
+    "白俄罗斯语*\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 32.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows Vista or later\n处理器: 2GHz+, SSE2 support\n内存: 512 MB RAM\n显卡: Intel HD Graphics 3000\nDirectX 版本: 11\n存储空间: 需要 300 MB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n操作系统 *: Windows 7 or later\n处理器: 2.0 GHz i5\n内存: 1024 MB RAM\n显卡: Dedicated graphics card with 512MB of RAM, at least 1280x720\nDirectX 版本: 11\n存储空间: 需要 300 MB 可用空间",
+  "fetched_at": "2026-08-20T04:23:21Z",
+  "review_desc": "Mostly Positive",
+  "review_count": 3836,
+  "review_percentage": 76.9,
+  "review_score": 6
+}

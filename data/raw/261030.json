@@ -1,0 +1,44 @@
+{
+  "app_id": "261030",
+  "name": "The Walking Dead: Season Two",
+  "name_cn": "",
+  "short_description": "The Walking Dead: Season Two continues the story of Clementine, a young girl orphaned by the undead apocalypse. Left to fend for herself, she has been forced to learn how to survive in a world gone mad.",
+  "detailed_description": "The Walking Dead: Season Two continues the story of Clementine, a young girl orphaned by the undead apocalypse. Left to fend for herself, she has been forced to learn how to survive in a world gone mad.\n\nMany months have passed since the events seen in Season One of The Walking Dead, and Clementine is searching for safety. But what can an ordinary child do to stay alive when the living can be just as bad – and sometimes worse – than the dead? As Clementine, you will be tested by situations and dilemmas that will test your morals and your instinct for survival. Your decisions and actions will change the story around you, in this sequel to 2012’s Game of the Year.\n\nDecisions you made in Season One and in 400 Days will affect your story in Season Two\nBased on Robert Kirkman’s award-winning comic books\nPlay as Clementine, an orphaned girl forced to grow up fast by the world around her",
+  "description_lang_short": "en",
+  "description_lang_detail": "en",
+  "genres": [
+    "冒险"
+  ],
+  "tags": [
+    "冒险"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "家庭共享"
+  ],
+  "developers": [
+    "Telltale Games"
+  ],
+  "publishers": [
+    "Skybound Games"
+  ],
+  "release_date": "2013 年 12 月 17 日",
+  "platforms": [
+    "Windows",
+    "Mac"
+  ],
+  "supported_languages": [
+    "英语*\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 58.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows XP Service Pack 3\n处理器: Core 2 Duo 2 GHz or equivalent\n内存: 3 GB RAM\n显卡: ATI or nVidia card with 512 MB RAM\nDirectX 版本: 9.0c\n存储空间: 需要 2 GB 可用空间\n声卡: DirectX 9.0c sound device\n附注事项: Not supported on Intel integrated graphics",
+  "pc_requirements_rec": "推荐配置:\n操作系统 *: Windows 7\n处理器: Core 2 Duo 2.3 GHz or equivalent\n内存: 4 GB RAM\n显卡: ATI or nVidia card with 1024 MB RAM\nDirectX 版本: 9.0c\n存储空间: 需要 2 GB 可用空间\n声卡: DirectX 9.0c sound device\n附注事项: Not supported on Intel integrated graphics",
+  "fetched_at": "2026-08-20T04:28:59Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 33926,
+  "review_percentage": 96.6,
+  "review_score": 9
+}

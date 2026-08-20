@@ -1,0 +1,65 @@
+{
+  "app_id": "240",
+  "name": "Counter-Strike: Source",
+  "name_cn": "",
+  "short_description": "最新更新包括玩家统计、成就、新的计分板以及更多！",
+  "detailed_description": "第二波世界顶级联机动作游戏 \n\r\nCounter-Strike: Source 席卷而来，凝聚最新科技的 Source™ 技术将把您领入如火如荼的 Counter-Strike 的对战世界。 精美的画面、全新的音效、逼真的效果，Counter-Strike: Source 绝对是您不容错过的超眩动作游戏。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作"
+  ],
+  "tags": [
+    "动作"
+  ],
+  "categories": [
+    "多人",
+    "跨平台多人",
+    "Steam 成就",
+    "视角舒适度",
+    "可选颜色",
+    "自定义音量控制",
+    "立体声",
+    "字幕选项",
+    "环绕声",
+    "Steam 云",
+    "已启用 Valve 反作弊保护",
+    "统计数据",
+    "包括 Source SDK",
+    "家庭共享"
+  ],
+  "developers": [
+    "Valve"
+  ],
+  "publishers": [
+    "Valve"
+  ],
+  "release_date": "2004 年 11 月 1 日",
+  "platforms": [
+    "Windows",
+    "Linux"
+  ],
+  "supported_languages": [
+    "英语",
+    "法语",
+    "德语",
+    "意大利语",
+    "日语",
+    "韩语",
+    "西班牙语 - 西班牙",
+    "俄语",
+    "简体中文",
+    "繁体中文",
+    "泰语",
+    "土耳其语"
+  ],
+  "is_free": false,
+  "price_cny": 42.0,
+  "pc_requirements_min": "最低配置：1.7 GHz 处理器，512MB 内存，DirectX® 8 显卡，Windows® 7（32/64位）/Vista/XP，鼠标，键盘，互联网连接\n\n建议配置：Pentium 4 处理器（3.0GHz 或更高），1GB 内存，DirectX® 9 显卡，Windows® 7（32/64位）/Vista/XP，鼠标，键盘，互联网连接",
+  "pc_requirements_rec": "",
+  "fetched_at": "2026-08-20T04:07:59Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 192861,
+  "review_percentage": 96.3,
+  "review_score": 9
+}

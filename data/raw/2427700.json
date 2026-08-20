@@ -1,0 +1,60 @@
+{
+  "app_id": "2427700",
+  "name": "Backpack Battles",
+  "name_cn": "背包乱斗：福西法的宝藏 Backpack Battles",
+  "short_description": "紧张刺激的背包管理PvP自走棋游戏来袭！淘宝贝，合神器，谋精打细算之斗，做背包管理之王！",
+  "detailed_description": "快来加入背包乱斗官方QQ群！背包乱斗1群：683702707 \n\n背包乱斗2群：825229329 \n\n背包乱斗3群：524433801 \n\n背包乱斗4群：659516806 \n\n背包乱斗5群：168314056 \n\n背包乱斗6群：530753911 \n\n背包乱斗7群：490799286 \n\n背包乱斗联机群127126635\n\n关于游戏备好背包！ 购买罕见、传说级物品，精心搭配强力组合。\n\n与其他玩家一较高下！  \n\n在《背包乱斗》中，玩家将使用装满物品的背包进行战斗。取胜的关键在于购买的物品，尤其是物品摆放的位置！摆放搭配越巧妙，越能发挥更强的效果！ \n\n物品形状、大小、稀有度、价格各不相同。互相搭配组合，打造出更强大的装备。\n\n酿魔药小菜一碟，造神器易如反掌，孵个小龙做朋友，打遍天下无敌手！ \n\n超500种奇妙道具应有尽有！   \n\n在各种游玩模式中与其他玩家切磋搭配技巧： \n\n休闲模式：不限时没烦恼\n\n排名模式：与旗鼓相当的对手切磋拿分，想怎么玩就怎么玩\n\n自定义模式：同样是休闲模式玩法，但可调整金币、最大生命值等\n\n大厅模式：实时匹配好友或在线大神，限时挑战热血激斗！ \n\n无论对手啥名堂，见招拆招屡试爽。  \n\n七大职业五大子职业，套路万千自成一派！\n\n刀刀烈火暴击爽？持续中毒水长流？都起开，看我松鼠军团的厉害！",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "策略"
+  ],
+  "tags": [
+    "策略"
+  ],
+  "categories": [
+    "多人",
+    "玩家对战",
+    "线上玩家对战",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "DUALSHOCK 控制器支持",
+    "DualSense 控制器支持",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "PlayWithFurcifer"
+  ],
+  "publishers": [
+    "IndieArk",
+    "Shochiku (Japan)"
+  ],
+  "release_date": "2025 年 6 月 13 日",
+  "platforms": [
+    "Windows",
+    "Linux"
+  ],
+  "supported_languages": [
+    "英语",
+    "德语",
+    "日语",
+    "韩语",
+    "简体中文",
+    "繁体中文",
+    "法语",
+    "葡萄牙语 - 巴西",
+    "俄语",
+    "西班牙语 - 拉丁美洲"
+  ],
+  "is_free": false,
+  "price_cny": 52.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10\n处理器: Dual Core 2 GHz\n内存: 1 GB RAM\n显卡: GTX 1060 3G\n存储空间: 需要 300 MB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统",
+  "fetched_at": "2026-08-20T03:59:24Z",
+  "review_desc": "Very Positive",
+  "review_count": 20612,
+  "review_percentage": 91.2,
+  "review_score": 8
+}

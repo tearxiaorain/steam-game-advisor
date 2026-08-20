@@ -1,0 +1,32 @@
+{
+  "app_id": "770720",
+  "name": "Hunt: Showdown 1896 (Test Server)",
+  "name_cn": "猎杀：对决 1896（测试服)",
+  "short_description": "",
+  "detailed_description": "",
+  "description_lang_short": "mixed",
+  "description_lang_detail": "mixed",
+  "genres": [],
+  "tags": [],
+  "categories": [
+    "家庭共享"
+  ],
+  "developers": [],
+  "publishers": [],
+  "release_date": "2018 年 4 月 5 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "乌克兰语"
+  ],
+  "is_free": false,
+  "price_cny": null,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统",
+  "fetched_at": "2026-08-20T04:22:56Z",
+  "review_desc": "Mixed",
+  "review_count": 71,
+  "review_percentage": 47.9,
+  "review_score": 5
+}

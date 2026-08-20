@@ -1,0 +1,64 @@
+{
+  "app_id": "206440",
+  "name": "To the Moon",
+  "name_cn": "To the Moon《去月球》",
+  "short_description": "这是一个讲述两个博士借由改变记忆为弥留之际的人们完成他们人生最后愿望的故事。",
+  "detailed_description": "罗莎莉恩博士（Dr. Rosalene）和沃茨博士（Dr. Watts）有一份非常特殊的工作：他们可以给人们重活一次的机会，从人生的最开始重头来过，当然这个机会只存在于将死之人的头脑里。 \n\n由于其带来的严重后果，新的人工记忆将取代真实记忆成为病人临终前记住的事，所以通过修改记忆去满足人们最后愿望的这种技术只能对临死的人实施。\n\n \n\n这个特别的故事让玩家跟随两位博士为实现一个老人约翰尼（Johnny）的梦想而进入他的记忆。 随着每一步时间的推移，约翰尼过去的一个个新的片段将被慢慢揭示。两位博士将约翰尼记忆中一直困扰他的许多事件重组在一起，他们试图找出究竟是何原因会让身体虚弱的老人临死前要实现这样的愿望。 \n\n而约翰尼的最后心愿竟是…去月球。\n\n  \n\n主要特色:\n\n*一个独特的非战斗型故事的游戏体验\n\n*完美结合冒险元素和经典RPG美学的创新组合\n\n*备受赞誉的原创音乐与游戏情节的推演丝丝入扣\n\n*一个浓缩式的剧情安排让人尽情体验原汁原味的故事",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "冒险",
+    "独立",
+    "角色扮演"
+  ],
+  "tags": [
+    "冒险",
+    "独立",
+    "角色扮演"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "Freebird Games"
+  ],
+  "publishers": [
+    "Freebird Games",
+    "Serenity Forge"
+  ],
+  "release_date": "2012 年 9 月 7 日",
+  "platforms": [
+    "Windows",
+    "Mac",
+    "Linux"
+  ],
+  "supported_languages": [
+    "英语",
+    "法语",
+    "德语",
+    "意大利语",
+    "俄语",
+    "韩语",
+    "西班牙语 - 西班牙",
+    "波兰语",
+    "葡萄牙语 - 巴西",
+    "土耳其语",
+    "简体中文",
+    "乌克兰语",
+    "日语"
+  ],
+  "is_free": false,
+  "price_cny": 39.0,
+  "pc_requirements_min": "OS *:Windows 98, XP, Vista, 7, 8, 10, 11\n\tProcessor:Intel Pentium III 800 MHz\n\tMemory:512 MB RAM\n\tGraphics:1024x768 High Color +\n\tDirectX®:9.0",
+  "pc_requirements_rec": "",
+  "fetched_at": "2026-08-20T03:37:46Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 86334,
+  "review_percentage": 96.1,
+  "review_score": 9
+}

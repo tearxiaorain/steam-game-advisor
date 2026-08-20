@@ -1,0 +1,53 @@
+{
+  "app_id": "1233880",
+  "name": "Disgaea 4 Complete+",
+  "name_cn": "魔界战记DISGAEA４Return",
+  "short_description": "打倒“魔界政腐”！从“地狱”开始改变世界的故事！这是款想做什么就做什么的模拟RPG，考验玩家的灵光一闪！把伙伴堆积成“塔”！魔物可变形成武器，或合体后进行巨大化！？",
+  "detailed_description": "除了有魔界战记系列中大家熟悉的无数要素收集外，还有各种不可思议的游戏系统。\n\n培育出最强角色，\n\n用各式各样超过400种的特殊招式来炒热战斗气氛……\n\n还有魔界战记特有的无限游戏，故事通关后仍可继续游玩。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "角色扮演",
+    "策略"
+  ],
+  "tags": [
+    "角色扮演",
+    "策略"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "应用内购买",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "Nippon Ichi Software, Inc."
+  ],
+  "publishers": [
+    "NIS America, Inc."
+  ],
+  "release_date": "2020 年 9 月 10 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语",
+    "日语*",
+    "韩语",
+    "简体中文",
+    "繁体中文\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 136.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统 *: Windows 7 64-bit or later\n处理器: Intel Core i3-2100 3.1GHz or AMD equivalent\n内存: 4 GB RAM\n显卡: GeForce GTX 560 Ti",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统 *: Windows 7 64-bit or later\n处理器: Intel Core i5-6500 3.2GHz or AMD equivalent\n内存: 8 GB RAM\n显卡: GeForce GTX 750 Ti",
+  "fetched_at": "2026-08-20T04:17:58Z",
+  "review_desc": "Very Positive",
+  "review_count": 893,
+  "review_percentage": 87.9,
+  "review_score": 8
+}

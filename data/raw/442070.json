@@ -1,0 +1,60 @@
+{
+  "app_id": "442070",
+  "name": "Drawful 2",
+  "name_cn": "",
+  "short_description": "For 3-8 players and an audience of thousands! Your phones or tablets are your controllers! The game of terrible drawings and hilariously wrong answers.",
+  "detailed_description": "Updated with awesome new features:\nNow playable in English, French, Italian, German and Spanish.\nA content filtering tool that helps block offensive answers from players.\nA new moderation tool that allows player answers to be reviewed before they appear on the game screen.\n\nThe team behind the hit party games Fibbage, Quiplash, and YOU DON’T KNOW JACK presents Drawful 2 the game of terrible drawings and hilariously wrong answers! Use your phone or tablet to draw funny and challenging things like “creepy tiger” or “two moms having a great day.”\n\nPlayers type in what they think the (probably terrible) drawing really is and then everyone - even an audience of potentially thousands of players – votes on what they think is the correct answer.\n\nDrawful 2 is a go-to party game that everyone can play and enjoy!\n\nDrawful 2 improves on the original Drawful with the ability to add your own user-generated prompts to make even weirder games full of in-jokes with your friends, as well as expanded tools for streaming.\n\nNote: This game is local multiplayer, but can be enjoyed over streams with remote players.\n\nHow to Play Remotely\n\nPlayers use any web-enabled device (like a smartphone or tablet) to join the game and play along. When playing with remote players, you can use a video conferencing tool like Zoom, Steam Broadcast, Google Hangouts, Discord, and more to connect with others! Just share your screen while on a call and make sure you look for prompts to share audio. Visit our Remote Play page for more tips and tutorials.",
+  "description_lang_short": "en",
+  "description_lang_detail": "en",
+  "genres": [
+    "休闲",
+    "独立",
+    "策略"
+  ],
+  "tags": [
+    "休闲",
+    "独立",
+    "策略"
+  ],
+  "categories": [
+    "多人",
+    "玩家对战",
+    "同屏/分屏玩家对战",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 云",
+    "在手机上远程畅玩",
+    "在平板上远程畅玩",
+    "在电视上远程畅玩",
+    "远程同乐",
+    "家庭共享"
+  ],
+  "developers": [
+    "Jackbox Games, Inc."
+  ],
+  "publishers": [
+    "Jackbox Games, Inc."
+  ],
+  "release_date": "2016 年 6 月 20 日",
+  "platforms": [
+    "Windows",
+    "Mac",
+    "Linux"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语*",
+    "意大利语*",
+    "德语*",
+    "西班牙语 - 西班牙*\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 42.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows 7+\n处理器: 2 Ghz Dual Core or higher\n内存: 512 MB RAM\n网络: 宽带互联网连接\n存储空间: 需要 500 MB 可用空间\n声卡: Integrated",
+  "pc_requirements_rec": "",
+  "fetched_at": "2026-08-20T04:26:20Z",
+  "review_desc": "Mostly Positive",
+  "review_count": 4167,
+  "review_percentage": 74.7,
+  "review_score": 6
+}

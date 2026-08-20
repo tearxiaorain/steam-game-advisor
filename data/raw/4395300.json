@@ -1,0 +1,66 @@
+{
+  "app_id": "4395300",
+  "name": "Dancing Line",
+  "name_cn": "跳舞的线",
+  "short_description": "随着音乐引导一条无限延伸的线条通过不同的环境。点一下屏幕以转弯，从而因应眼前不断变化的世界做出相应的反应及避开障碍物。",
+  "detailed_description": "Dancing Line 将极富速度感的游戏与精心选择的音乐结合，为玩家带来无与伦比的体验。游戏中有多个不同的世界，每个世界都会画出独特的图画，引发不同的情绪，并随着等级提升，难度愈高。玩家除了要小心障碍物与陷阱外，也要留心听着音乐的节拍与旋律，玩了一段时间之后，你会发现自己愈来愈得心应手。\n\n马上来挑战自己的反应与节奏感，并且将每个关卡的彩蛋发掘出来吧！\n\n游戏玩法随着音乐引导一条无限延伸的线条通过不同的环境。点一下屏幕以转弯，从而因应眼前不断变化的世界做出相应的反应及避开障碍物。\n\n游戏特色1. 原创背景音乐\n\n2. 设有多个关卡，难度层层递进，每个关卡都有自己的故事\n\n3. 操作简易，只需用一只手指点一下屏幕即可\n\n4. 音乐是游戏的关键\n\n5. 游戏适配键盘、鼠标操作",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "休闲"
+  ],
+  "tags": [
+    "休闲"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "可以仅用鼠标",
+    "无需应对快速反应事件",
+    "DUALSHOCK 控制器支持",
+    "DUALSHOCK 控制器支持",
+    "DualSense 控制器支持",
+    "DualSense 控制器支持",
+    "随时保存",
+    "立体声",
+    "可以仅用触控",
+    "部分支持控制器",
+    "Steam 云",
+    "统计数据"
+  ],
+  "developers": [
+    "Somnartis 夙艺",
+    "Cheetah Technology Corporation Limited"
+  ],
+  "publishers": [
+    "Cheetah Technology Corporation Limited"
+  ],
+  "release_date": "2026 年 5 月 31 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语",
+    "德语",
+    "印度尼西亚语",
+    "日语",
+    "韩语",
+    "葡萄牙语 - 巴西",
+    "俄语",
+    "简体中文",
+    "繁体中文",
+    "乌克兰语",
+    "越南语",
+    "泰语\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 30.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统 *: Windows 7 SP1\n处理器: Intel Core i5-2400 3.1GHz / AMD Radeon FX-8120 3.1GHz\n内存: 4 GB RAM\n显卡: NVIDIA GeForce GTX 750 Ti / AMD Radeon HD 6950\nDirectX 版本: 11\n存储空间: 需要 2 GB 可用空间\n附注事项: 游戏默认使用 Vulkan 渲染引擎，你可以通过启动选项手动改为DX11。",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10 64bit / Windows 11 64bit\n处理器: Intel Core i5-2400 3.1GHz / AMD Radeon FX-8120 3.1GHz 或更高配置\n内存: 8 GB RAM\n显卡: NVIDIA GTX 1060／AMD Radeon RX 480 或更高配置\nDirectX 版本: 11\n网络: 宽带互联网连接\n存储空间: 需要 3 GB 可用空间\n附注事项: 游戏默认使用 Vulkan 渲染引擎，你可以通过启动选项手动改为DX11。",
+  "fetched_at": "2026-08-20T04:08:35Z",
+  "review_desc": "Very Positive",
+  "review_count": 1605,
+  "review_percentage": 92.5,
+  "review_score": 8
+}

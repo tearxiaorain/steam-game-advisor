@@ -1,0 +1,48 @@
+{
+  "app_id": "405900",
+  "name": "Disgaea PC",
+  "name_cn": "",
+  "short_description": "The hotheaded Laharl seeks to be the next big Overlord in the Netherworld...and will destroy anyone that gets in his way! With his devious vassal Etna and the angel trainee Flonne as his unlikely allies, he must battle his way to supremacy and retake the throne in this over-the-top RPG adventure!",
+  "detailed_description": "Download the Darkness, Level Up Evil!\n\nTwo years after the death of his father, Overlord Krichevskoy, the demon prince Laharl awakens to discover that the Netherworld is in turmoil. With unlikely allies, his devious vassal Etna and the angel trainee Flonne, he must battle his way to supremacy to retake the throne and become the next Overlord. Experience the SRPG classic, now on PC!\n\nKey Features:\nAn SRPG from the most prolific SRPG creators in the world, Nippon Ichi Software\nChoose from over 40 unique character types\nEven with a max level of 9999, use Transmigration to start all over again, but your characters will be even stronger per level!\nDelve into the Item World, a randomly generated dungeon world, to level up your items!\nWith max level characters and leveled-up items, dish out millions of points of damage!\nOver-the-top battle animations\nGeo Panels - A puzzle game within a Strategy RPG\nLift & Throw - Throw your allies up ledges to reach enemies in hard-to-reach spots, or toss your enemies around instead!\nA zany story set in the Netherworld, where the notions of good and evil are reversed\n\nNew to Disgaea PC (It's not just a port!):\nUpdated UI and textures\nKeyboard/Mouse and controller support\nIncludes all content from Disgaea: Afternoon of Darkness\nNew Steam features, such as Achievements, Cloud Saves, Badges, and trading cards",
+  "description_lang_short": "en",
+  "description_lang_detail": "en",
+  "genres": [
+    "角色扮演"
+  ],
+  "tags": [
+    "角色扮演"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "Nippon Ichi Software, Inc."
+  ],
+  "publishers": [
+    "NIS America, Inc."
+  ],
+  "release_date": "2016 年 2 月 24 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语*",
+    "日语*",
+    "韩语",
+    "繁体中文\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 76.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows 10/8/7\n处理器: Intel Core2 Duo 2.60 GHz\n内存: 1 GB RAM\n显卡: nVidia GeForce 9500 GT, ATI/AMD Radeon HD 5450 (OpenGL 3.0)\n存储空间: 需要 2 GB 可用空间\n声卡: Onboard",
+  "pc_requirements_rec": "推荐配置:\n操作系统 *: Windows 10/8/7\n处理器: Intel Core i5-2500 3.30 GHz\n内存: 2 GB RAM\n显卡: nVidia GeForce GTS 450, ATI/AMD Radeon HD 5750\n存储空间: 需要 2 GB 可用空间\n声卡: Onboard",
+  "fetched_at": "2026-08-20T04:26:48Z",
+  "review_desc": "Very Positive",
+  "review_count": 4812,
+  "review_percentage": 87.3,
+  "review_score": 8
+}

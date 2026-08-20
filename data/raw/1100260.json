@@ -1,0 +1,68 @@
+{
+  "app_id": "1100260",
+  "name": "Circle Empires Rivals",
+  "name_cn": "",
+  "short_description": "在这款节奏明快的多人即时战略游戏中，你和你的朋友可以控制各自的小王国，并逐步征服一个由圆圈构成的世界。每一圆圈上都挤满了等待战斗的敌人、需要猎杀的怪物以及可供洗掠的战利品——但是要小心……朋友很快就会反目成仇变对手！",
+  "detailed_description": "《Circle Empires:Rivals》此续集的初作是屡获殊荣的即时战略多人游戏，为全球逾30万玩家所乐享！快节奏的战斗、数百个各具风格的单位，再加上程序生成的圆圈世界，每一次游玩都刺激又独特。无论是单打独斗，还是和朋友联机游玩，都必须制定崭新策略和聪明战术，如此才能击败敌人、收获资源并增强自身实力！\n\n“看到这个项目从免费试玩版发展为单人游戏，而今终于演变成多人游戏，真的太棒了！”——The Luminous Team\n\n欢迎加入我们的中文讨论组！《Circle empire 环形帝国》官方玩家QQ群：874285310关键特色快节奏多人即时战略游戏\n可与朋友一起畅玩各种联机游戏模式，包括合作模式\n单位可获得经验值并升级\n这个世界是由圆圈组成，每个圆圈都有不同的战利品和敌人。\n一圈一圈地扩展你的帝国\n程序生成的世界包含独特的动植物群\n250+种不同的生物和建筑、可收获的资源和升级物品\n25+不同派别的领导人，各种各样的加成\n40个可狩猎的头目怪物\n丰富难度选项，适合任何技能水平\n*亲爱的玩家们大家好，游戏发布以来，我们收到了许多反馈和建议。我们目前正在完善中文本地化翻译，请大家耐心等待，我们将在下次更新中完成翻译优化。非常感谢大家的支持，战场上见！",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "休闲",
+    "独立",
+    "策略"
+  ],
+  "tags": [
+    "休闲",
+    "独立",
+    "策略"
+  ],
+  "categories": [
+    "单人",
+    "多人",
+    "玩家对战",
+    "线上玩家对战",
+    "局域网玩家对战",
+    "合作",
+    "在线合作",
+    "局域网合作",
+    "Steam 成就",
+    "Steam 集换式卡牌",
+    "Steam 云",
+    "Steam 排行榜",
+    "家庭共享"
+  ],
+  "developers": [
+    "Luminous"
+  ],
+  "publishers": [
+    "Iceberg Interactive"
+  ],
+  "release_date": "2020 年 4 月 15 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语",
+    "法语",
+    "意大利语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "简体中文",
+    "日语",
+    "韩语",
+    "波兰语",
+    "俄语",
+    "捷克语",
+    "土耳其语",
+    "葡萄牙语 - 巴西"
+  ],
+  "is_free": false,
+  "price_cny": 62.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Microsoft Windows 7 SP1, Windows 8, Windows 10\n处理器: 3GHz dual core or 2GHz quad core\n内存: 8 GB RAM\n显卡: Intel/AMD Integrated Graphics, 1GB VRAM\nDirectX 版本: 11\n网络: 宽带互联网连接\n存储空间: 需要 3 GB 可用空间\n附注事项: System",
+  "pc_requirements_rec": "",
+  "fetched_at": "2026-08-20T04:19:36Z",
+  "review_desc": "Very Positive",
+  "review_count": 1970,
+  "review_percentage": 89.7,
+  "review_score": 8
+}

@@ -1,0 +1,46 @@
+{
+  "app_id": "970560",
+  "name": "STEINS;GATE: My Darling's Embrace",
+  "name_cn": "",
+  "short_description": "Fall in love with the lab members all over again in this sweet and slapstick romantic comedy!",
+  "detailed_description": "Fall in love with the lab members all over again in this sweet and slapstick romantic comedy!\n\nFollow Your Heart\nExplore the private life of Rintaro and your favorite lab members in a series of “What if?” scenarios.\n\nLove Isn’t a Science\nThe hard science of STEINS;GATE takes a back seat to let the slapstick story run wild!\n\nPhone Trigger System\nInteract via Rintaro’s cellphone to answer or ignore calls, and send and receive emails. Your everyday choices in life steer the story!",
+  "description_lang_short": "en",
+  "description_lang_detail": "en",
+  "genres": [
+    "冒险"
+  ],
+  "tags": [
+    "冒险"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "Steam 集换式卡牌",
+    "部分支持控制器",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "MAGES. Inc."
+  ],
+  "publishers": [
+    "Spike Chunsoft Co., Ltd."
+  ],
+  "release_date": "2019 年 12 月 10 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语",
+    "日语*\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 100.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows7/8.1/10\n处理器: Core i3 (Sandy Bridge or better)\n内存: 4 GB RAM\n显卡: Intel HD Graphics Series (1GB memory allocation)\nDirectX 版本: 9.0\n存储空间: 需要 9 GB 可用空间\n声卡: Sound Devices compatible Direct Sound\n附注事项: 1280x720 or better required (Recommended 1920x1080)",
+  "pc_requirements_rec": "推荐配置:\n操作系统 *: Windows7/8.1/10 (64bit ver)\n处理器: Core i5 (Ivy Bridge or better)\n内存: 4 GB RAM\n显卡: Geforce (VRAM 1GB or better)\nDirectX 版本: 9.0\n存储空间: 需要 9 GB 可用空间\n声卡: Sound Devices compartible Direct Sound\n附注事项: 1280x720 or better required (Recommended 1920x1080)",
+  "fetched_at": "2026-08-20T03:42:59Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 1926,
+  "review_percentage": 95.3,
+  "review_score": 9
+}

@@ -1,0 +1,45 @@
+{
+  "app_id": "836640",
+  "name": "寄居隅怪奇事件簿 Hermitage Strange Case Files",
+  "name_cn": "寄居隅怪奇事件簿 Hermitage Strange Case Files",
+  "short_description": "都市的夜晚并不安宁。浮华背后，暗潮在阴影中涌动。旧书店『Hermitage』的店主不幸被卷入了种种神秘事件。越是接近答案，他见到的真相却愈发诡异。疑云之下，一切都指向了“那些”超越常理的——危机渐渐逼近，在谣言与谎言间劈开道路，追寻自己的“结局”吧！",
+  "detailed_description": "被称为“新都”的国际化大型都市中，一连串神秘事件在城市掀起狂潮，\n旧书店 『Hermitage』 的店主与他的伙伴们被卷入种种案件……\n对话技巧根据角色们的不同性格选择合适的对话技巧，在成功使用对话技巧后，便可以获得与故事推进休戚相关的重要情报\n情报收集在故事推进中，通过对话、电视节目、论坛信息等各种途径都可以获取情报与疑点，各种情报会构成解决事件的关键线索\n推理论证将情报与疑点进行组合实现对疑点的论证，论证的成功与否会直接影响故事的走向，请通过推理，得出成功的论证结果吧",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "独立"
+  ],
+  "tags": [
+    "独立"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "Steam 集换式卡牌",
+    "部分支持控制器",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "Arrowiz"
+  ],
+  "publishers": [
+    "Arrowiz"
+  ],
+  "release_date": "2018 年 11 月 12 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "简体中文"
+  ],
+  "is_free": false,
+  "price_cny": 39.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows 7 SP1, Windows 8.1, Windows 10\n处理器: Intel Core i3 2.00 GHz 或等效 AMD 处理器\n内存: 4 GB RAM\n显卡: Intel® HD Graphics 3000\n存储空间: 需要 3 GB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n操作系统 *: Windows 7 SP1, Windows 8.1, Windows 10\n处理器: Intel Core i3 2.00 GHz 或等效 AMD 处理器\n内存: 4 GB RAM\n显卡: Intel® HD Graphics 3000\n存储空间: 需要 3 GB 可用空间",
+  "fetched_at": "2026-08-20T04:22:23Z",
+  "review_desc": "Very Positive",
+  "review_count": 2004,
+  "review_percentage": 80.6,
+  "review_score": 8
+}

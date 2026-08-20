@@ -1,0 +1,45 @@
+{
+  "app_id": "1768650",
+  "name": "Path of the Abyss",
+  "name_cn": "",
+  "short_description": "Dive deep into the Abyss.",
+  "detailed_description": "Path of the Abyss is a single-player, grid-based dungeon exploration RPG.\n\nYou explore dungeons expressed in black-and-white pen drawings with your freely customized character and aim for the deepest level.\n\n*Unique Features* ・First person RPG\n\n・Real-time Combat that can be paused at any moment\n\n・Diverse Character Builds\n\n・Many mysteries and loot to be uncovered in dungeons\n\n*Combat*Combat operates in real time.\n\nYou can pause at any time so analyze your enemy’s attacks, buff your allies, intercept enemy attacks and deploy a wide range of tactics to gain an advantage.\n\nYou will be able to see what the enemy intends on doing. It is important to react with the appropriate skills.\n\nBasically, you want to…\n\n1. Pause and see how the enemy intends to attack.\n\n2. Choose the appropriate skills. \n\n3. Unpause.\n\nCombat will be done by repeating these steps.\n\nSkills you want to use in combat will be set into the “Formation Panel” formed by 9 panels, prior to combat.\n\nThe outcome of combat will be affected greatly by the skills and the position of the skills you place on the Formation Panel.\n\nThe Formation Panel will be shared by the party, a unique feature of this game is to come up with ways to use the limited number panels you have.\n\n*Character Builds*You can build a character by customizing 8 abilities, 5 basic stats, skills and gear.\n\n*Party Build*You build the party by setting up skills of the characters into the Formation Panel.\n\nSome skills have synergistic effects, and the Formation Panel should be set up so that the skills complement each other.\n\n*Exploration*In Path of the Abyss, you explore a world comprised by one giant dungeon and several minor dungeons.\n\nUncover the mysteries of the dungeons, strengthen your characters and make it to the the deepest depths of the dungeon.\n\n*Story*A small ruin in East Weltden.\n\nIn a forgotten ruin that has been robbed countless times, sightings of terrifying monsters became frequent.\n\nSome scoffed at the sightings as mere rumors, and ventured into the ruins to boast of their intrepidity, only to never return.\n\nThe Lord of East Weltden dispatched an investigation team but it only resulted in a bloodbath.\n\nRumors of this ruin traveled far and wide, luring skilled adventurers to the land.\n\nYou are such an adventurer yourself.\n\n*Video uploads/Streaming*Please post the URL of the Steam page for Path of the Abyss in the description.\n\nFeel free to monetize.",
+  "description_lang_short": "en",
+  "description_lang_detail": "en",
+  "genres": [
+    "角色扮演"
+  ],
+  "tags": [
+    "角色扮演"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "Suzuki Suzuzou"
+  ],
+  "publishers": [
+    "Suzuki Suzuzou"
+  ],
+  "release_date": "2025 年 6 月 13 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "日语",
+    "英语",
+    "简体中文"
+  ],
+  "is_free": false,
+  "price_cny": 29.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10\n处理器: Intel(R) Core(TM) i5\n内存: 8 GB RAM\n显卡: GeForce RTX 2060\n存储空间: 需要 2 GB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10\n处理器: Intel(R) Core(TM) i5\n内存: 8 GB RAM\n显卡: GeForce RTX 2060\n存储空间: 需要 2 GB 可用空间",
+  "fetched_at": "2026-08-20T04:14:15Z",
+  "review_desc": "Very Positive",
+  "review_count": 675,
+  "review_percentage": 92.9,
+  "review_score": 8
+}

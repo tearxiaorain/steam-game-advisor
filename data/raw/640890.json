@@ -1,0 +1,54 @@
+{
+  "app_id": "640890",
+  "name": "Will Glow the Wisp",
+  "name_cn": "",
+  "short_description": "伴随着电子节拍，在精神迷宫中穿行。想象一下《超级肉肉哥》和《几何战争》的混合体。",
+  "detailed_description": "描述游戏特色    简单却富有深度的游戏机制\n    游玩并挑战其他玩家的记录\n    打败开发者\n    全球排行榜\n    子弹横飞打败开发者在 Will Glow the Wisp中，你能和开发者一较高下。但只有顶尖高手才能挑战成功。你想来试试看吗？挑战内容创作者（评测家，Youtuber，主播…）我们深爱所有的内容创作者，因此你也能挑战他们的游玩记录。为了突出他们，内容创作者有着自己的排行榜。人们也能访问他们链接的页面，为他们带来更多流量。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "独立"
+  ],
+  "tags": [
+    "动作",
+    "独立"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "家庭共享"
+  ],
+  "developers": [
+    "PartTimeIndie"
+  ],
+  "publishers": [
+    "PartTimeIndie"
+  ],
+  "release_date": "2017 年 9 月 15 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语",
+    "德语",
+    "简体中文",
+    "法语",
+    "意大利语",
+    "西班牙语 - 西班牙",
+    "日语",
+    "韩语",
+    "俄语",
+    "土耳其语"
+  ],
+  "is_free": false,
+  "price_cny": 11.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows XP SP2 or higher\n处理器: 1.80GHz Processor\n内存: 4 GB RAM\n显卡: GeForce GTX 650 (1024 MB Ram)\nDirectX 版本: 9.0c\n存储空间: 需要 1 GB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n操作系统 *: Windows 7 or better\n处理器: Intel Core I5-4440 3,10 GHz\n内存: 8 GB RAM\n显卡: GeForce GTX 660 (2048 MB Ram)\nDirectX 版本: 11\n存储空间: 需要 2 GB 可用空间",
+  "fetched_at": "2026-08-20T04:23:59Z",
+  "review_desc": "Very Positive",
+  "review_count": 1660,
+  "review_percentage": 82.3,
+  "review_score": 8
+}

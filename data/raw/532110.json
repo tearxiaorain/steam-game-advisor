@@ -1,0 +1,59 @@
+{
+  "app_id": "532110",
+  "name": "Rusty Lake: Roots",
+  "name_cn": "",
+  "short_description": "经历游戏角色们的人生始末，并且建立你的家谱！《锈湖：根源 Rusty Lake: Roots》是第二款由密室逃脱系列和锈湖旅馆游戏创作者开发出的优质点击类冒险游戏。",
+  "detailed_description": "The Past Within - A Rusty Lake co-op Adventure\n\n关于游戏当詹姆斯·范德布姆在自己所继承房子的花园里种下一颗特殊的种子后，他的生活发生了剧变。在人生之树上通过揭开画像来扩展你的血缘关系。\n《锈湖：根源 Rusty Lake: Roots》是由创作了密室逃脱系列锈湖旅馆游戏的锈湖公司开发的第二款付费点击类冒险游戏。\n\n关键特征：\n操作简单：容易上手，但一玩起来就停不下来。\n独一无二的故事情节：经历游戏角色们的人生始末，并建立你独属的家谱。\n超过33个等级：目前为止最大规模的锈湖游戏，充满了谜题。\n悬念丛生的氛围：在冷静与黑暗时刻间的转换。\n身临其境般的音效：每个等级都有特别设计的主题曲和变奏曲。\n成就：家谱有更多的秘密等待揭示。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "冒险",
+    "独立"
+  ],
+  "tags": [
+    "冒险",
+    "独立"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "Steam 集换式卡牌",
+    "家庭共享"
+  ],
+  "developers": [
+    "Rusty Lake"
+  ],
+  "publishers": [
+    "Rusty Lake"
+  ],
+  "release_date": "2016 年 10 月 20 日",
+  "platforms": [
+    "Windows",
+    "Mac"
+  ],
+  "supported_languages": [
+    "英语*",
+    "荷兰语",
+    "法语",
+    "意大利语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "葡萄牙语 - 巴西",
+    "简体中文",
+    "丹麦语",
+    "日语",
+    "韩语",
+    "波兰语",
+    "俄语",
+    "土耳其语\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 18.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Microsoft® Windows® XP/Vista/7,8, 10\n处理器: 1.8 Ghz Processor\n内存: 1 GB RAM\n显卡: Direct X 9.0c compatible video card\nDirectX 版本: 9.0c\n存储空间: 需要 100 MB 可用空间",
+  "pc_requirements_rec": "",
+  "fetched_at": "2026-08-20T04:02:00Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 9036,
+  "review_percentage": 96.8,
+  "review_score": 9
+}

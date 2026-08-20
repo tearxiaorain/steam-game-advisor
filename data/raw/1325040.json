@@ -1,0 +1,56 @@
+{
+  "app_id": "1325040",
+  "name": "Keylocker | Turn Based Cyberpunk Action",
+  "name_cn": "",
+  "short_description": "《锁音之匣》是一款赛博庞克回合制节奏日式角色扮演游戏。身为电子歌手B0B0，玩家可选择自己的职业，掌握颇具挑战性的战斗系统，并利用节奏游戏风格动摇土星社会的基础！",
+  "detailed_description": "《锁音之匣》是一款赛博庞克回合制节奏日式角色扮演游戏。玩家将化身歌手兼词曲家B0B0。在这个禁止音乐的星球上，将节奏游戏风格的音乐之力，化作一举一动的燃料！选择独特的职业，与当权者作战，解开土星的秘密，在自己的乐队音乐会中演奏，并骇进网路，终结这个腐败的社会体制，结局是好是坏，由你决定。\n\n选择自己的赛博庞克反叛者之路，每个职业都有独特的技能树和故事剧情。\n\n用自己的音乐控制电力！根据需求转变为攻击或防御，在不同的招式组合和战术间来回切换。\n\n经典的回合制战斗混搭节奏游戏：在这个禁止音乐的星球上，掌握完美射击时机、安排攻击节奏，并招架/格挡敌人的攻击。\n\n没有随机遭遇：接连不断的世界战斗，与敌人正面交锋。\n\n玩家可选择与居民交好或交恶，骇进他们的个人资料取得资源，或改变剧情走向，见识多重结局。\n\n激情摇滚：在音乐秀小游戏中与乐团一起演奏，由Elektrobear(Momodora、Virgo Versus The Zodiac)客串创作，并由Psamathes配音。\n\n自订双生体：游戏中有各式各样的装备、武器和技能可供选择，在战斗中删除敌人可获得钥匙，使用钥匙即可解锁特殊天赋。\n\n互动世界：深入探索土星，与每个特别的物体互动，发掘出这个星球的秘密、奖励或所见所闻。\n\n剧情：\n\n| 土星历801年。 |\n\n|音乐已遭到禁止141年了。 |\n\nB0B0是双生体，双胞胎所属的阶级有着与生俱来的使命，那便是在最低阶级做牛做马，确保土星繁荣昌盛，但B0B0就是不认这所谓的命，并组成了一支非法乐队。在反土星卫星(终极之法)的革命中，她打听到一个消息，有人发现了一个音乐机器人，而这个机器人正是乐队鼓手的不二人选。用音乐反抗腐败的支配者阶层，是她唯一的拿手好戏，只差个鼓手，她就能展开反抗行动。一切就绪后，她便能一路打破规则，探索音乐本质后的真相，那就是「锁音之匣」。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "冒险",
+    "独立",
+    "角色扮演"
+  ],
+  "tags": [
+    "冒险",
+    "独立",
+    "角色扮演"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "DUALSHOCK 控制器支持",
+    "DUALSHOCK 控制器支持",
+    "DualSense 控制器支持",
+    "DualSense 控制器支持",
+    "家庭共享"
+  ],
+  "developers": [
+    "Moonana"
+  ],
+  "publishers": [
+    "Serenity Forge"
+  ],
+  "release_date": "2024 年 9 月 18 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语",
+    "日语",
+    "韩语",
+    "葡萄牙语 - 巴西",
+    "简体中文",
+    "繁体中文"
+  ],
+  "is_free": false,
+  "price_cny": 80.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows 7\n处理器: 32/64bit compatible Dual Core CPU\n内存: 2 GB RAM\n显卡: DX11 compliant graphics card\nDirectX 版本: 11\n存储空间: 需要 1450 MB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n内存: 2 GB RAM\n存储空间: 需要 1450 MB 可用空间",
+  "fetched_at": "2026-08-20T04:16:38Z",
+  "review_desc": "Very Positive",
+  "review_count": 281,
+  "review_percentage": 84.3,
+  "review_score": 8
+}

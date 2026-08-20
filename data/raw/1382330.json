@@ -1,0 +1,55 @@
+{
+  "app_id": "1382330",
+  "name": "Persona® 5 Strikers",
+  "name_cn": "",
+  "short_description": "反击的时刻到了! 成为心之怪盗团，直面潜藏在日本中的邪恶。本应是与伙伴们快乐的夏季旅行，却与扭曲的现实一同发生剧变……揭露真相，夺回在事件中心的人们被囚禁的心灵！",
+  "detailed_description": "数字豪华版\n\n关于游戏\n\n反击的时刻到了!成为心之怪盗团，直面潜藏在日本中的邪恶。本应是与伙伴们快乐的夏季旅行，却与扭曲的现实一同发生剧变……揭露真相，夺回在事件中心的人们被囚禁的心灵！ \n\n体验『女神异闻录５』的完全新作后传剧情！\n\n操作怪盗团成员发动酷炫的动作去战斗！\n\n以日本各地为舞台。怪盗团之旅现在开始！\n\nSteam版的特点： \n\n以PC鲜亮的FHD全高清画质体验『P5S』的世界，还支持4K画质 \n\n可以获得Steam 成就、集换式卡牌 \n\n可选择日语和英语语音 \n\n完全对应键盘、鼠标操作",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "冒险"
+  ],
+  "tags": [
+    "动作",
+    "冒险"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "DUALSHOCK 控制器支持",
+    "DUALSHOCK 控制器支持",
+    "家庭共享"
+  ],
+  "developers": [
+    "ATLUS"
+  ],
+  "publishers": [
+    "SEGA"
+  ],
+  "release_date": "2021 年 2 月 22 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语",
+    "意大利语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "日语*",
+    "韩语",
+    "繁体中文\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 80.4,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统: 8.1, 64bits\n处理器: Intel Core i5-2300 / AMD FX-6350\n内存: 6 GB RAM\n显卡: NVIDIA GeForce GTX 660 (2GB) / AMD Radeon HD 7870 (2GB)\nDirectX 版本: 11\n存储空间: 需要 25 GB 可用空间\n附注事项: Microsoft no longer supports Windows 10 or older versions.",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: 10, 64bits\n处理器: Intel Core i5-3470 / AMD FX-8350\n内存: 8 GB RAM\n显卡: NVIDIA GeForce GTX 680 (2 GB) / AMD Radeon HD 7970 (3 GB)\nDirectX 版本: 11\n存储空间: 需要 25 GB 可用空间\n附注事项: Microsoft no longer supports Windows 10 or older versions.",
+  "fetched_at": "2026-08-20T04:16:09Z",
+  "review_desc": "Very Positive",
+  "review_count": 18177,
+  "review_percentage": 86.8,
+  "review_score": 8
+}

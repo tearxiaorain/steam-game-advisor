@@ -1,0 +1,66 @@
+{
+  "app_id": "1407420",
+  "name": "Milo and the Magpies",
+  "name_cn": "",
+  "short_description": "Milo and the Magpies是一款点击式/隐藏物品式游戏。游戏讲述了一只叫Milo的猫寻找回家之路的过程，在路上他碰到了一些麻烦以及缠人的喜鹊，需要克服重重难关才可回家。",
+  "detailed_description": "Milo and the Christmas Gift\n\n关于游戏Milo是一只充满好奇心和冒险心的猫，现在他想找到回家的路，却碰上了几只麻烦的喜鹊。帮助Milo来偷偷穿过邻居的花园，探索并解开一个个谜题吧。你能战胜那些喜鹊们并成功带Milo回家吗？\n\nMilo and the Magpies是一款点击式冒险游戏，其精致的风景和角色全部由创作者Johan Scherft手绘而成。特征：\n■ 治愈又颇具挑战的玩法\n如果想成功带Milo穿越9个风格迥异的花园，需要与背景中的环境互动并解开一个个点击式/隐藏物品的谜题。\n\n■ 引人入胜的艺术画风\n游戏中每一关的花园都是纯手绘而成，而每个花园都有自己独特的环境，风格，以及新朋友们可以与之互动。\n\n■ 使人身临其境的音乐\n每个花园都有独特的背景音乐，由Victor Butzelaar制作。\n\n■ 平均通关时间：1.5小时",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "冒险",
+    "独立"
+  ],
+  "tags": [
+    "冒险",
+    "独立"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "Johan Scherft"
+  ],
+  "publishers": [
+    "Second Maze"
+  ],
+  "release_date": "2021 年 9 月 7 日",
+  "platforms": [
+    "Windows",
+    "Mac"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语",
+    "意大利语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "捷克语",
+    "丹麦语",
+    "荷兰语",
+    "日语",
+    "韩语",
+    "波兰语",
+    "葡萄牙语 - 葡萄牙",
+    "葡萄牙语 - 巴西",
+    "罗马尼亚语",
+    "俄语",
+    "简体中文",
+    "西班牙语 - 拉丁美洲",
+    "瑞典语",
+    "繁体中文",
+    "土耳其语",
+    "越南语\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 15.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Microsoft® Windows® XP/Vista/7,8, 10 or later\n处理器: 1.8 Ghz Processor\n内存: 1 GB RAM\n显卡: Direct X 9.0c compatible video card\nDirectX 版本: 9.0c\n存储空间: 需要 100 MB 可用空间",
+  "pc_requirements_rec": "",
+  "fetched_at": "2026-08-20T04:16:02Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 3425,
+  "review_percentage": 98.4,
+  "review_score": 9
+}

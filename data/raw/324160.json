@@ -1,0 +1,47 @@
+{
+  "app_id": "324160",
+  "name": "CLANNAD",
+  "name_cn": "",
+  "short_description": "空前热门的作品「CLANNAD」通过「家族」这一主题，以宏大的剧本、美丽的CG和动人的音乐，描绘了一个人与小镇、人与人的故事。",
+  "detailed_description": "StoryAfter the death of his mother, Tomoya Okazaki—a guarded delinquent student at Hikarizaka High School—struggles to not only make sense of the abusive relationship he has with his alcoholic father, but also find meaning in his life. While on his way to class one morning, he meets a mystifying girl named Nagisa. She is a delinquent like him, but only because she is repeating her senior year, unlike the perpetually tardy Okazaki. From their brief encounter, Nagisa decides they should be friends, and enlists Tomoya's help to revive the school drama club. Not being busy in any way, he decides to join in. Along the way, the two make friends with many other students and try to find both solace and belonging in their endeavors.New FeaturesHD Upgrade\nAll visuals have been upgraded to 1280x960 for the Steam release of CLANNAD.\n\nDangopedia\nExclusive to the English version of CLANNAD is the term encyclopedia, Dangopedia! It's a handy reference tool for understanding aspects of Japanese tradition and pop culture.\n\nAchievements\nSteam achievements are supported! There's also an in-game menu to review your progress.",
+  "description_lang_short": "zh",
+  "description_lang_detail": "en",
+  "genres": [
+    "冒险",
+    "休闲"
+  ],
+  "tags": [
+    "冒险",
+    "休闲"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "Steam 集换式卡牌",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "VisualArts/Key"
+  ],
+  "publishers": [
+    "Sekai Project"
+  ],
+  "release_date": "2015 年 11 月 23 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语",
+    "简体中文"
+  ],
+  "is_free": false,
+  "price_cny": 152.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Microsoft Windows® 10/8/7\n处理器: Intel Core 2 Duo or higher\n内存: 1 GB RAM\n显卡: 256MB Video Memory (with Pixel Shader 2.0)\nDirectX 版本: 9.0c\n存储空间: 需要 7 GB 可用空间\n声卡: DirectSound-compatible sound card",
+  "pc_requirements_rec": "推荐配置:\n操作系统 *: Microsoft Windows® 10/8/7\n处理器: Intel Core 2 Duo or higher\n内存: 2 GB RAM\n显卡: 256MB Video Memory (with Pixel Shader 2.0)\nDirectX 版本: 9.0c\n存储空间: 需要 7 GB 可用空间\n声卡: DirectSound-compatible sound card",
+  "fetched_at": "2026-08-20T04:27:50Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 10896,
+  "review_percentage": 98.4,
+  "review_score": 9
+}

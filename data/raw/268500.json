@@ -1,0 +1,62 @@
+{
+  "app_id": "268500",
+  "name": "XCOM® 2",
+  "name_cn": "",
+  "short_description": "外星人统治着地球，为人类许诺了一个美好的未来，但却在暗中隐藏着一个阴险的计划。作为面对着重重困难的游击势力领袖，您必须点燃全球的反抗之火消灭外星威胁并阻止人类灭绝。",
+  "detailed_description": "外星人统治着地球，为人类许诺了一个美好的未来，但却在暗中隐藏着一个阴险的计划。作为面对着重重困难的游击势力领袖，您必须点燃全球的反抗之火消灭外星威胁并阻止人类灭绝。 \n\n奔波的XCOM：复仇者号是一艘由外星补给船改造成的XCOM机动总部，现在交给您来指挥。在开放的游戏世界中，调度世界各地的攻击部队，获取民众支持，并且揭发外星人的邪恶计划。\n招募反抗军战士：五个兵种皆有其专属的技能树，让您能依照自己的战术计划创造出特有士兵。 \n战术游击战：新的游戏系统替战斗带来了更多战术弹性。世界的情势会左右每个战斗任务的环境。运用隐匿手段伏击敌人巡逻队。从敌人那里夺取珍贵的装备和物资。营救VIP拯救倒地同伴，并将他们带到撤离点。\n新敌人：种类繁多的敌人包括强大的外星新物种到外星人的执法者变种人，带来独特的战术挑战。 \n研究、发展与升级：在复仇者号上配置各种舱室，赋予XCOM各种战场上的新能力。让科学家、工程师去研究、发展与升级适合的武器和护甲以配合您喜爱的战术。\n每个任务都是独特挑战：到世界各地执行任务，您有可能涉足荒野，深入外星人控制的巨大城市的心脏地带，或是直捣外星人设施的深处。游戏实际上提供了无穷尽的地图、任务和目标组合。 \n创造自订模组：专注于社区的工具将能让您创造属于您自己的战役、战术游戏内容、外星人、兵种、策略游戏特性，并将其于Steam创意工坊中分享。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "策略"
+  ],
+  "tags": [
+    "策略"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "Steam 集换式卡牌",
+    "Steam 创意工坊",
+    "Steam 云",
+    "在平板上远程畅玩",
+    "家庭共享"
+  ],
+  "developers": [
+    "Firaxis Games",
+    "Feral Interactive (Mac)",
+    "Feral Interactive (Linux)"
+  ],
+  "publishers": [
+    "2K",
+    "Feral Interactive (Mac)",
+    "Feral Interactive (Linux)"
+  ],
+  "release_date": "2016 年 2 月 4 日",
+  "platforms": [
+    "Windows",
+    "Mac",
+    "Linux"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语*",
+    "意大利语*",
+    "德语*",
+    "西班牙语 - 西班牙*",
+    "日语",
+    "韩语",
+    "波兰语",
+    "俄语",
+    "简体中文",
+    "繁体中文\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 14.85,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows® 7, 64-bit\n处理器: Intel Core 2 Duo E4700 2.6 GHz or AMD Phenom 9950 Quad Core 2.6 GHz\n内存: 4 GB RAM\n显卡: 1GB ATI Radeon HD 5770, 1GB NVIDIA GeForce GTX 460 or better\nDirectX 版本: 11\n存储空间: 需要 45 GB 可用空间\n声卡: DirectX compatible sound card\n附注事项: Initial installation requires one-time Internet connection for Steam authentication; software installations required (included with the game) include Steam Client, Microsoft Visual C++2012 and 2013 Runtime Libraries and Microsoft DirectX.",
+  "pc_requirements_rec": "推荐配置:\n操作系统 *: Windows® 7, 64-bit\n处理器: 3GHz Quad Core\n内存: 8 GB RAM\n显卡: 2GB ATI Radeon HD 7970, 2GB NVIDIA GeForce GTX 770 or better\n存储空间: 需要 45 GB 可用空间\n声卡: DirectX compatible sound card",
+  "fetched_at": "2026-08-20T03:40:58Z",
+  "review_desc": "Very Positive",
+  "review_count": 109000,
+  "review_percentage": 84.6,
+  "review_score": 8
+}

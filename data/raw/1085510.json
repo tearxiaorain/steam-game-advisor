@@ -1,0 +1,61 @@
+{
+  "app_id": "1085510",
+  "name": "Garfield Kart - Furious Racing",
+  "name_cn": "",
+  "short_description": "Garfield, the famous lasagna-loving cat is back to take on Jon, Odie and company in a no-holds-barred racing game!",
+  "detailed_description": "Garfield Kart 2 - All You Can Drift\n\nAbout the GameGarfield, the famous lasagna-loving cat is back to take on Jon, Odie and company in a no-holds-barred racing game!\n\nChoose your character and kart according to their characteristics and your driving style, get off the starting line first and control skids to outrun your opponents. Use crazy bonus objects, like the Pillow or the Magic Wand, to gain an edge and get over the finishing line first. Are you lazy like Garfield? Take shortcuts to overtake the other racers with the Spring!\n\nRace your friends in local mode or online, with up to eight players on 16 iconic circuits from the world of Garfield.\n\n3 GAME MODES: Grand Prix, Single Race, Time Trial\nMULTIPLAYER up to 4 players in split-screen mode and up to 8 players in online mode\n16 CIRCUITS: Crazy races in stunning environments inspired by the world of Garfield, such as Palerock Lake and Pastacosi Factory\n8 CHARACTERS: Garfield, Odie, Jon, Nermal, Arlene, Liz, Harry and Squeak\n9 ATTACK AND DEFENSE BONUSES to turn the race around\nCUSTOMIZE your character and kart with dozens of accessories",
+  "description_lang_short": "en",
+  "description_lang_detail": "en",
+  "genres": [
+    "竞速"
+  ],
+  "tags": [
+    "竞速"
+  ],
+  "categories": [
+    "多人",
+    "玩家对战",
+    "线上玩家对战",
+    "同屏/分屏玩家对战",
+    "同屏/分屏",
+    "Steam 成就",
+    "完全支持控制器",
+    "推荐使用手柄",
+    "DUALSHOCK 控制器支持",
+    "DUALSHOCK 控制器支持",
+    "DualSense 控制器支持",
+    "DualSense 控制器支持",
+    "Steam 云",
+    "远程同乐",
+    "家庭共享"
+  ],
+  "developers": [
+    "Artefacts Studio"
+  ],
+  "publishers": [
+    "Microids"
+  ],
+  "release_date": "2019 年 11 月 6 日",
+  "platforms": [
+    "Windows",
+    "Mac"
+  ],
+  "supported_languages": [
+    "英语",
+    "法语",
+    "意大利语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "简体中文",
+    "俄语"
+  ],
+  "is_free": false,
+  "price_cny": 47.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows 7/8/10\n处理器: Intel Core 2 Duo CPU E6550 2.33GHz\n内存: 4 GB RAM\n显卡: 1GB\nDirectX 版本: 11",
+  "pc_requirements_rec": "",
+  "fetched_at": "2026-08-20T04:19:50Z",
+  "review_desc": "Very Positive",
+  "review_count": 15080,
+  "review_percentage": 87.5,
+  "review_score": 8
+}

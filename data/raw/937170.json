@@ -1,0 +1,53 @@
+{
+  "app_id": "937170",
+  "name": "Otaku's Adventure",
+  "name_cn": "宅男的人间冒险",
+  "short_description": "《宅男的人间冒险》是一款不一样的文字冒险游戏。故事讲述一个单身多年的宅男，渴望得到恋爱，从而不小心踏上了奇幻的旅程，最终获得女孩子的芳心的故事。这款游戏集讲故事与另类的密室解密于一身，还包括了各式各样的小游戏，以及不同类型的战斗，以带给玩家不同以往的游戏体验和乐趣。",
+  "detailed_description": "刚刚更新Version 1.0.5 Sincerely thanks to Zero Force Translations, we add Brazilian Portuguese localization to this game.\nEnjoy!!\nGroup Sub-Leader & Supervision / Vice-líder de Grupo & Supervisão\n\n更新备注Version 1.0.3 Sincerely thanks to Solomon, we add Russian localization to this game.\nEnjoy!!\n\n更新备注Version 1.0.4 Sincerely thanks to Hazardous & Opt7mu5, we add Spanish localization to this game.\nEnjoy!!\n\n关于游戏《宅男的人间冒险》是一款不一样的文字冒险游戏。\n故事讲述一个单身多年的宅男，渴望得到恋爱，\n从而不小心踏上了奇幻的旅程，最终获得女孩子的芳心的故事。这款游戏集讲故事与另类的密室解密于一身，还包括了各式各样的小游戏，以及不同类型的战斗，以带给玩家不同以往的游戏体验和乐趣。\n\n游戏特点\n\n操作简单：容易上手，仅用鼠标点击、拖放就能轻松游戏。不同类型的故事：每一个女孩子都有各自的惊心动魄的故事，让玩家回味无穷。神奇的解密：看似密室逃脱，但又不像密室逃脱的另类解密玩法。多种小游戏的集合：在游戏过程中穿插不同类型的小游戏。多种游戏结局：游戏过程中能收集很多意想不到、趣味横生的结局。\n温馨提示\n当你打出某些结局后，之前所经历过的某些剧情能通过按住鼠标来快速跳过。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "冒险",
+    "独立",
+    "角色扮演"
+  ],
+  "tags": [
+    "冒险",
+    "独立",
+    "角色扮演"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "家庭共享"
+  ],
+  "developers": [
+    "Spacelight Studio"
+  ],
+  "publishers": [
+    "Spacelight Studio"
+  ],
+  "release_date": "2019 年 5 月 20 日",
+  "platforms": [
+    "Windows",
+    "Mac"
+  ],
+  "supported_languages": [
+    "英语",
+    "简体中文",
+    "繁体中文",
+    "日语",
+    "俄语",
+    "西班牙语 - 西班牙",
+    "葡萄牙语 - 巴西"
+  ],
+  "is_free": false,
+  "price_cny": 32.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows 7/8/8.1/10 32/64bit\n处理器: Intel Core 2 Duo or greater\n内存: 2 GB RAM\n显卡: Intel HD Graphics 4000 or greater\nDirectX 版本: 11\n存储空间: 需要 3 GB 可用空间",
+  "pc_requirements_rec": "",
+  "fetched_at": "2026-08-20T03:39:30Z",
+  "review_desc": "Very Positive",
+  "review_count": 9081,
+  "review_percentage": 94.9,
+  "review_score": 8
+}

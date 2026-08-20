@@ -1,0 +1,72 @@
+{
+  "app_id": "1030300",
+  "name": "Hollow Knight: Silksong",
+  "name_cn": "",
+  "short_description": "探索《空洞骑士：丝之歌》中庞大的诅咒王国！在这个由丝线与歌声统治的地下世界中，攀登顶峰的旅途，亦是探索、战斗与生存的考验。",
+  "detailed_description": "化身公主骑士扮演致命猎手“大黄蜂”，踏入丝与歌统治的王国！被俘至陌生世界，在致命的朝圣之路上迎战强敌、破解远古谜团，直抵王国巅峰。 \n\n《空洞骑士：丝之歌》是动作冒险游戏《空洞骑士》的史诗续作。探索全新世界，觉醒未知力量，在虫兽狂潮中杀出血路，揭开与你身世交织的远古秘辛。 \n\n游戏特色探索陷落的虫之王国“纺络”！穿越苔藓洞窟、镀金城邦与雾锁荒原，攀向世界之巅的闪耀圣堡。\n\n体验生死一线的战斗！在行云流水的华丽厮杀中，施展丰富且致命的招式穿梭于敌阵之中。\n\n锻造强力工具！掌握不断进化的武器、陷阱与机关，横扫敌人，探索新高处。\n\n完成震撼任务！狩猎珍奇异兽，破解远古谜题，实现受难者夙愿，重燃王国希望。\n\n迎战200+凶残敌人！野兽与猎人，怪物与骑士，以勇气与技艺斩尽来敌！\n\n征服40+传奇头目！在史诗对决中挑战传说英雄与堕落君王，执掌王国命运。\n\n挑战钢铁之魂模式！征服王国后，在更高难度的新模式中淬炼技艺。\n\n沉浸绝美交响乐章！《空洞骑士》获奖作曲家Christopher Larkin倾力打造忧郁旋律、恢弘弦乐与直击灵魂的头目战主题曲。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "冒险",
+    "独立"
+  ],
+  "tags": [
+    "动作",
+    "冒险",
+    "独立"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "视角舒适度",
+    "推荐使用手柄",
+    "可以仅用键盘",
+    "无需应对快速反应事件",
+    "DUALSHOCK 控制器支持",
+    "DUALSHOCK 控制器支持",
+    "DualSense 控制器支持",
+    "DualSense 控制器支持",
+    "随时保存",
+    "立体声",
+    "Steam 云",
+    "在电视上远程畅玩",
+    "家庭共享"
+  ],
+  "developers": [
+    "Team Cherry"
+  ],
+  "publishers": [
+    "Team Cherry"
+  ],
+  "release_date": "2025 年 9 月 4 日",
+  "platforms": [
+    "Windows",
+    "Mac",
+    "Linux"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语*",
+    "意大利语*",
+    "德语*",
+    "西班牙语 - 西班牙*",
+    "日语*",
+    "韩语*",
+    "葡萄牙语 - 巴西*",
+    "俄语*",
+    "简体中文*",
+    "繁体中文*\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 76.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10 version 21H1 (build 19043) or newer\n处理器: Intel Core i3-3240, AMD FX-4300\n内存: 4 GB RAM\n显卡: GeForce GTX 560 Ti (1GB), Radeon HD 7750 (1GB)\nDirectX 版本: 10\n存储空间: 需要 8 GB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10 version 21H1 (build 19043) or newer\n处理器: Intel Core i5-3470\n内存: 8 GB RAM\n显卡: GeForce GTX 1050 (2GB), Radeon R9 380 (2GB)\nDirectX 版本: 10\n存储空间: 需要 8 GB 可用空间",
+  "fetched_at": "2026-08-20T03:35:30Z",
+  "review_desc": "Very Positive",
+  "review_count": 419213,
+  "review_percentage": 89.4,
+  "review_score": 8
+}

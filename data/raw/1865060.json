@@ -1,0 +1,59 @@
+{
+  "app_id": "1865060",
+  "name": "14 Minesweeper Variants",
+  "name_cn": "14种扫雷变体",
+  "short_description": "你没有玩过的全新扫雷变体。",
+  "detailed_description": "标题解释了这个游戏是什么。\n\r\n\n\r\n游戏特色:\n\r\n1. 14个扫雷变体，每个带有四种难度和数百个关卡。\n\r\n2. 不断学习新的规则集，和独特的逻辑。\n\r\n3. 你可以使用游戏内置的绘图功能绘制标记。\n\r\n4. 内置的提示系统会在你卡关时告诉你应该关注何处，但不会告诉你具体的解。\n\r\n5. 每个关卡可以仅通过逻辑来完成，不会出现必须猜测的局面。\n\r\n6. 谜题以程序生成。我们尝试了一些新的程序和游戏设计技术。我保证它和以往的程序生成游戏很不一样。\n\r\n7. 还有更多内容等待你的探索。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "休闲",
+    "独立",
+    "策略"
+  ],
+  "tags": [
+    "休闲",
+    "独立",
+    "策略"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "Alith Games",
+    "Artless Games"
+  ],
+  "publishers": [
+    "Artless Games"
+  ],
+  "release_date": "2022 年 11 月 14 日",
+  "platforms": [
+    "Windows",
+    "Mac"
+  ],
+  "supported_languages": [
+    "英语",
+    "日语",
+    "简体中文",
+    "繁体中文",
+    "法语",
+    "荷兰语",
+    "韩语",
+    "波兰语",
+    "俄语",
+    "瑞典语",
+    "越南语"
+  ],
+  "is_free": false,
+  "price_cny": 29.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统 *: Windows 7 or later\n处理器: 1.6 GHz\n内存: 2 GB RAM\n存储空间: 需要 200 MB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统",
+  "fetched_at": "2026-08-20T04:13:54Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 1654,
+  "review_percentage": 97.3,
+  "review_score": 9
+}

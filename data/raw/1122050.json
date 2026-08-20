@@ -1,0 +1,51 @@
+{
+  "app_id": "1122050",
+  "name": "Gensokyo Night Festival",
+  "name_cn": "幻想乡萃夜祭",
+  "short_description": "幻想郷为舞台的2D 探索动作游戏。在博丽神社中举行祭典时，伊吹萃香于幻想郷暴走了！",
+  "detailed_description": "使用操纵密与疏的能力,突破强劲敌人和重重机关。\n一款 2D组合技动作游戏。\n与强势的萃香一起在这美丽的幻想乡中踏上冒险旅程吧！\n\n・经过组合、射击、计算等动作\n\n・两种密与疏的攻击能力\n如果在储量期间发出攻击,\n攻击以「密」・「疏」的特性释放强大攻击\n\n充分运用能力\n・高速移动弹射\n　萃香操纵密度并以流畅线条高速移动。\n　在着陆点作出弹射攻击。\n　在广阔的地图中高速移动爽快的作探索。\n\n・密度操纵\n\n开局时最初登场的精彩人物────────────\n\n伊吹 萃香\n\n　操纵密和疏能力的鬼\n\n露米娅\n\n　操纵黑暗能力的妖怪\n\netc...",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "休闲",
+    "独立",
+    "抢先体验"
+  ],
+  "tags": [
+    "动作",
+    "休闲",
+    "独立",
+    "抢先体验"
+  ],
+  "categories": [
+    "单人",
+    "完全支持控制器",
+    "家庭共享"
+  ],
+  "developers": [
+    "WSS playground",
+    "tea_basira"
+  ],
+  "publishers": [
+    "WSS playground"
+  ],
+  "release_date": "2019 年 10 月 13 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语",
+    "日语",
+    "简体中文"
+  ],
+  "is_free": false,
+  "price_cny": 43.0,
+  "pc_requirements_min": "最低配置:\n操作系统: Windows 10 (64bit)\n处理器: Intel(R) Core(TM) i7 CPU K 875  @ 2.93GHz (8 CPUs), ~2.9GHz\n内存: 2 GB RAM\n显卡: NVIDIA GeForce GTX750 Ti\n存储空间: 需要 1 GB 可用空间",
+  "pc_requirements_rec": "",
+  "fetched_at": "2026-08-20T04:19:28Z",
+  "review_desc": "Mixed",
+  "review_count": 4769,
+  "review_percentage": 70.0,
+  "review_score": 5
+}

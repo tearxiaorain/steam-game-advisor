@@ -1,0 +1,47 @@
+{
+  "app_id": "648580",
+  "name": "428: Shibuya Scramble",
+  "name_cn": "",
+  "short_description": "A kidnapping on the streets of Shibuya brings together a hot-blooded detective, hard-hitting journalist, former gang leader, the head researcher of a big pharma manufacturer and a part-timer stuck in cat costume for a series of events each more unexpected and outrageous than the last.",
+  "detailed_description": "A kidnapping on the streets of Shibuya brings together a hot-blooded detective, hard-hitting journalist, former gang leader, the head researcher of a big pharma manufacturer and a part-timer stuck in cat costume for a series of events each more unexpected and outrageous than the last. Can they—or the city itself—make it through the day?\n\nGame Features\nReal Actors and Locations\n428: Shibuya Scrambleuses a mix of still photography and live action footage for a cinematic gaming experience that pulls you on a whirlwind tour of downtown Tokyo.\nTangled Fates\nAn innocent choice by one character can have disastrous consequences for another. Unravel the narrative threads, discover how they tie together and use the JUMP system to move between scenarios as five stories run in parallel.\n\nEaster Egg Hunt\nSometimes the wrong decision can lead to the right outcome, or at least an amusing game over. With over 50 endings, multiple bonus modes and extra scenarios, there’s more to the city than there seems.",
+  "description_lang_short": "en",
+  "description_lang_detail": "en",
+  "genres": [
+    "冒险"
+  ],
+  "tags": [
+    "冒险"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "DUALSHOCK 控制器支持",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "Spike Chunsoft Co., Ltd.",
+    "Abstraction Games"
+  ],
+  "publishers": [
+    "Spike Chunsoft Co., Ltd."
+  ],
+  "release_date": "2018 年 9 月 4 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语"
+  ],
+  "is_free": false,
+  "price_cny": 138.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows 7\n处理器: Intel(R) Core(TM) i5-3470 or better\n内存: 4 GB RAM\n显卡: OpenGL 3.2 or DirectX 9.0c compatible GPU with at least 1GB of VRAM\n存储空间: 需要 6 GB 可用空间\n声卡: Version 9.0c",
+  "pc_requirements_rec": "",
+  "fetched_at": "2026-08-20T03:42:00Z",
+  "review_desc": "Very Positive",
+  "review_count": 3928,
+  "review_percentage": 94.7,
+  "review_score": 8
+}

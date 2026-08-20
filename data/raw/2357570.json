@@ -1,0 +1,75 @@
+{
+  "app_id": "2357570",
+  "name": "Overwatch®",
+  "name_cn": "《守望先锋®》",
+  "short_description": "《守望先锋®》，一个值得为之奋战的未来！ 《守望先锋®》是一款长期运营并不断演化的免费团队动作游戏，战场设定在光明的未来，每场对战都是一次5v5或6v6的终极乱斗。",
+  "detailed_description": "《守望先锋》是一款长期运营并不断演化的免费团队英雄射击游戏，战场设定在光明的未来，拥有全新英雄和地图、新颖的游戏方式以及独特的个性化物品，每场对战都是一次5v5或6v6的终极乱斗！无论你是喜欢领军冲锋、伏击敌人还是援助盟友，由超过40位英雄组成的《守望先锋》强大阵容中总有适合你的英雄。与好友组队，一同冲入超过25张源自现实世界的未来风格地图，纵横多种独特的游戏模式。\n\n  \n\n黑爪之治 - 第4赛季：釜山群英\n\n唤醒彼此的英雄本色\n\n全新重装英雄D.Mon正式参战，前来守护釜山！在本赛季中，与队友携手并肩，唤醒彼此的英雄本色！\n\n渣客与黑爪大举入侵釜山，全新重装英雄D.Mon携手D.Va及其他MEKA小队成员，誓死保卫家园！在“星光闪耀：我为MEKA狂”活动中选择你最喜爱的驾驶员，赢取星星解锁小队故事，用你的支持助力他们登顶全球排行榜！不仅如此，本赛季还带来了全新的战令系统，升级路线更灵活，还能自由更换符合条件的传奇奖励。此外，釜山、帕拉伊苏以及艾兴瓦尔德等经典地图也迎来了全新改版。在团队竞逐模式中，队伍将共同积累进度。优化后的战斗反馈系统也会让每位玩家的操作和贡献更加一目了然。最后，别忘了解锁源氏神话英雄皮肤和“索杰恩”神话武器皮肤，以及其他全新个性化物品，一举丰富你的收藏！",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "免费开玩"
+  ],
+  "tags": [
+    "动作",
+    "免费开玩"
+  ],
+  "categories": [
+    "多人",
+    "玩家对战",
+    "线上玩家对战",
+    "合作",
+    "在线合作",
+    "跨平台多人",
+    "Steam 成就",
+    "完全支持控制器",
+    "应用内购买",
+    "可调整文字大小",
+    "视角舒适度",
+    "聊天语音转文字",
+    "聊天文字转语音",
+    "可选颜色",
+    "自定义音量控制",
+    "无需应对快速反应事件",
+    "DUALSHOCK 控制器支持",
+    "DualSense 控制器支持",
+    "DualSense 控制器支持",
+    "立体声",
+    "字幕选项",
+    "环绕声"
+  ],
+  "developers": [
+    "Blizzard Entertainment, Inc."
+  ],
+  "publishers": [
+    "Blizzard Entertainment, Inc."
+  ],
+  "release_date": "2023 年 8 月 10 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语*",
+    "意大利语*",
+    "德语*",
+    "西班牙语 - 西班牙*",
+    "日语*",
+    "韩语*",
+    "波兰语*",
+    "葡萄牙语 - 巴西*",
+    "俄语*",
+    "西班牙语 - 拉丁美洲*",
+    "繁体中文*",
+    "简体中文*\n*具有完全音频支持的语言"
+  ],
+  "is_free": true,
+  "price_cny": 0.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统: Windows® 10 64-bit (latest Service Pack)\n处理器: Intel® Core™ i3 or AMD Phenom™ X3 8650\n内存: 6 GB RAM\n显卡: NVIDIA® GeForce® GTX 600 series, AMD Radeon™ HD 7000 series\nDirectX 版本: 11\n网络: 宽带互联网连接\n存储空间: 需要 50 GB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: Windows® 10 64-bit (latest Service Pack)\n处理器: Intel® Core™ i7 or AMD Ryzen™ 5\n内存: 8 GB RAM\n显卡: NVIDIA® GeForce® GTX 1060/ GeForce® GTX 1650 or AMD R9 380/AMD RX 6400 or Intel® Arc™ A770\nDirectX 版本: 11\n网络: 宽带互联网连接\n存储空间: 需要 50 GB 可用空间",
+  "fetched_at": "2026-08-20T04:00:55Z",
+  "review_desc": "Mostly Negative",
+  "review_count": 418417,
+  "review_percentage": 31.4,
+  "review_score": 4
+}

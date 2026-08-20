@@ -1,0 +1,61 @@
+{
+  "app_id": "909080",
+  "name": "Cube Escape: Paradox",
+  "name_cn": "",
+  "short_description": "悖论（Paradox）将方块逃脱（Cube Escape）游戏与锈湖（Rusty Lake）短片电影融合！在这款综合式游戏中你将成为一位侦探，在平行宇宙中试图逃脱充满不祥之兆的房间。",
+  "detailed_description": "The Past Within - A Rusty Lake co-op Adventure\n\nThe Cube Escape Collection is now available:\n\n关于游戏臭名昭著的侦探Dale Vandermeer在一间不详的房间里醒来，完全记不起自己的过去。他很快发现，自己置身于由老对手精心设计的诡异游戏中。Dale必须持续解开难度不断增加的谜题，逃离房间并恢复记忆。\n\n方块逃脱：悖论（Cube Escape: Paradox）特点：\n\n 前所未有的独特游戏/电影综合体验\n 方块逃脱（Cube Escape）第十部作品，引人入胜的情节与氛围以及丰富谜题值得期待\n 与锈湖（Rusty Lake）短片电影悖论（Paradox）的丰富关联与互动\n 两个不同章节（免费与付费）及多重结局\n 由Johan Scherft创作的优美手绘画面\n 由Victor Butzelaar创作的引人入胜的氛围配乐\n Bob Rafferty与主演David Bowles的出色配音",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "冒险",
+    "免费开玩",
+    "独立"
+  ],
+  "tags": [
+    "冒险",
+    "免费开玩",
+    "独立"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "Rusty Lake"
+  ],
+  "publishers": [
+    "Rusty Lake"
+  ],
+  "release_date": "2018 年 9 月 20 日",
+  "platforms": [
+    "Windows",
+    "Mac"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语",
+    "意大利语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "葡萄牙语 - 巴西",
+    "简体中文",
+    "丹麦语",
+    "日语",
+    "韩语",
+    "荷兰语",
+    "波兰语",
+    "俄语",
+    "土耳其语\n*具有完全音频支持的语言"
+  ],
+  "is_free": true,
+  "price_cny": 0.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Microsoft® Windows® XP/Vista/7,8, 10 or later\n处理器: 1.8 Ghz Processor\n内存: 1 GB RAM\n显卡: Direct X 9.0c compatible video card\nDirectX 版本: 9.0c\n存储空间: 需要 120 MB 可用空间",
+  "pc_requirements_rec": "",
+  "fetched_at": "2026-08-20T04:21:30Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 12140,
+  "review_percentage": 97.0,
+  "review_score": 9
+}

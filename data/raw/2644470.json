@@ -1,0 +1,67 @@
+{
+  "app_id": "2644470",
+  "name": "PICO PARK 2",
+  "name_cn": "",
+  "short_description": "《PICO PARK》带着全新关卡回来了！通过 2 至 8 人的本地或在线联机，来畅玩这款合作动作益智游戏吧！",
+  "detailed_description": "PICO PARK 2\n\n* 使用键盘游玩 2 人游戏时，您可能需要使用右侧 Ctrl 键。如果您的键盘上缺乏右侧 Ctrl 键，请通过【设置】菜单点选【键盘设置】来更改按键设置。\n\n《PICO PARK 2》是一款强调多人合作的 2D 动作益智游戏！我们这次为大家带来了比前作更多的关卡！\n\n与前作一样，您可以通过本地或在线联机游玩本游戏，参与人数支持 2 至 8 人。所有关卡都支持多人游戏，快与您的朋友一起来挑战吧！\n\n此外，在线游戏还支持跨平台联机，让您随时都能与不同平台上的朋友一起游戏！并且，支持最多7名玩家通过一台电脑参与在线模式！\n\n除了世界、无尽和对战模式之外，我们还添加了稍显不公又带有些许难度的黑暗模式！快来跳跃、布局然后投入全新的《PICO PARK 2》吧！\n\n[TecoGamePad]\n\nTecoGamePad 可让您将智能手机用作游戏手柄。您可以从 App Store 和 Google Play 下载。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "休闲"
+  ],
+  "tags": [
+    "动作",
+    "休闲"
+  ],
+  "categories": [
+    "多人",
+    "合作",
+    "在线合作",
+    "同屏/分屏合作",
+    "同屏/分屏",
+    "跨平台多人",
+    "Steam 成就",
+    "DUALSHOCK 控制器支持",
+    "DUALSHOCK 控制器支持",
+    "DualSense 控制器支持",
+    "DualSense 控制器支持",
+    "Steam 输入 API 支持",
+    "部分支持控制器",
+    "Steam 云",
+    "远程同乐",
+    "家庭共享"
+  ],
+  "developers": [
+    "TECOPARK",
+    "Gemdrops, Inc."
+  ],
+  "publishers": [
+    "TECOPARK"
+  ],
+  "release_date": "2024 年 9 月 12 日",
+  "platforms": [
+    "Windows",
+    "Mac"
+  ],
+  "supported_languages": [
+    "英语",
+    "法语",
+    "意大利语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "简体中文",
+    "繁体中文",
+    "韩语",
+    "日语"
+  ],
+  "is_free": false,
+  "price_cny": 40.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10, 64-bit / Windows 11, 64-bit\n处理器: Intel Core i3\n内存: 4 GB RAM\n存储空间: 需要 1 GB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10, 64-bit / Windows 11, 64-bit\n处理器: Intel Core i5\n内存: 8 GB RAM\n存储空间: 需要 1 GB 可用空间",
+  "fetched_at": "2026-08-20T04:03:42Z",
+  "review_desc": "Very Positive",
+  "review_count": 4710,
+  "review_percentage": 88.6,
+  "review_score": 8
+}

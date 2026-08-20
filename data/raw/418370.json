@@ -1,0 +1,62 @@
+{
+  "app_id": "418370",
+  "name": "Resident Evil 7 Biohazard",
+  "name_cn": "",
+  "short_description": "于美国南部的一间被废置的农舍，腐烂的墙身渗透着一股恐怖及孤独的氛围。 「7」标志着全新的恐怖求生体验，以及玩家视觉切换为更骇人的「隔离视觉」模式。有赖RE工程部的努力，恐怖的写实感提升至一个全新的境界。让你进入恐怖求生的新世界。",
+  "detailed_description": "于美国南部的一间被废置的农舍，腐烂的墙身渗透着一股恐怖及孤独的氛围。 「7」标志着全新的恐怖求生体验，以及玩家视觉切换为更骇人的虚拟实境－「隔离视觉」模式。有赖RE工程部的努力，恐怖的写实感提升至一个全新的境界，玩家并没有任何退路可选。让你进入恐怖求生的新世界。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "冒险"
+  ],
+  "tags": [
+    "动作",
+    "冒险"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "Steam 云",
+    "可用 HDR",
+    "家庭共享"
+  ],
+  "developers": [
+    "CAPCOM Co., Ltd."
+  ],
+  "publishers": [
+    "CAPCOM Co., Ltd."
+  ],
+  "release_date": "2017 年 1 月 23 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语*",
+    "意大利语*",
+    "德语*",
+    "西班牙语 - 西班牙*",
+    "日语*",
+    "葡萄牙语 - 巴西",
+    "阿拉伯语",
+    "韩语",
+    "俄语",
+    "简体中文",
+    "繁体中文",
+    "波兰语",
+    "泰语",
+    "西班牙语 - 拉丁美洲\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 98.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统: WINDOWS® 10 (64-BIT Required)\n处理器: Intel® Core™ i5-4460, 2.70GHz or AMD FX™-6300 or better\n内存: 8 GB RAM\n显卡: NVIDIA® GeForce® GTX 960 or AMD Radeon™ RX 460\nDirectX 版本: 12\n存储空间: 需要 24 GB 可用空间\n声卡: DirectSound compatible (must support DirectX® 9.0c or higher)\n附注事项: Hardware specification target 1080P/30FPS. May require reduction in Texture Quality settings or turning Texture streaming to OFF due to high VRAM requirements. *Internet connection required for game activation.",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: WINDOWS® 10 (64-BIT Required) / Windows 11 (64-BIT Required)\n处理器: Intel® Core™ i7 3770 3.4GHz  or AMD equivalent or better\n内存: 8 GB RAM\n显卡: NVIDIA® GeForce® GTX 1060 with 3GB VRAM\nDirectX 版本: 12\n存储空间: 需要 24 GB 可用空间\n声卡: DirectSound compatible (must support DirectX® 9.0c or higher)\n附注事项: Hardware specification target 1080P/60FPS. *Internet connection required for game activation.",
+  "fetched_at": "2026-08-20T04:26:33Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 125834,
+  "review_percentage": 95.3,
+  "review_score": 9
+}

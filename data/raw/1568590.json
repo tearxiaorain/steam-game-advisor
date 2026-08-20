@@ -1,0 +1,75 @@
+{
+  "app_id": "1568590",
+  "name": "Goose Goose Duck",
+  "name_cn": "",
+  "short_description": "Goose Goose Duck 是一款最多支持16名玩家的社交推理游戏。玩家被分成不同的小组，每个小组都有各自的目标。完成团队的目标即可获胜！",
+  "detailed_description": "Goose Goose Duck 是一款社交推理游戏，鹅需要完成任务，而鸭子则会进行破坏并试图消灭鹅。您可以扮演一只鹅以求生存，或者扮演一只鸭子制造混乱。游戏支持近距离语音聊天、独特的角色、自定义的外观装扮和多样化的环境供您探索。\n\n作为鹅： 完成任务、报告尸体并投票将鸭子驱逐出局。\n\n作为鸭子： 发动破坏行动，干扰并消灭鹅。\n\n作为中立者： 追求你自己的秘密目标，争取获胜。\n\n功能特色：近距离语音聊天\n\n跨平台游戏 – 支持PC、Mac、iOS和Android\n\n独特的角色系统\n\n可自定义的装扮\n\n多样化的地图和环境\n\n游戏内任务和迷你游戏\n\n多种游戏模式\n\n定期更新和新内容追加",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "休闲",
+    "独立",
+    "大型多人在线",
+    "策略",
+    "免费开玩"
+  ],
+  "tags": [
+    "休闲",
+    "独立",
+    "大型多人在线",
+    "策略",
+    "免费开玩"
+  ],
+  "categories": [
+    "多人",
+    "玩家对战",
+    "线上玩家对战",
+    "合作",
+    "在线合作",
+    "跨平台多人",
+    "Steam 成就",
+    "完全支持控制器",
+    "应用内购买",
+    "家庭共享"
+  ],
+  "developers": [
+    "Gaggle Studios, Inc."
+  ],
+  "publishers": [
+    "Gaggle Studios, Inc."
+  ],
+  "release_date": "2021 年 10 月 3 日",
+  "platforms": [
+    "Windows",
+    "Mac"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语*",
+    "德语*",
+    "日语*",
+    "韩语*",
+    "葡萄牙语 - 巴西*",
+    "简体中文*",
+    "西班牙语 - 拉丁美洲*",
+    "泰语*",
+    "繁体中文*",
+    "土耳其语*",
+    "意大利语*",
+    "捷克语*",
+    "匈牙利语*",
+    "波兰语*",
+    "俄语*",
+    "越南语*",
+    "乌克兰语*\n*具有完全音频支持的语言"
+  ],
+  "is_free": true,
+  "price_cny": 0.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统 *: Windows 7\n处理器: Intel Core2 Duo 2.4ghz+\n内存: 2 GB RAM\n显卡: Integrated Graphics\nDirectX 版本: 9.0\n网络: 宽带互联网连接\n存储空间: 需要 400 MB 可用空间\n附注事项: Proximity Chat Req 10Mbps Up/Down",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10\n处理器: Intel Core i-5  2.8Ghz\n内存: 4 GB RAM\n显卡: Nvidia 600 Series GPU or Equivalent\nDirectX 版本: 11\n网络: 宽带互联网连接\n存储空间: 需要 500 MB 可用空间\n附注事项: Proximity Chat Req 10Mbps Up/Down",
+  "fetched_at": "2026-08-20T03:37:37Z",
+  "review_desc": "Very Positive",
+  "review_count": 82000,
+  "review_percentage": 86.5,
+  "review_score": 8
+}

@@ -1,0 +1,46 @@
+{
+  "app_id": "930910",
+  "name": "STEINS;GATE: Linear Bounded Phenogram",
+  "name_cn": "",
+  "short_description": "A story for every lab member. Discover a new side of each STEINS;GATE character and get a glimpse of their inner thoughts through 10 new stories.",
+  "detailed_description": "A story for every lab member. Discover a new side of each STEINS;GATE character and get a glimpse of their inner thoughts through 10 new stories.\n\nWhile STEINS;GATE unfolded from the perspective of the protagonist, Okabe Rintaro, STEINS;GATE: Linear Bounded Phenogram features stories told by the rest of the main cast.\n\nSTEINS;GATE: Linear Bounded Phenogram is available only with purchase of STEINS;GATE ELITE",
+  "description_lang_short": "en",
+  "description_lang_detail": "en",
+  "genres": [
+    "冒险"
+  ],
+  "tags": [
+    "冒险"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "Steam 集换式卡牌",
+    "部分支持控制器",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "MAGES. Inc."
+  ],
+  "publishers": [
+    "Spike Chunsoft Co., Ltd."
+  ],
+  "release_date": "2019 年 2 月 19 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语",
+    "日语*\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": null,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows7/8.1/10\n处理器: Core i3 (Sandy Bridge or better)\n内存: 4 GB RAM\n显卡: Intel HD Graphics Series (1GB memory allocation)\nDirectX 版本: 9.0c\n网络: 宽带互联网连接\n存储空间: 需要 9 GB 可用空间\n声卡: Sound Devices compatible Direct Sound\n附注事项: 1280x720 or better required (Recommended 1920x1080)",
+  "pc_requirements_rec": "推荐配置:\n操作系统 *: Windows7/8.1/10 (64bit ver)\n处理器: Core i5 (Ivy Bridge or better)\n内存: 4 GB RAM\n显卡: Geforce (VRAM 1GB or better)\nDirectX 版本: 9.0c\n网络: 宽带互联网连接\n存储空间: 需要 9 GB 可用空间\n声卡: Sound Devices compartible Direct Sound\n附注事项: 1280x720 or better required (Recommended 1920x1080)",
+  "fetched_at": "2026-08-20T03:42:46Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 1329,
+  "review_percentage": 96.8,
+  "review_score": 9
+}

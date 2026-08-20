@@ -1,0 +1,41 @@
+{
+  "app_id": "1765350",
+  "name": "候鸟",
+  "name_cn": "候鸟",
+  "short_description": "你知道候鸟吗？候鸟有夏候鸟和冬候鸟之分。夏候鸟就是「春天来北方，秋天去南方」的鸟，他们一年四季都生活在很温暖的环境里，而冬候鸟……则是春天就飞向北方，飞到又远又冷的地方生活，冬季才返回的鸟。尽管它们可能会在同一个地方各自度过一生中一半的时光——却从来没有机会在一起。",
+  "detailed_description": "KID Fans Club是一个以Galgame为主题的社区 / 汉化组 / 同人社团，成立于2002年7月11日。\n\n　　在20多年的时间里，我们几乎见证了中文Galgame的整个发展历程，也一直在努力将业界优秀的Galgame作品进行中文本地化。只是，我们的梦想不止于此，我们更加希望有朝一日，本土文化的作品能够茁壮发展、开枝散叶。\n\n　　临渊羡鱼，不如退而结网。「候鸟」是我们的第一部原创Galgame，也承载着我们的梦想与期望。希望她能够给您带来一些与众不同的体验。\n\n　　交流群：\n\n　　主群：993606376\n\n　　备用群：512423117\n\n　　微博 & B站：KIDFansClub",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "冒险"
+  ],
+  "tags": [
+    "冒险"
+  ],
+  "categories": [
+    "单人",
+    "家庭共享"
+  ],
+  "developers": [
+    "KIDFansClub"
+  ],
+  "publishers": [
+    "Syawase Works China"
+  ],
+  "release_date": "2023 年 1 月 11 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "简体中文*\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 39.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows XP, Windows 7, Windows 8.1, Windows 10, Windows 11\n处理器: Intel Core i3\n内存: 4 GB RAM\n显卡: 集成显卡\nDirectX 版本: 9.0c\n存储空间: 需要 3 GB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n操作系统 *: Windows 7, Windows 10\n处理器: Intel Core i5\n内存: 8 GB RAM\n显卡: 独立显卡\nDirectX 版本: 11\n存储空间: 需要 3 GB 可用空间",
+  "fetched_at": "2026-08-20T03:38:08Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 3972,
+  "review_percentage": 97.4,
+  "review_score": 9
+}

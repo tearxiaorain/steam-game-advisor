@@ -1,0 +1,67 @@
+{
+  "app_id": "359840",
+  "name": "Shift Happens",
+  "name_cn": "",
+  "short_description": "Shift Happens is a cooperative platformer for two. You and a friend shift your mass, throw each other and puzzle your way through four stages of stylized imaginary worlds. Including the occasional backstabbing and taunting. Play with a friend on a couch, online or even special singleplayer levels.",
+  "detailed_description": "The two jello jelly creatures Bismo and Plom got connected in a tragic yet funny accident and thus can exchange their size and abilities at will. Welcome to the world of Shift Happens - the only game out there which doesn't take a closer look at the body mass index and where players are actually forced to work togehter (and occasionally stab each other in the back).\n\nExperience thrilling adventures in four totally different worlds:\nExplore a freaked out laboratory where Bismo and Plom had their accident!\n Uncover the secrets of the overgrown green forests...\n... and survive the dry canyons where a deadly wind awaits you...\n... just to prepare you for the bitingly cold caves!\nThe twist: Shift Happens is pure fun for solo players, yet its full potential can only be experienced together. Play it with your best friend while hanging around on a couch enjoying a pizza. Together you can solve puzzles and fight over precious coins. Coordination and communication are key to a successful journey. We recommend using gamepads for maximum enjoyability™.\n\nThe game also features a singleplayer mode with different level content. Although the game is primarily meant to be played by two people, you can play the completely different singleplayer levels without another person.\n\nThe game features all the good things you should expect from a co-op platformer:\nOver 40 levels of handcrafted fun\nLocal and online co-op gameplay\nExtra challenges/rewards in the levels for completionists and explorers\nMore than 30 different levels designed for the singleplayer mode\n8 unlockable bonuslevels (4 single- & 4 multiplayer)\nAchievements\nAnd timechallenges for each level",
+  "description_lang_short": "en",
+  "description_lang_detail": "en",
+  "genres": [
+    "动作",
+    "独立"
+  ],
+  "tags": [
+    "动作",
+    "独立"
+  ],
+  "categories": [
+    "单人",
+    "多人",
+    "玩家对战",
+    "线上玩家对战",
+    "同屏/分屏玩家对战",
+    "合作",
+    "在线合作",
+    "同屏/分屏合作",
+    "同屏/分屏",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "DUALSHOCK 控制器支持",
+    "DUALSHOCK 控制器支持",
+    "Steam 云",
+    "在电视上远程畅玩",
+    "远程同乐",
+    "家庭共享"
+  ],
+  "developers": [
+    "Klonk Games"
+  ],
+  "publishers": [
+    "Daedalic Entertainment"
+  ],
+  "release_date": "2017 年 2 月 22 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语",
+    "德语",
+    "俄语",
+    "法语",
+    "西班牙语 - 西班牙",
+    "葡萄牙语 - 巴西",
+    "繁体中文",
+    "简体中文",
+    "泰语"
+  ],
+  "is_free": false,
+  "price_cny": 95.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows Vista\n处理器: AMD Phenom II X4 N930 2GHz\n内存: 2 GB RAM\n显卡: Mobility Radeon HD 5650\nDirectX 版本: 9.0c\n存储空间: 需要 9 GB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n操作系统 *: Windows 7\n处理器: Intel i5-4460 3.2GHz / AMD FX-6350 3.9GHz\n内存: 4 GB RAM\n显卡: GeForce GTX 750 / Radeon R7 260X\nDirectX 版本: 9.0c\n网络: 宽带互联网连接\n存储空间: 需要 9 GB 可用空间",
+  "fetched_at": "2026-08-20T04:07:03Z",
+  "review_desc": "Mostly Positive",
+  "review_count": 4381,
+  "review_percentage": 77.5,
+  "review_score": 6
+}

@@ -1,0 +1,62 @@
+{
+  "app_id": "1446780",
+  "name": "MONSTER HUNTER RISE",
+  "name_cn": "",
+  "short_description": "蓬勃跃动的狩猎本能！ 为狩猎掀起全新风潮、无拘无束尽情跃动的动作；可随心所欲四下驰骋的全新原野；以及能带来未知的兴奋与惊喜的全新怪物。 前所未有的狩猎体验正在《MONSTER HUNTER RISE》中等候各位猎人的到来！",
+  "detailed_description": "有关追加内容（DLC）的贩售形式变动事宜由于汇率变动，在部分地区、货币中出现（或有可能出现）无法购买DLC套装商品的问题，\n从2024年12月下旬开始，将随时变更在Steam上出售中的各种追加内容（DLC）套装商品的贩售形式。\n\n內容：\n现已取消“购买套装商品时，若用户的Steam库中已有套装内商品，会以差额购买不在用户steam库中的商品”的规则，\n更改为“购买套装商品时，无论用户的Steam库中是否包含套装内商品，都必须一并购买整个套装商品”。\n※ 请注意，单品DLC/套装商品有可能出现重复购买的情况。\n\n部分指定套装商品的收录内容，以及商品图片和说明文会变更\n部分指定套装商品的销售价格会有增减调整\n部分指定套装商品结束贩售或暂停贩售\n\n关于游戏蓬勃跃动的狩猎本能！\n为狩猎掀起全新风潮、无拘无束尽情跃动的动作；可随心所欲四下驰骋的全新原野；以及能带来未知的兴奋与惊喜的全新怪物。\n前所未有的狩猎体验正在《MONSTER HUNTER RISE》中等候各位猎人的到来！\n\n・掀起全新风潮的“翔虫”动作\n“翔虫”会飞向猎人指示的方向，并使用特殊的“铁虫丝”将猎人拉近，让狩猎实现进一步的进化，配合各武器种类充满特色的攻击，诞生全新的狩猎动作！\n\n・操纵怪物的豪迈动作“御龙”\n操纵失控的怪物，使出豪迈的动作！\n\n・为狩猎提供帮助的随从\n除了老搭档“随从艾露猫”，还有全新的可靠同伴“随从牙猎犬”登场！\n\n・炎火村的故事\n由于时隔50年的灾祸“百龙夜行”临近，炎火村陷入困境。\n主角需以成为顶尖猎人为目标，同时与村庄中的同伴团结一致，共同克服这场可怕的灾祸。\n\n・大量怪物大举侵袭的“百龙夜行”\n百龙夜行，指由多只怪物与统领它们的首领组成“怪物群”向村庄发起的袭击。\n整个地图到处都是大型怪物的身影……\n\n・拥有独特生态的怪物\n除象征本作的怪物“怨虎龙”外，还有拥有独特生态的未知怪物与系列怪物相继登场！",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作"
+  ],
+  "tags": [
+    "动作"
+  ],
+  "categories": [
+    "单人",
+    "多人",
+    "合作",
+    "在线合作",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "Steam 云",
+    "可用 HDR",
+    "家庭共享"
+  ],
+  "developers": [
+    "CAPCOM Co., Ltd."
+  ],
+  "publishers": [
+    "CAPCOM Co., Ltd."
+  ],
+  "release_date": "2022 年 1 月 12 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语",
+    "意大利语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "阿拉伯语",
+    "日语*",
+    "韩语",
+    "波兰语",
+    "葡萄牙语 - 巴西",
+    "俄语",
+    "简体中文",
+    "繁体中文",
+    "西班牙语 - 拉丁美洲\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 198.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10 （64-bit）\n处理器: Intel® Core™ i3-4130 or Core™ i5-3470 or AMD FX™-6100\n内存: 8 GB RAM\n显卡: NVIDIA® GeForce® GT 1030 (DDR4) or AMD Radeon™ RX 550\nDirectX 版本: 12\n网络: 宽带互联网连接\n存储空间: 需要 36 GB 可用空间\n附注事项: 1080p/30fps when graphics settings are set to \"Low\".",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10 （64-bit）\n处理器: Intel® Core™ i5-4460 or AMD FX™-8300\n内存: 8 GB RAM\n显卡: NVIDIA® GeForce® GTX 1060 (VRAM 3GB) or AMD Radeon™ RX 570 (VRAM 4GB)\nDirectX 版本: 12\n网络: 宽带互联网连接\n存储空间: 需要 36 GB 可用空间\n附注事项: 1080p/30fps when graphics settings are set to \"Average\".",
+  "fetched_at": "2026-08-20T04:04:14Z",
+  "review_desc": "Very Positive",
+  "review_count": 125621,
+  "review_percentage": 83.4,
+  "review_score": 8
+}

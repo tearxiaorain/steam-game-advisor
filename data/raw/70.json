@@ -1,0 +1,69 @@
+{
+  "app_id": "70",
+  "name": "Half-Life",
+  "name_cn": "",
+  "short_description": "超五十家媒体联合推荐的“年度最佳”，Valve 的开山首作运用了荣获大奖的技术，将动作与冒险巧妙融合，营造出令人胆寒的逼真环境，玩家必须利用智慧才能生存到底。 游戏还提供令人兴奋的多人联机模式，让您与世界各地的好友与敌手一较高下。",
+  "detailed_description": "超五十家媒体联合推荐的“年度最佳”，Valve 的开山首作运用了荣获大奖的技术，将动作与冒险巧妙融合，营造出令人胆寒的逼真环境，玩家必须利用智慧才能生存到底。 游戏还提供令人兴奋的多人联机模式，让您与世界各地的好友与敌手一较高下。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作"
+  ],
+  "tags": [
+    "动作"
+  ],
+  "categories": [
+    "单人",
+    "多人",
+    "玩家对战",
+    "线上玩家对战",
+    "完全支持控制器",
+    "可选颜色",
+    "自定义音量控制",
+    "可调整难度",
+    "可以仅用键盘",
+    "无需应对快速反应事件",
+    "DUALSHOCK 控制器支持",
+    "DUALSHOCK 控制器支持",
+    "DualSense 控制器支持",
+    "DualSense 控制器支持",
+    "随时保存",
+    "立体声",
+    "Steam 云",
+    "已启用 Valve 反作弊保护",
+    "在手机上远程畅玩",
+    "在平板上远程畅玩",
+    "家庭共享"
+  ],
+  "developers": [
+    "Valve"
+  ],
+  "publishers": [
+    "Valve"
+  ],
+  "release_date": "1998 年 11 月 19 日",
+  "platforms": [
+    "Windows",
+    "Mac",
+    "Linux"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语*",
+    "德语*",
+    "意大利语*",
+    "西班牙语 - 西班牙*",
+    "简体中文*",
+    "繁体中文*",
+    "韩语*\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 37.0,
+  "pc_requirements_min": "最低配置：500 mhz 处理器，96mb 内存，16mb 显卡，Windows XP，鼠标，键盘，互联网连接\n\n建议配置：800 mhz 处理器，128mb 内存，32mb 以上的显卡，Windows XP，鼠标，键盘，互联网连接",
+  "pc_requirements_rec": "",
+  "fetched_at": "2026-08-20T04:08:12Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 163542,
+  "review_percentage": 96.5,
+  "review_score": 9
+}

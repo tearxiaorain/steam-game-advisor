@@ -1,0 +1,60 @@
+{
+  "app_id": "211820",
+  "name": "Starbound",
+  "name_cn": "",
+  "short_description": "You’ve fled your home, only to find yourself lost in space with a damaged ship. Your only option is to beam down to the planet below, repair your ship and set off to explore the universe...",
+  "detailed_description": "Bounty Hunter UpdateIn our latest update take on the role of an intergalactic bounty hunter, taking on new quests to track down wanted criminal gangs and following clues to discover their hideouts. \n\nRise up through the Peacekeeper ranks to ultimately restore law and order in the universe! When cornered some criminals may even offer treasure or rewards as a bribe - it’s up to the player to decide how strictly they’ll uphold the law!\n\nThere are over 50 new ‘rare colored’ variant monsters which can be captured, and a variety of other new content including furniture, armor, tenants and more!Update Key FeaturesNew procedurally-generated quests that send players travelling to worlds and space stations, hunting down criminal gangs\nNew Peacekeeper stations for bounty hunters – work your way through promotions and restore law to the universe\nTake the fight to criminal gangs at their hideouts, including a climatic final mission & boss fight!\nBrand new quests and cutscenes!\nNew generated criminal hideout micro-dungeons\nNew elemental monster variants which are capturable, and earn progress in a new collection\nNew furniture, objects, costumes, weapons, and more!\n4 new music tracks by Starbound composer Curtis Schweitzer\nAnd of course some bugfixes\n\nAbout the Game\n\nIn Starbound, you create your own story - there’s no wrong way to play! You may choose to save the universe from the forces that destroyed your home, uncovering greater galactic mysteries in the process, or you may wish to forego a heroic journey entirely in favor of colonizing uncharted planets.\n\nSettle down and farm the land, become an intergalactic landlord, hop from planet to planet collecting rare creatures, or delve into dangerous dungeons and lay claim to extraordinary treasures.\n\nDiscover ancient temples and modern metropolises, trees with eyes, and mischievous penguins. Make use of hundreds of materials and over two thousand objects to build a sleepy secluded cabin in the woods, a medieval castle, underwater arcade, or even a space station.\n\nStarbound has been built from the ground up to be multiplayer and easily moddable. You have the tools to make the universe your own and modify the game to suit your play style - add new items, races, planet types, dungeons, and quests - the possibilities are limitless.\n\nChoose from one of 7 playable races and customize your character\n\nSave the universe in an epic story campaign featuring colorful characters, bosses, dungeons, and quests!\n\nYou're the captain of your very own starship! Decorate it, expand it, and use it to explore a procedurally generated universe\n\nColonize uncharted planets and collect gifts from your tenants - if they like you, they may even ask to join your ship crew!\n\nThree game modes - Casual (no need to eat), Survival (eat to survive/drop items on death) and Hardcore (permadeath)\n\nCraft thousands of objects - building materials, armor, weapons, furniture and more\n\nCapture unique monsters to fight alongside you\n\nAll content is available in online drop-in/drop-out co-op\n\nBuilt from the ground up to be easily moddable. You have the tools to make the universe however you'd like it",
+  "description_lang_short": "en",
+  "description_lang_detail": "en",
+  "genres": [
+    "动作",
+    "冒险",
+    "休闲",
+    "独立",
+    "角色扮演"
+  ],
+  "tags": [
+    "动作",
+    "冒险",
+    "休闲",
+    "独立",
+    "角色扮演"
+  ],
+  "categories": [
+    "单人",
+    "多人",
+    "玩家对战",
+    "线上玩家对战",
+    "合作",
+    "在线合作",
+    "跨平台多人",
+    "Steam 成就",
+    "Steam 集换式卡牌",
+    "Steam 创意工坊",
+    "家庭共享"
+  ],
+  "developers": [
+    "Chucklefish"
+  ],
+  "publishers": [
+    "Chucklefish"
+  ],
+  "release_date": "2016 年 7 月 22 日",
+  "platforms": [
+    "Windows",
+    "Mac",
+    "Linux"
+  ],
+  "supported_languages": [
+    "英语*\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 59.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows XP or later\n处理器: Core 2 Duo\n内存: 2 GB RAM\n显卡: 256 MB graphics memory and directx 9.0c compatible gpu\nDirectX 版本: 9.0c\n网络: 宽带互联网连接\n存储空间: 需要 3 GB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n操作系统 *: Windows XP or later\n处理器: Core i3\n内存: 4 GB RAM\n显卡: Discrete GPU capable of directx 9.0c\nDirectX 版本: 9.0c\n网络: 宽带互联网连接\n存储空间: 需要 4 GB 可用空间",
+  "fetched_at": "2026-08-20T04:30:18Z",
+  "review_desc": "Very Positive",
+  "review_count": 123264,
+  "review_percentage": 90.0,
+  "review_score": 8
+}

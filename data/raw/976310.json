@@ -1,0 +1,74 @@
+{
+  "app_id": "976310",
+  "name": "Mortal Kombat 11",
+  "name_cn": "",
+  "short_description": "《真人快打》经典系列隆重回归，现在就来一睹这叹为观止的新作吧。",
+  "detailed_description": "真人快打11终极版\n\n终极的真人快打11体验！在2部备受赞誉且扭转时空的故事战役中扮演阳间保卫者，与时间竞赛，以阻止克罗尼卡操弄时空及重启历史。内含全部37名斗士，包括雨、美莲娜及兰博。\n\n内含“真人快打11”、“格斗包1”、“余波扩展包”及“格斗包2”。\n\n• 体验“真人快打11”及“真人快打11：余波”2个高潮迭起、备受好评的故事战役\n• 扮演全部37名角色，包括新加入的斗士美莲娜、雨及兰博\n• 上千种皮肤、武器及装备，使用前所未有的方式自定义斗士\n• 内含所有先前的客串斗士：终结者、小丑、再生侠及机械战警\n• 所有模式包括时之高塔、掘墓、教学、在线、经典高塔等等\n• 所有场景、场景终结、残忍终结、经典终结及友谊万岁\n\n关于游戏《真人快打》经典系列隆重回归，现在就来一睹这叹为观止的新作吧。\n\n《真人快打11》标准版内含：\n• 主游戏\n\n全新“自定义角色模板”功能可让你以史无前例的方式自定义战士，打造完全属于你的角色。全新图形引擎将细腻呈现每个碎颅爆眼的精彩时刻，让你如同身历其境般地体验每个细节。伴随着一直以来脍炙人口的电影剧情模式，再加上一众全新以及重磅回归的经典战士，在推出25周年之际，《真人快打》这部史诗系列将迎来其新的高峰。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作"
+  ],
+  "tags": [
+    "动作"
+  ],
+  "categories": [
+    "单人",
+    "多人",
+    "玩家对战",
+    "线上玩家对战",
+    "同屏/分屏玩家对战",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "应用内购买",
+    "自定义音量控制",
+    "可以仅用键盘",
+    "朗读游戏菜单",
+    "立体声",
+    "环绕声",
+    "Steam 云",
+    "在手机上远程畅玩",
+    "在平板上远程畅玩",
+    "在电视上远程畅玩",
+    "远程同乐",
+    "可用 HDR",
+    "家庭共享"
+  ],
+  "developers": [
+    "NetherRealm Studios",
+    "QLOC",
+    "Shiver"
+  ],
+  "publishers": [
+    "Warner Bros. Games",
+    "Warner Bros. Interactive Entertainment"
+  ],
+  "release_date": "2019 年 4 月 23 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语*",
+    "意大利语*",
+    "德语*",
+    "西班牙语 - 西班牙",
+    "阿拉伯语",
+    "波兰语",
+    "葡萄牙语 - 巴西*",
+    "俄语",
+    "简体中文",
+    "西班牙语 - 拉丁美洲*",
+    "繁体中文\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 138.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: 64-bit Windows 7 / Windows 10\n处理器: Intel Core i5-750, 2.66 GHz / AMD Phenom II X4 965, 3.4 GHz or AMD Ryzen™ 3 1200, 3.1 GHz\n内存: 8 GB RAM\n显卡: NVIDIA® GeForce™ GTX 670 or NVIDIA® GeForce™ GTX 1050 / AMD® Radeon™ HD 7950 or AMD® Radeon™ R9 270\nDirectX 版本: 11\n网络: 宽带互联网连接",
+  "pc_requirements_rec": "推荐配置:\n操作系统 *: 64-bit Windows 7 / Windows 10\n处理器: Intel Core i5-2300, 2.8 GHz / AMD FX-6300, 3.5GHz or AMD Ryzen™ 5 1400, 3.2 GHz\n内存: 8 GB RAM\n显卡: NVIDIA® GeForce™ GTX 780 or NVIDIA® GeForce™ GTX 1060-6GB / AMD® Radeon™ R9 290 or RX 570\nDirectX 版本: 11\n网络: 宽带互联网连接",
+  "fetched_at": "2026-08-20T04:20:50Z",
+  "review_desc": "Very Positive",
+  "review_count": 115950,
+  "review_percentage": 88.1,
+  "review_score": 8
+}

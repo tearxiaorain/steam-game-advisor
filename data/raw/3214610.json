@@ -1,0 +1,63 @@
+{
+  "app_id": "3214610",
+  "name": "Cinderia",
+  "name_cn": "灰烬之国 Cinderia",
+  "short_description": "《灰烬之国》是一款极致爽快的Rogue-lite动作游戏！自由组合一切你可以看到的东西，技能，连招，被动，装备，创造你独特的战斗风格。黑暗笼罩大地，废墟之中仍有微光闪烁。",
+  "detailed_description": "《灰烬之国 Cinderia》是一款黑暗童话风的 Roguelite 动作游戏。\n\n魔女在燃烧世界的那一夜，古老的秩序随之崩塌，王国化为焦土，只剩灰烬在废墟间飘落。\n\n在余烬与阴影交织的废土上，一小群仍能抵抗腐蚀的人继续前行—— 他们能吞下黑魔法的残渣，却不被它完全支配。\n\n凭借这份危险的力量，你将于废墟间搏杀、成长，并逐步触及世界毁灭背后的真相。\n\n短剑斩暗，火炮裂敌，冰霜止息死亡。\n\n冒险者们各自背负着不同的命运，也拥有完全独特的战斗方式。\n\n  \n\n 黑魔法的余烬会腐蚀一切，可她未曾预料，这些力量会被你夺走，化为武器。\n\n余烬与魔卡的不同组合会重塑你的技能结构与连招节奏，使每一局都展现出完全不同的构筑路径。\n\n  \n\n战斗，休整，然后再次启程。\n\n在破败的角落里，仍有温暖的火光等待着你。\n\n跌倒、受伤、失败，终究只是旅途的一部分。\n\n  \n\n4名角色 x 每个角色独特的180+技能池。\n\n130+种装备，无穷无尽的搭配组合。\n\n数十种随机事件与房间类型，每局路线不同。\n\n  持续更新，不断加入更多内容与玩法。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "冒险",
+    "独立",
+    "角色扮演",
+    "抢先体验"
+  ],
+  "tags": [
+    "动作",
+    "冒险",
+    "独立",
+    "角色扮演",
+    "抢先体验"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "部分支持控制器",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "MyACG Studio"
+  ],
+  "publishers": [
+    "MyACG Studio",
+    "NPC Entertainment"
+  ],
+  "release_date": "2026 年 3 月 30 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "简体中文",
+    "英语",
+    "繁体中文",
+    "法语",
+    "意大利语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "俄语",
+    "日语",
+    "葡萄牙语 - 巴西",
+    "韩语"
+  ],
+  "is_free": false,
+  "price_cny": 68.0,
+  "pc_requirements_min": "最低配置:\n操作系统: Windows 10\n处理器: Intel I5-10600KF\n内存: 8 GB RAM\n显卡: NVIDIA GTX 1066\n存储空间: 需要 15 GB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n操作系统: Windows 10\n处理器: Intel I5-14600KF\n内存: 16 GB RAM\n显卡: NVIDIA GTX 3050 Ti\n存储空间: 需要 512 GB 可用空间",
+  "fetched_at": "2026-08-20T04:09:36Z",
+  "review_desc": "Very Positive",
+  "review_count": 4679,
+  "review_percentage": 87.8,
+  "review_score": 8
+}

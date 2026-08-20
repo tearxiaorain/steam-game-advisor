@@ -1,0 +1,44 @@
+{
+  "app_id": "1856540",
+  "name": "Mirror News Center",
+  "name_cn": "",
+  "short_description": "此应用程序为免费app，旨在为能让无法正常登陆Steam社区的玩家也可以参加活动，以及查看Mirror系列相关的所有信息，",
+  "detailed_description": "此应用程序为免费app，旨在为能让无法正常登陆Steam社区的玩家也可以参加活动，以及查看Mirror系列相关的所有信息，\n\n通过Mirror News Center来了解Mirror系列最新动向和活动！我们会在这里更新Mirror系列的新消息，还有更多活动等你来参加！您可以在这里找到Mirror系列所有作品的更新公告！\nMirror系列所有作品的未来更新计划与预告！\nMirror系列更多有趣的游戏开发细节！\n第一时间获得与Mirror系列相关的活动消息！\n参与我们精心准备的各类活动！",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "实用工具",
+    "网络出版",
+    "游戏开发"
+  ],
+  "tags": [
+    "实用工具",
+    "网络出版",
+    "游戏开发"
+  ],
+  "categories": [],
+  "developers": [
+    "NIJICO"
+  ],
+  "publishers": [
+    "NIJICO"
+  ],
+  "release_date": "2022 年 1 月 13 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "简体中文",
+    "英语",
+    "繁体中文"
+  ],
+  "is_free": true,
+  "price_cny": 0.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10 64-bit\n处理器: Intel Core i3-2100 or Higher\n内存: 2 GB RAM\n显卡: Intel® HD Graphics 2000 or Higher\n网络: 宽带互联网连接\n存储空间: 需要 1 GB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10 64-bit\n处理器: Intel Core i3-2100 or Higher\n内存: 2 GB RAM\n显卡: Intel® HD Graphics 2000 or Higher\n网络: 宽带互联网连接\n存储空间: 需要 1 GB 可用空间",
+  "fetched_at": "2026-08-20T04:13:57Z",
+  "review_desc": "Mixed",
+  "review_count": 680,
+  "review_percentage": 57.8,
+  "review_score": 5
+}

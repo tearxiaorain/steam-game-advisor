@@ -1,0 +1,59 @@
+{
+  "app_id": "1209490",
+  "name": "Exit the Gungeon",
+  "name_cn": "逃出地牢",
+  "short_description": "《逃出地牢》是前作的一部小规模衍生游戏，故事内容紧随着前作中身处异境的地牢探险者们的步伐。",
+  "detailed_description": "《逃出地牢》是一部小规格、街机式作品，衍生于前作《挺进地牢》，内容则紧密延续前作中闯入地牢的探险者们的征程，不断向反方向“爬升”，挺过一程又一程愈发危险的电梯和一波又一波难缠的敌人。\n\n地牢已深陷悖论与矛盾，摇摇欲坠！在女神法力祝福加持下，你手中枪支会在你向上逃出地牢途中不断变换。玩得越好，连击数越高，你的枪就会变成更强有力的形态。\n\n伴随着疯狂的节奏，迎战顽抗到底、满腔怒火的子弹怪吧！当然，也别忘了停下脚步，与熟悉的面孔交谈几句……有些可是新面孔哦。本作有不断切换的房间、敌人、Boss，还有诡异新奇的武器和道具，一切的一切都能确保《逃出地牢》里每次尝试都是独一无二的绝妙体验。\n\n{STEAM_APP_IMAGE}/extras/xtg2.gif",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "冒险",
+    "独立"
+  ],
+  "tags": [
+    "动作",
+    "冒险",
+    "独立"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "Dodge Roll",
+    "Singlecore"
+  ],
+  "publishers": [
+    "Devolver Digital"
+  ],
+  "release_date": "2020 年 3 月 17 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语",
+    "法语",
+    "意大利语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "日语",
+    "韩语",
+    "葡萄牙语 - 巴西",
+    "简体中文",
+    "繁体中文",
+    "俄语"
+  ],
+  "is_free": false,
+  "price_cny": 42.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows 7, 8, 8.1, 10 x64\n处理器: Intel Core2 Duo E4500 (2 * 2200)\n内存: 4 GB RAM\n显卡: GeForce 9600 GT (512 MB)\n存储空间: 需要 500 MB 可用空间\n附注事项: Gamepad Recommended",
+  "pc_requirements_rec": "推荐配置:\n操作系统 *: Windows 7, 8, 8.1, 10 x64\n处理器: Intel Core i3-2100 (2 * 3100) or equivalent\n内存: 4 GB RAM\n显卡: GeForce GTX 550Ti (1024 MB)\n存储空间: 需要 500 MB 可用空间\n附注事项: Gamepad Recommended",
+  "fetched_at": "2026-08-20T03:43:27Z",
+  "review_desc": "Mostly Positive",
+  "review_count": 3752,
+  "review_percentage": 74.0,
+  "review_score": 6
+}

@@ -1,0 +1,70 @@
+{
+  "app_id": "242760",
+  "name": "The Forest",
+  "name_cn": "",
+  "short_description": "As the lone survivor of a passenger jet crash, you find yourself in a mysterious forest battling to stay alive against a society of cannibalistic mutants. Build, explore, survive in this terrifying first person survival horror simulator.",
+  "detailed_description": "As the lone survivor of a passenger jet crash, you find yourself in a mysterious forest battling to stay alive against a society of cannibalistic mutants. \n\nBuild, explore, survive in this terrifying first person survival horror simulator.Key  features\nEnter a living, breathing world, where every tree and plant can be chopped down. Below ground explore a vast network of caves and underground lakes. \n\nChop down trees to build a camp, or start a fire to keep warm. Scavenge food to keep yourself from starving. \nBuild a small shelter or a large ocean side fortress. Lay traps and defences to keep a safe perimeter. \nExplore and build during the day. Defend your base at night. Craft weapons and tools. Bunker down during the evening or bring the fight directly to the enemy. \nDefend yourself against a clan of genetic mutant enemies that have beliefs, families, morals and that appear almost human. \nUse stealth to evade enemies, or engage them directly with crude weapons built from sticks and stones.",
+  "description_lang_short": "en",
+  "description_lang_detail": "en",
+  "genres": [
+    "动作",
+    "冒险",
+    "独立",
+    "模拟"
+  ],
+  "tags": [
+    "动作",
+    "冒险",
+    "独立",
+    "模拟"
+  ],
+  "categories": [
+    "单人",
+    "多人",
+    "合作",
+    "在线合作",
+    "局域网合作",
+    "定位控制器支持",
+    "已支持 VR",
+    "部分支持控制器",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "Endnight Games Ltd"
+  ],
+  "publishers": [
+    "Endnight Games Ltd"
+  ],
+  "release_date": "2018 年 4 月 30 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语",
+    "德语",
+    "捷克语",
+    "芬兰语",
+    "日语",
+    "韩语",
+    "波兰语",
+    "葡萄牙语 - 巴西",
+    "俄语",
+    "简体中文",
+    "瑞典语",
+    "繁体中文",
+    "土耳其语",
+    "意大利语",
+    "西班牙语 - 西班牙\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 70.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows 7\n处理器: Intel Dual-Core 2.4 GHz\n内存: 4 GB RAM\n显卡: NVIDIA GeForce 8800GT\nDirectX 版本: 9.0\n存储空间: 需要 5 GB 可用空间\n声卡: DirectX®-compatible\n支持 VR: SteamVR or Oculus PC\n附注事项: 32bit windows users need to ensure they have at least 4gb of ram usable on their system.",
+  "pc_requirements_rec": "推荐配置:\n操作系统 *: Windows 7\n处理器: Quad Core Processor\n内存: 4 GB RAM\n显卡: NVIDIA GeForce GTX 560\nDirectX 版本: 9.0\n存储空间: 需要 5 GB 可用空间\n声卡: DirectX®-compatible",
+  "fetched_at": "2026-08-20T03:40:55Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 680333,
+  "review_percentage": 95.5,
+  "review_score": 9
+}

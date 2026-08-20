@@ -1,0 +1,70 @@
+{
+  "app_id": "310560",
+  "name": "DiRT Rally",
+  "name_cn": "",
+  "short_description": "DiRT Rally is the most authentic and thrilling rally game ever made, road-tested over 80 million miles by the DiRT community. It perfectly captures that white knuckle feeling of racing on the edge as you hurtle along dangerous roads, knowing that one crash could irreparably harm your stage time.",
+  "detailed_description": "Full Oculus VR SupportDiRT Rally now fully supports Oculus Rift giving you the ultimate experience in racing immersion.\n\nDiRT Rally VR puts you directly in the driver’s seat of the most iconic rally cars ever produced as you take on some of the most challenging stages in the world including the incredible Broadmoor Pikes Peak International Hill Climb as well as experiencing wheel-to-wheel thrill of Rallycross.\n\n•\tFull Oculus Rift VR support throughout the entire game\n•\tAmazing 90fps experience\n\nAbout the GameDiRT Rally out now for macOS and Linux\n\nDiRT Rally is the most authentic and thrilling rally game ever made, road-tested over 80 million miles by the DiRT community. It perfectly captures that white knuckle feeling of racing on the edge as you hurtle along dangerous roads at breakneck speed, knowing that one crash could irreparably harm your stage time.   \nDiRT Rally also includes officially licensed World Rallycross content, allowing you to experience the breathless, high-speed thrills of some of the world’s fastest off-road cars as you trade paint with other drivers at some of the series’ best-loved circuits, in both singleplayer and high-intensity multiplayer races. \n\n• ICONIC RALLY CARS - DiRT Rally boasts over 40 of the most iconic and relevant cars from yesteryear through to modern day, representing the cars that the players want, and the ones that make the most sense for the surfaces they race on. \n• SIX MASSIVE RALLIES WITH OVER 70 STAGES - Head to the muddy paths of Wales, the dusty trails of Greece and the icy tarmac of Monte Carlo. Take on the legendary hillclimb of Pikes Peak, the snowy thrills of Sweden, and the epic scenery of Finland. \n• OFFICIAL FIA WORLD RALLYCROSS CONTENT – Race at the Lydden Hill, Holjes and Hell tracks in six of the fastest off-road cars and take on your friends in high intensity, bumper-to-bumper multiplayer racing.\n• CUSTOM RALLY EVENTS: Take any car on any track – configure and compete in single or multi-stage events.\n• RALLY CHAMPIONSHIPS: Start on the bottom rung of the rally ladder and compete in a succession of events, earning points and money on your way to promotion. Use skilful driving and manage your repair schedules as you work your way to the top division and earn the most lucrative rewards. \n• UPGRADES, REPAIRS, SETUP AND TUNING - DiRT Rally delivers depth in areas beyond driving – elements such as repairs, upgrades, and setup & tuning add a rich and strategic dimension to your rally experience. \n• CHALLENGING, UNCOMPROMISING HANDLING MODEL - Codemasters has completely rebuilt the physical simulation for DIRT Rally to adequately capture how it feels to race across changing surfaces and has created brand new models for differential, suspension, engine mapping and turbo modelling. \n• TEAM MANAGEMENT - Hire and fire your crew members each of whom which will have different skills, improving repair times for different parts of the car. Teach them new skills as they gain experience and work together as a team to improve your performance in events.\n• PLAYER LEAGUE SUPPORT - Get together with friends and run your very own racing league. Join or create unlimited leagues and run them how and when you want. \n• DAILY, WEEKLY AND MONTHLY ONLINE CHALLENGES - It’s you versus the entire DiRT community in a series of one-day, week-long and month-long challenges to earn in-game credits to improve your car and team.",
+  "description_lang_short": "en",
+  "description_lang_detail": "en",
+  "genres": [
+    "竞速",
+    "模拟",
+    "体育"
+  ],
+  "tags": [
+    "竞速",
+    "模拟",
+    "体育"
+  ],
+  "categories": [
+    "单人",
+    "多人",
+    "Steam 成就",
+    "完全支持控制器",
+    "已支持 VR",
+    "Steam 集换式卡牌",
+    "Steam 创意工坊",
+    "Steam 云",
+    "已启用 Valve 反作弊保护",
+    "Steam 排行榜",
+    "在手机上远程畅玩",
+    "在平板上远程畅玩",
+    "在电视上远程畅玩",
+    "家庭共享"
+  ],
+  "developers": [
+    "Codemasters",
+    "Feral Interactive (Linux)",
+    "Feral Interactive (Mac)"
+  ],
+  "publishers": [
+    "Codemasters",
+    "Feral Interactive (Linux)",
+    "Feral Interactive (Mac)",
+    "Electronic Arts"
+  ],
+  "release_date": "2015 年 12 月 7 日",
+  "platforms": [
+    "Windows",
+    "Mac",
+    "Linux"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语*",
+    "意大利语*",
+    "德语*",
+    "西班牙语 - 西班牙*",
+    "葡萄牙语 - 巴西*",
+    "俄语*\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": null,
+  "pc_requirements_min": "最低配置:\n操作系统 *: 64bit Versions of Windows 7, Windows 8, Windows 10\n处理器: AMD FX Series or Intel Core i3 Series\n内存: 4 GB RAM\n显卡: AMD HD5450 or Nvidia GT430 or Intel HD4000 with 1GB of VRAM (DirectX 11 graphics card required)\nDirectX 版本: 11\n存储空间: 需要 50 GB 可用空间\n声卡: DirectX Compatible soundcard\n附注事项: Supported Graphics Cards: AMD HD5000 Series, HD6000 Series, HD7000 Series, R7 Series, R9 Series Nvidia GTX400 Series, GTX500 Series, GTX600 Series, GTX700 Series, GTX900 Series Intel HD4000 Series, HD5000 Series",
+  "pc_requirements_rec": "推荐配置:\n操作系统 *: 64bit Versions of Windows 7, Windows 8, Windows 10\n处理器: AMD FX-8150 or Intel Core i5 4670K\n内存: 8 GB RAM\n显卡: AMD R9 290 or Nvidia GTX780\nDirectX 版本: 11\n存储空间: 需要 50 GB 可用空间\n声卡: Direct X compatible soundcard\n附注事项: Supported Graphics Cards:  AMD HD5000 Series, HD6000 Series, HD7000 Series, R7 Series, R9 Series Nvidia GTX400 Series, GTX500 Series, GTX600 Series, GTX700 Series, GTX900 Series Intel HD4000 Series, HD5000 Series, HD6000 Series",
+  "fetched_at": "2026-08-20T04:28:08Z",
+  "review_desc": "Very Positive",
+  "review_count": 40170,
+  "review_percentage": 88.0,
+  "review_score": 8
+}

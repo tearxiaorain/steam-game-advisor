@@ -1,0 +1,52 @@
+{
+  "app_id": "1168470",
+  "name": "千面 Melancholy Love",
+  "name_cn": "",
+  "short_description": "《千面》是一款百合向视觉小说游戏，讲述了在前作时间线十年之后，聆花女子学院中的“优等生”与“不良少女”间的甜蜜纠葛。",
+  "detailed_description": "在前作（寄甡 Symbiotic Love）的故事发生十年之后的聆花女子学院里，“优等生”与“不良少女”间的甜蜜纠葛。\n\r\n\n\r\n\n\r\nstory\n\r\n\n\r\n在那座郁满花香的校园里\n\r\n受人景仰的优等生\n\r\n与风评惨淡的不良少女\n\r\n两个极端的触碰会产生怎样的火花\n\r\n\n\r\n冬末春初，在花儿们待放的时节\n\r\n端坐在风信子之中的西贡小姐\n\r\n将为大家讲述一段\n\r\n略显忧郁又充满歉意的爱\n\r\n\n\r\n\n\r\nfeature\n\r\n\n\r\n甜蜜温馨的百合恋情\n\r\n丝丝入扣的全员语音\n\r\n动人心弦的华美音乐\n\r\n精致细腻的CG画面\n\r\n真实考究的剧情细节\n\r\n不同选择的多个结局\n\r\n\n\r\n\n\r\nstaff\n\r\n\n\r\n【企划】\n\r\n白露社（White Dew Game）\n\r\n【配音】\n\r\n蓝豆娘就是豆豆\n\r\nXY大甘蔗\n\r\n月夜桥\n\r\n风簌\n\r\n林簌SUSU\n\r\n桂圆翊宝\n\r\n【人设】\n\r\nwhiisky\n\r\n【CG】\n\r\nwhiisky\n\r\n【色彩】\n\r\n永恒的旋律\n\r\n彩虹老湿\n\r\n兔牙\n\r\n【背景】\n\r\n海胆\n\r\n【音乐】\n\r\nSaulRobinson\n\r\n【UI】\n\r\n匣中猫\n\r\n【PV】\n\r\n匣中猫\n\r\n铭铭子\n\r\n【剧本】\n\r\nHの天平\n\r\n【演出】\n\r\nLaHee布雷亚\n\r\n缇坦妮雅的小裙子",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "冒险",
+    "休闲",
+    "独立",
+    "角色扮演",
+    "模拟"
+  ],
+  "tags": [
+    "冒险",
+    "休闲",
+    "独立",
+    "角色扮演",
+    "模拟"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "白露社"
+  ],
+  "publishers": [
+    "PeriScope Game"
+  ],
+  "release_date": "2020 年 1 月 2 日",
+  "platforms": [
+    "Windows",
+    "Mac"
+  ],
+  "supported_languages": [
+    "简体中文*\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 22.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统: WIN7 SP1/WIN8/WIN10\n处理器: i3 2GHz\n内存: 2 GB RAM\n显卡: GeForce GT 625M\n存储空间: 需要 1 GB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: WIN7 SP1/WIN8/WIN10\n处理器: i3 2GHz\n内存: 8 GB RAM\n存储空间: 需要 2 GB 可用空间",
+  "fetched_at": "2026-08-20T03:43:17Z",
+  "review_desc": "Very Positive",
+  "review_count": 2239,
+  "review_percentage": 94.6,
+  "review_score": 8
+}

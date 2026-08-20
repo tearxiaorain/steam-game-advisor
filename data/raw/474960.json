@@ -1,0 +1,54 @@
+{
+  "app_id": "474960",
+  "name": "Quantum Break",
+  "name_cn": "",
+  "short_description": "From Remedy Entertainment, the masters of cinematic action games, comes Quantum Break, a time-amplified suspenseful blockbuster. The Quantum Break experience is part game, part live action show—where decisions in one dramatically affect the other.",
+  "detailed_description": "In the aftermath of a split second of destruction that fractures time itself, two people find they have changed and gained extraordinary abilities. One of them travels through time and becomes hell-bent on controlling this power. The other uses these new abilities to attempt to defeat him – and fix time before it tears itself irreparably apart. Both face overwhelming odds and make dramatic choices that will determine the shape of the future. Quantum Break is a unique experience; one part hard-hitting video game, one part thrilling live action show, featuring a stellar cast, including Shawn Ashmore as the hero Jack Joyce, Aidan Gillen as his nemesis Paul Serene and Dominic Monaghan as Jack’s genius brother William. Quantum Break is full of the vivid storytelling, rich characters and dramatic twists Remedy Entertainment are renowned for. Your choices in-game will affect the outcome of this fast-paced fusion between game and show giving the player a completely unique entertainment experience.\n\r\n\n\r\nFEATURES:\n\r\n• In-depth, fast-paced narrative experience crafted by Remedy Entertainment\n\r\n• Top quality live action show that is directly impacted by choices made in-game\n\r\n• Stellar cast of actors\n\r\n• One story told many ways\n\r\n• Time-amplified action gameplay\n\r\n• Navigate epic scenes of destruction as they skip and rewind in broken time",
+  "description_lang_short": "en",
+  "description_lang_detail": "en",
+  "genres": [
+    "动作"
+  ],
+  "tags": [
+    "动作"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 云",
+    "在电视上远程畅玩",
+    "家庭共享"
+  ],
+  "developers": [
+    "Remedy Entertainment"
+  ],
+  "publishers": [
+    "Xbox Game Studios"
+  ],
+  "release_date": "2016 年 9 月 29 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语*",
+    "德语*",
+    "西班牙语 - 西班牙",
+    "日语",
+    "韩语",
+    "葡萄牙语 - 巴西*",
+    "俄语*",
+    "繁体中文",
+    "意大利语*\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 112.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows 7 - 64 bit\n处理器: Intel Core i5-4460, 2.70GHz or AMD FX-6300\n内存: 8 GB RAM\n显卡: NVIDIA GeForce GTX 760 or AMD Radeon R7 260x\nDirectX 版本: 11\n存储空间: 需要 68 GB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n操作系统: Windows 10 - 64 bit\n处理器: Intel Core i5 4690, 3.9GHz or AMD equivalent\n内存: 16 GB RAM\n显卡: NVIDIA GeForce GTX 970 or AMD Radeon R9 390\nDirectX 版本: 11\n存储空间: 需要 68 GB 可用空间",
+  "fetched_at": "2026-08-20T04:25:56Z",
+  "review_desc": "Very Positive",
+  "review_count": 30866,
+  "review_percentage": 85.6,
+  "review_score": 8
+}

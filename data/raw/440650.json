@@ -1,0 +1,66 @@
+{
+  "app_id": "440650",
+  "name": "Niche - a genetics survival game",
+  "name_cn": "",
+  "short_description": "《生态位》是一款融合了基因模拟元素的回合制策略游戏。运用真实的基因模拟来定制你的动物族群，包含猫、狐、狸、熊、狗等多种类型。保护他们在各种环境和条件中存活，包括但不限于凶猛的野兽、多变的气候，以及传染病的威胁。",
+  "detailed_description": "《生态位》是一款融合了基因模拟元素的回合制策略游戏。运用真实的基因模拟来定制你的动物族群，包含猫、狐、狸、熊、狗等多种类型。保护他们在各种环境和条件中存活，包括但不限于凶猛的野兽、多变的气候，以及传染病的威胁。主要特性：生存考验。在多变的环境中测试你的生存能力。\n基于真实遗传学的配种系统。\n提供超过100种基因来塑造你的物种。 \n随机生成的世界和物种。\n探索五个生物群种、不同特征的猎食者、猎物和植物群。\n受群体遗传学启发的游戏机制。\n教育方面：在游玩《生态位》时，玩家可以领略到各种遗传学的科学机制。本游戏融合了群体遗传学的五大支柱（遗传漂变、遗传流、突变、自然选择和性选择），并以趣味游戏的方式将其展现出来。灵感来自：袍子（Spore）\n饥荒 （Don’t Starve）\nThe Creatures系列\nWarrior Cats系列",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "独立",
+    "模拟",
+    "策略"
+  ],
+  "tags": [
+    "独立",
+    "模拟",
+    "策略"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "Steam 集换式卡牌",
+    "视角舒适度",
+    "自定义音量控制",
+    "可调整难度",
+    "无需应对快速反应事件",
+    "随时保存",
+    "立体声",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "Stray Fawn Studio"
+  ],
+  "publishers": [
+    "Stray Fawn Publishing",
+    "WhisperGames"
+  ],
+  "release_date": "2017 年 9 月 21 日",
+  "platforms": [
+    "Windows",
+    "Mac",
+    "Linux"
+  ],
+  "supported_languages": [
+    "英语*",
+    "德语*",
+    "法语*",
+    "西班牙语 - 西班牙*",
+    "葡萄牙语 - 巴西*",
+    "繁体中文*",
+    "简体中文*",
+    "俄语*",
+    "日语*",
+    "波兰语*\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 60.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows Vista®, Windows® 7, Windows® 8,  Windows® 10\n处理器: 2 GHz Dual Core\n内存: 4 GB RAM\n显卡: nVidia® 8800 GT / AMD® 4670 or faster\nDirectX 版本: 9.0c\n存储空间: 需要 2 GB 可用空间",
+  "pc_requirements_rec": "",
+  "fetched_at": "2026-08-20T04:26:23Z",
+  "review_desc": "Very Positive",
+  "review_count": 5223,
+  "review_percentage": 86.2,
+  "review_score": 8
+}

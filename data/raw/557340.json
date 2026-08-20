@@ -1,0 +1,59 @@
+{
+  "app_id": "557340",
+  "name": "My Friend Pedro",
+  "name_cn": "我的朋友佩德罗",
+  "short_description": "我的朋友佩德罗是一场关于友情、幻想的血色芭蕾，讲述了一个男人如何在一个会说话的香蕉的引导下人挡杀人、佛挡杀佛。",
+  "detailed_description": "Play the New Game on Mobile\n\n关于游戏我的朋友佩德罗是一场关于友情、幻想的血色芭蕾，讲述了一个男人如何在一个会说话的香蕉的引导下人挡杀人、佛挡杀佛。通过战略性地使用分别瞄准、慢动作以及经典的破窗而入等战术动作，玩家可以打出一套接一套动感十足的场景，在嗜血暴力的地下世界大杀四方。\n\n通过对身体和准头的极致掌控，玩家得以毁天灭地：在空中翻滚旋转，同时双手瞄准主要敌人，或用一记完美的跳弹反射从身后撂倒毫无防备的歹徒。\n\n在肾上腺迸发的枪战和追杀之余，你还可以体验刺激的摩托追逐，或放慢脚步，试上几盘妙趣横生（同时暗藏杀机）的物理小谜题。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "独立"
+  ],
+  "tags": [
+    "动作",
+    "独立"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 云",
+    "Steam 排行榜",
+    "在手机上远程畅玩",
+    "在平板上远程畅玩",
+    "在电视上远程畅玩",
+    "家庭共享"
+  ],
+  "developers": [
+    "DeadToast Entertainment"
+  ],
+  "publishers": [
+    "Devolver Digital"
+  ],
+  "release_date": "2019 年 6 月 20 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语",
+    "法语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "日语",
+    "韩语",
+    "葡萄牙语 - 巴西",
+    "俄语",
+    "简体中文",
+    "繁体中文"
+  ],
+  "is_free": false,
+  "price_cny": 76.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统 *: Windows 7, 8, 8.1, 10 x64\n处理器: Intel Core i3-530 (2 * 2930) or equivalent\n内存: 4 GB RAM\n显卡: GeForce GT 440 (1024 MB)\n存储空间: 需要 4 GB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统 *: Windows 7, 8, 8.1, 10 x64\n处理器: Intel Core i3-4160 (2 * 3600) or equivalent\n内存: 4 GB RAM\n显卡: GeForce GTX 760 (2048 MB)\n存储空间: 需要 4 GB 可用空间",
+  "fetched_at": "2026-08-20T03:39:49Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 28446,
+  "review_percentage": 95.5,
+  "review_score": 9
+}

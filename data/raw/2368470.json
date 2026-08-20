@@ -1,0 +1,64 @@
+{
+  "app_id": "2368470",
+  "name": "An Arcade Full of Cats",
+  "name_cn": "",
+  "short_description": "穿梭于电竞游戏的时空，搜寻可爱的毛茸茸喵星人们。“电玩街机满是猫”，你的终极萌宠寻物游戏。",
+  "detailed_description": "准备好开启一段穿越时空的游戏旅程了吗？一切尽在“电玩街机满是猫”。和里奥还有佛菲欧一起探索满是喵星人的电玩街机时代！跨越1980年到2000年，看他们如何找到回到现代的路！\n\n在五种不同的情境中踏上一段寻找隐藏起来的喵星人们的征程，每种情境都代表了一种猫咪们对传统电玩街机的全新诠释。准备好和萌宠们一起玩耍了吗！\n\n“电玩街机满是猫”主要有以下特色：\n\n穿越时空的乐趣：探索一个被改写了的电玩街机时代，从怀旧1980再到迎接千禧年的曙光，由你来协助里奥和佛菲欧找到回家的路。\n\n找到隐藏的喵们：在五种与众不同的刺激情境中寻找毛绒绒的生物们，发掘意想不到的惊喜。\n\n“喵”玩街机：寻访经典的电玩街机，变装成超好玩的喵玩街机！\n\n准备好穿越时空并享受无穷无尽的寻喵之旅了吗？一切尽在“电玩街机满是猫”。你的终极萌宠游戏，我们向电玩街机时代的致敬。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "休闲",
+    "独立",
+    "免费开玩"
+  ],
+  "tags": [
+    "休闲",
+    "独立",
+    "免费开玩"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "Steam 云",
+    "Steam 排行榜",
+    "家庭共享"
+  ],
+  "developers": [
+    "Devcats"
+  ],
+  "publishers": [
+    "Devcats"
+  ],
+  "release_date": "2023 年 11 月 16 日",
+  "platforms": [
+    "Windows",
+    "Linux"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语",
+    "意大利语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "荷兰语",
+    "日语",
+    "韩语",
+    "波兰语",
+    "葡萄牙语 - 巴西",
+    "俄语",
+    "简体中文",
+    "西班牙语 - 拉丁美洲",
+    "繁体中文",
+    "土耳其语",
+    "乌克兰语\n*具有完全音频支持的语言"
+  ],
+  "is_free": true,
+  "price_cny": 0.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统 *: Windows 7\n处理器: Requires a 64-bit processor and operating system\n内存: 1 GB RAM\n显卡: 512 MB display memory\n存储空间: 需要 350 MB 可用空间\n声卡: DirectSound-compatible sound card",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统",
+  "fetched_at": "2026-08-20T04:11:23Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 8084,
+  "review_percentage": 98.3,
+  "review_score": 9
+}

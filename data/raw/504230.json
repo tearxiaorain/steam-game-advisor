@@ -1,0 +1,67 @@
+{
+  "app_id": "504230",
+  "name": "Celeste",
+  "name_cn": "",
+  "short_description": "《Celeste》是《TowerFall》的制作者推出的又一力作。这款平台游戏节奏极为紧凑，玩家需要在 Madeline 攀登塞莱斯特山 (Celeste Mountain) 的旅程中，帮助她克服内心深处的恐惧。勇敢面对数百个手工打造的挑战场景，揭开诡异的秘密，解开神秘山峰的谜团吧。",
+  "detailed_description": "《Celeste》是经典多人游戏《TowerFall》的制作者推出的又一力作。这款手工打造的平台游戏节奏极为紧凑，玩家需要在 Madeline 攀登塞莱斯特山 (Celeste Mountain) 的旅程中，帮助她克服内心深处的恐惧。\n\n这是一段单人冒险旅程，由像妈妈口吻一样的叙事推动，其中有魅力非凡的角色和关于自我发现的感人故事待玩家发现\n对于这条宏伟的山脉，设计者设置了超过 700 个场景的硬核平台挑战，其中还有众多诡异的秘密供探索\n残酷的隐藏故事线只为最勇敢的登山者打造，等待着玩家解锁\n独立游戏节 (IGF)“卓越音效奖”入围作品，包含超过 2 小时的原创音乐，超炫的现场钢琴和富有节奏感的合成节拍令人耳目一新\n馅饼\n游戏控制简单，上手容易，只需跳跃、空中突进和攀登即可，但若想掌握高超的技巧成为大师也绝非易事，玩家需要从每一次失败中吸取教训，不断进步。光速重生将助您勇攀高峰，挑战千难万险，解开神秘山峰的谜团。\n\n就是这样，Madeline。保持呼吸。你能行。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "冒险",
+    "独立"
+  ],
+  "tags": [
+    "动作",
+    "冒险",
+    "独立"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "DUALSHOCK 控制器支持",
+    "DUALSHOCK 控制器支持",
+    "DualSense 控制器支持",
+    "DualSense 控制器支持",
+    "Steam 云",
+    "在手机上远程畅玩",
+    "在平板上远程畅玩",
+    "在电视上远程畅玩",
+    "家庭共享"
+  ],
+  "developers": [
+    "Maddy Makes Games Inc.",
+    "Extremely OK Games, Ltd."
+  ],
+  "publishers": [
+    "Maddy Makes Games Inc."
+  ],
+  "release_date": "2018 年 1 月 25 日",
+  "platforms": [
+    "Windows",
+    "Mac",
+    "Linux"
+  ],
+  "supported_languages": [
+    "英语",
+    "法语",
+    "意大利语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "日语",
+    "葡萄牙语 - 巴西",
+    "俄语",
+    "简体中文"
+  ],
+  "is_free": false,
+  "price_cny": 68.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows 7 or newer\n处理器: Intel Core i3 M380\n内存: 2 GB RAM\n显卡: Intel HD 4000\nDirectX 版本: 10\n存储空间: 需要 1200 MB 可用空间",
+  "pc_requirements_rec": "",
+  "fetched_at": "2026-08-20T03:36:04Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 145903,
+  "review_percentage": 97.4,
+  "review_score": 9
+}

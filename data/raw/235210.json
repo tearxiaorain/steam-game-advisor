@@ -1,0 +1,55 @@
+{
+  "app_id": "235210",
+  "name": "STRIDER™ / ストライダー飛竜®",
+  "name_cn": "",
+  "short_description": "《Strider》在全新的冒险中回归，在一个广大的世界中作快如闪电的横向动作游戏。下载在2月19日推出完整游戏，成为真正刺客。",
+  "detailed_description": "《Strider》在全新的冒险中回归，在一个广大的世界中作快如闪电的横向动作游戏。下载这款完整游戏，成为真正刺客。游戏特色终极忍者回归 – Strider飞龙是非常经典的第三人称动作游戏，为新一代玩家带来全新作品，飞龙与冥王Grand Master的战斗。\n快如闪电的战斗– 使用多种动作和武器来对付敌人，与此同时在游戏过程中感受巨大的游戏世界。\nPlasma Cyphers –都是坚不可摧的武器Plasma Cyphers，让玩家可以用各种行动方式来对付敌人，在道路上把敌人燃烧；甚至冻结他们，或要他们承受大量子弹等。\n无逢连接– 以忍者的速度和灵活的跳跃，攀爬和穿越游戏的广阔世界。同时亦会攀爬更高层面，遇上更多敌人。\n敌人设计– 创造出自动操控士兵；甚至巨大机械生物，作为Strider的敌人，让游戏充满挑战。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "冒险"
+  ],
+  "tags": [
+    "动作",
+    "冒险"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "Steam 云",
+    "Steam 排行榜",
+    "在电视上远程畅玩",
+    "家庭共享"
+  ],
+  "developers": [
+    "Double Helix Games",
+    "Capcom"
+  ],
+  "publishers": [
+    "Capcom"
+  ],
+  "release_date": "2014 年 2 月 19 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语",
+    "意大利语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "日语\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 78.0,
+  "pc_requirements_min": "最低配置:\n操作系统: Windows 10 / Windows 11\n处理器: Intel Core 2 Quad Q9550, 2.83GHz / AMD Phenom II X3 720, 2.8GHz  /  Intel(R) Core(TM) i3-8350K CPU @ 4.00GHz / AMD Ryzen 5 3400G with Radeon Vega Graphics 3.7GHz or higher\n内存: 8 GB RAM\n显卡: ATI Radeon HD 5770 / GeForce GTX 460  /  NVIDIA GeForce GTX 960 / Radeon (TM) RX 460 Series or higher\nDirectX 版本: 12\n网络: 宽带互联网连接\n存储空间: 需要 3700 MB 可用空间\n声卡: DirectX 9.0c Compatible\n附注事项: Integrated graphics solutions not supported. Controller recommended.",
+  "pc_requirements_rec": "",
+  "fetched_at": "2026-08-20T04:29:32Z",
+  "review_desc": "Very Positive",
+  "review_count": 4240,
+  "review_percentage": 80.6,
+  "review_score": 8
+}

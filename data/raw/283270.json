@@ -1,0 +1,49 @@
+{
+  "app_id": "283270",
+  "name": "Jagged Alliance 1: Gold Edition",
+  "name_cn": "",
+  "short_description": "Experience a true classic! This Gold edition includes the original Jagged Alliance plus the add-on Jagged Alliance: Deadly Games. Take a trip into retro land and learn why this is considered to be one the best turn-based games of all times.",
+  "detailed_description": "Jagged Alliance is a true legend of tactical turn-based Strategy! The Gold Edition includes Jagged Alliance and Jagged Alliance: Deadly Games.\n\nThe return of a real classic - for the first time on Steam! 20 years ago, Jagged Alliance made an impact and changed the strategy genre forever. Now you can experience this legend in its glorious original form.\n\nA desperate call for help from the island Metavira: The scientist Jack Richards and his lovely daughter Brenda are reaching out to you. The Fallow trees and thus the precious, medical sap on which countless of lives depend, are under the control of the evil and traitorous Santino. That’s why Jack and Brenda hire you, the commander of a mercenary force, to put an end to Santino's insane plans.\n\nYou and your mercenaries have to reclaim the island sector by sector, turn by turn. Cultivate the Fallow Trees and process their juices, as they are the basis for your funding. Hire better mercenaries, train local militias and manage your equipment wisely. Get your troops out there and help the people of Metavira!\n\nExperience a true classic\n60 mercenaries, 60 attitudes, 60 voices\nLots of authentic weapons and equipment\nIntense turn-based combat\nNon-linear gameplay\nHigh replay value",
+  "description_lang_short": "en",
+  "description_lang_detail": "en",
+  "genres": [
+    "动作",
+    "角色扮演",
+    "策略"
+  ],
+  "tags": [
+    "动作",
+    "角色扮演",
+    "策略"
+  ],
+  "categories": [
+    "单人",
+    "多人",
+    "家庭共享"
+  ],
+  "developers": [
+    "Sir-Tech",
+    "Madlab Software"
+  ],
+  "publishers": [
+    "THQ Nordic"
+  ],
+  "release_date": "2014 年 4 月 23 日",
+  "platforms": [
+    "Windows",
+    "Mac",
+    "Linux"
+  ],
+  "supported_languages": [
+    "英语*\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 36.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows XP /Vista/7\n处理器: 1 GHz\n内存: 16 MB RAM\n显卡: 3D graphics card compatible\nDirectX 版本: 7.0\n存储空间: 需要 1200 MB 可用空间",
+  "pc_requirements_rec": "",
+  "fetched_at": "2026-08-20T04:28:26Z",
+  "review_desc": "Mostly Positive",
+  "review_count": 512,
+  "review_percentage": 78.3,
+  "review_score": 6
+}

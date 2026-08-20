@@ -1,0 +1,49 @@
+{
+  "app_id": "1134710",
+  "name": "NIMBY Rails",
+  "name_cn": "",
+  "short_description": "Design and run your own railroads for the real world. Solve global transportation dilemmas. Unleash your inner railway engineer and transit policy manager.",
+  "detailed_description": "Steam WorkshopDownload mods made by the player community in the NIMBY Rails Depot.\n\nAbout the GameNIMBY Rails is a management sandbox for railways you build in the real world. Design train tracks, set up lines, and get that stock rolling to make money and serve the needs of the population. Do you have strong opinions on rail projects and want to test your own ideas? This game was made for you.\n\n The world is your canvas. Design and play on a fully detailed real world map with 1cm resolution. A rail link from Lisbon to Shanghai? Anchorage to Buenos Aires? Cape Town to Rabat? Why not!\n Your tracks will need to respect real, existing roads and streets. Too many crossings may make your designs not viable.\n Streamlined circulation mechanics so you don't get bogged down by the details. Build and run a large network easily.\n Only as complex as you want it. Easily build stations with automatic double track and automatic entrance/exit signaling, and link them in a couple clicks with automatic double tracks.\n But do you have your own ideas about signals? Want to dive into detailed station design? Have a flying junction concept you are dying to test? Just disable the automatic aids in the track editor and individually control every every track, signal and building if you desire to do so.\n Trams, subways, commuter, regional and high speed trains. Tunnels, viaducts and ground tracks with a variety trade offs on the environment, train speed, and your company wallet.\n Simulated train and station demand, down to simulating individual passengers. Passengers can, and will, engage in train trips that make them board multiple trains, waiting in transfer stations.\n Demand flow based on time of day and time of week, with time zone support. Find it boring when night time comes and the stations are deserted? No problem, start a new line ten time zones away.\n Passengers will continuously rate their experience based on the trip time and the fares you impose on them, with effects on the demand of the stations they visit.\n Single player and offline first.\n Optional cooperative multiplayer: build together in real time with friends and others you invite to your hosted server session.",
+  "description_lang_short": "en",
+  "description_lang_detail": "en",
+  "genres": [
+    "模拟",
+    "抢先体验"
+  ],
+  "tags": [
+    "模拟",
+    "抢先体验"
+  ],
+  "categories": [
+    "单人",
+    "多人",
+    "合作",
+    "在线合作",
+    "Steam 创意工坊",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "Weird and Wry"
+  ],
+  "publishers": [
+    "Weird and Wry"
+  ],
+  "release_date": "2021 年 1 月 26 日",
+  "platforms": [
+    "Windows",
+    "Linux"
+  ],
+  "supported_languages": [
+    "英语"
+  ],
+  "is_free": false,
+  "price_cny": 77.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10 64bit\n处理器: Dual core, 2 Ghz+\n内存: 8 GB RAM\n显卡: Intel HD 5000\nDirectX 版本: 11\n存储空间: 需要 55 GB 可用空间\n附注事项: Installing in FAT32 is not supported.",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10 64bit\n处理器: Quad core, 4 Ghz+\n内存: 16 GB RAM\n显卡: AMD GCN, Nvidia Pascal, 4GB or more of VRAM\nDirectX 版本: 11\n存储空间: 需要 55 GB 可用空间\n附注事项: Install in SSD for the best experience",
+  "fetched_at": "2026-08-20T04:05:01Z",
+  "review_desc": "Very Positive",
+  "review_count": 2290,
+  "review_percentage": 89.7,
+  "review_score": 8
+}

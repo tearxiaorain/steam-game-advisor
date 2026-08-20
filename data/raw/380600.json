@@ -1,0 +1,76 @@
+{
+  "app_id": "380600",
+  "name": "Fishing Planet",
+  "name_cn": "",
+  "short_description": "Fishing Planet® 是一款高度真实的第一人称在线多人钓鱼模拟器。由热爱钓鱼的开发者打造，旨在为您在 PC 上带来真实垂钓的完整刺激体验。 免费游玩，只需下载即可开始！",
+  "detailed_description": "刚刚更新\n\nBack to Basics - First Levels Rework is LIVE, and it’s the perfect time to rediscover Fishing Planet all over again!\n\nLone Star Lake has been completely reworked from the ground up, and that’s just the beginning. This update also brings plenty of improvements to other locations, along with a variety of gameplay enhancements across the game. Anglers now finally have their own home with the Trophy Room to show off their great catches!\n\nBack to Basics is  our way of taking everything we’ve learned over the years and using it to create a better experience for both new and seasoned Anglers alike. We hope you enjoy exploring these refreshed waterways, new missions, and all the improvements, while we continue implementing your feedback and helping Fishing Planet grow and evolve.\n\n关于游戏Fishing Planet® 是一款高度真实的第一人称在线多人钓鱼模拟器。由热爱钓鱼的开发者打造，旨在为您在 PC 上带来真实垂钓的完整刺激体验。\n\n所有平台均可免费游玩，只需下载即可开始！\n\n与其他玩家同船一起垂钓。我们的海洋钓鱼游艇可同时容纳 2–5 位好友。\n\n创建您自己的钓鱼俱乐部，并在聊天中交流，分享经验、技巧并结交朋友。\n\n在活动和比赛中与其他玩家在线竞争，争夺个人分数、成就、排行榜名次和顶尖玩家榜单。\n\n屏幕上的高度真实钓鱼世界：300 多种鱼类，拥有由 AI 驱动的复杂行为，会根据季节、气候、一天中的时间、水流、底质、水温和气温、风力等因素发生变化。\n\n27 个风景优美的水道，拥有来自世界各地的照片级真实画面，并具备各自的气候条件、景观、底部地形和植被。所有水域都基于真实地点打造。\n\n淡水和海水钓鱼，包括浮钓、路亚、底钓和拖钓，每种钓法都有各自的特点，带来真实而沉浸的体验。\n\n数千种钓具和拟饵组合，具备独特的物理和水动力特性，带来真实的咬口表现。每种鱼都会根据现实中的行为方式进行攻击和搏斗。\n\n每日任务每天为您带来全新的钓鱼挑战，并提供额外经验值和游戏货币作为奖励。\n\n钓手之家可让玩家自由走动，宽敞的奖杯室则可展示您最出色的渔获和成就。\n\n1000 多种排行榜组合，让您按不同参数展开竞争，并每周、每月、每年获得珍贵奖励。\n\n动态天气——昼夜交替、季节变化、不同天气状况（雨、雾、晴朗阳光），以及海洋风暴。\n\n动态水面画面会根据风、水流和深度发生变化。水花、波浪和涟漪共同营造出完全真实的钓鱼体验。沉浸式环境音效进一步提升玩家体验。\n\n手动和脚踏皮划艇、普通和充气摩托艇，以及鲈钓艇，每种船只都拥有独特的速度、耐久度、参数和功能。\n\n海洋钓鱼游艇配备用于拖钓的竿架以及可容纳大型海洋渔获的鱼舱。这些游艇搭载独特的 Fish Finder 360 技术，帮助您在广阔海洋中定位鱼群。\n\n加入 Fishing Planet® 的终极钓鱼冒险，体验目前最真实、最具沉浸感的钓鱼模拟器！",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "大型多人在线",
+    "模拟",
+    "体育",
+    "免费开玩"
+  ],
+  "tags": [
+    "大型多人在线",
+    "模拟",
+    "体育",
+    "免费开玩"
+  ],
+  "categories": [
+    "单人",
+    "多人",
+    "大型多人在线",
+    "玩家对战",
+    "线上玩家对战",
+    "合作",
+    "在线合作",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "应用内购买",
+    "DUALSHOCK 控制器支持",
+    "DUALSHOCK 控制器支持",
+    "DualSense 控制器支持",
+    "DualSense 控制器支持",
+    "在电视上远程畅玩",
+    "家庭共享"
+  ],
+  "developers": [
+    "Fishing Planet LLC"
+  ],
+  "publishers": [
+    "Fishing Planet LLC"
+  ],
+  "release_date": "2017 年 8 月 28 日",
+  "platforms": [
+    "Windows",
+    "Mac",
+    "Linux"
+  ],
+  "supported_languages": [
+    "英语",
+    "法语",
+    "德语",
+    "波兰语",
+    "俄语",
+    "乌克兰语",
+    "西班牙语 - 西班牙",
+    "荷兰语",
+    "葡萄牙语 - 巴西",
+    "简体中文",
+    "意大利语",
+    "繁体中文",
+    "日语"
+  ],
+  "is_free": true,
+  "price_cny": 0.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10\n处理器: Intel Core i3-10100 or AMD Ryzen 3 3100\n内存: 8 GB RAM\n显卡: NVIDIA GeForce GTX 1050/AMD Radeon RX 570 or higher\nDirectX 版本: 12\n网络: 宽带互联网连接\n存储空间: 需要 14 GB 可用空间\n附注事项: External mouse or compatible XBOX/PlayStation controller required",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 11\n处理器: Intel Core i7-12700 or AMD Ryzen 7 7700\n内存: 16 GB RAM\n显卡: NVIDIA GeForce RTX 4060 or AMD Radeon RX 7700 XT\nDirectX 版本: 12\n网络: 宽带互联网连接\n存储空间: 需要 14 GB 可用空间\n附注事项: External mouse or compatible XBOX/PlayStation controller required",
+  "fetched_at": "2026-08-20T04:27:30Z",
+  "review_desc": "Very Positive",
+  "review_count": 76949,
+  "review_percentage": 86.8,
+  "review_score": 8
+}

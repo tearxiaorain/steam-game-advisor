@@ -1,0 +1,63 @@
+{
+  "app_id": "960910",
+  "name": "Heavy Rain",
+  "name_cn": "暴雨",
+  "short_description": "经历一场千回百转，扣人心弦的心理惊悚之旅。玩家将追查一名谋杀犯，唯一掌握的信息便是折纸杀手这个名字。游戏的四名角色都追寻着其各自的线索，玩家必须不惜一切阻止这名杀手将魔爪伸向新的受害者。",
+  "detailed_description": "为了心爱之人，您愿怎样牺牲？\n经历一场千回百转，扣人心弦的心理惊悚之旅。经过四天的推理和怀疑，目标已被锁定为一名叫做折纸杀手的嫌疑人——这个名字是因为其总是在犯罪现场留下折纸的犯罪标记。游戏中的四名角色有着各自的目的，追寻着各自的线索，玩家必须不惜一切阻止这名杀手将魔爪伸向新的受害者。\n\n您必须快速思考并采取快速的行动，因为您所进行的每个选择和行动都将导致戏剧化的游戏结果：甚至决定人的生存……或者死亡。\n\n这个故事的结局将完全掌握在您的手中。\n\n四名角色，四个视角屡获殊荣的故事剧情将使您置身于四名角色的故事当中，遵循他们各自的线索，各自搜寻同一名失踪对象。便于上手的直观游戏操控并未限制于传统游戏的框架，游戏中简单的HUD使您得以深入沉浸于剧情之中，无论是手柄还是键鼠都能轻松游玩。针对PC端的全面优化《暴雨》——这款经典作品在PC端上拥有惊人的画面效果，包括4K的分辨率以及60帧的帧率表现。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "冒险"
+  ],
+  "tags": [
+    "动作",
+    "冒险"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "Quantic Dream"
+  ],
+  "publishers": [
+    "Quantic Dream"
+  ],
+  "release_date": "2020 年 6 月 18 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语*",
+    "意大利语*",
+    "德语*",
+    "西班牙语 - 西班牙*",
+    "丹麦语",
+    "荷兰语*",
+    "芬兰语",
+    "日语*",
+    "韩语",
+    "挪威语",
+    "波兰语*",
+    "葡萄牙语 - 葡萄牙*",
+    "俄语*",
+    "简体中文",
+    "瑞典语",
+    "繁体中文\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 68.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统 *: Windows 7 or later (64 bit)\n处理器: Intel Core i5-4430 @ 3.0 GHz or AMD FX-6300 @ 3.5 GHz\n内存: 4 GB RAM\n显卡: Nvidia GeForce GTX 660 with 2GB VRAM or AMD Radeon HD 7870 with 2GB VRAM\nDirectX 版本: 11\n存储空间: 需要 35 GB 可用空间\n附注事项: 720p, 30 FPS",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统 *: Windows 7 or later (64 bit)\n处理器: Intel Core i5-6600K @ 3.5GHz or AMD Ryzen 3 1300X @ 3.4GHz\n内存: 8 GB RAM\n显卡: Nvidia GeForce GTX 970 with 4GB VRAM or AMD Radeon R9 390 with 4GB VRAM\nDirectX 版本: 11\n存储空间: 需要 35 GB 可用空间\n附注事项: 1080p, 60 FPS",
+  "fetched_at": "2026-08-20T03:42:49Z",
+  "review_desc": "Very Positive",
+  "review_count": 30628,
+  "review_percentage": 85.7,
+  "review_score": 8
+}

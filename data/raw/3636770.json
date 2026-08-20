@@ -1,0 +1,68 @@
+{
+  "app_id": "3636770",
+  "name": "Servant of the Lake",
+  "name_cn": "",
+  "short_description": "开启你的新工作，成为神秘的Vanderboom宅邸的仆人吧。在Servant of the Lake中解开谜题，侍奉家族，并揭开他们阴暗的炼金术秘密。Servant of the Lake是一款Rusty Lake即将推出的全新单人点击式解谜冒险游戏。",
+  "detailed_description": "欢迎来到Vanderboom宅邸，这里是臭名昭著的Vanderboom家族的居所！\n\n访客即将到来，而你需要立刻开始履行你的职责！\n\n解开各种谜题，完成每日任务，打理家务，迎接访客并确保他们的舒适，同时协助家族实现他们的在炼金术道路上的野心。\n\nServant of the Lake是Rusty Lake系列最新推出的点击式解谜冒险游戏，由Cube Escape系列游戏，The Past Within和 Underground Blossom的同班人马创作。\n\n游戏特色：\n\n    回归我们的根源 — Servant of the Lake是一款经典的单人Rusty Lake点击式解谜冒险，故事背景设定在Aldous Vanderboom和William Vanderboom时代臭名昭著的Vanderboom宅邸。\n\n解开超现实的谜题 — 任务将从简单的整理家族画像、洗衣服，到协助复杂的实验与收拾残局逐渐升级。\n\n揭开黑暗的叙事 — 经历发生在Rusty Lake: Roots数十年前的事件！  \n\n    作为Vanderboom宅邸的仆人，你可以探索宅邸的每个房间，同时确保家族得到妥善照料。你觉得自己能撑过这个周末吗？\n\n    沉浸式原声音乐— 由 Victor Butzelaar创作并演奏的萦绕心头的旋律，将在你完成日常任务时伴随左右。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "冒险",
+    "独立"
+  ],
+  "tags": [
+    "冒险",
+    "独立"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "Rusty Lake"
+  ],
+  "publishers": [
+    "Rusty Lake"
+  ],
+  "release_date": "2026 年 8 月 13 日",
+  "platforms": [
+    "Windows",
+    "Mac"
+  ],
+  "supported_languages": [
+    "英语",
+    "法语",
+    "意大利语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "捷克语",
+    "丹麦语",
+    "荷兰语",
+    "芬兰语",
+    "日语",
+    "韩语",
+    "波兰语",
+    "葡萄牙语 - 葡萄牙",
+    "罗马尼亚语",
+    "俄语",
+    "简体中文",
+    "瑞典语",
+    "繁体中文",
+    "土耳其语",
+    "乌克兰语",
+    "越南语",
+    "葡萄牙语 - 巴西",
+    "西班牙语 - 拉丁美洲"
+  ],
+  "is_free": false,
+  "price_cny": 24.75,
+  "pc_requirements_min": "最低配置:\n操作系统: Microsoft® Windows® 10 or later\n处理器: 2.4GHz Dual Core\n内存: 4 GB RAM\n存储空间: 需要 1 GB 可用空间",
+  "pc_requirements_rec": "",
+  "fetched_at": "2026-08-20T04:03:00Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 5094,
+  "review_percentage": 98.6,
+  "review_score": 9
+}

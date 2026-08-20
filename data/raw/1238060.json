@@ -1,0 +1,50 @@
+{
+  "app_id": "1238060",
+  "name": "Dead Space™ 3",
+  "name_cn": "",
+  "short_description": "共同消灭恐惧。",
+  "detailed_description": "与艾萨克·克拉克和约翰·卡佛中士穿越冰封星球塔瓦兰提斯的大地，探查并摧毁尸变体爆发的源头。为原材料和拾荒零件清理严酷的环境，打造终极自定义武器和求生工具——如果艾萨克和卡佛想要活着离开这个星球，它们将会派上用场。尸变体只是他们这次要面对的众多敌人中的一个而已。在这次任务中躲过雪崩、完成欺诈危险的冰川攀登、走过危机四伏的荒野、战胜得到了进化而更加致命的敌人，将全人类从即将到来的世界末日边缘拯救出来。\n\n主要特色\n\n组队合作，共战恐惧 - 在线合作或单人游戏均可体验完整战役。轻松加入和退出游戏。\n\n体验危机四伏的全新环境 - 前往星球边缘，探索地下城市并接受支线任务。探索冰冻地形，搜寻废弃的营地。\n\n踏上一场惊险的远征，拯救人类 - 揭示过去，发现尸变体的源头，为阻止人类灭绝而战。\n\n拾捡零件，打造您自己的武器 - 收集零件并制作独一无二的武器。组合、改装并升级您最喜爱的武器。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作"
+  ],
+  "tags": [
+    "动作"
+  ],
+  "categories": [
+    "单人",
+    "多人",
+    "合作",
+    "在线合作",
+    "Steam 成就",
+    "Steam 集换式卡牌"
+  ],
+  "developers": [
+    "Visceral Games"
+  ],
+  "publishers": [
+    "Electronic Arts"
+  ],
+  "release_date": "2020 年 6 月 18 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语*",
+    "意大利语*",
+    "德语*",
+    "西班牙语 - 西班牙*",
+    "俄语\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 118.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: FOR (SP3), Vista (SP1) or WINDOWS 7\n处理器: 2.8 GHz processor or equivalent\n内存: 1 GB RAM\n显卡: NVIDIA GeForce 6800 or better (7300, 7600 GS, and 8500 are below minimum system requirements), ATI X1600 Pro or better (X1300, X1300 Pro and HD2400 are below minimum system requirements), 256MB Video Card and Shader Model 3.0 required\nDirectX 版本: 9.0c\n网络: 宽带互联网连接\n存储空间: 需要 10 GB 可用空间\n附注事项: Please note that attempting to play the game using video hardware that isn’t listed above may result in reduced performance, graphical issues or cause the game to not run at all.",
+  "pc_requirements_rec": "",
+  "fetched_at": "2026-08-20T04:17:54Z",
+  "review_desc": "Mostly Positive",
+  "review_count": 14900,
+  "review_percentage": 72.5,
+  "review_score": 6
+}

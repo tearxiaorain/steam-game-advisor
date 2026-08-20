@@ -1,0 +1,61 @@
+{
+  "app_id": "648800",
+  "name": "Raft",
+  "name_cn": "",
+  "short_description": "Raft™ throws you and your friends into an epic oceanic adventure! Alone or together, players battle to survive a perilous voyage across a vast sea! Gather debris, scavenge reefs and build your own floating home, but be wary of the man-eating sharks!",
+  "detailed_description": "By yourself or with friends, your mission is to survive an epic oceanic adventure across\na perilous sea! Gather debris to survive, expand your raft and set sail towards forgotten and dangerous islands! \n\nTrapped on a small raft with nothing but a hook made of old plastic, players awake on a vast,\nblue ocean totally alone and with no land in sight! With a dry throat and an empty stomach,\nsurvival will not be easy!\n\nRaft™ throws you and your friends into an epic adventure out on the big open sea, with the\nobjective to stay alive, gather resources and build yourself a floating home worthy of\nsurvival.\n\nResources are tough to come by at sea: Players will have to make sure to catch whatever debris floats by using their trusty hook and when possible, scavenge the reefs beneath the waves and the islands above.\nHowever, thirst and hunger is not the only danger in the ocean… watch out for the man-\neating shark determined to end your voyage!\n\nFind the last parts of civilization still above water. Overcome the challenges therein, uncover the story of its previous inhabitants and find your way to the next destination!\n\nFeatures:\n● Multiplayer! Survive by yourself or with friends in online co-op!\n● Hook! Use your hook to catch debris floating by.\n● Craft! Build survival equipment, weapons, crop plots and more to help you stay alive!\n● Build! Expand your raft from a simple wreckage to a buoyant mansion.\n● Research! Learn new things to craft in the research table.\n● Navigate! Sail your raft towards new destinations and overcome their challenges, uncover their story and find new items to help you on your journey!\n● Dive! Drop anchor and explore the depths for more resources.\n● Fight! Defend your raft from the dangers of the ocean and fight your way through perilous destinations.\n● Farm and cook! Grow crops, catch and tend to animals, cook recipes and make tasty smoothies to keep your stomach happy.",
+  "description_lang_short": "en",
+  "description_lang_detail": "en",
+  "genres": [
+    "冒险",
+    "独立",
+    "模拟"
+  ],
+  "tags": [
+    "冒险",
+    "独立",
+    "模拟"
+  ],
+  "categories": [
+    "单人",
+    "多人",
+    "合作",
+    "在线合作",
+    "Steam 成就",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "Redbeet Interactive"
+  ],
+  "publishers": [
+    "Axolot Games"
+  ],
+  "release_date": "2022 年 6 月 20 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语",
+    "意大利语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "日语",
+    "韩语",
+    "波兰语",
+    "葡萄牙语 - 巴西",
+    "俄语",
+    "简体中文",
+    "瑞典语\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 77.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统 *: Windows 7 or later\n处理器: Intel Core i5 2.6GHz or similar\n内存: 6 GB RAM\n显卡: GeForce GTX 700 series or similar\nDirectX 版本: 11\n网络: 宽带互联网连接\n存储空间: 需要 10 GB 可用空间\n附注事项: 64-bit operating system is required",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统 *: Windows 7 or later\n处理器: Intel Core i5-6600 3.3GHz or similar\n内存: 8 GB RAM\n显卡: GeForce GTX 1050 series or similar\nDirectX 版本: 11\n网络: 宽带互联网连接\n存储空间: 需要 10 GB 可用空间\n附注事项: 64-bit operating system is required",
+  "fetched_at": "2026-08-20T04:23:49Z",
+  "review_desc": "Very Positive",
+  "review_count": 377246,
+  "review_percentage": 93.0,
+  "review_score": 8
+}

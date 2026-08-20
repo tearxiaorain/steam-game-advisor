@@ -1,0 +1,49 @@
+{
+  "app_id": "1902710",
+  "name": "Weird RPG",
+  "name_cn": "奇怪的RPG",
+  "short_description": "侧重Boss战的高难度、快节奏动作ARPG游戏。玩家身为已死之人被召到乐园，踏上了拯救灾难的无限世界之旅，而乐园的秘密也随之浮现......",
+  "detailed_description": "关注我们官方交流1群：1029152708 \n官方交流2群：650967984\n官方交流3群：766046232\n官方交流4群：552070747\n官方交流5群：619224500\n官方交流6群：761707589(已满）\n\n关于游戏《奇怪的RPG》是一款侧重Boss战的高难度、快节奏动作RPG游戏，个人开发完成。\n游戏主线流程会经历超过十场非常有挑战性的Boss战。\n\n游戏特色\n\n极具创意的武器\n脑洞大开的各式武器，每种武器拥有完全不同的特殊效果，声控法杖、显卡双刀...挑战无限可能。\n\n快速反应的战斗系统\n无论玩家处于僵直状态还是攻击后摇，都可以通过翻滚快速调整战斗位置。\n\n高难度boss战\nBoss一招一式都充满威胁,需要熟悉敌人的攻击规律才有机会击败它,另外切记时刻走位翻滚。\n\n奇妙丰富的无限世界\n穿越到不同的世界去战斗，完成不一样的挑战，面对各种强敌，体验无限世界的冒险之旅。\n\n关于开发者\n受到只狼和哈迪斯的影响,游戏的战斗节奏结合了哈迪斯的快速反应和只狼的高难度。\n战斗方式主要依赖翻滚躲避敌人攻击，在敌人攻击间隙找到机会反击。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "冒险",
+    "角色扮演"
+  ],
+  "tags": [
+    "动作",
+    "冒险",
+    "角色扮演"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "yuzhen"
+  ],
+  "publishers": [
+    "yuzhen"
+  ],
+  "release_date": "2022 年 9 月 30 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "简体中文",
+    "英语"
+  ],
+  "is_free": false,
+  "price_cny": 38.0,
+  "pc_requirements_min": "最低配置:\n操作系统: Windows 10 x64\n处理器: Intel Core i5-8250U (4 * 1800) or equivalent; AMD Phenom II X4 965 (4 * 3400) or equivalent\n内存: 8 GB RAM\n显卡: GeForce MX 150 ( 2048 MB); Radeon R7 260X (2048 MB)\n存储空间: 需要 5 GB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n操作系统: Windows 10 x64\n处理器: Intel Core i5-4670K (4 * 3400) or equivalent; AMD FX-8350 (8 * 4700) or equivalent\n内存: 8 GB RAM\n显卡: GeForce GTX 1050 ( 2048 MB); Radeon RX 580 (8192 MB)\n存储空间: 需要 5 GB 可用空间",
+  "fetched_at": "2026-08-20T04:13:27Z",
+  "review_desc": "Very Positive",
+  "review_count": 4237,
+  "review_percentage": 92.0,
+  "review_score": 8
+}

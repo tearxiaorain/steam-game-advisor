@@ -1,0 +1,61 @@
+{
+  "app_id": "1971650",
+  "name": "OCTOPATH TRAVELER II",
+  "name_cn": "歧路旅人 II",
+  "short_description": "2018年发售的“歧路旅人”在全球实体加线上累计销量超过300万部。本作为“歧路旅人”系列的新作RPG，内容全新。 在本作中，像素风格与3DCG所融合的“HD-2D”画面表现会全面升级。",
+  "detailed_description": "Reviews and Accolades\n\n歧路旅人 II 序章体验版\n可以继承保存数据的“免费体验版”登场！\n虽然体验版中仅能游玩序章的故事，但不仅与正式版一样“可以选择８位主角中的任意角色”，而且只要在“3小时”以及“序章区域”的范围之内，要前往何方，要如何行动，全是你的自由！\n\n关于游戏\n故事发生在一个东西大陆隔海相望的地域，\n那里被称为“索里苏提亚”。\n\n这是一个开拓新航线，巨轮频繁往来，\n使用蒸汽新技术的发明不断涌现的时代。\n\n这是一个既有人为辉煌发展的工业及文化雀跃不已，\n又有人因战乱、疾病和贫困泪流不止的世界。\n\n八位旅行者，\n无论是家乡、志向还是绝技都截然不同。\n而你，可以作为他们当中的一人，\n自由地翱翔于世界。\n\n敢问路在何方？启程去创造只属于你自己的传说——■特征新登场的八位旅行者无论是家乡、志向还是绝技都截然不同。选择其中一人作为主角，踏上你的冒险之旅吧。\n在本作中，像素风格与3DCG所融合的“HD-2D”画面表现会全面升级。\n故事发生在名为“索里苏提亚”大地的区域。那里被大海分割为东西两大陆，各种文化百花齐放，新时代工业也遍地开花。在这里昼与夜会呈现不一样的相貌，尽情地去探索每一个角落吧。\n不同的主角会使用不一样的“地图指令”，使用后或者与镇上的人进行战斗，或者一起旅行，或者从他们那里获取道具……要去往何方，要如何行动——这一切都由你来决定。\n培育角色也很自由，可随意组合不同职业与技能。在前作破防&增幅的痛快运筹模式的基础上，还加入了本作特有的，新的系统。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "角色扮演"
+  ],
+  "tags": [
+    "角色扮演"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "视角舒适度",
+    "可选颜色",
+    "自定义音量控制",
+    "可以仅用键盘",
+    "#category_playable_at_your_own_pace",
+    "无需应对快速反应事件",
+    "立体声",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "Square Enix",
+    "ACQUIRE Corp."
+  ],
+  "publishers": [
+    "Square Enix"
+  ],
+  "release_date": "2023 年 2 月 24 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语",
+    "意大利语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "日语*",
+    "韩语",
+    "简体中文",
+    "繁体中文\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 198.0,
+  "pc_requirements_min": "最低配置:\n操作系统: Windows® 10 / 11 64-bit\n处理器: AMD Ryzen™ 3 1200 / Intel® Core™ i3-6100\n内存: 8 GB RAM\n显卡: AMD Radeon™ RX 460 / NVIDIA® GeForce® GTX 750\nDirectX 版本: 12\n存储空间: 需要 10 GB 可用空间\n附注事项: 60 FPS @ 1280x720, Preset \"Low\", 2GB VRAM required",
+  "pc_requirements_rec": "推荐配置:\n操作系统: Windows® 10 / 11 64-bit\n处理器: AMD Ryzen™ 3 1200 / Intel® Core™ i5-6400\n内存: 8 GB RAM\n显卡: AMD Radeon™ RX 470 / Intel® Arc™ A750 / NVIDIA® GeForce® GTX 1060 6GB VRAM\nDirectX 版本: 12\n存储空间: 需要 10 GB 可用空间\n附注事项: 60 FPS @ 1920x1080, Preset \"Highest\", Systen RAM 16GB required when running on Intel GPU",
+  "fetched_at": "2026-08-20T03:36:51Z",
+  "review_desc": "Very Positive",
+  "review_count": 17209,
+  "review_percentage": 93.2,
+  "review_score": 8
+}

@@ -1,0 +1,52 @@
+{
+  "app_id": "329050",
+  "name": "Devil May Cry 4 Special Edition",
+  "name_cn": "",
+  "short_description": "超华丽的Stylish Action游戏《DMC4》已回归，甚至比以往更好，增加新的操作角色和游戏模式。",
+  "detailed_description": "在这个《Devil May Cry 4 Special Edition》中追加五个可操作的角色，是究极版的Stylish Action游戏。\n\nDevil May Cry 4让玩家沉醉于哥德式的超自然世界之中；体验一个新主角与熟悉的英雄发生冲突的故事。玩家将操作新主角Nero，利用游戏独特的新系统-强大的「恶魔之手」释放令人难以置信的攻击和不间断的连续技。\n\n在大陆沿岸的城塞都市Fortuna，与周围国家都拥有一段距离，这条街有着与其他不同的文化和独立的宗教信仰。这个称为魔剑教团的宗教组织，推崇以前曾为人类而战的恶魔魔剑士Sparda为神，以驱除其他恶魔作为教义。可是在魔剑祭的日子中，突然出现的谜之男子Dante把教皇杀掉，同时在各地出现恶魔群。Nero被捲入事件并受教团之命追寻Dante，随着Nero接近Dante，教团的真正目的也开始明确。\n\n游戏特色\n三个可操作角色\nVergil是非常强大的技术型角色，所以新手也可以轻鬆使用。经验丰富的老手更能在掌握他的动作时进一步提高技能，适合任何人使用。\nLady, 首次可以操作的角色，专门使用远距离及强力的攻击。利用Kalina Ann火箭发射器、钩绳和令人敬畏的枪械，使她可以优雅且轻鬆地进行战斗。\nTrish利用恶魔之剑Sparda进行各种攻击组合，Sparda同时可以配合她的攻击，自动向敌人进行攻击。\nLegendary Dark Knight Mode\n同时与大量的敌人战斗，以得到额外的难度和最大的满足感。\n精緻的游戏性\n为游戏作出微调以改善游戏节奏，并为新玩家和老手玩家提供更好的体验。\n回归的特点\n溷合枪械与剑技\n讲究的连击组合系统来迎击敌人\n所有角色的武器装备和动作均不同",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作"
+  ],
+  "tags": [
+    "动作"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "CAPCOM Co., Ltd."
+  ],
+  "publishers": [
+    "CAPCOM Co., Ltd. "
+  ],
+  "release_date": "2015 年 6 月 23 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语",
+    "意大利语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "日语",
+    "简体中文",
+    "繁体中文\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 128.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows 7, Windows 8.1\n处理器: Intel(R) Core(TM) 2 Duo 2.4GHz, AMD Athlon(TM) X2 2.8 GHz\n内存: 2 GB RAM\n显卡: NVIDIA(R) GeForce(R) 8800 GTS, AMD Radeon(TM) HD 3850 with 512MB RAM or better\nDirectX 版本: 10\n存储空间: 需要 27 GB 可用空间\n声卡: DirectSound Support (DirectX® 9.0c)\n附注事项: Some high end integrated graphics and modern gaming laptops with a discrete GPU may work but have not been tested, nor are they officially supported by Capcom.",
+  "pc_requirements_rec": "推荐配置:\n操作系统 *: Windows 7, Windows 8.1 / Windows 11\n处理器: Intel(R) Core(TM) i3 3.0GHz, AMD FX-4100 3.6 GHz / Intel(R) Core(TM) i3-8350K, AMD Ryzen 7 2700\n内存: 2 GB RAM\n显卡: NVIDIA(R) GeForce(R) GTX 570, AMD Radeon(TM) HD 7790 / NVIDIA GeForce RTX 4060 Ti, Radeon RX Vega\nDirectX 版本: 12\n存储空间: 需要 27 GB 可用空间\n声卡: DirectSound Support (DirectX® 9.0c)\n附注事项: Some high end integrated graphics and modern gaming laptops with a discrete GPU may work but have not been tested, nor are they officially supported by Capcom.",
+  "fetched_at": "2026-08-20T03:41:11Z",
+  "review_desc": "Very Positive",
+  "review_count": 22253,
+  "review_percentage": 87.0,
+  "review_score": 8
+}

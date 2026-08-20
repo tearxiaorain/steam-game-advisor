@@ -1,0 +1,67 @@
+{
+  "app_id": "255300",
+  "name": "Journey of a Roach",
+  "name_cn": "",
+  "short_description": "Nuclear war, post apocalypse, barren and lifeless wastelands.Lifeless? Not so much!Mutated insects have made their home in a bomb shelter and they're set on exploring the world.Let this point&click adventure welcome you to a hilariously bizarre end time world and join the roaches Jim and Bud on their journey to the surface.",
+  "detailed_description": "Nuclear war, post apocalypse, barren and lifeless wastelands.\nLifeless? Not so much!\nMutated insects have made their home in a bomb shelter and they're set on exploring the world.\nLet this point&click adventure welcome you to a hilariously bizarre end time world and join the roaches Jim and Bud on their journey to the surface.\n\nJourney of a Roach tells the story of two roach-buddies, who want nothing but see the surface world.\nOn their way up, they meet all kinds of bizarre and ludicrous insects inhabiting the post-apocalyptic earth. In atmospheric 3D point&click adventure style you'll take control of Jim the roach through the bomb shelter, effortlessly crawling your way along walls and ceilings. This innovative and dynamic game mechanic creates opportunities for a wholly new puzzle design. Fondly designed speechballoons offer an unconventional new dialogue experience and the soundtrack delivers and atmospheric, post-apocalyptic mood.Key Features\nPoint&click Adventure in a unique environment\nCrawl along walls and ceilings, exploring secret underground \nInnovative controls create dynamic game mechanics\nAtmospheric 3D comic style world\nTwo charming, memorable protagonists with humorous, nonverbal means of communication",
+  "description_lang_short": "en",
+  "description_lang_detail": "en",
+  "genres": [
+    "冒险",
+    "独立"
+  ],
+  "tags": [
+    "冒险",
+    "独立"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "Koboldgames",
+    "Daedalic Entertainment"
+  ],
+  "publishers": [
+    "Daedalic Entertainment"
+  ],
+  "release_date": "2013 年 11 月 4 日",
+  "platforms": [
+    "Windows",
+    "Mac",
+    "Linux"
+  ],
+  "supported_languages": [
+    "英语",
+    "法语",
+    "意大利语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "阿拉伯语",
+    "捷克语",
+    "丹麦语",
+    "荷兰语",
+    "芬兰语",
+    "日语",
+    "挪威语",
+    "波兰语",
+    "葡萄牙语 - 巴西",
+    "俄语",
+    "瑞典语",
+    "土耳其语",
+    "繁体中文"
+  ],
+  "is_free": false,
+  "price_cny": 29.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows Vista/7\n处理器: 2.5 GHz (Single Core) or better\n内存: 2 GB RAM\n显卡: OpenGL 2.0 compatible with 256 MB RAM (shared memory not recommended)\nDirectX 版本: 9.0c\n存储空间: 需要 2500 MB 可用空间\n声卡: DirectX 9.0c compatible sound card and drivers\n附注事项: Keyboard, Mouse",
+  "pc_requirements_rec": "推荐配置:\n操作系统 *: Windows 7/8\n处理器: 2.5 GHz (Single Core) or better\n内存: 4 GB RAM\n显卡: OpenGL 2.0 compatible with 512 MB RAM (shared memory not recommended)\nDirectX 版本: 9.0c\n存储空间: 需要 2500 MB 可用空间\n声卡: DirectX 9.0c compatible sound card and drivers\n附注事项: Keyboard, Mouse, Microsoft XBox Controller",
+  "fetched_at": "2026-08-20T04:29:02Z",
+  "review_desc": "Very Positive",
+  "review_count": 2135,
+  "review_percentage": 89.4,
+  "review_score": 8
+}

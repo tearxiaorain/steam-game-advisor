@@ -1,0 +1,56 @@
+{
+  "app_id": "553640",
+  "name": "ICEY",
+  "name_cn": "",
+  "short_description": "《ICEY》是一款2D横版ACT+META游戏，跟随旁白的指示，通过ICEY的眼睛去看，去战斗并发掘在游戏中世界的真相。你可以通过对抗旁白的指示，思考何为游戏、何为真相等等命题。在游戏中，你扮演的是ICEY，而非“你自己”。当然你也可以扮演“你自己”，而非ICEY。 一切，由你决定。你，准备好了吗？",
+  "detailed_description": "《ICEY》是一款2D横版动作游戏，跟随旁白的指示，你将会通过ICEY的眼睛去看，去战斗并发掘在游戏中世界的真相。但其实，这也根本不是一款2D横版动作游戏，你也不会通过ICEY的眼睛去看，你也不会去探寻这个世界的真相。\n　　\n　　本质上说《ICEY》是一款Meta游戏，玩家需要通过对抗旁白的指示，思考何为游戏、何为真相等等命题。在《ICEY》中，你扮演的是ICEY，而非“你自己”。当然你也可以扮演“你自己”，而非ICEY。这是一个包裹着动作游戏外衣的陷阱。\n\n　　现在，就是你发掘其真正故事的时刻。\n\n　　ICEY，I SEE。\n\n·高速战斗： 高速移动，将敌人玩弄于股掌之中。 不能迟疑，当机立断进行攻击、反击或是闪避！ 这才是你的生存之道！ \n\n·华丽的连招系统： 操作简单，稍微练习即可打出华丽连击。 不同技能各有特性，灵活组合才能顺利过关。 \n\n·巨型Boss战： 众多超巨型Boss，充满压迫力的战斗场面。 Boss攻击方法多样，只有找出破绽才能化险为夷。 \n\n·Meta元素： 玩家在整个游戏进行中需结合旁白判断自己下一步的行动。 但是，通过对碎片信息的分析及整理，玩家会渐渐改变自己的行为及思考模式去进行游戏并探索其中真正的剧情及核心内容。 跟随指引，还是叛逆而为。\n\n一切，由你决定。你，准备好了吗？\t\n\n-Nominated, The Game Awards 2017 Best Chinese Game \n2017年The Game Awards最佳中文游戏提名\n\n-Nominated, Tokyo Game Show 2016 DENGEKI PlayStation Best Indie Game\n2016年东京电玩展《電擊PlayStation》最佳独立游戏提名 \n\n-Official Selection, 2016 Gamescom Indie Arena Booth \n2016年科隆电玩展独立游戏展示入选 \n\n-Most Promising Game 2nd Prize, Taipei Game Show 2016 \n2016年台北电玩展最受期待独立游戏第二名 \n\n-Official Selection, Casual Connect Asia 2016 \nCasual Connect Asia 2016 展示入围\n\n-Official Selection, IGF China 2015 \n2015年IGF中国展示入选 \n\n-Best Technology Award, Indieplay 2015 \n2015年IndiePlay最佳技术奖",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "冒险",
+    "角色扮演"
+  ],
+  "tags": [
+    "动作",
+    "冒险",
+    "角色扮演"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "Steam 云",
+    "统计数据",
+    "家庭共享"
+  ],
+  "developers": [
+    "FantaBlade Network"
+  ],
+  "publishers": [
+    "XD"
+  ],
+  "release_date": "2016 年 11 月 17 日",
+  "platforms": [
+    "Windows",
+    "Mac"
+  ],
+  "supported_languages": [
+    "英语*",
+    "简体中文*",
+    "繁体中文*",
+    "法语",
+    "日语*",
+    "西班牙语 - 西班牙\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 13.3,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows 7, Windows 8, or Windows 10\n处理器: Intel Core 2 Duo @ 2.00 GHz or equivalent\n内存: 2 GB RAM\n显卡: Intel® HD Graphics or better\n存储空间: 需要 6 GB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n操作系统 *: Windows 7, Windows 8, or Windows 10\n处理器: Intel Core 2 Duo @ 2.00 GHz or equivalent\n内存: 4 GB RAM\n显卡: NVIDIA GeForce GTX750\n存储空间: 需要 6 GB 可用空间",
+  "fetched_at": "2026-08-20T03:41:35Z",
+  "review_desc": "Very Positive",
+  "review_count": 27803,
+  "review_percentage": 89.9,
+  "review_score": 8
+}

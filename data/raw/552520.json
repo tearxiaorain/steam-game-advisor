@@ -1,0 +1,70 @@
+{
+  "app_id": "552520",
+  "name": "Far Cry® 5",
+  "name_cn": "",
+  "short_description": "在这款开放世界第一人称射击游戏中，挺身对抗狂热的邪教组织。你将投身激烈的战斗，解放敌对领地，招募忠诚的追随者与动物盟友，无论是单人作战还是双人联机，誓要解放希望郡。",
+  "detailed_description": "你必须深入蒙大拿州的核心地带，在这款开放世界第一人称射击游戏中，从约瑟夫·席德及其家族掌控的末日狂热邪教手中，彻底解放希望郡。火爆而震撼的血腥战斗\n你可以运用庞大的致命军械库，或通过致命的潜行击杀来对抗邪教。从标志性的近战武器铁锹到重型火箭发射器，利用你所能触及的一切工具，在血腥的战斗中瓦解“伊甸之门”。探索动态的开放世界\n无论是通过陆地、天空还是水路，尽情探索这片广袤的“穹苍之州”。你可以驾驶飞机展开激烈的空中缠斗，或是开着标志性的肌肉车、全地形越野车在农田间漂移。当你以自己的方式解放希望郡时，这个世界会针对你的一举一动做出实时反馈。招募你的小队\n绝不孤军奋战。你可以招募雇佣兵，他们都是精通战术支援的各路反抗军悍将；或是招募雇佣猛兽，让小狗“阿布”和巨熊“起司汉宝”为你侦察敌情、吸引火力并撕碎敌方小队。在多人合作中游玩完整战役\n无论是独自踏上这段旅程，还是与好友进行双人联机，你都能体验完整的游戏内容。协同你们的战术，共享军械库，共同夺回希望郡。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "冒险"
+  ],
+  "tags": [
+    "动作",
+    "冒险"
+  ],
+  "categories": [
+    "单人",
+    "多人",
+    "合作",
+    "在线合作",
+    "Steam 成就",
+    "Steam 集换式卡牌",
+    "支持字幕",
+    "应用内购买",
+    "部分支持控制器",
+    "包含关卡编辑器",
+    "可用 HDR"
+  ],
+  "developers": [
+    "Ubisoft Montreal",
+    "Red Storm",
+    "Ubisoft Shanghai",
+    "Ubisoft Toronto",
+    "Ubisoft Kiev"
+  ],
+  "publishers": [
+    "Ubisoft"
+  ],
+  "release_date": "2018 年 3 月 26 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语*",
+    "意大利语*",
+    "德语*",
+    "西班牙语 - 西班牙*",
+    "阿拉伯语",
+    "捷克语",
+    "荷兰语",
+    "日语*",
+    "韩语",
+    "波兰语",
+    "葡萄牙语 - 巴西*",
+    "俄语*",
+    "简体中文",
+    "繁体中文\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 298.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10 (64-bit versions only)\n处理器: Intel Core i5-2400 @ 3.1 GHz or AMD FX-6300 @ 3.5 GHz or equivalent\n内存: 8 GB RAM\n显卡: NVIDIA GeForce GTX 670 or AMD R9 270 (2GB VRAM with Shader Model 5.0 or better)\nDirectX 版本: 9.0c\n网络: 宽带互联网连接\n存储空间: 需要 40 GB 可用空间\n附注事项: Game contains EasyAntiCheat  anti-cheat technology, and Denuvo  and VMProtect  anti-tamper technology.",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10 (64-bit versions only)\n处理器: Intel Core i7-4770 @ 3.4 GHz or AMD Ryzen 5 1600 @ 3.2 GHz or equivalent\n内存: 8 GB RAM\n显卡: NVIDIA GeForce GTX 970 or AMD R9 290X (4GB VRAM with Shader Model 5.0 or better)\nDirectX 版本: 9.0c\n网络: 宽带互联网连接\n存储空间: 需要 40 GB 可用空间\n附注事项: Game contains EasyAntiCheat  anti-cheat technology, and Denuvo  and VMProtect  anti-tamper technology.",
+  "fetched_at": "2026-08-20T04:06:27Z",
+  "review_desc": "Very Positive",
+  "review_count": 188511,
+  "review_percentage": 81.1,
+  "review_score": 8
+}

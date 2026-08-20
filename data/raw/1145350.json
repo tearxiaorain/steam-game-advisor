@@ -1,0 +1,69 @@
+{
+  "app_id": "1145350",
+  "name": "Hades II",
+  "name_cn": "",
+  "short_description": "在冥界之外奋勇战斗，驾驭黑暗巫术，与时间泰坦一决高下。在这款屡获殊荣的类 Rogue 地城探索游戏的续作中，踏上一场摄人心魄的神话之旅。",
+  "detailed_description": "作为 Supergiant Games 的首款续作，这款游戏汲取了前作神话级类 rogue 地城探索游戏的精髓，扎根于希腊神话中的冥界和关于巫术的传说，注定会为你带来酣畅淋漓、无穷无尽的全新体验。\n\n在冥界之外奋勇战斗作为冥界王女，你将探索更为宏大深邃的神话世界，在奥林匹斯众神的鼎力相助下与时间泰坦抗衡。随着你的每一次失利、每一次成功，这个扣人心弦的故事也将逐渐展开……\n\n驾驭巫术与黑暗魔法为你的传奇暗夜武器注入远古的魔法，助你在冒险中无往不利。从阿波罗到宙斯，奥林匹斯众神都会赐你祝福，让你的力量再上一层楼。构建角色能力的可能性几近无限。 \n\n与（更多的）神明、幽灵和怪物相遇与众多完全配音的神奇角色相遇，其中既有很多新面孔，又有一些老朋友。通过一系列全新的互动方式与他们增进感情，并随着旅行的进展体验无数独特的故事。 \n\n每场冒险都独一无二随着你一次又一次深入变幻莫测的冥界，你会发现新的地点、挑战、升级系统和众多惊喜在等着你。揭示阿卡那祭坛的秘密，驯养巫蛊宠物，并用隐形者的工具收集炼金材料，助你一步步接近终极目标。 \n\n永生特权多亏了一系列永久升级选项，以及回归的神力模式，你不需要成为游戏之神也能体验《Hades II》中的一切。但如果你真的是游戏之神，你可以直面不断升级的挑战，赢取更多奖励，证明你的神威。 \n\nSupergiant 的标志性风格Supergiant 工作室向来以恢宏大气的画面、引人入胜的叙事和电光石火的动作闻名。生动的全新手绘场景、比前作更为流畅的实时 3D 角色，以及动感十足的原声音乐让这个神话世界充满勃勃生机。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "独立",
+    "角色扮演"
+  ],
+  "tags": [
+    "动作",
+    "独立",
+    "角色扮演"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "支持字幕",
+    "DUALSHOCK 控制器支持",
+    "DUALSHOCK 控制器支持",
+    "DualSense 控制器支持",
+    "DualSense 控制器支持",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "Supergiant Games"
+  ],
+  "publishers": [
+    "Supergiant Games"
+  ],
+  "release_date": "2025 年 9 月 25 日",
+  "platforms": [
+    "Windows",
+    "Mac"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语",
+    "意大利语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "希腊语",
+    "日语",
+    "韩语",
+    "波兰语",
+    "葡萄牙语 - 巴西",
+    "俄语",
+    "简体中文",
+    "繁体中文",
+    "土耳其语",
+    "乌克兰语\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 108.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10 64-bit\n处理器: Dual Core 2.4 GHz\n内存: 8 GB RAM\n显卡: GeForce GTX 950, Radeon R7 360, or Intel HD Graphics 630\n存储空间: 需要 11 GB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10 64-bit\n处理器: Quad Core 2.4ghz\n内存: 16 GB RAM\n显卡: GeForce RTX 2060, Radeon RX 5600 XT, or Intel Arc A580\n存储空间: 需要 11 GB 可用空间",
+  "fetched_at": "2026-08-20T04:04:49Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 122513,
+  "review_percentage": 95.7,
+  "review_score": 9
+}

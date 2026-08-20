@@ -1,0 +1,57 @@
+{
+  "app_id": "4206270",
+  "name": "Wireworks",
+  "name_cn": "Wireworks - 电路防卫战",
+  "short_description": "规划防御阵型，搭建模块面板，理清线路连接。在这款基地防御类Rogue自动战斗游戏中，组合信号触发强力连携，让武器火力全开，努力生存到最后。",
+  "detailed_description": "《Wireworks - 电路防卫战》是一款基地防御类Rogue自动战斗游戏，防御体系全靠模块面板来搭建与掌控。 \n理顺线路，微调模块，组合信号打出连携效应，在潮水般的敌军与首领攻势中杀出重围。\n\n超过200种 道具与技能，自由搭配，发掘全新流派。\n\n3大特色区域，迎战各式各样的敌军与首领。\n\n多名可解锁角色，自带专属技能与初始配置。\n\n难度层层进阶，迎接更高挑战。\n\n挑战无尽模式，将流派强度推向极限。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "独立",
+    "模拟",
+    "策略"
+  ],
+  "tags": [
+    "独立",
+    "模拟",
+    "策略"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "视角舒适度",
+    "自定义音量控制",
+    "可以仅用鼠标",
+    "无需应对快速反应事件",
+    "随时保存",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "JJJ"
+  ],
+  "publishers": [
+    "JJJ"
+  ],
+  "release_date": "2026 年 3 月 9 日",
+  "platforms": [
+    "Windows",
+    "Linux"
+  ],
+  "supported_languages": [
+    "英语",
+    "日语",
+    "韩语",
+    "葡萄牙语 - 巴西",
+    "简体中文"
+  ],
+  "is_free": false,
+  "price_cny": 29.0,
+  "pc_requirements_min": "最低配置:\n操作系统: Windows 10\n处理器: 2.4 GHz\n内存: 2 GB RAM\n显卡: Integrated Graphics\n存储空间: 需要 1 GB 可用空间",
+  "pc_requirements_rec": "",
+  "fetched_at": "2026-08-20T04:08:38Z",
+  "review_desc": "Very Positive",
+  "review_count": 591,
+  "review_percentage": 89.8,
+  "review_score": 8
+}

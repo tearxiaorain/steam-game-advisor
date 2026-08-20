@@ -1,0 +1,48 @@
+{
+  "app_id": "1076280",
+  "name": "Showdown Bandit",
+  "name_cn": "",
+  "short_description": "Something unnatural is stirring on the abandoned sets of the once popular kids puppet show, Showdown Bandit. Play as the awakened Bandit in this stealth-action-horror where your only hope of survival is entangled within the 3 rules of the show: Play your part. Guard your strings. And don’t look up!",
+  "detailed_description": "Beware! For years kids tuned in to watch the televised puppet world of Showdown Bandit, whose colorful cast performed in front of a live audience of ecstatic children. Then without warning the show was unceremoniously canceled and the studio, props and puppets were left to rot. Yet somehow the show lives again and you're in the spotlight. Take control of the Bandit himself and explore the dilapidated sets of what was once glorious Showdown Valley in this top-down, stealth-action-horror game from the makers of Bendy.\n\nTry not to lose your wits or your strings as you sneak through the shadowy sets past a menagerie of eerie enemies and helpful inhabitants. Fight ONLY when you must! Don't be afraid to explore the creepiest, darkest corners as even the smallest clues could help you answer the biggest question of all ... who is really pulling the strings?",
+  "description_lang_short": "en",
+  "description_lang_detail": "en",
+  "genres": [
+    "动作",
+    "冒险",
+    "独立",
+    "策略"
+  ],
+  "tags": [
+    "动作",
+    "冒险",
+    "独立",
+    "策略"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "家庭共享"
+  ],
+  "developers": [
+    "Kindly Beast"
+  ],
+  "publishers": [
+    "Kindly Beast"
+  ],
+  "release_date": "2019 年 9 月 17 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语*\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": null,
+  "pc_requirements_min": "最低配置:\n操作系统: Windows 10\n处理器: Core i3 2nd Generation 3.0GHz\n内存: 8 GB RAM\n显卡: Nvidia GTX 650 or higher\nDirectX 版本: 11\n存储空间: 需要 4 GB 可用空间",
+  "pc_requirements_rec": "",
+  "fetched_at": "2026-08-20T04:20:01Z",
+  "review_desc": "Mixed",
+  "review_count": 865,
+  "review_percentage": 56.9,
+  "review_score": 5
+}

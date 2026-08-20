@@ -1,0 +1,45 @@
+{
+  "app_id": "3373660",
+  "name": "Look Outside",
+  "name_cn": "",
+  "short_description": "《Look Outside》是一款生存恐怖类角色扮演游戏，设定在一座单栋公寓楼中。这里突然发生了一场神秘事件，任何看向窗外的人都会变成可怕的怪物，整个世界因此陷入极度混乱。你需要在大楼内搜寻食物、物资和武器，同时还会遇到各种奇怪的角色。",
+  "detailed_description": "《Look Outside》是一款生存恐怖类角色扮演游戏，设定在一座单栋公寓楼中。这里突然发生了一场神秘事件，任何看向窗外的人都会变成可怕的怪物，整个世界因此陷入极度混乱。你需要在大楼内搜寻食物、物资和武器，同时还会遇到各种奇怪的角色，其中有些角色是人类，另外一些嘛……\n\n生存恐怖与资源管理玩家在公寓外策划紧张刺激的探险，同时要应对楼内外潜伏的可怕怪物。收集资源、解开部分谜题后，他们回到自己的家中，通过玩游戏、准备晚餐、制作工具，以及与已成为盟友的邻居互动，逐渐恢复体力和精神状态。\n\n独具创意的回合制战斗玩家将进行回合制战斗，抵御超过 150 种手工设计的生物。战斗过程中，你需要考虑与敌人之间的空间距离，灵活使用临时制造的武器以及在大楼走廊中收集到的各种物品。\n\n无懈可击的躯体恐怖美学在一个充满奇异角色的怪诞世界中迎接你的将是可怕的命运，这些角色有着独特的性格，有时甚至会精神失常。随着谜团逐步揭开，你可以招募其中一些角色，在公寓里为他们提供庇护。\n\n简约、实验性、怪诞十足游戏可提供 10 到 12 小时的游戏时间，包含十几场首领战，可以招募伙伴，还有机会邀请来访者去你家。《Look Outside》为每位玩家提供了不同的体验，可以走向多种不同的结局。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "冒险",
+    "角色扮演"
+  ],
+  "tags": [
+    "冒险",
+    "角色扮演"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "Francis Coulombe"
+  ],
+  "publishers": [
+    "Devolver Digital"
+  ],
+  "release_date": "2025 年 3 月 21 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语"
+  ],
+  "is_free": false,
+  "price_cny": 42.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows 7 x64\n处理器: Intel Core i5-2500 / AMD Phenom II X4 965\n内存: 8 GB RAM\n显卡: GeForce GTX 750 / Radeon RX 560X\n存储空间: 需要 1 GB 可用空间",
+  "pc_requirements_rec": "",
+  "fetched_at": "2026-08-20T04:09:20Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 14257,
+  "review_percentage": 98.3,
+  "review_score": 9
+}

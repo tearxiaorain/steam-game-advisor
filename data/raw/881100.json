@@ -1,0 +1,63 @@
+{
+  "app_id": "881100",
+  "name": "Noita",
+  "name_cn": "",
+  "short_description": "《Noita》是一个轻度 Rogue-like 的魔法动作游戏，在《Noita》的世界中，每个像素都有物理模拟。您可使用您自己创造的法术，在可完全破坏的世界上一路探索、战斗、焚烧、熔毁、冰冻和蒸发，打开自己的前路。或者，仅仅是四处游荡，看看能惹出多大的乱子吧！",
+  "detailed_description": "《Noita》是一个轻度 Rogue-like 的魔法动作游戏，在《Noita》的世界中，每个像素都有物理模拟。您可使用您自己创造的法术，在逐步生成的世界上一路探索、战斗、焚烧、熔毁、冰冻和蒸发，打开自己的前路。探索多样的环境，从煤矿到寒冷废土，深入寻求未知的神秘。\n\n基于像素的物理模拟：世界中的每个像素均有模拟。一切皆可燃烧、爆炸或熔毁。沐浴敌人的鲜血！进入拥有前所未有互动性的高度模拟世界。\n    \n您自己的魔法：在深入洞穴的同时，创造全新法术。使用魔法摧毁敌人，操纵你身旁的世界。\n    \n逐渐生成的世界：每次游玩都会探索独一无二的世界。深入探索，发现全新要素。\n\n轻度 Rogue-like 动作：死亡不可复生。死亡将始终伴随你，成为你游戏过程中迫在眉睫的威胁。尽管死亡，却也不必绝望：利用所学，在下此探险中走得更远。\n《Noita》由 Nolla Games 开发。Nolla Games 是一家由 3 位独立游戏开发者创立的公司。3 名开发者过去均有自己的独立项目。\n\n游戏的 3 位负责人分别为：\n\nPetri Purho\nPetri 以《Crayon Physics Deluxe（蜡笔物理学）》创作人的身份广为人知。在他年轻时，还制作过众多小型免费游戏。除此之外，他也是不少桌面游戏的创造者；不过他没有将细节告诉任何人。-- 所以还是保密吧。\n\nOlli Harjola\nOlli 以斩获大奖的离奇科幻解谜游戏《The Swapper（交换者）》闻名。除独立游戏之外，音乐、现场视觉和编程语言，他也有所涉猎。\n\nArvi Teikari\nArvi，以 Hempuli 的名字广为人知。多年来，他曾发布有众多小型实验性游戏；由于为数实在众多，他甚至无法全部记得 。其中，他能回忆起是自己创作的游戏之一便是《Baba Is You（巴巴是你）》。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "冒险",
+    "独立",
+    "角色扮演",
+    "模拟"
+  ],
+  "tags": [
+    "动作",
+    "冒险",
+    "独立",
+    "角色扮演",
+    "模拟"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "Steam 创意工坊",
+    "部分支持控制器",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "Nolla Games"
+  ],
+  "publishers": [
+    "Nolla Games"
+  ],
+  "release_date": "2020 年 10 月 15 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语",
+    "法语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "日语",
+    "韩语",
+    "葡萄牙语 - 巴西",
+    "俄语",
+    "简体中文",
+    "意大利语",
+    "波兰语"
+  ],
+  "is_free": false,
+  "price_cny": 70.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows Vista, 7, 8/8.1, 10\n处理器: 双核 CPU，Intel i5 或更高\n内存: 4 GB RAM\n显卡: 512MB 显存，支持 OpenGL 3.0\n存储空间: 需要 1600 MB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n操作系统 *: Windows Vista, 7, 8/8.1, 10\n处理器: 核心数以多为佳\n内存: 8 GB RAM\n显卡: 1024MB 显存，支持 OpenGL 3.0\n存储空间: 需要 2500 MB 可用空间",
+  "fetched_at": "2026-08-20T04:05:32Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 88455,
+  "review_percentage": 95.2,
+  "review_score": 9
+}

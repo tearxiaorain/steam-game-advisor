@@ -1,0 +1,51 @@
+{
+  "app_id": "1202540",
+  "name": "Marco & The Galaxy Dragon",
+  "name_cn": "丸子与银河龙",
+  "short_description": "结合了视觉小说与动画的创新文字冒险游戏。荣获萌系游戏大赏2020的创新奖金奖。本作用近千张静态CG实现了让人目不暇接的场景切换，剧情节奏紧凑刺激。作品中包含多个美式卡通风格动画。相信这段欢笑与泪水交织的动人故事，一定能给您带来前所未有的感动体验。",
+  "detailed_description": "",
+  "description_lang_short": "zh",
+  "description_lang_detail": "mixed",
+  "genres": [
+    "冒险",
+    "休闲",
+    "模拟"
+  ],
+  "tags": [
+    "冒险",
+    "休闲",
+    "模拟"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "Steam 集换式卡牌",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "TOKYOTOON"
+  ],
+  "publishers": [
+    "Shiravune"
+  ],
+  "release_date": "2020 年 2 月 28 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "日语*",
+    "英语",
+    "简体中文",
+    "繁体中文\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 76.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows 8/8.1/10\n处理器: 2GHz or higher\n内存: 2 GB RAM\nDirectX 版本: 9.0c\n存储空间: 需要 9 GB 可用空间\n附注事项: Windows Media Player 9 or higher",
+  "pc_requirements_rec": "推荐配置:\n操作系统 *: Windows 8/8.1/10\n处理器: 2.66GHz or higher\n内存: 4 GB RAM\nDirectX 版本: 9.0c\n存储空间: 需要 9 GB 可用空间\n附注事项: Windows Media Player 9 or higher",
+  "fetched_at": "2026-08-20T03:37:06Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 7842,
+  "review_percentage": 97.3,
+  "review_score": 9
+}

@@ -1,0 +1,55 @@
+{
+  "app_id": "261570",
+  "name": "Ori and the Blind Forest",
+  "name_cn": "",
+  "short_description": "「Ori and the Blind Forest」是 Moon Studios 為個人電腦量身訂做的動作平台遊戲。在這個充滿美麗視覺效果的遊戲中，訴說著一位勇敢小孤兒的冒險故事。",
+  "detailed_description": "尼布爾山的森林正凋零著。一場龐大暴風雨所促成的連鎖事件，迫使一位不尋常的英雄踏上尋求內心勇氣並面對黑暗宿敵的旅程，以試圖拯救自己的家園。「Ori and the Blind Forest」是 Moon Studios 為個人電腦量身訂做的動作平台遊戲。在這個充滿美麗視覺效果的遊戲中，訴說著一位勇敢小孤兒的冒險故事。遊戲充滿手繪的美術畫作、細緻生動的角色動畫表現，以及由交響樂團實際演奏的背景配樂。在「Ori and the Blind Forest」感情洋溢的故事內容中，將會探索愛與犧牲，以及人們內心那股永不消逝的希望。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作"
+  ],
+  "tags": [
+    "动作"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "Steam 云",
+    "统计数据",
+    "在电视上远程畅玩",
+    "家庭共享"
+  ],
+  "developers": [
+    "Moon Studios GmbH"
+  ],
+  "publishers": [
+    "Xbox Game Studios"
+  ],
+  "release_date": "2015 年 3 月 10 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语",
+    "法语",
+    "意大利语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "日语",
+    "俄语",
+    "简体中文",
+    "葡萄牙语 - 巴西"
+  ],
+  "is_free": false,
+  "price_cny": 68.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows 7\n处理器: Intel Core 2 Duo E4500 @ 2.2GHz or AMD Athlon 64 X2 5600+ @ 2.8 GHz\n内存: 4 GB RAM\n显卡: GeForce 240 GT or Radeon HD 6570 – 1024 MB (1 gig)\nDirectX 版本: 9.0c\n存储空间: 需要 8 GB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n操作系统 *: Windows 7\n处理器: Intel Core i5 2300 or AMD FX6120\n内存: 4 GB RAM\n显卡: GeForce GTX 550 Ti or Radeon HD 6770\nDirectX 版本: 11\n存储空间: 需要 8 GB 可用空间",
+  "fetched_at": "2026-08-20T03:36:57Z",
+  "review_desc": "Very Positive",
+  "review_count": 60058,
+  "review_percentage": 93.8,
+  "review_score": 8
+}

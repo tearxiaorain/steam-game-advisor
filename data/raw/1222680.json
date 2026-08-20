@@ -1,0 +1,69 @@
+{
+  "app_id": "1222680",
+  "name": "Need for Speed™ Heat",
+  "name_cn": "《Need for Speed™ Heat",
+  "short_description": "白天的喧嚣，夜晚的狂欢，尽在《Need for Speed™ Heat》豪华版，这是一款惊险刺激的街头赛车游戏，随着太阳落山，法律的界限也将逐渐模糊。",
+  "detailed_description": "这是一次惊心动魄的赛车体验，你将在与城市腐败警察的对抗中，一路披荆斩棘，成为街头赛车的精英。\n\n豪华版精彩内容：\n1 辆新手车 — K.S 版三菱 Lancer Evolution X 新手车——玩家车库标配\n另外 3 辆 K.S 版赛车，随着游戏的推进解锁\n4 种专属角色服饰——在角色定制中可用，可交换且适合男女角色。\n声望和奖金加成\n声望奖励增加 5 %\n奖金增加 5%",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "冒险",
+    "竞速",
+    "体育"
+  ],
+  "tags": [
+    "动作",
+    "冒险",
+    "竞速",
+    "体育"
+  ],
+  "categories": [
+    "单人",
+    "多人",
+    "玩家对战",
+    "线上玩家对战",
+    "合作",
+    "在线合作",
+    "跨平台多人",
+    "Steam 成就",
+    "Steam 集换式卡牌",
+    "部分支持控制器",
+    "在平板上远程畅玩",
+    "可用 HDR"
+  ],
+  "developers": [
+    "Ghost Games"
+  ],
+  "publishers": [
+    "Electronic Arts"
+  ],
+  "release_date": "2020 年 6 月 4 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语*",
+    "意大利语*",
+    "德语*",
+    "西班牙语 - 西班牙*",
+    "韩语",
+    "葡萄牙语 - 巴西",
+    "简体中文",
+    "繁体中文",
+    "阿拉伯语",
+    "日语*",
+    "波兰语*",
+    "俄语*\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 288.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10\n处理器: FX-6350 or Equivalent; Core i5-3570 or Equivalent\n内存: 8 GB RAM\n显卡: AMD: Radeon 7970/Radeon R9 280x or Equivalent; NVIDIA: GeForce GTX 760 or Equivalent\nDirectX 版本: 11\n存储空间: 需要 50 GB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10\n处理器: Ryzen 3 1300X or Equivalent; Core i7-4790 or Equivalent\n内存: 16 GB RAM\n显卡: AMD: Radeon RX 480 or Equivalent; NVIDIA: GeForce GTX 1060 or Equivalent\nDirectX 版本: 11\n网络: 宽带互联网连接\n存储空间: 需要 50 GB 可用空间",
+  "fetched_at": "2026-08-20T04:04:33Z",
+  "review_desc": "Very Positive",
+  "review_count": 152695,
+  "review_percentage": 84.2,
+  "review_score": 8
+}

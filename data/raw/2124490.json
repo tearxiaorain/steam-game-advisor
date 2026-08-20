@@ -1,0 +1,63 @@
+{
+  "app_id": "2124490",
+  "name": "SILENT HILL 2",
+  "name_cn": "",
+  "short_description": "收到已过世的妻子玛丽寄来的信，詹姆斯借机来到充满回忆的城镇「寂静岭」。 但是市街却深锁于浓雾之中，变成诡异生物徘徊的鬼城。 和怪物战斗并解谜的同时，在城镇中探索妻子蛛丝马迹的『SILENT HILL 2』重制版作品。",
+  "detailed_description": "Deluxe Edition[Deluxe Edition - 收录内容]\n・SILENT HILL 2\n・Digital Artbook\n・Digital Soundtrack\n・三角头（披萨盒）\n\n面具为游戏内主角詹姆士专用贴皮\n\n关于游戏已故的妻子寄来书信。\n见妻心切的詹姆斯回到了这座小镇。\n小镇名叫寂静岭，这里充满了两人的回忆。\n不久后，他在湖畔遇到了和已故妻子一模一样的女性……\n\n“我叫…玛丽亚。。”她面带微笑。 那长相，那声音和去世的妻子一模一样。\n\n在最新的硬件设备上透过令人毛骨悚然的画面与让人心底发寒的音效，体验被誉为全系列颠峰的心理惊悚经典之作。■映像・音效进化\n活用光追等技术，展现更真实更有临场感的世界。\n还有宛如身在游戏之中般的音景，更提升沉浸感。\n\n■探索场所扩大\n新增原作中所没有的场所，以及原本无法进入的建筑物探索。\n在享受原作获得高度肯定的故事同时，还能以新的地图体验的寂静岭市街。\n\n■采用越肩视角\n和原作中鸟瞰詹姆斯的视角不同，本作采用越肩摄影机视角。\n能体验高沉浸感视角所带来具紧张感的探索，以及和怪物的近距离战斗。\n\n■焕然一新的战斗系统\n维持钢管和手枪等熟悉的武器的同时，焕然一新的战斗系统。\n以绝佳时机边闪避怪物攻击的同时一边瞄准开枪等等，能享受更具战略性而有魄力的战斗。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "冒险"
+  ],
+  "tags": [
+    "动作",
+    "冒险"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "推荐使用手柄",
+    "DUALSHOCK 控制器支持",
+    "DualSense 控制器支持",
+    "DualSense 控制器支持",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "Bloober Team SA"
+  ],
+  "publishers": [
+    "KONAMI"
+  ],
+  "release_date": "2024 年 10 月 7 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语",
+    "意大利语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "西班牙语 - 拉丁美洲",
+    "波兰语",
+    "俄语",
+    "简体中文",
+    "繁体中文",
+    "日语*",
+    "韩语",
+    "乌克兰语",
+    "葡萄牙语 - 巴西\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 392.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10 x64\n处理器: Intel Core i7-6700K | AMD Ryzen 5 3600\n内存: 16 GB RAM\n显卡: NVIDIA® GeForce® GTX 1070 Ti or AMD Radeon™ RX 5700 or Intel®  Arc™  A750\nDirectX 版本: 12\n存储空间: 需要 50 GB 可用空间\n声卡: Windows Compatible Audio Device.\n附注事项: Playing on minimum requirements should enable to play on Low/Medium quality settings in FullHD (1080p) in stable 30 FPS. SSD is recommended.",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10 x64\n处理器: Intel Core i7-8700K | AMD Ryzen 5 3600X\n内存: 16 GB RAM\n显卡: NVIDIA® GeForce® 2080RTX or AMD Radeon™ 6800XT\nDirectX 版本: 12\n存储空间: 需要 50 GB 可用空间\n声卡: Windows Compatible Audio Device.\n附注事项: Playing on recommended requirements should enable to play on Medium quality settings in 60 FPS or High quality settings in 30 FPS, in FullHD (or 4k using DLSS or similar technology). SSD is recommended.",
+  "fetched_at": "2026-08-20T04:12:28Z",
+  "review_desc": "Very Positive",
+  "review_count": 63987,
+  "review_percentage": 94.7,
+  "review_score": 8
+}

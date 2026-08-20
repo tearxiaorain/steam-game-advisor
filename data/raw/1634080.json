@@ -1,0 +1,53 @@
+{
+  "app_id": "1634080",
+  "name": "Nocturnal",
+  "name_cn": "离火长明",
+  "short_description": "运用火焰与你的武器开辟你的道路，揭开这款2小时的精彩动作平台游戏背后的迷雾。准备好燃烧一切吧！",
+  "detailed_description": "Nocturnal 是一款动作游戏，你将在其中扮演阿尔德希尔（Ardeshir），一名“持久之焰”的战士，重返阔别多年的故乡——纳兰岛（Nahran）。\n神秘迷雾的出现使得这座岛屿陷入混乱，阿尔德希尔必须挥舞他的火焰之剑，并使用强大的技能，揭开迷雾的秘密，解放纳兰。\n\n特点：击退动态生成的迷雾，该迷雾会对你的火焰之剑作出反应。\n\n将你的火焰带遍纳兰岛；你的剑不仅可以点燃环境，还能激活机关，甚至摧毁迷雾中的怪物。\n\n击败敌人并探索环境以收集灰烬，这些灰烬可以献给凤凰雕像，获得新的技能和生存所需的奖励。\n\n探索一座精心设计的紧凑岛屿，提供围绕单一理念的精简游戏体验。（游戏时长：约3小时）",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "冒险"
+  ],
+  "tags": [
+    "动作",
+    "冒险"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "Sunnyside Games"
+  ],
+  "publishers": [
+    "Dear Villagers"
+  ],
+  "release_date": "2023 年 6 月 7 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语",
+    "法语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "简体中文",
+    "葡萄牙语 - 巴西",
+    "繁体中文",
+    "日语"
+  ],
+  "is_free": false,
+  "price_cny": 58.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows 7 64-bit\n处理器: Intel Core i7-3610QM or AMD Ryzen 5 3500U\n内存: 8 GB RAM\n显卡: GeForce GT 650M or Radeon HD 4870 X2\n存储空间: 需要 2 GB 可用空间",
+  "pc_requirements_rec": "",
+  "fetched_at": "2026-08-20T04:15:01Z",
+  "review_desc": "Very Positive",
+  "review_count": 4895,
+  "review_percentage": 94.2,
+  "review_score": 8
+}

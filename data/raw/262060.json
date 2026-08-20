@@ -1,0 +1,64 @@
+{
+  "app_id": "262060",
+  "name": "Darkest Dungeon®",
+  "name_cn": "",
+  "short_description": "《Darkest Dungeon》是一个极具挑战性的哥特式类 Rogue 回合制 RPG，聚焦冒险的心理压力。招募、训练和领导一队有缺点的英雄，对抗难以想象的恐怖、压力、饥荒、疾病和不断侵蚀的黑暗。当失去了所有的希望，你是否还能将你的英雄团结在一起？",
+  "detailed_description": "支持的语言Please note that the game currently supports the following languages only in-game: English, German, French, Russian, Polish, Czech, Spanish, Italian, Japanese, Korean, Simplified Chinese and Brazilian Portuguese.\n\n关于游戏《Darkest Dungeon》是一个极具挑战性的哥特式类 Rogue 回合制 RPG，聚焦冒险的心理压力。\n\n招募、训练和领导一队有缺点的英雄，穿行扭曲的森林、被遗忘的巢穴、毁坏的地窟等地。你不仅将与不可想象的敌人作战，而且还要面对压力、饥荒、疾病和不断侵蚀的黑暗。揭开奇怪的神秘事件，在创新的战略回合制战斗系统中，让英雄与一群可怕的怪物作战。\n\n 3 种游戏模式以及 80 小时以上的游戏时间\n Steam 创意工坊 mod 整合\n痛苦系统 — 不仅要与怪物战斗，还要与压力作战！与偏执狂、受虐狂、恐惧、非理性和许多和游戏有关的怪癖斗争！\n惊人的手绘哥特式钢笔画风格\n 创新的基于回合制的战斗，让你与一大群的邪恶的怪物作战\n 叙事系统，为你庆祝成功…也缅怀你的失败\n15 个（还在不断增加！）可玩的英雄职业，包括瘟疫医生、淘气鬼，甚至麻风病人！\n 扎营以疗伤或进行动员演讲。\n 在酒馆或修道院让你疲惫而惊恐的人物得到休息，以保持他们的压力不超过限度。\n 经典 CRPG 和类 Rogue 功能，包括人物永久死亡、程序生成的地下城，还有惊人的重玩性\n你能制止怪异的恐慌席卷你家族的古老土地吗？\n\n冒险前进吧！奖励与荣誉PC Gamer：2016 年最佳 RPG\nGame Informer - 2016 年最佳 RPG：3 项获奖\nIGN - 2016 最佳：2 项提名\nIGF 2016 - 3 项提名\nRock Paper Shotgun - 史上 50 大最佳 RPG\nPAX 10 - 2015\nGame Debate 2016 最佳独立游戏\nSXSW 2015 玩家选择奖提名\nMMORPG - 最佳独立 RPG (Pax East 2014)、最佳 RPG 提名 PAX Prime 2014\nIndie Megabooth Selection - PAX East 2014, PAX Prime 2015",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "独立",
+    "角色扮演",
+    "策略"
+  ],
+  "tags": [
+    "独立",
+    "角色扮演",
+    "策略"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "Steam 集换式卡牌",
+    "DUALSHOCK 控制器支持",
+    "部分支持控制器",
+    "Steam 云",
+    "在平板上远程畅玩",
+    "家庭共享"
+  ],
+  "developers": [
+    "Red Hook Studios"
+  ],
+  "publishers": [
+    "Red Hook Studios"
+  ],
+  "release_date": "2016 年 1 月 19 日",
+  "platforms": [
+    "Windows",
+    "Mac",
+    "Linux"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "捷克语",
+    "波兰语",
+    "葡萄牙语 - 巴西",
+    "俄语",
+    "意大利语",
+    "简体中文",
+    "韩语",
+    "日语\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 13.2,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows XP\n内存: 2 GB RAM\n显卡: Open GL 3.2+ Compliant\n存储空间: 需要 2 GB 可用空间\n附注事项: 1080p, 16:9 recommended",
+  "pc_requirements_rec": "推荐配置:\n操作系统 *: Windows 7+\n内存: 4 GB RAM\n显卡: Open GL 3.2+ Compliant\n存储空间: 需要 2 GB 可用空间\n附注事项: 1080p, 16:9 recommended",
+  "fetched_at": "2026-08-20T04:07:22Z",
+  "review_desc": "Very Positive",
+  "review_count": 161288,
+  "review_percentage": 91.7,
+  "review_score": 8
+}

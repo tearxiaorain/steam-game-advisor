@@ -1,0 +1,69 @@
+{
+  "app_id": "286160",
+  "name": "Tabletop Simulator",
+  "name_cn": "",
+  "short_description": "Tabletop Simulator is the only simulator where you can let your aggression out by flipping the table! There are no rules to follow: just you, a physics sandbox, and your friends. Make your own online board games or play the thousands of community created mods. Unlimited gaming possibilities!",
+  "detailed_description": "VR SupportTake  your  tabletop  gaming  to  a  whole  new  level  in  virtual  reality  with  the  HTC  Vive  &  Oculus  Rift!  And  what's  more,  both  VR  and  non-VR  players  alike  can  play  together  in  the  same  game  room!\n\nAbout the GameCreate  your  own  original  games,  import  custom  assets,  automate  games  with  scripting,  set  up  complete  RPG  dungeons,  manipulate  the  physics,  create  hinges  &  joints,  and  of  course  flip  the  table  when  you  are  losing  the  game.  All  with  an  easy  to  use  system  integrated  with  Steam  Workshop.  You  can  do  anything  you  want  in  Tabletop  Simulator.  The  possibilities  are  endless! \n\n \n\n \n\nEndless Games \n\nTabletop  Simulator  has  it  all.  The  base  game  includes  15  classics  like  Chess,  Poker,  Jigsaw  Puzzles,  Dominoes,  and  Mahjong.  Additionally,  there  are  thousands  of  community  created  content  on  the  Workshop.  If  you’re  the  tabletop  gaming  type,  we  include  an  RPG  Kit  which  has  tilesets  &  furniture,  as  well  as  animated  figurines  that  you  can  set  up  and  battle  with  your  friends,  with  even  more  options  in  the  Chest.  There’s  even  an  option  for  Game  Masters  so  they  can  control  the  table! \n\n \n\n \n\nCreate Games \n\nIf  you’re  into  creativity  and  prototyping,  you  can  easily  create  your  own  games  by  importing  images  onto  custom  boards  &  tables,  create  custom  decks,  import  3D  models,  create  scripts,  and  much  more.  You  can  choose  to  upload  your  creations  on  the  Steam  Workshop  or  share  them  privately  with  your  friends.  \n\n \n\n \n\nFun For All Ages \n\nEveryone  can  play  Tabletop  Simulator!  Play  a  classic  board  game  with  grandma,  have  poker  night  with  the  guys,  or  start  your  epic  RPG  adventure  with  your  crew.  Play  almost  any  tabletop  game  you  can  think  of!  Being  a  multiplayer-focused  game,  up  to  10  players  can  play  at  any  given  time.   \n\n \n\n \n\nDLCs \n\nOur  downloadable  content  (DLCs)  are  different  from  other  games,  as  we  partner  with  developers  and  publishers  to  bring  their  games  into  Tabletop  Simulator.  Each  DLC  is  custom  created  with   high  quality  assets  and   special  themes  that  match  their  games.  And  best  of  all,  only  the  host  needs  to  own  the  DLC  for  everyone  at  the  table  to  play.  \n\n \n\n \n\nKey  Features: \n\n \n\nOnline  sandbox  with  unlimited  games  to  play  how  you  want.  \n\nMultiplayer  physics  with  objects  that  collide  and  interact  just  how  you  would  expect.   \n\nCreate  your  own  mods  easily  with  full  Steam  Workshop  support  and  3D  model  importing.   \n\nTake  games  to  the  next  level  with  Lua  scripting  support.  \n\nPlay  just  like  you  do  in  real  life;  pick  up,  rotate,  shake,  and  throw  any  object.  \n\nUp  to  10  people  can  play  together  on  the  same  table.  \n\nTeam  system  with  voice  and  text  chat.  \n\nSave  &  load  individual  objects  and  complete  games.  \n\nHotseat  allows  you  to  play  locally  on  the  same  computer  with  your  friends.  \n\nBrowse  the  internet,  listen  to  music,  and  watch  videos  in  multiplayer,  in-game  on  a  tablet.   \n\nPerfect  for  RPGs  -  build  your  very  own  roleplaying  dungeons  with  our  modular  tileset,  RPG  Kit,  Multiple  States  and  Tablet  (useful  for  character  sheets).   \n\nGreat  admin  tools  to  enable  or  disable  player  permissions  and  to  eliminate  griefing  in  public  games.   \n\n360°  panoramic  backgrounds  that  change  the  lighting  and  atmosphere.   \n\nIncluded  games:  Backgammon,  Cards,  Chess,  Checkers,  Chinese  Checkers,  Custom  Board,  Dice,  Dominoes,  Go,  Jigsaw  Puzzles,  Mahjong,  Pachisi,  Piecepack,  Poker,  Reversi,  RPG  Kit,  Sandbox,  Solitaire,  and  Tablet.",
+  "description_lang_short": "en",
+  "description_lang_detail": "en",
+  "genres": [
+    "休闲",
+    "独立",
+    "角色扮演",
+    "模拟",
+    "策略"
+  ],
+  "tags": [
+    "休闲",
+    "独立",
+    "角色扮演",
+    "模拟",
+    "策略"
+  ],
+  "categories": [
+    "单人",
+    "多人",
+    "玩家对战",
+    "线上玩家对战",
+    "同屏/分屏玩家对战",
+    "合作",
+    "在线合作",
+    "同屏/分屏合作",
+    "同屏/分屏",
+    "跨平台多人",
+    "Steam 成就",
+    "完全支持控制器",
+    "定位控制器支持",
+    "已支持 VR",
+    "Steam 集换式卡牌",
+    "Steam 创意工坊",
+    "Steam 云",
+    "包含关卡编辑器",
+    "远程同乐",
+    "家庭共享"
+  ],
+  "developers": [
+    "Berserk Games"
+  ],
+  "publishers": [
+    "Berserk Games"
+  ],
+  "release_date": "2015 年 6 月 5 日",
+  "platforms": [
+    "Windows",
+    "Mac",
+    "Linux"
+  ],
+  "supported_languages": [
+    "英语"
+  ],
+  "is_free": false,
+  "price_cny": 76.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10 64-bit 21H1+.\n处理器: SSE2 instruction set support.\n内存: 4 GB RAM\n显卡: Graphics card with DX10 (shader model 4.0) capabilities.\nDirectX 版本: 10\n网络: 宽带互联网连接\n存储空间: 需要 3 GB 可用空间\n支持 VR: SteamVR",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统",
+  "fetched_at": "2026-08-20T04:28:23Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 74188,
+  "review_percentage": 95.9,
+  "review_score": 9
+}

@@ -1,0 +1,58 @@
+{
+  "app_id": "614570",
+  "name": "Dishonored®: Death of the Outsider™",
+  "name_cn": "",
+  "short_description": "《Dishonored®: Death of the Outsider》由屡获殊荣的游戏开发商Arkane® Studios推出，这是好评游戏系列《Dishonored®》的首款独立冒险游戏。化身强大的超能力刺客，扮演恶名昭彰的比莉‧勒克，与恩师多德重聚，完成一场最惊人的暗杀行动。",
+  "detailed_description": "Free Bonus ContentLogging in with your  account will get you the following new modes in Dishonored 2:\n\nMission+\nTake a trip back in time to any previously completed mission from the campaign and experiment freely with all powers and weapons.\n\nBlack and White\nFeeling moody? Black and White mode lets you experience the game in a new visual style. This filter does exactly what it says on the tin, but all blood will remain red. See? Moody. You can toggle between Black and White mode and the original color mode at any time.\n\nIn addition to these two new modes, Dishonored 2 players who log in with their  account will also gain access to the original pre-order bonus, the Imperial Assassin’s Pack. When you stop by the Dreadful Wale, you’ll find all the bonus items in the pack waiting for you in your cabin.\n\nThe Imperial Assassin’s Pack includes:\nDuelist’s Luck bone charm\nVoid Favor bone charm\nIn-game Antique Serkonan Guitar for Emily or Corvo to interact with\nIn-game book: Goodbye, Karnaca – A Musician’s Farewell\n500 bonus coins\n\n关于游戏扮演比莉‧勒克（亦称梅根‧福斯特），她曾是丹沃尔最恶名昭彰的职业杀手之一。与曾经的导师，也就是大名鼎鼎的刺客多德重聚，完成一场最惊人的暗杀行动：干掉界外魔。比莉和多德认为这个神一般的人物，正是帝国多项天大罪行的幕后黑手。冒险进入卡纳加最灰暗的地带，揭开界外魔的神秘面纱及来历。过程中，你将面对致命的敌人、对抗远古力量，并要做出会永远改变周遭世界的艰难决定。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作"
+  ],
+  "tags": [
+    "动作"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "可选颜色",
+    "可调整难度",
+    "无需应对快速反应事件",
+    "立体声",
+    "环绕声",
+    "部分支持控制器",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "Arkane Studios"
+  ],
+  "publishers": [
+    "Bethesda Softworks"
+  ],
+  "release_date": "2017 年 9 月 14 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语*",
+    "意大利语*",
+    "德语*",
+    "西班牙语 - 西班牙*",
+    "日语*",
+    "波兰语*",
+    "俄语*",
+    "葡萄牙语 - 巴西*",
+    "繁体中文\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 125.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统 *: Windows 7/8/10 (64 bit version)\n处理器: Intel i5-2400 (4 core)/AMD FX-8320 (8 core)\n内存: 8 GB RAM\n显卡: NVidia GTX 660 2GB/AMD Radeon 7970 3GB\n存储空间: 需要 32 GB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10 (64 bit version)\n处理器: Intel i7-4770 (4 core)/AMD FX-8350 (8 core)\n内存: 16 GB RAM\n显卡: NVidia GTX 1060 6GB/ AMD Radeon RX 480 8GB\n存储空间: 需要 32 GB 可用空间",
+  "fetched_at": "2026-08-20T04:24:30Z",
+  "review_desc": "Very Positive",
+  "review_count": 13317,
+  "review_percentage": 87.6,
+  "review_score": 8
+}

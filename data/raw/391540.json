@@ -1,0 +1,49 @@
+{
+  "app_id": "391540",
+  "name": "Undertale",
+  "name_cn": "",
+  "short_description": "UNDERTALE! The RPG game where you don't have to destroy anyone.",
+  "detailed_description": "Welcome to UNDERTALE. In this RPG, you control a human who falls underground into the world of monsters. Now you must find your way out... or stay trapped forever. \n\n((Healthy Dog's Warning: Game contains imagery that may be harmful to players with photosensitive epilepsy or similar condition.))features:\n Killing is unnecessary: negotiate out of danger using the unique battle system.\n Time your attacks for extra damage, then dodge enemy attacks in a style reminiscent of top-down shooters.\n Original art and soundtrack brimming with personality.\n Soulful, character-rich story with an emphasis on humor.\n Created mostly by one person. \n Become friends with all of the bosses!\n At least 5 dogs.\n You can date a skeleton.\n Hmmm... now there are 6 dogs...?\n Maybe you won't want to date the skeleton.\n I thought I found a 7th dog, but it was actually just the 3rd dog.\n If you play this game, can you count the dogs for me...? I'm not good at it.",
+  "description_lang_short": "en",
+  "description_lang_detail": "en",
+  "genres": [
+    "独立",
+    "角色扮演"
+  ],
+  "tags": [
+    "独立",
+    "角色扮演"
+  ],
+  "categories": [
+    "单人",
+    "Steam 集换式卡牌",
+    "在手机上远程畅玩",
+    "在平板上远程畅玩",
+    "家庭共享"
+  ],
+  "developers": [
+    "tobyfox"
+  ],
+  "publishers": [
+    "tobyfox"
+  ],
+  "release_date": "2015 年 9 月 15 日",
+  "platforms": [
+    "Windows",
+    "Mac",
+    "Linux"
+  ],
+  "supported_languages": [
+    "英语",
+    "日语"
+  ],
+  "is_free": false,
+  "price_cny": 36.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows XP, Vista, 7, 8, or 10\n内存: 2 GB RAM\n显卡: 128MB\n存储空间: 需要 200 MB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n操作系统 *: Windows XP, Vista, 7, or 10\n处理器: 2GHz+\n内存: 3 GB RAM\n显卡: 512MB\n存储空间: 需要 200 MB 可用空间",
+  "fetched_at": "2026-08-20T03:41:21Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 337409,
+  "review_percentage": 96.5,
+  "review_score": 9
+}

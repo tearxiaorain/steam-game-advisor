@@ -1,0 +1,61 @@
+{
+  "app_id": "863550",
+  "name": "HITMAN™ 2",
+  "name_cn": "",
+  "short_description": "环游全球并横跨HITMAN™ 2沙盒世界中的各处异国风地点来追踪你的目标。从阳光普照的街道，到黑暗危险的热带雨林，没人可以从这名世上最具创意的刺客手中逃出，他就是杀手47。",
+  "detailed_description": "环游全球并横跨HITMAN™ 2沙盒世界中的各处异国风地点来追踪你的目标。从阳光普照的街道，到黑暗危险的热带雨林，没人可以从这名世上最具创意的刺客手中逃出，他就是杀手47。\n\n准备好体验终极的间谍惊悚剧情；你的任务是要除掉特殊的影子客户（Shadow Client）并解决其民兵组织，但当47得知其目标的真实身分及其过往的真相时，剧情有了颠覆性的逆转。\n\nHITMAN™ 2引入了全新的进行方式、全新的游戏模式及全新功能，包括搭配了系列首度的合作游戏的全新Sniper Assassin模式。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作"
+  ],
+  "tags": [
+    "动作"
+  ],
+  "categories": [
+    "单人",
+    "多人",
+    "合作",
+    "在线合作",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "Steam 云",
+    "在手机上远程畅玩",
+    "在平板上远程畅玩",
+    "在电视上远程畅玩",
+    "家庭共享"
+  ],
+  "developers": [
+    "IO Interactive A/S"
+  ],
+  "publishers": [
+    "IO Interactive A/S"
+  ],
+  "release_date": "2018 年 11 月 13 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语",
+    "意大利语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "波兰语",
+    "葡萄牙语 - 巴西",
+    "俄语",
+    "简体中文",
+    "西班牙语 - 拉丁美洲",
+    "繁体中文\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": null,
+  "pc_requirements_min": "最低配置:\n操作系统 *: OS 64-bit Windows 7\n处理器: Intel CPU Core i5-2500K 3.3GHz / AMD CPU Phenom II X4 940\n内存: 8 GB RAM\n显卡: NVIDIA GeForce GTX 660 / Radeon HD 7870\nDirectX 版本: 11\n存储空间: 需要 60 GB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n操作系统: OS 64-bit Windows 10\n处理器: Intel CPU Core i7 4790 4 GHz\n内存: 16 GB RAM\n显卡: Nvidia GPU GeForce GTX 1070 / AMD GPU Radeon RX Vega 56 8GB\nDirectX 版本: 11\n存储空间: 需要 60 GB 可用空间",
+  "fetched_at": "2026-08-20T03:59:54Z",
+  "review_desc": "Very Positive",
+  "review_count": 74808,
+  "review_percentage": 90.8,
+  "review_score": 8
+}

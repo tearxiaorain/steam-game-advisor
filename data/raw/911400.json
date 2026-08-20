@@ -1,0 +1,56 @@
+{
+  "app_id": "911400",
+  "name": "Assassin's Creed® III Remastered",
+  "name_cn": "刺客信条3：高清重制版",
+  "short_description": "在《刺客信条III》高清重制版的增强画面与改进的游戏机制中再次体验美国独立战争。此外，该版本亦包含《刺客信条：解放》高清重制版和所有独立DLC内容。",
+  "detailed_description": "再次体验美国独立战争。此外，该版本亦包含《刺客信条：解放》高清重制版和所有独立DLC内容。\n\r\n\n\r\n为自由而战\n\r\n1775年，美洲殖民地即将揭竿而起。扮演一名美国原住民刺客康纳，为人民和国家保护自由的成果。从熙熙攘攘的街道到混乱的海战，利用众多致命方法和大量不同的武器来刺杀你的敌人。\n\r\n\n\r\n全新的视觉与游戏体验\n\r\n在增强的画面环境游玩《刺客信条III》这款系列代表作品。游戏支持4K分辨率，重塑了角色模型并改进了环境渲染场景等等多个方面。游戏机制同样也有更新，以此进一步增强你的沉浸感。\n\r\n\n\r\n额外内容\n\r\n作品包含所有独立DLC，即“暴君华盛顿”的内容以及整个《刺客信条：解放》高清重制版",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "冒险"
+  ],
+  "tags": [
+    "动作",
+    "冒险"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "部分支持控制器"
+  ],
+  "developers": [
+    "Ubisoft Entertainment"
+  ],
+  "publishers": [
+    "Ubisoft Entertainment\t\t\t\t"
+  ],
+  "release_date": "2019 年 3 月 29 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语*",
+    "意大利语*",
+    "德语*",
+    "西班牙语 - 西班牙*",
+    "荷兰语",
+    "日语*",
+    "韩语",
+    "波兰语",
+    "葡萄牙语 - 巴西*",
+    "俄语*",
+    "简体中文",
+    "繁体中文\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 198.0,
+  "pc_requirements_min": "最低配置:\n操作系统: Windows 10 (64-bit versions only)\n处理器: Intel Core i5 2400 @ 3.1 GHz, AMD FX 6350 @ 3.9 GHz\n内存: 8 GB RAM\n显卡: Nvidia GeForce GTX 660, AMD Radeon R9 270X (2GB VRAM with Shader Model 5.0)\nDirectX 版本: 11\n存储空间: 需要 45 GB 可用空间\n声卡: DirectX 9.0c compatible sound card with latest drivers",
+  "pc_requirements_rec": "推荐配置:\n操作系统: Windows 10 (64-bit versions only)\n处理器: Intel Core i5 3470 @ 3.2 GHz, AMD FX 8350 @ 4.0 GHz\n内存: 8 GB RAM\n显卡: Nvidia GeForce GTX 770 (4GB) or AMD Radeon R9 280X (3GB) or better\nDirectX 版本: 11\n存储空间: 需要 45 GB 可用空间\n声卡: DirectX 9.0c compatible sound card with latest drivers",
+  "fetched_at": "2026-08-20T03:42:38Z",
+  "review_desc": "Mixed",
+  "review_count": 15742,
+  "review_percentage": 62.6,
+  "review_score": 5
+}

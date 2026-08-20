@@ -1,0 +1,72 @@
+{
+  "app_id": "304930",
+  "name": "Unturned",
+  "name_cn": "",
+  "short_description": "Unturned is an open-world zombie survival sandbox game. As one of the few not yet turned, you must fight to remain among the living.",
+  "detailed_description": "SURVIVE THE APOCALYPSE: Scavenge for supplies, hunt for food, and build shelter in a world overrun by zombies.\n\nEXPLORE MASSIVE LEVELS: Travel by air, land, and sea while discovering hidden secrets and NPCs to help and trade with.\n\nBUILD YOUR HOME: Fortify your base before heading back out to retrieve airdrops, scout deadzones, and battle hordes of supernatural undead.\n\nCOOPERATE OR FIGHT: Team up with friendly players to arrest the bandits, or face-off in intense PvP raids.\n\nTRULY FREE-TO-PLAY: No pay-to-win mechanics, only cosmetic items to further customize your character.\n\nENDLESS CREATIVITY: Create, share, and experience custom maps and mods through the Steam Workshop.\n\nSOURCE CODE: From new features to total conversions, you can rebuild the game with source code and project files available on GitHub.",
+  "description_lang_short": "en",
+  "description_lang_detail": "en",
+  "genres": [
+    "动作",
+    "冒险",
+    "休闲",
+    "独立",
+    "免费开玩"
+  ],
+  "tags": [
+    "动作",
+    "冒险",
+    "休闲",
+    "独立",
+    "免费开玩"
+  ],
+  "categories": [
+    "单人",
+    "多人",
+    "玩家对战",
+    "线上玩家对战",
+    "局域网玩家对战",
+    "合作",
+    "在线合作",
+    "局域网合作",
+    "Steam 成就",
+    "Steam 集换式卡牌",
+    "Steam 创意工坊",
+    "应用内购买",
+    "视角舒适度",
+    "自定义音量控制",
+    "可调整难度",
+    "无需应对快速反应事件",
+    "立体声",
+    "Steam 云",
+    "已启用 Valve 反作弊保护",
+    "统计数据",
+    "包含关卡编辑器",
+    "在平板上远程畅玩",
+    "家庭共享"
+  ],
+  "developers": [
+    "Smartly Dressed Games"
+  ],
+  "publishers": [
+    "Smartly Dressed Games"
+  ],
+  "release_date": "2017 年 7 月 7 日",
+  "platforms": [
+    "Windows",
+    "Mac",
+    "Linux"
+  ],
+  "supported_languages": [
+    "英语"
+  ],
+  "is_free": true,
+  "price_cny": 0.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows 7 SP1+\n处理器: 3 GHz\n内存: 8 GB RAM\nDirectX 版本: 10\n存储空间: 需要 4 GB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n操作系统: Windows 10 64-bit\n处理器: 4 GHz\n内存: 16 GB RAM\nDirectX 版本: 11\n网络: 宽带互联网连接\n存储空间: 需要 6 GB 可用空间",
+  "fetched_at": "2026-08-20T04:28:12Z",
+  "review_desc": "Very Positive",
+  "review_count": 564473,
+  "review_percentage": 91.0,
+  "review_score": 8
+}

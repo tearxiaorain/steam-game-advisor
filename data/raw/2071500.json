@@ -1,0 +1,53 @@
+{
+  "app_id": "2071500",
+  "name": "Islands of Insight",
+  "name_cn": "",
+  "short_description": "真知之岛是一款精彩的共享世界益智游戏，玩家扮演探索者角色，踏上一段探求与发现的惬意旅程。享受闲适自在的游戏时光，畅游令人叹为观止的浮岛群，发现并解决10,000+谜题。",
+  "detailed_description": "DELUXE EDITION\n\n《真知之岛》豪华版为渴望远方的探索者带来一系列专属礼遇，共赏岛屿之美。从优秀外观物品组合之中获取稀有的古代服饰瑰宝，下载电脑和手机端专属游戏壁纸。\n\n《真知之岛》豪华版包括以下内容：\n•\t游戏本体\n•\t高级外观物品套装（包括两套服饰、手套、头饰、翅膀和痕迹）\n•\t电脑&手机壁纸\n\nWISHLIST NOW\n\n关于游戏欢迎来到真知之岛：一款精彩的共享世界益智游戏，环境设定在满是古代奇观与自然美景的奇幻王国之中。这里有待解决的谜题、待揭开的秘密和待发现的美景。这宁静的浮岛群是放松身心的绝佳之地，按你自己的节奏，踏上这段谜题冒险之旅吧。\n\n24种谜题类型，超过1万道谜题等你发现和解决，每个角落都会见证你灵感乍现的尤里卡时刻。从机关到逻辑推理、环境挑战等等，所有谜题都由优秀团队精心设计，多元化的难度设定对新手玩家友好，对老玩家来说也妙趣横生。\n\n自由探索主岛屿广阔的开放世界，大部分谜题和秘密都能在那里找到答案。5个生物群落景色与建筑各异，在其中悠然漫步，或在上空展翅翱翔。腾云驾雾，上天入地，发现游戏的新高度。完成20多块飞地上精心设计的谜题挑战，还可解锁全新区域。身之所往，心之所向。这里唯一的路，就是你脚下的这一条。\n\n在充满新发现的解谜旅程中，扮演探索者角色。踏上探索之路，好奇心引导你穿越令人叹为观止的开放世界，答案总是在眼前。\n\n定制角色，运筹帷幄，提高等级，赚取火花，解锁全新技能，完成每日任务。与全球玩家实时互动，可以求助他人，也可以自力更生解决难题。真知之岛上，持续更新的谜题和源源不断的精彩在等着你。\n\n访问此游戏内容可能会受到年龄限制。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "冒险",
+    "独立"
+  ],
+  "tags": [
+    "冒险",
+    "独立"
+  ],
+  "categories": [
+    "单人",
+    "家庭共享"
+  ],
+  "developers": [
+    "Lunarch Studios"
+  ],
+  "publishers": [
+    "Behaviour Interactive Inc."
+  ],
+  "release_date": "2024 年 2 月 13 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语",
+    "法语",
+    "意大利语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "日语",
+    "韩语",
+    "简体中文",
+    "葡萄牙语 - 巴西",
+    "西班牙语 - 拉丁美洲",
+    "繁体中文"
+  ],
+  "is_free": false,
+  "price_cny": 110.0,
+  "pc_requirements_min": "最低配置:\n操作系统: Windows 10\n处理器: Intel Core i5-7400 or AMD Ryzen 5 1400\n内存: 8 GB RAM\n显卡: NVidia GeForce GTX 960 or Radeon R9 380. 4GB VRAM\nDirectX 版本: 11\n网络: 宽带互联网连接\n存储空间: 需要 35 GB 可用空间\n附注事项: SSD recommended",
+  "pc_requirements_rec": "推荐配置:\n操作系统: Windows 10, Direct X 11 or later\n处理器: Intel Core i5-11600K or AMD Ryzen 5 5600\n内存: 16 GB RAM\n显卡: NVidia GeForce GTX 1070 or Radeon RX Vega 56. 8GB VRAM\nDirectX 版本: 11\n网络: 宽带互联网连接\n存储空间: 需要 35 GB 可用空间\n附注事项: SSD recommended",
+  "fetched_at": "2026-08-20T04:12:43Z",
+  "review_desc": "Mostly Positive",
+  "review_count": 3234,
+  "review_percentage": 71.7,
+  "review_score": 6
+}

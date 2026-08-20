@@ -1,0 +1,61 @@
+{
+  "app_id": "894020",
+  "name": "Death's Door",
+  "name_cn": "死亡之门",
+  "short_description": "虽然每天按时打卡上班收割灵魂的工作有够单调无聊，但对于乌鸦来说这至少还算是本职工作。一切的转机发生在某一天，你被分配收割的灵魂居然被偷了！为追查这个慌不择路的窃贼，你必须前往死亡不曾涉足的领域，那里游荡的生灵早已活过了应有的寿限，内心激荡的贪婪与力量远超乌鸦们的想象。",
+  "detailed_description": "数字豪华版Deluxe Edition content includes:\nDeath's Door base game\nDigital artbook, hand curated and designed by the game's art director\nComplete 50-track Original Soundtrack\n\n关于游戏虽然每天按时打卡上班收割灵魂的工作有够单调无聊，但对于乌鸦来说这至少还算是本职工作。一切的转机发生在某一天，你被分配收割的灵魂居然被偷了！为追查这个慌不择路的窃贼，你必须前往死亡不曾涉足的领域，那里游荡的生灵早已活过了应有的寿限，内心激荡的贪婪与力量远超乌鸦们的想象。\n剑锋爪利的搏斗：活用近战武器、弓箭和魔法迎战一波又一波的野兽和半神。胜者自当有赏，败将必受惩罚。只有通过自定义角色属性并熟练掌握新获得的能力和升级，方能有一线胜算。\n美妙荒绝的世界：踏出死亡门扉，探索游荡着身形扭曲的生灵的世界，解锁无数奥秘，并为一路上邂逅的各路奇怪角色带去希望。\n黑暗待解的奥秘：追击身形巨大、狂躁易怒的敌人，揭开他们背后的秘密和动机。游戏画风虽阴暗冷冽，但又富有动画感，玩家在其中可探索灵魂流转背后的真相，了解乌鸦们的角色职责以及死亡门扉的真实源头。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "冒险",
+    "独立",
+    "角色扮演"
+  ],
+  "tags": [
+    "动作",
+    "冒险",
+    "独立",
+    "角色扮演"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "推荐使用手柄",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "Acid Nerve"
+  ],
+  "publishers": [
+    "Devolver Digital"
+  ],
+  "release_date": "2021 年 7 月 20 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语",
+    "法语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "日语",
+    "韩语",
+    "葡萄牙语 - 巴西",
+    "俄语",
+    "简体中文",
+    "繁体中文"
+  ],
+  "is_free": false,
+  "price_cny": 76.0,
+  "pc_requirements_min": "最低配置:\n操作系统: Windows 10 x64\n处理器: Intel Core i5-8250U (4 * 1800) or equivalent; AMD Phenom II X4 965 (4 * 3400) or equivalent\n内存: 8 GB RAM\n显卡: GeForce MX 150 ( 2048 MB); Radeon R7 260X (2048 MB)\n存储空间: 需要 5 GB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n操作系统: Windows 10 x64\n处理器: Intel Core i5-4670K (4 * 3400) or equivalent; AMD FX-8350 (8 * 4700) or equivalent\n内存: 8 GB RAM\n显卡: GeForce GTX 1050 ( 2048 MB); Radeon RX 580 (8192 MB)\n存储空间: 需要 20 GB 可用空间",
+  "fetched_at": "2026-08-20T03:36:48Z",
+  "review_desc": "Very Positive",
+  "review_count": 21990,
+  "review_percentage": 93.2,
+  "review_score": 8
+}

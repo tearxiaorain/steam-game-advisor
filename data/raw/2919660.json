@@ -1,0 +1,57 @@
+{
+  "app_id": "2919660",
+  "name": "JudgeSim",
+  "name_cn": "",
+  "short_description": "在香蕉共和国这个阴郁的岛国，情况比以往任何时候都要糟糕。街头出现了无政府主义者；随着经济危机和犯罪率的上升，腐败问题愈演愈烈。所有的重担都落在了 \"法官 \"的肩上，他们试图用诚实来纠正错误......",
+  "detailed_description": "JudgeSim 基本上是一款基于文本的 2D 模拟游戏。阅读案件、审查证据、与被告交谈并尝试找出他们是否有罪。一旦做出最终判决，就要依法判刑。\n随着游戏的进行，获取证据、破案和对被告进行适当惩罚的难度会越来越大。您所做的决定将影响故事的结局。\n\n虽然在贿赂和威胁的腐败中保持清白可能很难，但我们向你保证，在香蕉共和国，法治并不是一个非常重要的概念。所以请放心，你们不会出事的！\n\n在游戏中，离婚、监护、继承和赔偿等诉讼问题是游戏的附带内容。在这些案件中，您可以按照自己的意愿自由做出决定，这些决定都是基于现实生活中遇到的各种矛盾和困境，当然，您的良心除外。\n\n此外，你还必须在游戏中管理好自己的资金，控制好开支，不要忽视家庭。但别忘了，你还需要保持心理健康。没有人愿意被一个疯狂的法官审判。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "休闲",
+    "独立",
+    "模拟",
+    "策略"
+  ],
+  "tags": [
+    "休闲",
+    "独立",
+    "模拟",
+    "策略"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "DelusionArt Studio"
+  ],
+  "publishers": [
+    "DelusionArt Studio"
+  ],
+  "release_date": "2024 年 7 月 16 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语",
+    "土耳其语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "简体中文",
+    "日语",
+    "俄语",
+    "法语",
+    "意大利语"
+  ],
+  "is_free": false,
+  "price_cny": 29.0,
+  "pc_requirements_min": "最低配置:\n操作系统: Windows 10\n处理器: Intel Core i3 3th Generation or Intel Core i3 7th Generation\n内存: 4096 MB RAM\n显卡: Nvidia GTX 950 or Intel HD Graphics 620\nDirectX 版本: 9.0\n存储空间: 需要 1024 MB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n操作系统: Windows 11\n处理器: Intel Core i3 7th Generation\n内存: 6144 MB RAM\n显卡: Nvidia GTX 1050 or Intel HD Graphics 630\nDirectX 版本: 11\n存储空间: 需要 1024 MB 可用空间",
+  "fetched_at": "2026-08-20T04:10:04Z",
+  "review_desc": "Very Positive",
+  "review_count": 1423,
+  "review_percentage": 84.4,
+  "review_score": 8
+}

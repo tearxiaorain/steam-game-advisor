@@ -1,0 +1,49 @@
+{
+  "app_id": "207610",
+  "name": "The Walking Dead",
+  "name_cn": "",
+  "short_description": "A five-part adventure horror series set in the same universe as Robert Kirkman’s award-winning comic book series.",
+  "detailed_description": "The Walking Dead is a five-part game series set in the same universe as Robert Kirkman’s award-winning comic book series. Play as Lee Everett, a convicted criminal, who has been given a second chance at life in a world devastated by the undead. With corpses returning to life and survivors stopping at nothing to maintain their own safety, protecting an orphaned girl named Clementine may offer him redemption in a world gone to hell.\n\n Based on Robert Kirkman’s Eisner-Award winning comic book series, The Walking Dead allows gamers to experience the true horror of the zombie apocalypse.\n A tailored game experience: live with the profound and lasting consequences of the decisions that you make in each episode. Your actions and choices will affect how your story plays out across the entire series.\n You’ll be forced to make decisions that are not only difficult, but that will require you to make an almost immediate choice. There’s no time to ponder when the undead are pounding the door down!",
+  "description_lang_short": "en",
+  "description_lang_detail": "en",
+  "genres": [
+    "冒险"
+  ],
+  "tags": [
+    "冒险"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "家庭共享"
+  ],
+  "developers": [
+    "Telltale Games"
+  ],
+  "publishers": [
+    "Skybound Games"
+  ],
+  "release_date": "2012 年 4 月 24 日",
+  "platforms": [
+    "Windows",
+    "Mac"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语",
+    "意大利语",
+    "德语",
+    "西班牙语 - 西班牙\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 58.0,
+  "pc_requirements_min": "Minimum:\nOS: XP Service Pack 3\n\tProcessor: 2.0 GHz Pentium 4 or equivalent \n\tMemory: 3 GB RAM \n\tHard Disk Space: 2 GB\n\tVideo Card: ATI or nVidia card with 512 MB RAM (not supported on Intel integrated graphics)\n\tDirectX®: Direct X 9.0c \n\tSound: Direct X 9.0c sound device",
+  "pc_requirements_rec": "Recommended:\nOS *: Windows 7 \n\tProcessor: Core 2 Duo 2GHz or equivalent\n\tMemory: 3 GB RAM \n\tHard Disk Space: 2 GB \n\tVideo Card: ATI or nVidia card with 1024 MB RAM\n\tDirectX®: Direct X 9.0c \n\tSound: Direct X 9.0c sound device",
+  "fetched_at": "2026-08-20T04:30:21Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 80217,
+  "review_percentage": 97.3,
+  "review_score": 9
+}

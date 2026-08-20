@@ -1,0 +1,69 @@
+{
+  "app_id": "2273430",
+  "name": "BlazBlue Entropy Effect",
+  "name_cn": "苍翼：混沌效应",
+  "short_description": "超华丽动作战斗，极致畅爽连招！ 超多角色、超百种招式！这款独树一帜的动作Rogue游戏将带给你酣畅淋漓的超预期体验。",
+  "detailed_description": "关注我们官方QQ群①：928900991 \n\n官方QQ群②：915255949 \n\n官方QQ群③：664388952 \n\n官方QQ群④：485354703 \n\n官方QQ群⑤：814533259 \n\n官方QQ群⑥：472815166 \n\n官方QQ群⑦：810527280\n\n关于游戏华丽动作 畅快战斗\n\n魅力十足的角色、风格强烈的美学呈现、极具张力的动作演出，造就超华丽帅气的战斗体验。\n\n连招构筑 极限操作\n\n畅爽丝滑的操作、无限可能的连招、拳拳到肉的打击感，这或许是至今为止动作性最强的肉鸽游戏！ \n\n超多角色 豪华制作\n\n13位极富个性的本体角色与4位DLC角色、各有独一无二的战斗方式、实力声优倾情演绎，呈现出魅力非凡的角色演出。\n\n百种招式 自由定制\n\n上百种招式自由构建、搭配海量元素效果、角色能力相互迭代传承，无限可能的战斗塑造出独属于你的最强斗士。 \n\n \n\n联动经典 全新体验尽情享受来自《艾希》与《死亡细胞》的免费经典IP联动。 \n让「艾希」与旁白君再度重相逢，根据旁白君的指示开启一段旅程。当然，你也可以不听他的：） \n或者化身「枭首者」，在类银河恶魔城的特制关卡中探索，发掘一段原创的全新故事；\n\n温馨提示：\n\n联动内容涉及剧情与原作并无关联。\n\n  本游戏含有可能诱发光敏性癫痫的画面闪烁等视觉元素。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "冒险",
+    "独立"
+  ],
+  "tags": [
+    "动作",
+    "冒险",
+    "独立"
+  ],
+  "categories": [
+    "单人",
+    "多人",
+    "合作",
+    "在线合作",
+    "局域网合作",
+    "同屏/分屏合作",
+    "同屏/分屏",
+    "Steam 成就",
+    "完全支持控制器",
+    "DUALSHOCK 控制器支持",
+    "DUALSHOCK 控制器支持",
+    "DualSense 控制器支持",
+    "DualSense 控制器支持",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "91Act"
+  ],
+  "publishers": [
+    "91Act",
+    "Astrolabe Games"
+  ],
+  "release_date": "2024 年 2 月 14 日",
+  "platforms": [
+    "Windows",
+    "Mac"
+  ],
+  "supported_languages": [
+    "简体中文*",
+    "英语*",
+    "日语*",
+    "繁体中文*",
+    "法语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "葡萄牙语 - 巴西",
+    "俄语",
+    "韩语\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 76.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10\n处理器: Intel Core i3\n内存: 8 GB RAM\n显卡: Nvidia GeForce GTX 950\nDirectX 版本: 11\n存储空间: 需要 18 GB 可用空间\n附注事项: 推荐分辨率：1280 x 720；推荐将游戏安装在SSD",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10\n处理器: Intel Core i5+\n内存: 8 GB RAM\n显卡: Nvidia GeForce GTX 1060 及以上\nDirectX 版本: 11\n存储空间: 需要 18 GB 可用空间\n附注事项: 推荐分辨率：2560 x 1440；推荐将游戏安装在SSD",
+  "fetched_at": "2026-08-20T03:36:24Z",
+  "review_desc": "Very Positive",
+  "review_count": 36129,
+  "review_percentage": 94.3,
+  "review_score": 8
+}

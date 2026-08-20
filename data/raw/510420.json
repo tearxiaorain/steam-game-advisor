@@ -1,0 +1,57 @@
+{
+  "app_id": "510420",
+  "name": "The Hex",
+  "name_cn": "",
+  "short_description": "在电子游戏宇宙中一个被遗忘的角落，一家破旧的小酒馆里，暴风雨正在肆虐。一通来历不明的电话声称这里将有一起凶杀案。可能的嫌疑犯只能在六位电子游戏主角中......",
+  "detailed_description": "在一家破旧的旅店里，在电子游戏宇宙中一个被遗忘的角落，一场风暴正在肆虐。酒吧老板接到了一通含糊不清的电话。电话那头说了些什么很难说清楚，但有一点是明确的：六品脱旅馆里有人正在策划一起谋杀案。\n \n 这里有六位顾客，他们都是试图摆脱过去的电子游戏主角......但 「六品脱旅馆」有办法唤起人过去的回忆。每次闪回都以完全不同的形式上演，甚至是多种演绎形式的结合。通过探索这些记忆，你可能会发现凶手的身份......也可能会了解到更黑暗的秘密。\n \n 在《六角疑云》中，你将......  操控六位顾客，探索六品脱旅馆\n 深入各游戏主角的记忆，发掘他们过去的真相\n 了解潜在凶手的身份......以及受害者的身份  \n 首次通关《六角疑云》大约需要6小时。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "独立"
+  ],
+  "tags": [
+    "独立"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "Steam 集换式卡牌",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "Daniel Mullins Games"
+  ],
+  "publishers": [
+    "Daniel Mullins Games"
+  ],
+  "release_date": "2018 年 10 月 16 日",
+  "platforms": [
+    "Windows",
+    "Mac",
+    "Linux"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语",
+    "西班牙语 - 西班牙",
+    "土耳其语",
+    "意大利语",
+    "德语",
+    "俄语",
+    "波兰语",
+    "葡萄牙语 - 巴西",
+    "荷兰语",
+    "日语",
+    "简体中文\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 37.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows XP\n内存: 2 GB RAM\nDirectX 版本: 9.0\n存储空间: 需要 1 GB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n操作系统 *: Windows Vista / 7 / 8 / 10\n内存: 4 GB RAM\nDirectX 版本: 9.0\n存储空间: 需要 1 GB 可用空间",
+  "fetched_at": "2026-08-20T04:25:31Z",
+  "review_desc": "Very Positive",
+  "review_count": 5530,
+  "review_percentage": 94.1,
+  "review_score": 8
+}

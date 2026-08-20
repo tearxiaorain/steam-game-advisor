@@ -1,0 +1,55 @@
+{
+  "app_id": "586140",
+  "name": "BlazBlue Centralfiction",
+  "name_cn": "",
+  "short_description": "受到广大好评的《BLAZBLUE（苍翼默示录）》系列之“CENTRALFICTION（神观之梦）”。苍之物语完结篇，世界隐藏的真相即将揭开！",
+  "detailed_description": "精选 DLCBonus content includes the Original Soundtrack and Memorial Book.\n\n    The bonus contents will be placed in your Steam folder:\n    ..\\Steam\\SteamApps\\common\\BlazBlue Centralfiction\\Digital Extras[/list]\n\n关于游戏采用最新的滚动式网络匹配技术，享受亚克系统的标志美丽的视觉与时尚的高层战斗系统！老玩家还是新玩家都再回到苍的世界里吧！可以操作使用各种新系统的 35位漫画风格的独特角色。命运之轮再次旋转!\n\n最高峰的快节奏2D格斗对战与重量级视觉小说结合在此,苍翼系列的完结篇来临！",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作"
+  ],
+  "tags": [
+    "动作"
+  ],
+  "categories": [
+    "单人",
+    "多人",
+    "玩家对战",
+    "线上玩家对战",
+    "同屏/分屏玩家对战",
+    "同屏/分屏",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "Steam 云",
+    "远程同乐",
+    "家庭共享"
+  ],
+  "developers": [
+    "Arc System Works"
+  ],
+  "publishers": [
+    "Arc System Works"
+  ],
+  "release_date": "2017 年 4 月 25 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语",
+    "日语*",
+    "韩语",
+    "简体中文",
+    "繁体中文\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 112.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows 7 / 8 / 8.1\n处理器: Intel Core i5 / i7\n内存: 4 GB RAM\n显卡: nVidia GeForce 8800 GT or better / AMD Radeon HD3700 / nVidia GeForce GT 650 (Windows 8.1)\nDirectX 版本: 9.0\n存储空间: 需要 18 GB 可用空间\n声卡: Direct Sound",
+  "pc_requirements_rec": "",
+  "fetched_at": "2026-08-20T04:06:13Z",
+  "review_desc": "Very Positive",
+  "review_count": 12255,
+  "review_percentage": 93.9,
+  "review_score": 8
+}

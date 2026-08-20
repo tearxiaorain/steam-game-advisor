@@ -1,0 +1,68 @@
+{
+  "app_id": "203160",
+  "name": "Tomb Raider Game of the Year",
+  "name_cn": "",
+  "short_description": "《古墓丽影》探索了劳拉·克劳馥紧张的起源故事，以及她从年轻女人变为坚强生存者的成长过程。",
+  "detailed_description": "Reviews and Accolades4.4/5 \"...it delivers a must-play gaming experience for action adventure fans everywhere. Welcome back, Lara, you've been missed.\" - Cheat Code Central \n\n4.5/5 \"...Tomb Raider is sure to impress. Its expert sense of pacing, captivating setting, and dark tone create a truly memorable experience that's further enhanced by an immense level of detail.\" - gamesradar+ \n\n8.5/10 \"I'm happy to go on record as saying this is the best Tomb Raider game I've played. Tightly produced, competent in both its puzzling and its combat, this is one reboot that manages to be unequivocally superior to its predecessors. \" - Destructoid\n\n4.5/10 \"... if you're a gamer, you should play Tomb Raider. It combines high-levels of interactivity, excellent pacing, and a true bond between the player and the character on screen. \" - Game Revolution\n\n90/100 \"Tomb Raider’s whole is greater than the sum of its parts, and everything combines to make this the best reboot game on the market today. \" - Game Over\n\nTomb Raider Game of the Year Edition\nTomb Raider is a critically acclaimed action adventure that explores the intense and gritty origin story of Lara Croft and her ascent from a young woman to a hardened survivor. Armed only with raw instincts and the ability to push beyond the limits of human endurance, Lara must fight to unravel the dark history of a forgotten island to escape its relentless hold. The Game of the Year edition includes the Tomb of the Lost Adventurer, 6 single player outfits for Lara, 8 multiplayer maps, and 4 characters.\n\nAbout the Game\n\nTomb Raider is a critically acclaimed action adventure that explores the intense and gritty origin story of Lara Croft and her ascent from a young woman to a hardened survivor. Armed only with raw instincts and the ability to push beyond the limits of human endurance, Lara must fight to unravel the dark history of a forgotten island to escape its relentless hold. The Game of the Year edition includes the Tomb of the Lost Adventurer, 6 single player outfits for Lara.\n\nKEY FEATURES:\nA Turning Point: Experience Lara Croft’s intense origin story from a young woman to a hardened survivor.  \nAn All-New Raiding Experience: Explore a mysterious island filled with environmental puzzles, visceral combat, and tombs to discover.\nFight to Live: Salvage resources, gain experience, and upgrade Lara’s weapons and tools to survive the island’s hostile inhabitants.\nSurvive as a Team: Play a variety of multiplayer modes as Lara’s Shipmates or Yamatai’s Scavengers.",
+  "description_lang_short": "zh",
+  "description_lang_detail": "en",
+  "genres": [
+    "动作",
+    "冒险"
+  ],
+  "tags": [
+    "动作",
+    "冒险"
+  ],
+  "categories": [
+    "单人",
+    "多人",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "Steam 云",
+    "在手机上远程畅玩",
+    "在平板上远程畅玩",
+    "在电视上远程畅玩",
+    "家庭共享"
+  ],
+  "developers": [
+    "Crystal Dynamics",
+    "Eidos-Montréal",
+    "Feral Interactive (Mac)",
+    "Nixxes"
+  ],
+  "publishers": [
+    "Crystal Dynamics",
+    "Feral Interactive (Mac)"
+  ],
+  "release_date": "2013 年 3 月 4 日",
+  "platforms": [
+    "Windows",
+    "Mac"
+  ],
+  "supported_languages": [
+    "英语*",
+    "德语*",
+    "法语*",
+    "意大利语*",
+    "韩语",
+    "西班牙语 - 西班牙*",
+    "繁体中文",
+    "俄语*",
+    "波兰语*",
+    "荷兰语",
+    "捷克语",
+    "葡萄牙语 - 巴西",
+    "阿拉伯语*\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 98.0,
+  "pc_requirements_min": "Minimum:\nOS *:Windows XP Service Pack 3, Windows Vista,7,8 (32bit/64bit)\n\tProcessor:Dual core CPU: AMD Athlon64 X2 2.1 Ghz (4050+), Intel Core2 Duo 1.86 Ghz (E6300)\n\tMemory:1GB Memory (2GB on Vista)\n\n\tGraphics:DirectX 9 graphics card with 512Mb Video RAM: AMD Radeon HD 2600 XT, nVidia 8600\n\tDirectX®:9.0c\n\tHard Drive:12 GB HD space\n\tOther Requirements:Broadband Internet connection",
+  "pc_requirements_rec": "Recommended:\nOS *:Windows Vista, Windows 7 or Windows 8\n\tProcessor:Quad core CPU: AMD Phenom II X4 955, Intel Core i5-750\n\tMemory:4 GB RAM\n\tGraphics:DirectX 11 graphics card with 1GB Video RAM: AMD Radeon HD 5870, nVidia GTX 480\n\tDirectX®:11\n\tHard Drive:12 GB HD space\n\tOther Requirements:Broadband Internet connection",
+  "fetched_at": "2026-08-20T04:02:45Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 268973,
+  "review_percentage": 96.0,
+  "review_score": 9
+}

@@ -1,0 +1,62 @@
+{
+  "app_id": "1222700",
+  "name": "A Way Out",
+  "name_cn": "",
+  "short_description": "《A Way Out》是场专为合作模式打造的冒险，您将扮演两名囚犯之一，一道从监狱中逃出生天。",
+  "detailed_description": "《Brothers – A Tale of Two Sons》的创作者们这次为大家献上新作《A Way Out》，在这场专为合作模式打造的冒险中，您将扮演两名囚犯之一，一道从监狱中逃出生天。\n而一开始紧张刺激的越狱计划，却转瞬间发生出人意料的转折，带来一段前所未见、情感交织的冒险。 \n《A Way Out》的体验必须由两位玩家共同完成。 每位玩家需要分别操作 Leo 和 Vincent 这两位主角；尽管不情不愿，但两人必须联手逃出生天，重获自由。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "冒险",
+    "独立"
+  ],
+  "tags": [
+    "动作",
+    "冒险",
+    "独立"
+  ],
+  "categories": [
+    "多人",
+    "合作",
+    "在线合作",
+    "同屏/分屏合作",
+    "同屏/分屏",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "在手机上远程畅玩",
+    "在平板上远程畅玩",
+    "在电视上远程畅玩",
+    "远程同乐"
+  ],
+  "developers": [
+    "Hazelight Studios"
+  ],
+  "publishers": [
+    "Electronic Arts"
+  ],
+  "release_date": "2020 年 6 月 18 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语",
+    "意大利语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "波兰语",
+    "葡萄牙语 - 巴西",
+    "俄语\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 158.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统 *: Windows 7 64-bit, 8.1 64-bit or Windows 10 64-bit\n处理器: Intel core i3-2100T @ 2.5GHz/AMD FX 6100, or better\n内存: 8 GB RAM\n显卡: NVIDIA GeForce GTX 650Ti 2GB, AMD Radeon HD 7750 2GB\n存储空间: 需要 25 GB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统 *: Windows 7 64-bit, 8.1 64-bit or Windows 10 64-bit\n处理器: Intel Core i5 3570K; AMD Ryzen 3 1300x or equivalent\n内存: 16 GB RAM\n显卡: Nvidia GTX 960; AMD R9 290 or equivalent\n存储空间: 需要 25 GB 可用空间",
+  "fetched_at": "2026-08-20T03:59:46Z",
+  "review_desc": "Very Positive",
+  "review_count": 102528,
+  "review_percentage": 87.9,
+  "review_score": 8
+}

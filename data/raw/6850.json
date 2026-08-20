@@ -1,0 +1,42 @@
+{
+  "app_id": "6850",
+  "name": "Hitman 2: Silent Assassin",
+  "name_cn": "",
+  "short_description": "Enter the realm of a retired assassin, forced back into action by treason. You may be a hired killer but you still have a sense of loyalty and justice. Visit the dark recesses of a world corrupted by crime, greed, degradation and dishonor. And a past that catches up with you.",
+  "detailed_description": "Enter the realm of a retired assassin, forced back into action by treason. You may be a hired killer but you still have a sense of loyalty and justice. Visit the dark recesses of a world corrupted by crime, greed, degradation and dishonor. And a past that catches up with you.  \n\n\t\t\t\t\tTrust no one - if the price is right, the finger of your most trusted ally will be on the trigger. Your targets may hide in the most remote areas of the planet, but their destruction is never prevented - only postponed. \n\n\t\t\t\t\tLearn your trade - master your tools - overcome your obstacles - outsmart your enemies - eliminate your targets. Remember: rash decisions bleed consequences. Know when to strike instantly, know when to take your time. Chance favors the prepared. Failure is not an option.\n\n\t\t\t\t\t\n\nPick up contracts in exotic locations around the globe: Sicily, St. Petersburg, Japan, Malaysia, and India.\n\t\t\t\t\t\n\nOperate in a non-linear world where the outcome of your actions and proficiency as a hitman are measured on a balance between stealth and aggression.\n\t\t\t\t\t\n\nStalk and eliminate your targets up close and personal, in either 1st or 3rd person perspectives.\n\t\t\t\t\t\n\nExecute your assignments with a diverse arsenal of equipment, from armor-piercing sniper rifles and explosives to chloroform and poison darts.\n\t\t\t\t\t\n\nAcquire and carry weapons and tools from mission to mission through an enhanced inventory and save-game system.\n\t\t\t\t\t\n\nOriginal soundtrack composed by Jesper Kyd and performed by The Budapest Symphony Orchestra.",
+  "description_lang_short": "en",
+  "description_lang_detail": "en",
+  "genres": [
+    "动作"
+  ],
+  "tags": [
+    "动作"
+  ],
+  "categories": [
+    "单人",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "Io-Interactive A/S"
+  ],
+  "publishers": [
+    "Io-Interactive A/S"
+  ],
+  "release_date": "2007 年 3 月 15 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语"
+  ],
+  "is_free": false,
+  "price_cny": 39.0,
+  "pc_requirements_min": "最低配置：Microsoft Windows 98/ME/XP，Pentium 3 450 MHz 或同等处理器，100% DirectX 8.1 兼容显卡包含至少 16 MB 显存，128 MB 系统内存，100% DirectX 8.1 兼容声卡，800 MB 未压缩可用硬盘空间，100% Windows 98/ME/XP 兼容鼠标和键盘    \n推荐建议：Pentium 3 1GHz 同等或更好的处理器，256 MB 系统内存，100% DirectX 8.1 兼容 3D 加速显卡包含32 MB 显存，100% DirectX 8.1 兼容 EAX 超高解析度技术声卡",
+  "pc_requirements_rec": "",
+  "fetched_at": "2026-08-20T04:31:25Z",
+  "review_desc": "Very Positive",
+  "review_count": 4886,
+  "review_percentage": 82.2,
+  "review_score": 8
+}

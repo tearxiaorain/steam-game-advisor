@@ -1,0 +1,52 @@
+{
+  "app_id": "50",
+  "name": "Half-Life: Opposing Force",
+  "name_cn": "",
+  "short_description": "以一名军事专家的身份再次回到黑山基地研究所，任务就是要消灭 Gordon Freeman。 揭开了单人游戏的全新篇章。 遭遇险恶的外星敌人，尝试各种新型的武器。 荣获美国交互艺术与科学学院“年度最佳”游戏大奖。",
+  "detailed_description": "以一名军事专家的身份再次回到黑山基地研究所，任务就是要消灭 Gordon Freeman。 揭开了单人游戏的全新篇章。 遭遇险恶的外星敌人，尝试各种新型的武器。 荣获美国交互艺术与科学学院“年度最佳”游戏大奖。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作"
+  ],
+  "tags": [
+    "动作"
+  ],
+  "categories": [
+    "单人",
+    "多人",
+    "自定义音量控制",
+    "可调整难度",
+    "无需应对快速反应事件",
+    "随时保存",
+    "已启用 Valve 反作弊保护",
+    "家庭共享"
+  ],
+  "developers": [
+    "Gearbox Software"
+  ],
+  "publishers": [
+    "Valve"
+  ],
+  "release_date": "1999 年 11 月 1 日",
+  "platforms": [
+    "Windows",
+    "Mac",
+    "Linux"
+  ],
+  "supported_languages": [
+    "英语",
+    "法语",
+    "德语",
+    "韩语"
+  ],
+  "is_free": false,
+  "price_cny": 22.0,
+  "pc_requirements_min": "最低配置：500 mhz 处理器，96mb 内存，16mb 显卡，Windows XP，鼠标，键盘，互联网连接\n\n建议配置：800 mhz 处理器，128mb 内存，32mb 以上的显卡，Windows XP，鼠标，键盘，互联网连接",
+  "pc_requirements_rec": "",
+  "fetched_at": "2026-08-20T04:08:18Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 28850,
+  "review_percentage": 95.3,
+  "review_score": 9
+}

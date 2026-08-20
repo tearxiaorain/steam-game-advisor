@@ -1,0 +1,57 @@
+{
+  "app_id": "1206430",
+  "name": "The Unfinished Swan",
+  "name_cn": "",
+  "short_description": "From the creators of What Remains of Edith Finch. Enter the surreal world of The Unfinished Swan and explore a mysterious, hidden kingdom by splatting paint to reveal the world around you.",
+  "detailed_description": "From the creators of What Remains of Edith Finch.\n\r\n\n\r\nExplore a mysterious all-white landscape by splatting paint to reveal the world around you in The Unfinished Swan. As Monroe, a 10-year-old orphan, you'll follow a swan that's stepped out of an unfinished painting and wandered off into a surreal, storybook-inspired kingdom. Each chapter brings surprises, new ways to explore the world, a host of bizarre (and sometimes dangerous) creatures, and encounters with the eccentric king who built this empire.",
+  "description_lang_short": "en",
+  "description_lang_detail": "en",
+  "genres": [
+    "冒险",
+    "独立"
+  ],
+  "tags": [
+    "冒险",
+    "独立"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "Giant Sparrow"
+  ],
+  "publishers": [
+    "Annapurna Interactive"
+  ],
+  "release_date": "2020 年 9 月 10 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语*",
+    "意大利语*",
+    "德语*",
+    "西班牙语 - 西班牙*",
+    "荷兰语*",
+    "日语*",
+    "波兰语*",
+    "俄语*",
+    "葡萄牙语 - 巴西*",
+    "西班牙语 - 拉丁美洲*\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 60.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统 *: Windows 7\n处理器: Intel Core i5-2300 | FX-4350\n内存: 4 GB RAM\n显卡: Nvidia GeForce GTS 450, 1 GB | AMD Radeon HD 7770, 1 GB\nDirectX 版本: 11\n存储空间: 需要 8 GB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10\n处理器: Intel Core i7-3770 | AMD Ryzen 5 1600\n内存: 4 GB RAM\n显卡: Nvidia GeForce GTX 660, 2 GB | AMD Radeon HD 7870, 2 GB\nDirectX 版本: 11\n存储空间: 需要 10 GB 可用空间",
+  "fetched_at": "2026-08-20T04:04:41Z",
+  "review_desc": "Very Positive",
+  "review_count": 2018,
+  "review_percentage": 83.5,
+  "review_score": 8
+}

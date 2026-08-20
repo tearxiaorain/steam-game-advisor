@@ -1,0 +1,62 @@
+{
+  "app_id": "1205450",
+  "name": "Turnip Boy Commits Tax Evasion",
+  "name_cn": "",
+  "short_description": "扮演一颗机灵可爱而又频繁惹事的大头菜，避开无理纳税要求，解决精彩植物谜题，并与巨大的野兽展开较量……一切都是为了推翻腐败的蔬菜政府！",
+  "detailed_description": "Wishlist the Next Turnip Boy Game\n\n关于游戏\n\n你的角色是一颗机灵可爱的大头菜，他恰巧成为了一名绝对的社会威胁分子。由于未能及时缴税，你从家中被驱逐出去，由此开启了你向洋葱市长偿还巨额债务的史诗任务旅程。收集各种工具来解决精彩的植物谜题，遇见稀奇古怪的蔬菜和水果，并与大大小小的动物开展危险的战斗。一路走来，你将揭露破坏花园社区安定的阴谋，并奋起推翻腐败的蔬菜政府！\n\n精彩刺激的单人冒险旅程，加入逃税、轻微罪行等丰富元素。\n地牢中充满各种谜题、敌人和用来还债的稀有财宝。\n与威胁花园社区的巨大野兽作战。\n种植和收获植物，为旅程增加助力。\n遇见一大群基于食物的古怪角色，了解他们各自的故事和难题。\n大量的税务文件等你撕裂，抹去你的书面记录，并有机会推翻政府。\n赢取可收集的帽子并轮流戴上。\n根据你的逃税效率，提供多种结局。\n深度映射世界历史及其演化过程。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "冒险",
+    "休闲",
+    "独立"
+  ],
+  "tags": [
+    "动作",
+    "冒险",
+    "休闲",
+    "独立"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "Steam 云",
+    "在电视上远程畅玩",
+    "家庭共享"
+  ],
+  "developers": [
+    "Snoozy Kazoo"
+  ],
+  "publishers": [
+    "Graffiti Games"
+  ],
+  "release_date": "2021 年 4 月 22 日",
+  "platforms": [
+    "Windows",
+    "Mac",
+    "Linux"
+  ],
+  "supported_languages": [
+    "英语",
+    "法语",
+    "意大利语",
+    "德语",
+    "葡萄牙语 - 巴西",
+    "俄语",
+    "简体中文",
+    "西班牙语 - 拉丁美洲",
+    "日语"
+  ],
+  "is_free": false,
+  "price_cny": 10.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统: Microsoft® Windows®  10\n处理器: 1.2GHz processor (Intel Core i5 and up)\n内存: 1 GB RAM\n显卡: DirectX 10, 11, or 12 compatible card\nDirectX 版本: 10\n存储空间: 需要 600 MB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: Microsoft® Windows®  10\n处理器: Dual Core Intel i5 and above\n内存: 2 GB RAM\n显卡: Nvidia GeForce 700 series or greater\nDirectX 版本: 11\n存储空间: 需要 600 MB 可用空间",
+  "fetched_at": "2026-08-20T04:18:23Z",
+  "review_desc": "Very Positive",
+  "review_count": 13967,
+  "review_percentage": 94.6,
+  "review_score": 8
+}

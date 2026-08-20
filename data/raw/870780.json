@@ -1,0 +1,64 @@
+{
+  "app_id": "870780",
+  "name": "CONTROL Ultimate Edition",
+  "name_cn": "控制 - 终极合辑 / Control Ultimate Edition",
+  "short_description": "《CONTROL》赢得超过80项大奖，游戏画面如同精彩的视觉盛宴，踏上节奏紧张刺激的第三人称动作冒险旅程，让你每一秒都无法松懈。",
+  "detailed_description": "CONTROL Ultimate Edition \n\nCONTROL Ultimate Edition把主游戏和所有之前发布的扩展包（“基础”和“异世界事件”）都收录在一个超值礼包中。  \n\n某种腐败的存在侵入了联邦控制局……只有你有能力阻止它。现在，世界就是你的武器，助你穿越深不可测的环境，歼灭邪恶的敌人，进行史诗般的战斗。收容失败，人类面临着生死关头。你能重新控制局面吗?\n\n《CONTROL》赢得超过80项大奖，游戏画面如同精彩的视觉盛宴，踏上节奏紧张刺激的第三人称动作冒险旅程，让你每一秒都无法松懈。 CONTROL将开放式环境与著名开发团队Remedy Entertainment的标志性世界构建和故事讲述方式相结合，为玩家提供广阔而有强烈满足感的游戏体验。 \n\n主要特色\n\n揭开神秘的面纱\n\n你能处理好控制局黑暗的秘密吗？展开史诗级的超自然探险，\n\n充满了意想不到的角色和怪异的事件，\n\n寻找你失踪的弟弟，发现你被带到这里\n\n的原因。\n\n一切都能成为你的武器。\n\n通过改变武器装备和心灵传动能力来释放\n\n破坏力。利用强大的能力将周围的一切变成致命武器，\n\n探索消灭敌人的新方法。\n\n探索隐藏的世界。\n\n深入秘密政府机构的邪恶\n\n空间。探索控制局里变幻莫测的环境，\n\n结果却发现表象之下总有更多看不到的。\n\n为了控制而战。\n\n完成刺激的任务和具有挑战性的头目战与无情的敌人作战，\n\n获得强大的升级，最大程度地发挥各项能力，\n\n定制你的武器。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "冒险"
+  ],
+  "tags": [
+    "动作",
+    "冒险"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "Steam 云",
+    "在手机上远程畅玩",
+    "在平板上远程畅玩",
+    "在电视上远程畅玩",
+    "可用 HDR",
+    "家庭共享"
+  ],
+  "developers": [
+    "Remedy Entertainment"
+  ],
+  "publishers": [
+    "Remedy Entertainment"
+  ],
+  "release_date": "2020 年 8 月 27 日",
+  "platforms": [
+    "Windows",
+    "Mac"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语*",
+    "意大利语",
+    "德语*",
+    "西班牙语 - 西班牙*",
+    "阿拉伯语",
+    "日语",
+    "韩语",
+    "波兰语",
+    "葡萄牙语 - 巴西",
+    "俄语",
+    "简体中文",
+    "繁体中文\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 138.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统 *: Windows 7, 64-bit\n处理器: Intel Core i5-4690 / AMD FX 4350\n内存: 8 GB RAM\n显卡: NVIDIA GeForce GTX 780 / AMD Radeon R9 280X\nDirectX 版本: 11\n存储空间: 需要 42 GB 可用空间\n附注事项: Additional Features: Widescreen support 21:9 / Remappable controls / Uncapped frame-rate / G-Sync / Freesync support",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10, 64-bit\n处理器: Intel Core i5-7600K / AMD Ryzen 5 1600X\n内存: 16 GB RAM\n显卡: NVIDIA GeForce GTX 1660/1060 / AMD Radeon RX 580 AMD | For Ray Tracing: GeForce RTX 2060\nDirectX 版本: 12\n存储空间: 需要 42 GB 可用空间\n附注事项: Additional Features: Widescreen support 21:9 / Remappable controls / Uncapped frame-rate / G-Sync / Freesync support",
+  "fetched_at": "2026-08-20T04:21:55Z",
+  "review_desc": "Very Positive",
+  "review_count": 62848,
+  "review_percentage": 86.1,
+  "review_score": 8
+}

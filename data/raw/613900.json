@@ -1,0 +1,49 @@
+{
+  "app_id": "613900",
+  "name": "Museum of Other Realities",
+  "name_cn": "",
+  "short_description": "An immersive multiplayer art showcase in virtual reality, the Museum of Other Realities is a space to connect, share, and experience a growing collection of mind-bending VR art with others.",
+  "detailed_description": "The Museum of Other Realities (MOR) is an immersive multiplayer art showcase in VR. Step into a painting, surround yourself with fantastic sounds, experience art with your friends as it evolves and takes form. The museum contains a growing collection of interactive art and experimentation, supporting artists who are challenging and redefining what is possible with virtual reality art.\n\n(Night Snow by Danny Bittman)MultiplayerEnjoy a collective multiplayer experience with old friends or make new ones in a gallery you can visit from anywhere.\n\n(Immateria by Isaac Cohen)Constantly evolving with new art With regular art updates and events on an ongoing basis, the MOR grows and evolves into a space you can return to for new experiences.\n \n\n(Devalaya Rupanam by Kevin Mack)Supporting Artists\nThe MOR has showcased pieces from artists around the world, celebrating their incredible work and fostering community. Artists with featured work in the Museum are paid and promoted.\n\nValve Index Support\nThe MOR supports the Valve Index and Index controllers, allowing you to gesture to friends or draw in the air.",
+  "description_lang_short": "en",
+  "description_lang_detail": "en",
+  "genres": [
+    "休闲",
+    "模拟"
+  ],
+  "tags": [
+    "休闲",
+    "模拟"
+  ],
+  "categories": [
+    "单人",
+    "多人",
+    "合作",
+    "在线合作",
+    "跨平台多人",
+    "定位控制器支持",
+    "VR 独占",
+    "家庭共享"
+  ],
+  "developers": [
+    "MOR Museum Inc."
+  ],
+  "publishers": [
+    "MOR Museum Inc."
+  ],
+  "release_date": "2020 年 2 月 26 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语*\n*具有完全音频支持的语言"
+  ],
+  "is_free": true,
+  "price_cny": 0.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统 *: Windows 7 SP1, Windows 8.1 or later, Windows 10\n处理器: Intel Core i5-4590/AMD FX 8350 equivalent or better\n内存: 4 GB RAM\n显卡: NVIDIA GeForce GTX 970, AMD Radeon R9 290 equivalent or better\n网络: 宽带互联网连接\n存储空间: 需要 4 GB 可用空间\n支持 VR: SteamVR or Oculus PC\n附注事项: 1x USB 2.0 or newer, HDMI 1.4, DisplayPort 1.2 or newer",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统",
+  "fetched_at": "2026-08-20T04:24:34Z",
+  "review_desc": "Very Positive",
+  "review_count": 439,
+  "review_percentage": 90.7,
+  "review_score": 8
+}

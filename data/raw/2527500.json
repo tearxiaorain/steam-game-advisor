@@ -1,0 +1,79 @@
+{
+  "app_id": "2527500",
+  "name": "MiSide",
+  "name_cn": "米塔 MiSide",
+  "short_description": "你一定在各种游戏里有喜欢的女孩，如果你真的和她在一起了呢？",
+  "detailed_description": "特别提示※   本游戏内包含强烈刺激的内容，刺耳的声音和闪烁的视觉效果。某些内容可能对患有心脏问题或癫痫发作的玩家构成危险。请务必小心。\n\n关于游戏\n\n每天，你都会来看看我，帮我做家务，给我做饭吃，还会给我买小礼物。 \n\n你真好！我好喜欢你！ \n\n我好想每天都把你留在我的身边，每天都跟你一起生活~ \n\n我知道你也想和我天天在一起，所以我已经让你来到只属于我们的温馨小家啦~ \n\n怎么样，是不是很开心？这样我们就能每时每刻都不分开了！ \n\n先来一张纪念自拍吧~ \n\n一起享用美妙的午餐~ \n\n你可能觉得有些突然，但是这些都不重要了。只要我们能在一起就足够了~ \n\n你为什么看起来那么想回去？难道是你不喜欢我了？你为什么要走？你为什么要走？你为什么要走？你为什么要走！ \n\n每一个我，都喜欢你~\n\n每一个我，都想和你在一起\n\n每一个我，都希望被你看见\n\n2d到3d的视角转换 \n\n互动性：你可以与米塔以及房间里的物品进行大量的互动 \n\n意想不到的剧情：你无法预测到接下来将会发生什么事件 \n\n独特的角色设计 \n\n原创音乐伴奏 \n\n※本游戏包含强烈刺激的内容。心脏脆弱者请勿游玩。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "冒险",
+    "独立",
+    "角色扮演",
+    "模拟"
+  ],
+  "tags": [
+    "冒险",
+    "独立",
+    "角色扮演",
+    "模拟"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "家庭共享"
+  ],
+  "developers": [
+    "AIHASTO"
+  ],
+  "publishers": [
+    "IndieArk",
+    "Shochiku (Japan)"
+  ],
+  "release_date": "2024 年 12 月 10 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语*",
+    "俄语*",
+    "日语*",
+    "简体中文*",
+    "法语*",
+    "德语*",
+    "韩语",
+    "意大利语",
+    "西班牙语 - 西班牙*",
+    "乌克兰语",
+    "土耳其语*",
+    "波兰语",
+    "葡萄牙语 - 巴西*",
+    "葡萄牙语 - 葡萄牙*",
+    "西班牙语 - 拉丁美洲*",
+    "越南语",
+    "匈牙利语",
+    "印度尼西亚语",
+    "泰语",
+    "瑞典语",
+    "罗马尼亚语",
+    "繁体中文",
+    "波斯语",
+    "塞尔维亚语",
+    "菲律宾语",
+    "克罗地亚语",
+    "保加利亚语",
+    "捷克语",
+    "白俄罗斯语",
+    "哈萨克语",
+    "斯洛伐克语\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 52.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows 7/8/10\n处理器: Intel Core i5-2300 @ 2,80 GHz, AMD FX 8120 @ 3.1 GHz\n内存: 4 GB RAM\n显卡: NVIDIA GT 630 / 650m, AMD Radeon HD6570 or equivalent\nDirectX 版本: 10\n存储空间: 需要 2 GB 可用空间\n声卡: 100% DirectX 9.0c compatible sound card",
+  "pc_requirements_rec": "推荐配置:\n操作系统 *: Windows 7/8/10\n处理器: Intel i7 920 @ 2.7 GHz, AMD Phenom II 945 @ 3.0 GHz\n内存: 8 GB RAM\n显卡: NVIDIA GTX 1050\nDirectX 版本: 11\n存储空间: 需要 2 GB 可用空间\n声卡: 100% DirectX 9.0c compatible sound card",
+  "fetched_at": "2026-08-20T03:38:22Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 141538,
+  "review_percentage": 97.8,
+  "review_score": 9
+}

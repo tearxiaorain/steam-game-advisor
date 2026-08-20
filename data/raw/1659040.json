@@ -1,0 +1,67 @@
+{
+  "app_id": "1659040",
+  "name": "HITMAN World of Assassination",
+  "name_cn": "",
+  "short_description": "欢迎来到终极暗杀世界。《HITMAN暗杀世界》汇集了《HITMAN》、《HITMAN 2》和《HITMAN 3》的精华内容，包括主要战役、契约模式、升级契约、行踪不定的目标街机模式以及由roguelike类型启发而来的HITMAN：Freelancer游戏模式。",
+  "detailed_description": "Get the 007 First Light Deluxe Edition Now!\n\nGet the 007 First Light Deluxe Edition and elevate your espionage adventure. Earn your number with outfits inspired by 007 memorabilia, go all gold blazing with the Gleaming Pack including 4 gadget skins, and unlock a new weapon skin, Agent’s Mark.\n\nThe Deluxe Edition of 007 First Light contains:\n\nFull game\n\n4 outfits:\n\nDay of the Dead\n\nDesert Explorer\n\nSilent Anchor\n\nGentleman Operator\n\nWeapon skin:\n\nAgent’s Mark\n\nGleaming Pack, including 4 gadget skins:\n\nGleaming Lighter\n\nGleaming Earphones\n\nGleaming Dart Gun\n\nGleaming Pen\n\nComparison Grid\n\nWorld of Assassination Part One\n进入终极刺客的世界。\n\n化身特工47\n开始一段紧张刺激的间谍冒险，并施展你的致命本领。\n\n自由发挥\n你最致命的武器是创造力。在百玩不厌的任务中解锁新装备，提升你的实力。\n\n暗杀世界\n在生动鲜活的世界中周游旅行，认识各种有趣的角色并把握致命杀机。\n\n《HITMAN暗杀世界》第一部包含：\n - 6个标志性《HITMAN》地点：巴黎、萨比恩撒、马拉喀什、曼谷、科罗拉多和北海道\n - 《HITMAN》年度游戏版内容：零号病人奖励战役、3项主题升级契约，可从中获取服装和武器奖励\n\n此版本不可游玩Freelancer和VR游戏模式。可选择升级至完整版的暗杀世界。\n\n关于游戏WORLD OF ASSASSINATION\n\n进入终极刺客的世界。《HITMAN暗杀世界》汇集了《HITMAN》、《HITMAN 2》和《HITMAN 3》的精华内容，包括主要战役、契约模式、升级契约、行踪不定的目标街机模式以及特色线上内容。\n\n化身特工47\n\n开始一段紧张刺激的间谍冒险，并在超过20个地点施展你的致命本领。\n\n自由发挥\n\n你最致命的武器是创造力。在重复可玩性极高的关卡中不断解锁新装备并增强体验。\n\n暗杀世界\n\n在生动鲜活的世界中周游旅行，认识各种有趣的角色并把握致命杀机。\n\nHITMAN FREELANCER\n\n由你制定规则的新玩法，将随机元素、深度策略规划与可无限重玩的持久游戏体验相结合。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "冒险"
+  ],
+  "tags": [
+    "动作",
+    "冒险"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "定位控制器支持",
+    "已支持 VR",
+    "支持 VR",
+    "自定义音量控制",
+    "无需应对快速反应事件",
+    "DUALSHOCK 控制器支持",
+    "DUALSHOCK 控制器支持",
+    "DualSense 控制器支持",
+    "DualSense 控制器支持",
+    "立体声",
+    "字幕选项",
+    "环绕声",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "IO Interactive A/S"
+  ],
+  "publishers": [
+    "IO Interactive A/S"
+  ],
+  "release_date": "2022 年 1 月 20 日",
+  "platforms": [
+    "Windows",
+    "Mac"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语",
+    "意大利语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "日语",
+    "俄语",
+    "简体中文",
+    "繁体中文\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 108.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统: OS 64-bit Windows 10\n处理器: Intel CPU Core i5-2500K 3.3GHz / AMD CPU Phenom II X4 940\n内存: 8 GB RAM\n显卡: NVIDIA GeForce GTX 660 / Radeon HD 7870\nDirectX 版本: 12\n存储空间: 需要 60 GB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: OS 64-bit Windows 10\n处理器: Intel CPU Core i7 4790 4 GHz\n内存: 16 GB RAM\n显卡: Nvidia GPU GeForce GTX 1070 / AMD GPU Radeon RX Vega 56 8GB\nDirectX 版本: 12\n存储空间: 需要 60 GB 可用空间",
+  "fetched_at": "2026-08-20T04:14:53Z",
+  "review_desc": "Very Positive",
+  "review_count": 68123,
+  "review_percentage": 87.3,
+  "review_score": 8
+}

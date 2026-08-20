@@ -1,0 +1,48 @@
+{
+  "app_id": "1124060",
+  "name": "Touhou Shoujo Tale of Beautiful Memories / 東方少女綺想譚",
+  "name_cn": "Touhou Shoujo Tale of Beautiful Memories / 東方少女綺想譚",
+  "short_description": "俯视着像素风的幻想乡并在里面尽情冒险的模拟3D动作RPG! 通过冲刺、跳跃、射击绕过或击倒碍事的敌人! 瞄准时机，积攒力量，高效的解决战斗! 操作博丽灵梦等人，像异变发起挑战吧！",
+  "detailed_description": "俯视着像素风的幻想乡并在里面尽情冒险的模拟3D动作RPG!\n\r\n操作博丽灵梦和她与她一同的少女们，在箱庭一样的幻想乡里面解决接二连三的异变吧!\n\r\n\n\r\n幻想乡是拥有各类地形的宝库！\n\r\n在模拟3D造就的立体世界中探索各个角落吧！\n\r\n\n\r\n移动中不仅可以冲刺和跳跃，还可以使用射击和特殊的装备到达各种各样的场所！\n\r\n甚至你还能发现和剧情无关的，秘密的那个地方・・・！\n\r\n\n\r\n战斗是有节奏感的指令动作对战!\n\r\n配合着生机勃勃的幻想乡住民的动作按下按键，积攒力量打倒敌人吧!\n\r\n\n\r\n可以操作的角色除了博丽灵梦还有，古明地恋，比那名居天子，十六夜咲夜，八云紫，铃仙·优昙华院·因幡，河城荷取，哆来咪·苏伊特共8名!\n\r\n熟练运用她们个性的武器和技能战斗吧!\n\r\n\n\r\n故事中幻想乡的住民们会陆续登场！\n\r\n她们有时会帮你，有时也会边做敌人边揭露异变所隐藏的真相！\n\r\n\n\r\n还有众多支线，不仅能找到对冒险有帮助的东西，还能看见东方角色们不为人知的另一面！其中还会有向你发出挑战的角色！\n\r\n你能够全部战胜她们吗！？",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "独立",
+    "角色扮演"
+  ],
+  "tags": [
+    "独立",
+    "角色扮演"
+  ],
+  "categories": [
+    "单人",
+    "完全支持控制器",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "The N Main Shop"
+  ],
+  "publishers": [
+    "DLsite"
+  ],
+  "release_date": "2019 年 8 月 22 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语",
+    "简体中文",
+    "繁体中文",
+    "日语"
+  ],
+  "is_free": false,
+  "price_cny": 90.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows XP/Vista/7/8/10\n处理器: athlon 2 p320 or higher\n内存: 512 MB RAM\n显卡: Open GL compliant video card\nDirectX 版本: 9.0\n存储空间: 需要 350 MB 可用空间",
+  "pc_requirements_rec": "",
+  "fetched_at": "2026-08-20T04:19:21Z",
+  "review_desc": "Very Positive",
+  "review_count": 201,
+  "review_percentage": 93.5,
+  "review_score": 8
+}

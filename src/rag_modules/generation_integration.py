@@ -66,7 +66,7 @@ class GenerationIntegrationModule:
 
 recommend - 找游戏、按条件筛选、要相似款、比较哪款更适合、游戏荒了玩什么
 detail - 问某一两款游戏是什么、配置、语言、好评、App ID、叫什么名字
-library - 基于「我的库存 / 库里有的 / 今晚玩哪个 / 没玩过的」
+library - 基于「我的库存 / 库里有的 / 今晚玩哪个 / 库里买了没玩 / 最近在玩」
 trending - 本周榜、现在最热、同时在线、刚打折的实时热度
 
 用户问题: {query}
@@ -227,10 +227,17 @@ trending - 本周榜、现在最热、同时在线、刚打折的实时热度
             return "没有检索到相关游戏档案，无法回答详情问题。"
         return self._generate_grounded(query, context_docs, kind="detail")
 
-    def generate_library_answer(self, query: str, context_docs: List[Document]) -> str:
+    def generate_library_answer(
+        self,
+        query: str,
+        context_docs: List[Document],
+        library_mode: str = "owned",
+    ) -> str:
         if not context_docs:
             return "没有检索到库存相关的游戏档案。"
-        return self._generate_grounded(query, context_docs, kind="library")
+        return self._generate_grounded(
+            query, context_docs, kind="library", library_mode=library_mode
+        )
 
     def trending_unavailable_answer(self) -> str:
         return (
@@ -251,7 +258,10 @@ trending - 本周榜、现在最热、同时在线、刚打折的实时热度
         query: str,
         context_docs: List[Document],
         kind: str,
+        library_mode: str = "owned",
     ) -> str:
+        from .library_profile import LIBRARY_MODE_HINTS
+
         context = self._build_context(context_docs)
         allow_block = self._format_allowlist(context_docs)
         task = {
@@ -267,7 +277,8 @@ trending - 本周榜、现在最热、同时在线、刚打折的实时热度
             ),
             "library": (
                 "玩家问的是自己库存相关的问题。"
-                "只讨论允许列表中的游戏；若问今晚玩哪个，给一个主推荐并说明原因。"
+                + LIBRARY_MODE_HINTS.get(library_mode, LIBRARY_MODE_HINTS["owned"])
+                + "允许列表若带有「近两周时长/总时长」，回答里要引用这些数字。"
                 "档案没有单局时长时，可谨慎推断并标明是推断。"
             ),
         }[kind]
@@ -399,9 +410,17 @@ trending - 本周榜、现在最热、同时在线、刚打折的实时热度
             app_id = doc.metadata.get("app_id", "")
             en = doc.metadata.get("name")
             if en and en != name:
-                rows.append(f"- {name} / {en} | App ID={app_id}")
+                line = f"- {name} / {en} | App ID={app_id}"
             else:
-                rows.append(f"- {name} | App ID={app_id}")
+                line = f"- {name} | App ID={app_id}"
+            forever = doc.metadata.get("playtime_forever")
+            weeks = doc.metadata.get("playtime_2weeks")
+            if forever is not None or weeks is not None:
+                line += (
+                    f" | 总时长={int(forever or 0)}分钟"
+                    f" | 近两周={int(weeks or 0)}分钟"
+                )
+            rows.append(line)
         return "\n".join(rows) if rows else "- （空）"
 
     def _build_context(self, docs: List[Document], max_length: int = 4000) -> str:

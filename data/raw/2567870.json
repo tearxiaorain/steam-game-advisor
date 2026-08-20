@@ -1,0 +1,54 @@
+{
+  "app_id": "2567870",
+  "name": "Chained Together",
+  "name_cn": "",
+  "short_description": "从地狱的深渊，与你的朋友们一起被链锁攀登穿过多样的世界。无论是单打独斗还是合作，努力到达顶峰，并发现那里等待着你的是什么...",
+  "detailed_description": "深入“共链冒险”史诗般的旅程开始你的旅程，在地狱的深处，与你的同伴被链在一起。你的任务是通过尽可能高的攀登逃离地狱。\n\n每一次跳跃都需要完美的协调才能攀上平台并逃离灼热。穿越众多世界，每个世界都提供独特的挑战。\n\n多样的世界等你探索每个世界引入新的挑战。\n\n单人或多人模式无论是独自一人还是与朋友一起本地合作，游戏都会适应玩家数量，支持最多4人的本地多人模式。\n\n真实的链条物理链条不仅仅是视觉元素。它由物理仿真控制，能够绕过平台。\n\n三种游戏模式游戏设有几种难度模式：初学者、普通和熔岩模式。\n\n初学者：暂停菜单中的一个选项允许你在重大跌落前返回到你达到的最高点。（如果你想在视频中测试整个游戏很有用）\n\n普通：没有特定帮助，失败后你会掉落并必须重新开始。\n\n熔岩：你必须迅速攀升，否则熔岩将吞噬你。\n\n排行榜和Steam成就仅在普通和熔岩模式下有效。\n\n自动保存在初学者和普通模式中，有一个定期的自动保存功能，如果你希望多次玩游戏，它将允许你从上次停止的地方继续游戏（前提是你处于相同的模式并且有相同数量的玩家）。\n\n排行榜通过排行榜追踪你的逃脱速度，比较不同玩家配置的完成时间。\n\n \n\n无论是独自一人还是与最多4名玩家一起的多人模式合作，每一步都将你带向顶峰！",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "冒险",
+    "休闲",
+    "独立",
+    "模拟"
+  ],
+  "tags": [
+    "冒险",
+    "休闲",
+    "独立",
+    "模拟"
+  ],
+  "categories": [
+    "单人",
+    "多人",
+    "合作",
+    "在线合作",
+    "同屏/分屏合作",
+    "同屏/分屏",
+    "部分支持控制器",
+    "远程同乐",
+    "家庭共享"
+  ],
+  "developers": [
+    "Anegar Games"
+  ],
+  "publishers": [
+    "Secret Mode"
+  ],
+  "release_date": "2024 年 6 月 19 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语*\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 22.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统 *: Windows 8/10/11 (64-Bit)\n处理器: Intel Core i5-6600@ 3.1 GHz or AMD R5 1600X @ 3.5 GHz or equivalent\n内存: 8 GB RAM\n显卡: NVIDIA GeForce GTX 1650 or equivalent\n存储空间: 需要 8 GB 可用空间\n附注事项: A high-speed internet connection and a good connection between players are required to play online",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统 *: Windows 8/10/11 (64-Bit)\n处理器: Intel Core i5 10400 3.1 GHz or AMD Ryzen 5 2600x 3.1 GHz\n内存: 16 GB RAM\n显卡: NVIDIA GeForce RTX 3060 or equivalent\n存储空间: 需要 8 GB 可用空间\n附注事项: A high-speed internet connection and a good connection between players are required to play online",
+  "fetched_at": "2026-08-20T03:38:01Z",
+  "review_desc": "Very Positive",
+  "review_count": 63404,
+  "review_percentage": 89.8,
+  "review_score": 8
+}

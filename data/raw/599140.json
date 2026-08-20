@@ -1,0 +1,66 @@
+{
+  "app_id": "599140",
+  "name": "Graveyard Keeper",
+  "name_cn": "",
+  "short_description": "《守墓人》(Graveyard Keeper) 由《拳击俱乐部》(Punch Club) 创作团队的原班人马打造，是有史以来最不正经的中世纪墓地经营模拟游戏。",
+  "detailed_description": "《守墓人》(Graveyard Keeper) 是有史以来最不正经的中世纪墓地经营模拟游戏。建造和经营自己的墓地，并扩张到其他风险项目，同时寻找削减成本的捷径。使用你可以找到的所有资源。毕竟，这个的游戏的主题是资本精神，还有竭尽全力地经营蒸蒸日上的业务。这也是个爱情故事。\n \n\n在道德窘境中艰难抉择。当你周围到处都散放着丰富的资源时，你确定要为了女巫火刑嘉年华把钱花在用来应景的汉堡夹肉上？\n收集宝贵的材料，并制作新物品。扩张你的墓地，打造蒸蒸日上的业务。随便拿 — 收集散落在周围的宝贵资源，探索这片土地的财富。\n任务和尸体。这些尸体不需要保留所有器官，对吧？何不磨碎这些器官，然后卖给当地屠夫？也可以继续执行合适的任务，由你来扮演角色。\n探索神秘的地牢。无地牢，就不算完整的中世纪游戏！踏上未知领地的旅程，发现新的炼金原料 — 这些原料可能会或不会使附近的所有村民中毒。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "冒险",
+    "独立",
+    "角色扮演",
+    "模拟"
+  ],
+  "tags": [
+    "冒险",
+    "独立",
+    "角色扮演",
+    "模拟"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "Steam 云",
+    "在手机上远程畅玩",
+    "在平板上远程畅玩",
+    "在电视上远程畅玩",
+    "家庭共享"
+  ],
+  "developers": [
+    "Lazy Bear Games"
+  ],
+  "publishers": [
+    "tinyBuild"
+  ],
+  "release_date": "2018 年 8 月 15 日",
+  "platforms": [
+    "Windows",
+    "Mac",
+    "Linux"
+  ],
+  "supported_languages": [
+    "英语",
+    "法语",
+    "德语",
+    "简体中文",
+    "西班牙语 - 西班牙",
+    "葡萄牙语 - 巴西",
+    "韩语",
+    "日语",
+    "俄语",
+    "意大利语",
+    "波兰语"
+  ],
+  "is_free": false,
+  "price_cny": 76.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows 7 (SP1+)\n处理器: Intel core i5, 1.5 GHz and up\n内存: 4 GB RAM\n显卡: 1 Gb dedicated video card, shader model 3.0+\nDirectX 版本: 10\n存储空间: 需要 1 GB 可用空间",
+  "pc_requirements_rec": "",
+  "fetched_at": "2026-08-20T04:24:48Z",
+  "review_desc": "Very Positive",
+  "review_count": 54969,
+  "review_percentage": 85.4,
+  "review_score": 8
+}

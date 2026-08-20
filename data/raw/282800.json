@@ -1,0 +1,73 @@
+{
+  "app_id": "282800",
+  "name": "100% Orange Juice",
+  "name_cn": "",
+  "short_description": "100%鲜橙汁是橙汁系列作品全明星登场的桌面游戏。与来自各个橙汁作品里的角色，以及在本作中出现的新角色们，一起以获胜为目标使用骰子对战吧！",
+  "detailed_description": "100% Orange Juice（100%鲜橙汁）是橙汁系列作品全明星登场的桌面游戏。与来自Flying Red Barrel（飞天红酒桶）、QP Shooting（QP追击）、Suguri（疾旋战姬）、Sora（空旋战姬）各个作品里的角色，以及在本作中出现的新角色们，一起以获胜为目标使用骰子对战吧！\n\n小狗、人类与机械在天空中飞翔交汇的世界。\n在这个世界里，诞生了一小片漆黑的暗影。\n最初还非常渺小的暗影逐渐笼罩了整个世界……\n\n青年Kai（凯），在迷之生物Marie Poppo（玛丽啵噗）的指引下，开始了一个将会穿越数个世界的旅途。\n漆黑又无尽的欲望之暗，渐渐侵食着Kai（凯）与世界本身……\n\n让Marie Poppo（玛丽啵噗）带你进入这神秘的世界一起游玩吧。构筑你的卡组开始游戏吧！游戏特色骰子、卡片、星星、战斗和布丁\n单人剧情战役×4\n支持最大4人的联机对战\n无数的战斗策略\n活用各个角色的能力来战斗吧\n超过50种的卡片\n使用Hyper卡发挥角色最大的力量吧Steam版特色全高清支持\n使用Steam大厅系统重新设计的多人体验\n观战模式\n自定义虚拟形象\n满足条件可解锁新的角色皮肤\nVAC反作弊\n自定义语言支持",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "独立",
+    "策略"
+  ],
+  "tags": [
+    "独立",
+    "策略"
+  ],
+  "categories": [
+    "单人",
+    "多人",
+    "玩家对战",
+    "线上玩家对战",
+    "合作",
+    "在线合作",
+    "Steam 成就",
+    "Steam 集换式卡牌",
+    "Steam 创意工坊",
+    "视角舒适度",
+    "可选颜色",
+    "自定义音量控制",
+    "可调整难度",
+    "无需应对快速反应事件",
+    "部分支持控制器",
+    "Steam 云",
+    "已启用 Valve 反作弊保护",
+    "统计数据",
+    "Steam 排行榜",
+    "家庭共享"
+  ],
+  "developers": [
+    "Orange_Juice",
+    "Fruitbat Factory"
+  ],
+  "publishers": [
+    "Fruitbat Factory"
+  ],
+  "release_date": "2014 年 5 月 16 日",
+  "platforms": [
+    "Windows",
+    "Mac",
+    "Linux"
+  ],
+  "supported_languages": [
+    "英语",
+    "日语*",
+    "简体中文",
+    "繁体中文",
+    "西班牙语 - 西班牙",
+    "韩语",
+    "葡萄牙语 - 巴西",
+    "西班牙语 - 拉丁美洲",
+    "俄语",
+    "法语\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 29.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10/11\n处理器: AMD FX-4100/i3 530 or higher\n内存: 1024 MB RAM\n显卡: Direct3D compatible video card with 128MB memory or more\nDirectX 版本: 9.0c\n网络: 宽带互联网连接\n存储空间: 需要 2 GB 可用空间\n声卡: DirectSound compatible sound card",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统",
+  "fetched_at": "2026-08-20T03:41:02Z",
+  "review_desc": "Very Positive",
+  "review_count": 30131,
+  "review_percentage": 91.0,
+  "review_score": 8
+}

@@ -1,0 +1,65 @@
+{
+  "app_id": "1897050",
+  "name": "VARIOUS DAYLIFE",
+  "name_cn": "",
+  "short_description": "由打造《OCTOPATH TRAVELER 歧路旅人》和《BRAVELY DEFAULT》的SQUARE ENIX开发团队推出的全新冒险×日常生活RPG。",
+  "detailed_description": "帝国历211年，新大陆被发现。\n你将作为移民的其中一人，以走遍这座大陆为目标。\n同时，在移民们的城镇，新都艾列比亚度过每一天。■游戏特征【通过每天的工作培育角色】\n\n本作品中有超过20种的职业，以及100个以上与职业相关的工作。\n由于可在体力劳动中锻炼肌力，或在动脑时锻炼魔力，\n因此藉由工作的选择，可培育出自己喜好的角色。\n\n【熟练地管理，以攻略迷宫】\n道具、粮食、以及野营道具。\n要将这些行李塞进容量有限的背包，朝向城镇外头出发。\n途中不仅会和魔物战斗，也会遇到恶劣的天气、粮食腐败之类的状况吧？\n此时，要继续前进？还是设置帐篷休息？抑或鼓起勇气撤退呢？\n一路作出判断，并不断地开拓未知的大陆吧！\n\n【全新的战斗系统要素“3个CHA”】\n在有效利用职业和技能的传统回合制指令式战斗中，\n加入了和伙伴合作非常重要的独特系统。\n让敌人状态成为CHANGE，累积CHAIN，以CHANCE彻底给予大伤害吧！",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "冒险",
+    "角色扮演",
+    "策略"
+  ],
+  "tags": [
+    "冒险",
+    "角色扮演",
+    "策略"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "自定义音量控制",
+    "#category_playable_at_your_own_pace",
+    "无需应对快速反应事件",
+    "随时保存",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "Square Enix",
+    "DOKIDOKI GROOVE WORKS"
+  ],
+  "publishers": [
+    "Square Enix"
+  ],
+  "release_date": "2022 年 9 月 13 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语",
+    "法语",
+    "意大利语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "荷兰语",
+    "日语",
+    "韩语",
+    "葡萄牙语 - 巴西",
+    "俄语",
+    "简体中文",
+    "繁体中文",
+    "土耳其语"
+  ],
+  "is_free": false,
+  "price_cny": 188.0,
+  "pc_requirements_min": "最低配置:\n操作系统: Windows® 10 64-bit / Windows® 11 64-bit\n处理器: AMD A8-7600 / Intel® Core™ i3-3210\n内存: 8 GB RAM\n显卡: AMD Radeon™ R7 240 / Intel® HD Graphics 530 / NVIDIA® GeForce® GT 730\nDirectX 版本: 11\n存储空间: 需要 5 GB 可用空间\n声卡: DirectX Compatible Sound Card\n附注事项: Expected Framerate 30 FPS at 1280x720",
+  "pc_requirements_rec": "推荐配置:\n操作系统: Windows® 10 64-bit / Windows® 11 64-bit\n处理器: AMD Ryzen™ 3 1200 / Intel® Core™ i5-6400\n内存: 8 GB RAM\n显卡: AMD Radeon™ RX 470 / NVIDIA® GeForce® GTX 1060 /\nDirectX 版本: 11\n存储空间: 需要 5 GB 可用空间\n声卡: DirectX Compatible Sound Card\n附注事项: Expected Framerate 60 FPS at 1920x1080",
+  "fetched_at": "2026-08-20T04:13:38Z",
+  "review_desc": "Mostly Negative",
+  "review_count": 227,
+  "review_percentage": 33.0,
+  "review_score": 4
+}

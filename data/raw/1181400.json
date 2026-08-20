@@ -1,0 +1,65 @@
+{
+  "app_id": "1181400",
+  "name": "Path of Giants",
+  "name_cn": "",
+  "short_description": "《巨人旅途》是一段宁静祥和的解谜冒险之旅，跟随三位可爱的探险家一同攀登充满挑战的冰封雪山，寻找失落的宝藏。控制三位角色，团结合作，共同前进，但愿还能找到些黄金！",
+  "detailed_description": "《巨人旅途》是一款宁静祥和的解谜冒险游戏 指引三位探险家：Bern 、 Matchi 和 Totch完成他们的冒险，穿过冰封的洞穴和积雪的悬崖，寻找失落的宝藏。在探险家之间切换，运用他们之间的团队合作来解开谜题。 \n\n每个关卡都经过精心设计，手工打造出冰冷的美感，与克拉克·阿邦德的美妙原创配乐相结合，在你探索这片被遗忘许久的土地之时，营造出一种平静之感。\n\n明亮、冰冷又美丽的画面\n结构精妙的手工制作关卡，有趣、富有挑战性并且有着难度的提升\n从始至终的平静体验\n探险家们有着可爱的动画演出\n家庭友善，为所有人都能够轻松上手与享受而设计\n色盲选项 — 为更好的可视性提供了可替换的人物颜色\n使用简单的点击操作寻路\n支持键盘、手柄与触屏输入\n可收集成就",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "冒险",
+    "休闲",
+    "独立"
+  ],
+  "tags": [
+    "冒险",
+    "休闲",
+    "独立"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 云",
+    "在手机上远程畅玩",
+    "在平板上远程畅玩",
+    "在电视上远程畅玩",
+    "家庭共享"
+  ],
+  "developers": [
+    "Journey Bound Games"
+  ],
+  "publishers": [
+    "Journey Bound Games"
+  ],
+  "release_date": "2020 年 2 月 14 日",
+  "platforms": [
+    "Windows",
+    "Mac"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语*",
+    "意大利语*",
+    "德语*",
+    "西班牙语 - 西班牙*",
+    "日语*",
+    "韩语*",
+    "葡萄牙语 - 葡萄牙*",
+    "葡萄牙语 - 巴西*",
+    "俄语*",
+    "简体中文*",
+    "繁体中文*",
+    "西班牙语 - 拉丁美洲*",
+    "土耳其语*\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 35.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows 7 SP1+\n处理器: 1.8 GHz\n内存: 4 GB RAM\n显卡: Intel HD Graphics 4400\nDirectX 版本: 10\n存储空间: 需要 408 MB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n操作系统: Windows 10\n处理器: 2.4 GHz\n内存: 4 GB RAM\n显卡: GeForce GTX 670 (2048 MB)\nDirectX 版本: 10\n存储空间: 需要 408 MB 可用空间",
+  "fetched_at": "2026-08-20T03:37:52Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 1004,
+  "review_percentage": 96.9,
+  "review_score": 9
+}

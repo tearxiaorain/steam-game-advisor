@@ -1,0 +1,49 @@
+{
+  "app_id": "130",
+  "name": "Half-Life: Blue Shift",
+  "name_cn": "",
+  "short_description": "由 Gearbox Software 开发、秉承 2001 年曾作为 Half-Life 附加游戏的同等力作，Blue Shift 让您以 Barney Calhoun 的身份重返黑山基地研究所，保护并辅佐身陷囹圄的 Gordon 摆脱困境。",
+  "detailed_description": "由 Gearbox Software 开发、秉承 2001 年曾作为 Half-Life 附加游戏的同等力作，Blue Shift 让您以 Barney Calhoun 的身份重返黑山基地研究所，保护并辅佐身陷囹圄的 Gordon 摆脱困境。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作"
+  ],
+  "tags": [
+    "动作"
+  ],
+  "categories": [
+    "单人",
+    "自定义音量控制",
+    "可调整难度",
+    "无需应对快速反应事件",
+    "随时保存",
+    "家庭共享"
+  ],
+  "developers": [
+    "Gearbox Software"
+  ],
+  "publishers": [
+    "Valve"
+  ],
+  "release_date": "2001 年 6 月 1 日",
+  "platforms": [
+    "Windows",
+    "Mac",
+    "Linux"
+  ],
+  "supported_languages": [
+    "英语",
+    "法语",
+    "德语"
+  ],
+  "is_free": false,
+  "price_cny": 22.0,
+  "pc_requirements_min": "最低配置：500 mhz 处理器，96mb 内存，16mb 显卡，Windows XP，鼠标，键盘，互联网连接\n\n建议配置：800 mhz 处理器，128mb 内存，32mb 以上的显卡，Windows XP，鼠标，键盘，互联网连接",
+  "pc_requirements_rec": "",
+  "fetched_at": "2026-08-20T04:08:02Z",
+  "review_desc": "Very Positive",
+  "review_count": 21142,
+  "review_percentage": 92.6,
+  "review_score": 8
+}

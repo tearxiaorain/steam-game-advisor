@@ -1,0 +1,62 @@
+{
+  "app_id": "860510",
+  "name": "Little Nightmares II",
+  "name_cn": "小小梦魇2",
+  "short_description": "在《小小梦魇2》的悬疑冒险旅途中，您将化身为小男孩摩诺，身处在电波笼罩之下，因此变得扭曲的世界里。 与新结交的朋友小六携手合作，揭发讯号塔暗藏的秘密。",
+  "detailed_description": "PC Enhanced Edition在不锁定刷新率、惊艳的4K分辨率之下，开始一段难忘的恐怖冒险！\n\n已购买《小小梦魇2》的玩家，能免费升级至《小小梦魇2》强化版（Little Nightmares II Enhanced Edition）。\n强化版的画面提升部分包含光线追踪、体积阴影，还有增加互动粒子等等的细部设计。\n\n此外，强化版更有全新的3D音景混音并支援5.1、7.1声道，让人更加沉浸在《小小梦魇2》的世界。\n\n推荐配置如下：\n操作系统：Windows 10\n处理器：Intel Core i5-8400 | AMD Ryzen 5 1600\n内存：8 GB RAM\n显卡：Nvidia GeForce RTX 2080, 8 GB | AMD RX 6800\n\n数字豪华版\n\n购买豪华版能获得下列数字内容：\n\n- 《小小梦魇2》游戏本体。\n- 喏姆的阁楼：跟随喏姆找到游戏内的特殊拼图，拼完后获得喏姆帽子作为奖励。\n- 完整版数字原声带：倾听Tarsier Studios的Tobias Lilja创作的《小小梦魇2》完整版原声带。\n- 数字美术书：包含Tarsier Studios美术团队绘制的草稿、美术图以及定稿，充满《小小梦魇2》诞生轨迹的56页美术书。\n- 桌布图组合包。\n\n关于游戏\n\n重回那令人着迷的恐怖世界──\n在《小小梦魇2》的悬疑冒险旅途中，您将化身为小男孩摩诺，身处在电波笼罩之下，因此变得扭曲的世界里。\n\n摩诺将与穿着黄色雨衣的女孩──小六携手合作，揭发讯号塔暗藏的秘密。\n然而这绝对不是一趟轻松的旅程：潜藏在这个世界中的未知威胁，正等着他们。\n\n准备好面对另一场儿时梦魇了吗？",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "冒险"
+  ],
+  "tags": [
+    "冒险"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "DUALSHOCK 控制器支持",
+    "DualSense 控制器支持",
+    "Steam 云",
+    "在手机上远程畅玩",
+    "在平板上远程畅玩",
+    "家庭共享"
+  ],
+  "developers": [
+    "Tarsier Studios"
+  ],
+  "publishers": [
+    "BANDAI NAMCO Entertainment"
+  ],
+  "release_date": "2021 年 2 月 10 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语",
+    "意大利语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "阿拉伯语",
+    "日语",
+    "韩语",
+    "波兰语",
+    "葡萄牙语 - 巴西",
+    "俄语",
+    "简体中文",
+    "西班牙语 - 拉丁美洲",
+    "繁体中文\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 118.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10\n处理器: Intel Core i5-2300 | AMD FX-4350\n内存: 4 GB RAM\n显卡: Nvidia GeForce GTX 570, 1 GB | AMD Radeon HD 7850, 2 GB\nDirectX 版本: 11\n附注事项: 可在画面设置为“低”、1080p/60fps的情况下进行游戏。 ・必须使用64位处理器与操作系统。",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10\n处理器: Intel Core i7-3770 | AMD FX-8350\n内存: 4 GB RAM\n显卡: Nvidia GeForce GTX 760, 2 GB | AMD Radeon HD 7870, 2 GB\nDirectX 版本: 11\n附注事项: 可在画面设置为“高”、1080p/60fps的情况下进行游戏。・必须使用64位处理器与操作系统。 ・为使用DirectX 12 API，必须使用Windows 10(Version 1809以上)以及VRAM容量在4GB以上的GPU(图形处理器)。",
+  "fetched_at": "2026-08-20T03:42:33Z",
+  "review_desc": "Very Positive",
+  "review_count": 58352,
+  "review_percentage": 93.0,
+  "review_score": 8
+}

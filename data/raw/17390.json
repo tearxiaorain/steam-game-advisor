@@ -1,0 +1,66 @@
+{
+  "app_id": "17390",
+  "name": "SPORE™",
+  "name_cn": "",
+  "short_description": "Be the architect of your own universe with Spore, an exciting single-player adventure. From Single Cell to Galactic God, evolve your creature in a universe of your own creations.",
+  "detailed_description": "From Single Cell to Galactic God, evolve in a universe of your own creations.Play through Spore's five evolutionary stages: Cell, Creature, Tribe, Civilization, and Space.  Each stage has its own unique style, challenges, and goals. \n\nYou can play how you choose:  Start in Cell and nurture one species from humble tidepool organism to intergalactic traveler, or jump straight in and build tribes or civilizations on new planets. What you do with your universe is up to you.\n\nSpore gives you a variety of powerful yet easy-to-use creation tools so you can create every aspect of your universe: creatures, vehicles, buildings, and even starships.Features\t\t\t\t\tCREATE Your Universe from Microscopic to Macrocosmic:  From tide pool amoebas to thriving civilizations to intergalactic starships, everything is in your hands.\n\t\t\t\t\tEVOLVE Your Creature through Five Stages:  It's survival of the funnest as your choices reverberate through generations and ultimately decide the fate of your civilization.",
+  "description_lang_short": "en",
+  "description_lang_detail": "en",
+  "genres": [
+    "动作",
+    "冒险",
+    "休闲",
+    "角色扮演",
+    "模拟",
+    "策略"
+  ],
+  "tags": [
+    "动作",
+    "冒险",
+    "休闲",
+    "角色扮演",
+    "模拟",
+    "策略"
+  ],
+  "categories": [
+    "单人",
+    "Steam 集换式卡牌",
+    "家庭共享"
+  ],
+  "developers": [
+    "Maxis™"
+  ],
+  "publishers": [
+    "Electronic Arts"
+  ],
+  "release_date": "2008 年 12 月 19 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语",
+    "捷克语",
+    "丹麦语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "芬兰语",
+    "法语",
+    "意大利语",
+    "匈牙利语",
+    "荷兰语",
+    "挪威语",
+    "波兰语",
+    "俄语",
+    "瑞典语",
+    "葡萄牙语 - 葡萄牙"
+  ],
+  "is_free": false,
+  "price_cny": 98.0,
+  "pc_requirements_min": "Supported OS: Microsoft Windows® XP with Service Pack 1 and Vista\n\t\t\t\t\tProcessor: 2.0 GHz Intel Pentium® 4 or equivalent\n\t\t\t\t\tMemory: 512 MB RAM (768 MB RAM for Vista)\n\t\t\t\t\tGraphics: 128 MB Video Card, with support for Pixel Shader 2.0\n\t\t\t\t\tDirectX®: The latest version of DirectX 9.0c or higher\n\t\t\t\t\tHard Drive: At least 4 GB of hard drive space, with at least 1 GB additional space for creations For computers using built-in graphics chipsets under Windows, the game requires at least:\n\t\t\t\t\tIntel Integrated Chipset, 945GM or above\n\t\t\t\t\t2.6 GHz Pentium D CPU, or 1.8 GHz Core 2 Duo, or equivalent\n\t\t\t\t\t768 MB RAM",
+  "pc_requirements_rec": "",
+  "fetched_at": "2026-08-20T04:31:08Z",
+  "review_desc": "Very Positive",
+  "review_count": 72487,
+  "review_percentage": 92.6,
+  "review_score": 8
+}

@@ -1,0 +1,53 @@
+{
+  "app_id": "1207650",
+  "name": "Suzerain",
+  "name_cn": "",
+  "short_description": "你将在这个基于文本的角色扮演游戏中出任雷恩总统，并在第一个任期中决定索德国是陷入萧条，或是迈向复兴。通过与内阁成员以及其他权要的对话，上演一出精彩的政治大剧。是警惕还是接纳腐败；是逃避还是坚持理想。 你会如何领导这个国家",
+  "detailed_description": "Dive into Suzerain with the Expanded Edition\n\nPurchase the Kingdom of Rizia DLC!\nEmbark on a royal journey in Suzerain's first DLC. Embrace the crown as King Romus Toras, and lead the Golden Kingdom to a new era. Reclaim lost territories through diplomacy or force. Engage with noble houses and oversee the resources of Rizia. How will you reign?\n\n关于游戏你就是总统。\n\n 你将扮演安东·雷恩总统，并在第一个任期中决定索德国是陷入萧条，或是迈向复兴。通过与内阁成员以及其他权要的对话，上演一出精彩的政治大剧。是警惕还是接纳腐败；是逃避还是坚持理想。\n\n \n\n 动乱不断的国家\n\n 1954年，索德国在一场血腥的内战后，摆脱了长达20年的独裁统治。你将扮演极富个人魅力的年轻才俊——安东·雷恩；他迅速升任执政党​​最高领导人，甚至当选为索德国的新任总统，出乎所有人的意料。\n\n 饱受数十年传统势力统治之苦的民众渴求民主改革。经济局势一派混乱，政坛情势变幻莫测，还有虎视眈眈的邻近强国，军事威胁也隐隐浮现。\n\n \n\n 你能率领这个国家走出衰退吗？你能满足民众的改革呼求吗？索德国的未来取决于你的抉择。祝你好运，总统先生。\n\n 你会信赖谁？\n\n 与内阁成员紧密合作，为你的政府打造强而有力的政策和作风。签订协议，缔结联盟，从而造福人民——或你自己。但请记住：每个人都有自己的理想和盘算。选择盟友须三思，树立敌人更须慎之又慎。\n\n \n\n 你会牺牲什么？\n\n 国与家，哪个更重要？同时做一个好父亲和一位好总统是艰难挑战。你能兼顾吗？如果无法兼顾，那你会选择哪一边？\n\n 你会如何领导这个国家？\n\n事关重大且跌宕起伏的对话：在这部长达20万字的皇皇政治大剧中，驾驭错综复杂的对话。\n\n每一项抉择都有其后果：在安全、经济、外交等等事务上做出艰难的抉择。即便是在业余时间，朋友与家人也会质疑你的信念。\n\n缔结盟友，防范敌人：与各色各样拥有不同个性和思想的角色互动。\n\n时刻关注时事动态：通过报道和新闻，时刻掌握索德国的局势。\n\n你将会留下怎样的遗产？当你为期四年的任期届满时，这个国家将会因你的种种决定而去向何方呢？",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "冒险",
+    "独立",
+    "角色扮演"
+  ],
+  "tags": [
+    "冒险",
+    "独立",
+    "角色扮演"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "DUALSHOCK 控制器支持",
+    "DUALSHOCK 控制器支持",
+    "DualSense 控制器支持",
+    "DualSense 控制器支持",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "Torpor Games"
+  ],
+  "publishers": [
+    "Torpor Games"
+  ],
+  "release_date": "2020 年 12 月 4 日",
+  "platforms": [
+    "Windows",
+    "Mac"
+  ],
+  "supported_languages": [
+    "英语"
+  ],
+  "is_free": false,
+  "price_cny": 76.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10\n处理器: Intel Core 2 Quad Q6600 @ 2.4 GHz, AMD FX 8120 @ 3.1 GHz or equivalent\n内存: 4 GB RAM\n显卡: Nvidia GeForce 900 series, AMD Radeon RX 400 series or equivalent\nDirectX 版本: 9.0c\n存储空间: 需要 2 GB 可用空间\n声卡: 100% DirectX 9.0c compatible",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10\n处理器: Intel i7 920 @ 2.7 GHz, AMD Phenom II 945 @ 3.0 GHz or equivalent\n内存: 8 GB RAM\n显卡: Nvidia GeForce 10 series,AMD Radeon RX 500 series or equivalent\nDirectX 版本: 9.0c\n存储空间: 需要 4 GB 可用空间\n声卡: 100% DirectX 9.0c compatible\n附注事项: Dedicated Video RAM: 2048 MB",
+  "fetched_at": "2026-08-20T04:18:16Z",
+  "review_desc": "Very Positive",
+  "review_count": 11772,
+  "review_percentage": 92.4,
+  "review_score": 8
+}

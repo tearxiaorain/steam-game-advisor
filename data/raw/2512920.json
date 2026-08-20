@@ -1,0 +1,49 @@
+{
+  "app_id": "2512920",
+  "name": "Garlic Builder",
+  "name_cn": "蒜什么建造师",
+  "short_description": "《蒜什么建造师》是一款独具特色的建造游戏。身为大蒜家族的新一代建造师——蒜什么，你能够继承老爹的建造锤，承接各种订单，按照图纸或是发挥你的想象力，完成客户们千奇百怪的需求吗？",
+  "detailed_description": "《蒜什么建造师》是一款惬意休闲的像素建造游戏，在游戏中，你将扮演主角蒜什么 ，在静谧的小山村里，收集各种各样的材料方块，并根据顾客的要求完成像素工艺品。\n随着故事的推进，你发现你的建造事业并非一帆风顺，城市里的商业阴谋正步步逼近这个小山村。但有家人们在你的身边，一切都将不足为惧。按照（或者不按照？）图纸完成建造在客户指定的日期之前使用方块完成他们千奇百怪的要求！\n了解委托背后的故事接取订单并收取顾客的回信，看看你的建造对他们的生活产生了怎样的影响。\n多种多样的方块数十种方块！使用它们来进行自由地建造吧！",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "休闲",
+    "独立",
+    "角色扮演",
+    "模拟"
+  ],
+  "tags": [
+    "休闲",
+    "独立",
+    "角色扮演",
+    "模拟"
+  ],
+  "categories": [
+    "单人",
+    "家庭共享"
+  ],
+  "developers": [
+    "CaveLiquid"
+  ],
+  "publishers": [
+    "Gamersky Games"
+  ],
+  "release_date": "2024 年 1 月 15 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语",
+    "日语",
+    "简体中文"
+  ],
+  "is_free": false,
+  "price_cny": 32.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10\n处理器: Intel i3 Dual Core\n内存: 4 GB RAM\n显卡: Intel HD 3000\nDirectX 版本: 11\n存储空间: 需要 500 MB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10\n处理器: Intel i5 Quad Core\n内存: 4 GB RAM\n显卡: Intel Iris or higher\nDirectX 版本: 11\n存储空间: 需要 500 MB 可用空间",
+  "fetched_at": "2026-08-20T04:11:03Z",
+  "review_desc": "Very Positive",
+  "review_count": 396,
+  "review_percentage": 93.2,
+  "review_score": 8
+}

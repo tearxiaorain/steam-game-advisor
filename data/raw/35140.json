@@ -1,0 +1,51 @@
+{
+  "app_id": "35140",
+  "name": "Batman: Arkham Asylum Game of the Year Edition",
+  "name_cn": "",
+  "short_description": "体验成为蝙蝠侠的感觉，并与哥谭市最强大的反派对峙。探索“阿卡姆疯人院”的每一寸土地，并在这个臭名昭著的岛屿上随意漫游。",
+  "detailed_description": "广受好评的《蝙蝠侠：阿卡姆疯人院》年度重制版重磅回归，新增 4 张挑战地图。额外的挑战地图为“犯罪小巷”、“稻草人噩梦”、“完全疯狂”和“暗夜猎人”（均来自“疯狂之夜”地图包）。\n\n\t\t\t\t\t\n\n利用独特的 FreeFlow™ 战斗系统，无缝连接不设限的连击，在残酷的近战中与大批小丑追随者进行战斗 \n\n\t\t\t\t\t\n\n扮演世界上最伟大的侦探蝙蝠侠，利用 X 射线扫描、指纹扫描、“酰胺黑”喷雾和信息素追踪器等尖端法医工具，解决复杂的谜题，开展调查\n\n\t\t\t\t\t\n\n对抗哥谭市最强大的反派，包括小丑、哈莉·奎茵、毒藤女和杀手鳄等 \n\n\t\t\t\t\t\n\n化身隐形捕猎者™，利用蝙蝠侠的恐惧击倒和独特的制高点系统，在不被发现的情况下移动并猎取敌人  \n\n\t\t\t\t\t\n\n选择多种击倒方法，包括从空中俯冲和撞破墙壁。 \n\n\t\t\t\t\t\n\n探索“阿卡姆疯人院”的每一寸土地，在这个臭名昭著的岛屿上随意漫游，系列首次，以真实而粗犷的方式呈现出整个岛屿\n\n\t\t\t\t\t\n\n使用蝙蝠镖、爆炸凝胶喷雾器、蝙蝠爪、声纳共振器和绳索发射器，体验成为蝙蝠侠的感觉 \n\n\t\t\t\t\t\n\n通过完成世界中的隐藏挑战来解锁更多秘密，并通过赚取经验值来开发和自定义装备 \n\n\t\t\t\t\t\n\n使用蝙蝠侠的抓钩枪到达任何你能看到的地方，从任何高度跳下并向任何方向滑行，在环境中享受完全的超级英雄自由",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "冒险"
+  ],
+  "tags": [
+    "动作",
+    "冒险"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "Steam 集换式卡牌",
+    "部分支持控制器",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "Rocksteady Studios"
+  ],
+  "publishers": [
+    "WB Games"
+  ],
+  "release_date": "2010 年 3 月 26 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语",
+    "法语",
+    "德语",
+    "意大利语",
+    "西班牙语 - 西班牙"
+  ],
+  "is_free": false,
+  "price_cny": 68.0,
+  "pc_requirements_min": "OS: Vista/XP\n\t                    Processor: 3Ghz Intel or AMD or any Dual Core\n\t                    Memory: 1GB Ram(XP)/2GB Ram\n\t                    Graphics: PCI Express SM3 NVidia 6600/ ATI 1300\n\t                    DirectX®: 9\n\t                    Hard Drive: 8GB free space\n\t                    Sound: Any onboard sound card",
+  "pc_requirements_rec": "",
+  "fetched_at": "2026-08-20T04:07:44Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 86975,
+  "review_percentage": 96.4,
+  "review_score": 9
+}

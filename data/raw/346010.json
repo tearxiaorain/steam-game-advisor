@@ -1,0 +1,69 @@
+{
+  "app_id": "346010",
+  "name": "Besiege",
+  "name_cn": "围攻",
+  "short_description": "Besiege是一款物理建造游戏，你需要在此建造战争机器以破坏安宁的村庄、歼灭军队并摧毁城堡。在战役中征服敌人，或与好友一起加入多人游戏，展开小规模战斗！",
+  "detailed_description": "版本\n\n关于游戏\n\nBesiege是一款物理建造游戏。在本游戏中，你需要建造机械装置来歼灭军队、摧毁城堡并克服充满挑战的障碍。在战役中征服敌人，或与好友一起加入多人游戏，展开小规模战斗！\n\nBesiege提供直观灵活的建造系统与丰富多彩的70+模块。无论是弹射器，坦克，还是直升机，你想象中的一切均可在此打造！\n\n游戏中的物理系统精巧复杂。无论你是在尽情释放毁灭之力，还是在亲眼目睹机器分崩离析，本游戏都能为你提供无与伦比的建造与模拟体验。\n\n一路征服，杀穿单人战役中的55个可摧毁关卡。战役跨越四大岛屿国度，其中每一个都有自己独特的环境特点，在此你将与高度发达的独特文明展开对抗。\n\n你还可在Besiege广袤的沙盒关卡中遨游，威震当地居民，磨练你的建造技巧并测试精心打造的原型机器。\n\n通过Steam创意工坊解锁超200,000台社区制造的机器，所有机器均可下载并在你自己的游戏中使用！\n\nBesiege Multiverse是一处供你与其他玩家建立联系的门户，便于各位在多人游戏中引发混乱。在史诗级战争机器战斗中正面交锋。或与好友一较高下，竞相完成关卡目标，或在自定义游戏模式中取得胜利。合作征服关卡、解决难题、摧毁军队和堡垒。\n\nBesiege拥有功能强大的关卡编辑工具，让你有机会与AI大军一决雌雄，还可同好友一起建造自定义环境！在编辑器逻辑系统的帮助下，你可实时改变关卡要素，创造独一无二的多人游戏体验。想要机器人战争、赛车或者足球比赛？没问题！只要你的创意无限，本游戏也不惧挑战！\n\nBesiege提供内置支持功能，使得玩家群体得以制作数百种模组，以及数千款自定义关卡与皮肤包。通过Besiege的Steam创意工坊集成与游戏内模组加载工具，你可轻松找到并安装此类模组。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "独立",
+    "模拟"
+  ],
+  "tags": [
+    "独立",
+    "模拟"
+  ],
+  "categories": [
+    "单人",
+    "多人",
+    "玩家对战",
+    "线上玩家对战",
+    "局域网玩家对战",
+    "合作",
+    "Steam 成就",
+    "Steam 集换式卡牌",
+    "Steam 创意工坊",
+    "Steam 排行榜",
+    "包含关卡编辑器",
+    "在平板上远程畅玩",
+    "家庭共享"
+  ],
+  "developers": [
+    "Spiderling Studios"
+  ],
+  "publishers": [
+    "Spiderling Studios"
+  ],
+  "release_date": "2020 年 2 月 18 日",
+  "platforms": [
+    "Windows",
+    "Mac",
+    "Linux"
+  ],
+  "supported_languages": [
+    "英语",
+    "法语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "日语",
+    "韩语",
+    "葡萄牙语 - 葡萄牙",
+    "俄语",
+    "简体中文",
+    "意大利语",
+    "波兰语",
+    "葡萄牙语 - 巴西",
+    "繁体中文",
+    "土耳其语"
+  ],
+  "is_free": false,
+  "price_cny": 58.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows XP 64bit (latest SP)\n处理器: 2.2Ghz Dual Core\n内存: 4 GB RAM\n显卡: 1 GB Dedicated VRAM\nDirectX 版本: 9.0c\n存储空间: 需要 3 GB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n操作系统: Windows 10\n处理器: 4Ghz Quad Core\n内存: 8 GB RAM\n显卡: 3 GB Dedicated VRAM\nDirectX 版本: 11\n存储空间: 需要 5 GB 可用空间",
+  "fetched_at": "2026-08-20T04:02:29Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 53139,
+  "review_percentage": 95.1,
+  "review_score": 9
+}

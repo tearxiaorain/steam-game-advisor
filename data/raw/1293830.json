@@ -1,0 +1,66 @@
+{
+  "app_id": "1293830",
+  "name": "Forza Horizon 4",
+  "name_cn": "极限竞速：地平线 4",
+  "short_description": "在世界上最盛大的汽车嘉年华上，不断变化的赛季改变着一切。单枪匹马或者与其他人组队，在一个共享开放世界中探索美丽而富有历史气息的英国。收集、改装和驾驶超过 450 辆车辆。尽情竞速、表演特技、创造和探索：选择您专属的方式来成为地平线中的超级巨星。",
+  "detailed_description": "极限竞速：地平线 4 终极版\n极限竞速：地平线 4 终极版数码捆绑包内含完整版游戏、车辆通行证、VIP 会员资格、Formula Drift 车辆包、无敌邦德车辆包，还有财富岛与 LEGO® Speed Champions 游戏扩充套件。\n\n极限竞速：地平线 4 豪华版\n极限竞速：地平线 4 豪华版数码捆绑包内含极限竞速：地平线 4 车辆通行证、方程式漂移车辆包。\n\n社区\n\n关于游戏在世界上最盛大的汽车嘉年华上，不断变化的赛季改变着一切。单枪匹马或者与其他人组队，在一个共享开放世界中探索美丽而富有历史气息的英国。收集、改装和驾驶超过 450 辆车辆。尽情竞速、表演特技、创造和探索：选择您专属的方式来成为地平线中的超级巨星。\n\n收集超过 450 辆车辆\n尽情享受包含超过 100 个授权车厂的最庞大和最多元化地平线车辆名单。\n尽情竞速、表演特技、创造和探索。\n在全新开放式剧情中，您做的任何事情都能推进您的游戏进度。\n探索开放世界\n现实玩家将遍布在您的世界中。所有游戏玩家都能在同一时间体验时间、天气和四季的变化。\n探索美丽而富有历史气息的英国\n体验您从未见过的英国。在壮丽的原生 4K 和 HDR 中探索湖泊、山谷、城堡和美不胜收的风景。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "竞速"
+  ],
+  "tags": [
+    "竞速"
+  ],
+  "categories": [
+    "单人",
+    "多人",
+    "玩家对战",
+    "线上玩家对战",
+    "合作",
+    "在线合作",
+    "跨平台多人",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "Playground Games"
+  ],
+  "publishers": [
+    "Xbox Game Studios"
+  ],
+  "release_date": "2021 年 3 月 9 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语*",
+    "意大利语",
+    "德语*",
+    "西班牙语 - 西班牙",
+    "捷克语",
+    "匈牙利语",
+    "日语",
+    "韩语",
+    "波兰语",
+    "葡萄牙语 - 巴西*",
+    "俄语",
+    "简体中文",
+    "西班牙语 - 拉丁美洲*",
+    "繁体中文",
+    "土耳其语\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": null,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10 version 15063.0 or higher\n处理器: Intel i3-4170 @ 3.7Ghz OR Intel i5 750 @ 2.67Ghz\n内存: 8 GB RAM\n显卡: NVidia 650TI OR AMD R7 250x\nDirectX 版本: 12\n网络: 宽带互联网连接\n存储空间: 需要 80 GB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10 version 15063.0 or higher\n处理器: Intel i7-3820 @ 3.6Ghz\n内存: 12 GB RAM\n显卡: NVidia GTX 970 OR NVidia GTX 1060 3GB OR AMD R9 290x OR AMD RX 470\nDirectX 版本: 12\n网络: 宽带互联网连接\n存储空间: 需要 100 GB 可用空间",
+  "fetched_at": "2026-08-20T03:43:34Z",
+  "review_desc": "Very Positive",
+  "review_count": 303117,
+  "review_percentage": 90.9,
+  "review_score": 8
+}

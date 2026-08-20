@@ -1,0 +1,52 @@
+{
+  "app_id": "30",
+  "name": "Day of Defeat",
+  "name_cn": "",
+  "short_description": "重现第二次世界大战中，同盟国 与轴心国在欧洲战场那惊心动魄的历史时刻。 玩家可扮演轻型/冲锋/重型部步、狙击手或机枪手，每一个兵种都按照当时的条件装备了特殊的武器。 每一项任务都是根据重大的历史事件而设计。 并且，随着战争的日趋激烈，玩家必须与其队员配合行动才能完成每项任务特定的目标。",
+  "detailed_description": "重现第二次世界大战中，同盟国 与轴心国在欧洲战场那惊心动魄的历史时刻。 玩家可扮演轻型/冲锋/重型部步、狙击手或机枪手，每一个兵种都按照当时的条件装备了特殊的武器。 每一项任务都是根据重大的历史事件而设计。 并且，随着战争的日趋激烈，玩家必须与其队员配合行动才能完成每项任务特定的目标。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作"
+  ],
+  "tags": [
+    "动作"
+  ],
+  "categories": [
+    "多人",
+    "视角舒适度",
+    "可选颜色",
+    "自定义音量控制",
+    "立体声",
+    "已启用 Valve 反作弊保护",
+    "家庭共享"
+  ],
+  "developers": [
+    "Valve"
+  ],
+  "publishers": [
+    "Valve"
+  ],
+  "release_date": "2003 年 5 月 1 日",
+  "platforms": [
+    "Windows",
+    "Mac",
+    "Linux"
+  ],
+  "supported_languages": [
+    "英语",
+    "法语",
+    "德语",
+    "意大利语",
+    "西班牙语 - 西班牙"
+  ],
+  "is_free": false,
+  "price_cny": 22.0,
+  "pc_requirements_min": "最低配置：500 mhz 处理器，96mb 内存，16mb 显卡，Windows XP，鼠标，键盘，互联网连接\n\n建议配置：800 mhz 处理器，128mb 内存，32mb 以上的显卡，Windows XP，鼠标，键盘，互联网连接",
+  "pc_requirements_rec": "",
+  "fetched_at": "2026-08-20T04:08:25Z",
+  "review_desc": "Very Positive",
+  "review_count": 7363,
+  "review_percentage": 90.2,
+  "review_score": 8
+}

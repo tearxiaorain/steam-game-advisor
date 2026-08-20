@@ -1,0 +1,67 @@
+{
+  "app_id": "1497440",
+  "name": "COCOON",
+  "name_cn": "",
+  "short_description": "COCOON 由曾操刀 LIMBO 和 INSIDE 的首席游戏设计师 Jeppe Carlsen 倾心打造，带你踏上一场穿越世界的冒险之旅。掌握在不同世界之间跳跃穿梭的机制，解决各种错综复杂的难题，揭开宇宙之谜。",
+  "detailed_description": "COCOON 由 LIMBO and INSIDE 首席游戏设计师 Jeppe Carlsen 倾心打造，带你踏上一场穿越世界的冒险之旅。掌握在不同世界之间跳跃穿梭的运作机制，揭开宇宙之谜。\n\n穿梭世界\nCOCOON 是一款独特的益智冒险游戏，在游戏中，每个世界都存在于一个你可以背负的球体中。玩家需要开动脑筋，摸透在不同世界之间跳跃穿梭的核心机制，并尝试组合、操纵和重新排列这些世界，才能解决各种错综复杂的难题。\n\n外星机械\n与古代文明遗留下来的外星环境和生物力学装置互动。从工业结构体到巨大的有机洞穴，穿越独特而多样化的生物群落，并发现它们之间的联系。\n\n球体能力\n每个球体都有一种可以解锁的能力，解锁这种能力后，玩家可以将球体变成一种独特的工具，在其他世界中使用。玩家可以使用这些能力来发现隐藏的路线和物体，发射炮弹来触发开关等等。\n\n怪物守护者\n每个世界都有强大的守护者保护，你必须在激烈的战斗中与它们一较高下。每场战斗都是独一无二的，需要你掌握全新和称手的技能。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "冒险",
+    "独立"
+  ],
+  "tags": [
+    "冒险",
+    "独立"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "DUALSHOCK 控制器支持",
+    "DUALSHOCK 控制器支持",
+    "DualSense 控制器支持",
+    "DualSense 控制器支持",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "Geometric Interactive"
+  ],
+  "publishers": [
+    "Annapurna Interactive"
+  ],
+  "release_date": "2023 年 9 月 29 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语",
+    "法语",
+    "意大利语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "日语",
+    "葡萄牙语 - 葡萄牙",
+    "葡萄牙语 - 巴西",
+    "俄语",
+    "简体中文",
+    "西班牙语 - 拉丁美洲",
+    "繁体中文",
+    "韩语",
+    "土耳其语",
+    "波兰语",
+    "荷兰语",
+    "丹麦语"
+  ],
+  "is_free": false,
+  "price_cny": 95.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10\n处理器: Intel Core i7-2600 or AMD FX-8350\n内存: 6 GB RAM\n显卡: NVIDIA GeForce GTX 950, 2 GB or AMD Radeon R9 380, 4 GB\n存储空间: 需要 3 GB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10\n处理器: Intel Core i7-3770 or AMD Ryzen 5 1400\n内存: 8 GB RAM\n显卡: NVIDIA GeForce GTX 960, 4 GB or AMD Radeon RX 590, 8 GB\n存储空间: 需要 3 GB 可用空间",
+  "fetched_at": "2026-08-20T03:37:40Z",
+  "review_desc": "Very Positive",
+  "review_count": 8907,
+  "review_percentage": 94.8,
+  "review_score": 8
+}

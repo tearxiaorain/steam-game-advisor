@@ -1,0 +1,59 @@
+{
+  "app_id": "420530",
+  "name": "OneShot",
+  "name_cn": "",
+  "short_description": "\"一次机会\" 是一款超现实主义的、自上而下的迷宫/冒险游戏，其中的游戏功能独一无二。你的任务是指导一个小孩穿过神秘的世界，去完成复活死去已久的太阳的使命。这个世界知道你的存在。",
+  "detailed_description": "OneShot: World Machine Edition《OneShot: World Machine Edition》现已登陆 Steam！\n\n这个版本新增一个名为 World Machine 的操作系统，让游戏可以在 Windows 电脑及 Steam Deck 上游玩。\n\n除此之外，还为玩家提供更佳画质、全新 UI 界面、角色档案艺廊及完整支持模拟移动控制技术等更佳游戏体验！\n\n关于游戏\n\n一款超现实主义的迷宫冒险游戏，拥有独一无二的游戏机制/功能。\n\n你的任务是指导一个小孩穿过神秘的世界，去完成复活死去已久的太阳的使命。\n\n……当然，事情永远不会那么简单。\n\n这个世界知道你的存在。\n\n后果是真实存在的。\n\n拯救世界或许不可行。\n\n你只有一次机会。\n\n特点游戏机制超出游戏窗口的限制。 \n令人无法忘怀的原声音乐和专门设计的插图旨在匹配游戏场景。\n在游戏和玩家之间建立一种独特的关系。\n给人一种挥之不去的感觉，那就是除非你知道要看向哪里，否则你就无法知道完整的故事。\n内容警告游戏的某些部分可能包含一些妄想的内容，不过 OneShot 并不是传统意义上的恐怖游戏。请谨慎游戏。正在关闭游戏窗口别担心，这样很安全。它只是在保存你的游戏进度。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "冒险",
+    "休闲",
+    "独立"
+  ],
+  "tags": [
+    "冒险",
+    "休闲",
+    "独立"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "Steam 集换式卡牌",
+    "部分支持控制器",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "Future Cat LLC"
+  ],
+  "publishers": [
+    "KOMODO"
+  ],
+  "release_date": "2016 年 12 月 8 日",
+  "platforms": [
+    "Windows",
+    "Mac",
+    "Linux"
+  ],
+  "supported_languages": [
+    "英语",
+    "日语",
+    "法语",
+    "西班牙语 - 西班牙",
+    "葡萄牙语 - 巴西",
+    "韩语",
+    "简体中文",
+    "意大利语",
+    "俄语"
+  ],
+  "is_free": false,
+  "price_cny": 42.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows Vista or later\n内存: 4 GB RAM\n显卡: OpenGL 2.1 compatible",
+  "pc_requirements_rec": "推荐配置:\n操作系统: \n内存: 4 GB RAM\n显卡:",
+  "fetched_at": "2026-08-20T04:26:26Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 64681,
+  "review_percentage": 98.2,
+  "review_score": 9
+}

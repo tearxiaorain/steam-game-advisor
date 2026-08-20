@@ -1,0 +1,48 @@
+{
+  "app_id": "823130",
+  "name": "Totally Accurate Battlegrounds",
+  "name_cn": "",
+  "short_description": "Grab your balloon crossbow and trusty inflatable hammer, because things are about to get wobbly! Be the last weirdo standing in the world-leading physics-based Battle Royale game.",
+  "detailed_description": "Battle Royal like you've never seen it before. Start the match skydiving face-first into a building and end the game by beating your opponents in a guns-blazing game of the floor is lava.Features Up to 60 players (wobblin' around)\nSquad, duo and solo mode (great for first dates)\nPhysics-based parkour (the wobblier the better)\nFun-sized map (for fun-sized people)\n90+ weapons (including a shallow pot with a long handle)\nCatchphrases (Speak freely in this game... Using 3 words)\nBlessings and curses for those of you who do well (and not so well)\nLimbo (u not dead yet mate)",
+  "description_lang_short": "en",
+  "description_lang_detail": "en",
+  "genres": [
+    "动作",
+    "独立",
+    "免费开玩"
+  ],
+  "tags": [
+    "动作",
+    "独立",
+    "免费开玩"
+  ],
+  "categories": [
+    "多人",
+    "玩家对战",
+    "线上玩家对战",
+    "应用内购买",
+    "家庭共享"
+  ],
+  "developers": [
+    "Landfall"
+  ],
+  "publishers": [
+    "Landfall"
+  ],
+  "release_date": "2018 年 6 月 5 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语"
+  ],
+  "is_free": true,
+  "price_cny": 0.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Win 7 64 bit\n处理器: Intel i5 @2.5 GHz or equivalent\n内存: 8 GB RAM\n显卡: GTX 770 or AMD R9 280\nDirectX 版本: 11\n网络: 宽带互联网连接\n存储空间: 需要 5 GB 可用空间\n附注事项: Only runs on 64 bit systems",
+  "pc_requirements_rec": "推荐配置:\n操作系统: Win10 64 bit\n处理器: Intel i5 @3.0 GHz or AMD Ryzen 5\n内存: 8 GB RAM\n显卡: GeForce GTX 1650 or AMD RX 470\nDirectX 版本: 11\n网络: 宽带互联网连接\n存储空间: 需要 5 GB 可用空间\n附注事项: Only runs on 64 bit systems",
+  "fetched_at": "2026-08-20T04:05:41Z",
+  "review_desc": "Very Positive",
+  "review_count": 87761,
+  "review_percentage": 88.5,
+  "review_score": 8
+}

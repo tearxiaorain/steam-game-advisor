@@ -1,0 +1,67 @@
+{
+  "app_id": "268910",
+  "name": "Cuphead",
+  "name_cn": "",
+  "short_description": "《茶杯头》是一款以BOSS对战为主的经典横版卷轴类射击游戏。受上世纪30年代动画片的启发，游戏无论是画面还是音效都努力再现了当时的技术，如传统的赛璐璐手绘动画、水彩背景还有原声爵士乐录音等。",
+  "detailed_description": "《茶杯头》是一款以BOSS对战为主的经典横版卷轴类射击游戏。受上世纪30年代动画片的启发，游戏无论是画面还是音效都努力再现了当时的技术，如传统的赛璐璐手绘动画、水彩背景还有原声爵士乐录音等。\n\r\n\n\r\n在游戏中扮演茶杯头或马克杯人（有单人模式或本地双人合作模式），穿越奇异的世界，收集新武器，掌握强力酷炫招式并探索隐藏的秘密，为还清欠魔鬼的债务而奋战。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "独立"
+  ],
+  "tags": [
+    "动作",
+    "独立"
+  ],
+  "categories": [
+    "单人",
+    "多人",
+    "合作",
+    "同屏/分屏合作",
+    "同屏/分屏",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "Steam 云",
+    "在手机上远程畅玩",
+    "在平板上远程畅玩",
+    "在电视上远程畅玩",
+    "远程同乐",
+    "家庭共享"
+  ],
+  "developers": [
+    "Studio MDHR Entertainment Inc."
+  ],
+  "publishers": [
+    "Studio MDHR Entertainment Inc."
+  ],
+  "release_date": "2017 年 9 月 29 日",
+  "platforms": [
+    "Windows",
+    "Mac"
+  ],
+  "supported_languages": [
+    "英语",
+    "法语",
+    "意大利语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "日语",
+    "韩语",
+    "波兰语",
+    "葡萄牙语 - 巴西",
+    "俄语",
+    "简体中文",
+    "西班牙语 - 拉丁美洲"
+  ],
+  "is_free": false,
+  "price_cny": 68.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统 *: Windows 7\n处理器: Intel Core2 Duo E8400, 3.0GHz or AMD Athlon 64 X2 6000+, 3.0GHz or higher\n内存: 3 GB RAM\n显卡: Geforce 9600 GT or AMD HD 3870 512MB or higher\nDirectX 版本: 11\n存储空间: 需要 4 GB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统",
+  "fetched_at": "2026-08-20T04:28:46Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 219690,
+  "review_percentage": 96.2,
+  "review_score": 9
+}

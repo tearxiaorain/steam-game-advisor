@@ -1,0 +1,46 @@
+{
+  "app_id": "786520",
+  "name": "SAO Utils: Beta",
+  "name_cn": "",
+  "short_description": "SAO Utils 是一款专注于 ACG 主题化的完全潜行 3D 应用启动器，除此之外更为玩家提供各种各样主题、桌面挂件及强大的实用工具。",
+  "detailed_description": "特别版\n\n2022 年 11 月 6 日，全新版本 SAO Utils 2: Progressive 正式开始公测！\n任何人都可以在 Steam 免费游玩或 在主页免费下载，并不会有任何使用限制。\n\n本商店页面购入的是 SAO Utils 的 捐助版本，\n可享受 Steam 的创意工坊、成就系统及配置云备份等服务。\n本软件为个人项目，请勿用于商业用途，十分感谢一直以来支持的玩家！\n\nSAO Utils 适合一定动手能力的玩家使用，启动器菜单及桌面挂件可以按需要自行定制。\n本软件不是系统主题软件，不提供任何壁纸更换功能。\n\n本项目仍在开发阶段，欢迎各位玩家通过 讨论区 反馈问题。\n\n关于软件SAO Utils 是一款专注于 ACG 主题化的完全潜行 3D 应用启动器，除此之外更为玩家提供各种各样主题、桌面挂件及强大的实用工具。\n\n内建的立体支持甚至允许您通过立体显示设备在身临的启动器虚拟空间中同时浏览多个网页。\n\n它所设计的插件模式，可以让任何的开发者为其设计插件并让其自动加载。功能介绍滑动启动\n时随地、在屏幕任何地方，按住鼠标 左键 和 右键 并向下拖动，即可呼出应用启动菜单。触控设备直接支持双指下滑手势。\n编辑菜单\n鼠标 右键 任何菜单项目，即可进入编辑模式。拖拽钮改变项目位置，还可以从文件管理器直接拖放文件。\n桌面挂件\n把喜欢的图片、网页、动画、笔记…或是各种系统状态数据，装饰到您的桌面上。\n立体模式\n您可以通过启动器内建的立体模式显示支持，观看网页或视频：\n左右立体（压缩）\n左右立体（裁剪）\n左右立体（缩放）\n分色立体开启立体模式：\n在 “首选项” - “图形” - “立体眼镜” 设置页，勾选任意一个立体模式并 保存。立体模式操作：\n在启动器背景上，按住鼠标 右键 并上下拖动，可以调整可视范围。\n在网页浏览器上，按住鼠标 右键 并上下拖动，可以调整网页距离。配置迁移如果想从其他版本迁移应用配置，可在 Steam 启动选项中运行 “启动配置工具”。\n支持 Steam 云配置，随时随地同步你的应用配置及启动器菜单。创意工坊寻找更多图标、ACG 音效、主题或插件： SAO Utils 创意工坊。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "实用工具",
+    "抢先体验"
+  ],
+  "tags": [
+    "实用工具",
+    "抢先体验"
+  ],
+  "categories": [
+    "Steam 创意工坊",
+    "Steam 云"
+  ],
+  "developers": [
+    "Joshua Chen"
+  ],
+  "publishers": [
+    "Studio GPBeta"
+  ],
+  "release_date": "2018 年 3 月 14 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语",
+    "日语",
+    "简体中文",
+    "繁体中文"
+  ],
+  "is_free": false,
+  "price_cny": 19.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows® Vista or above\n处理器: Intel® Core™ 2 Duo or AMD Phenom™ X3 processor or better\n内存: 2 GB RAM\n显卡: 512MB VRAM compatible with DirectX 9 and OpenGL 2.0\nDirectX 版本: 9.0c\n存储空间: 需要 512 MB 可用空间",
+  "pc_requirements_rec": "",
+  "fetched_at": "2026-08-20T04:22:50Z",
+  "review_desc": "Very Positive",
+  "review_count": 3034,
+  "review_percentage": 87.8,
+  "review_score": 8
+}

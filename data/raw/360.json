@@ -1,0 +1,48 @@
+{
+  "app_id": "360",
+  "name": "Half-Life Deathmatch: Source",
+  "name_cn": "",
+  "short_description": "Half-Life Deathmatch: Source 是 Half-Life 世界中的首款多人娱乐游戏。 集合所有的经典武器和热门地图，现在已经能在 Source 引擎上运行。",
+  "detailed_description": "Half-Life Deathmatch: Source 是 Half-Life 世界中的首款多人娱乐游戏。 集合所有的经典武器和热门地图，现在已经能在 Source 引擎上运行。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作"
+  ],
+  "tags": [
+    "动作"
+  ],
+  "categories": [
+    "多人",
+    "视角舒适度",
+    "自定义音量控制",
+    "无需应对快速反应事件",
+    "立体声",
+    "环绕声",
+    "已启用 Valve 反作弊保护",
+    "家庭共享"
+  ],
+  "developers": [
+    "Valve"
+  ],
+  "publishers": [
+    "Valve"
+  ],
+  "release_date": "2006 年 5 月 1 日",
+  "platforms": [
+    "Windows",
+    "Linux"
+  ],
+  "supported_languages": [
+    "英语"
+  ],
+  "is_free": false,
+  "price_cny": 42.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows® 7 (32/64-bit)/Vista/XP\n处理器: 1.7 GHz Processor, requires support for SSE\n内存: 1024 MB RAM\nDirectX 版本: 8.1\n网络: 宽带互联网连接\n存储空间: 需要 4 GB 可用空间",
+  "pc_requirements_rec": "",
+  "fetched_at": "2026-08-20T04:00:35Z",
+  "review_desc": "Mostly Positive",
+  "review_count": 5569,
+  "review_percentage": 75.5,
+  "review_score": 6
+}

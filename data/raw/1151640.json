@@ -1,0 +1,68 @@
+{
+  "app_id": "1151640",
+  "name": "Horizon Zero Dawn™ Complete Edition",
+  "name_cn": "",
+  "short_description": "化身为埃洛伊，体验传奇冒险之旅，揭开致命机器统治世界的神秘面纱。一出生便遭放逐的年轻猎人，必须为制止危害人类的威胁而竭力奋战。在这款屡次获奖的角色扮演类动作游戏中，向机器发起毁灭性战略进攻，探索壮阔的开放世界！",
+  "detailed_description": "地球不再由人类主宰\n\r\n\n\r\n化身为埃洛伊，完整体验她的传奇冒险之旅，揭开致命机器统治世界的神秘面纱。\n\r\n\n\r\n被自己的部落放逐的年轻猎人埃洛伊，勇敢踏上旅途，探索自己的身世之谜和命运，为制止危害未来的灾难性威胁而竭力奋战。\n\r\n\n\r\n在这个危机四伏的野外世界冒险途中，你将对奇异的机器和敌对部落发起毁灭性的战略进攻。\n\r\n\n\r\n屡次获奖的《地平线 零之曙光™》是一款角色扮演类动作游戏，此PC完整版包含新增地图、技能、武器和机器的大型扩充内容《冰尘雪野》。\n\r\n\n\r\n内含：\n\r\n• 《地平线 零之曙光》\n\r\n• 扩充内容《冰尘雪野》\n\r\n• 卡加族风暴突击队装束及卡加巨弓\n\r\n• 卡加交易者包\n\r\n• 贝纳克族开拓者装束及贝纳克汰杀弓\n\r\n• 贝纳克旅行者包\n\r\n• 诺拉族看守人包",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "冒险",
+    "角色扮演"
+  ],
+  "tags": [
+    "动作",
+    "冒险",
+    "角色扮演"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 云",
+    "在平板上远程畅玩",
+    "家庭共享"
+  ],
+  "developers": [
+    "Guerrilla"
+  ],
+  "publishers": [
+    "PlayStation Publishing LLC"
+  ],
+  "release_date": "2020 年 8 月 7 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语*",
+    "意大利语*",
+    "德语*",
+    "西班牙语 - 西班牙*",
+    "阿拉伯语*",
+    "丹麦语",
+    "荷兰语",
+    "芬兰语",
+    "日语",
+    "韩语",
+    "挪威语",
+    "波兰语*",
+    "葡萄牙语 - 葡萄牙*",
+    "葡萄牙语 - 巴西*",
+    "俄语*",
+    "简体中文",
+    "西班牙语 - 拉丁美洲*",
+    "瑞典语",
+    "繁体中文\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": null,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10 64-bits\n处理器: Intel Core i5-2500K@3.3GHz or AMD FX 6300@3.5GHz\n内存: 8 GB RAM\n显卡: Nvidia GeForce GTX 780 (3 GB) or AMD Radeon R9 290 (4GB)\nDirectX 版本: 12\n存储空间: 需要 100 GB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10 64-bits\n处理器: Intel Core i7-4770K@3.5GHz or Ryzen 5 1500X@3.5GHz\n内存: 16 GB RAM\n显卡: Nvidia GeForce GTX 1060 (6 GB) or AMD Radeon RX 580 (8GB)\nDirectX 版本: 12\n存储空间: 需要 100 GB 可用空间",
+  "fetched_at": "2026-08-20T04:18:59Z",
+  "review_desc": "Very Positive",
+  "review_count": 128179,
+  "review_percentage": 88.0,
+  "review_score": 8
+}

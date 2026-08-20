@@ -1,0 +1,69 @@
+{
+  "app_id": "2290180",
+  "name": "Riders Republic",
+  "name_cn": "极限国度",
+  "short_description": "跃入广阔的多人游乐场！带上单车、双板滑雪板、滑雪板或飞鼠装，尽情探索这堪称运动天堂的开放世界，在这里，一切的规则由你制定，由你打破。",
+  "detailed_description": "Season 18 Roadmap\n\nComparative Grid\n\n高级版\n\n高级版内含：\n\n- 基础游戏\n\n- 服装组合包：Run Fast、Riding Sun、Yellow Leaves、Quack & Grind 组合包- 职业组合包：滑板、极限单车扩充内容，以及山脊终极赛组合包（内含 8 场赛事）\n\n- 疯狂组合包：Pockett 车车、Pockett 飞机、Pockett 气垫船和决战玩具组合包（内含 3 件玩具）\n\n豪华版\n\n豪华版内含：\n\n- 基础游戏\n\n- 服装组合包：Run Fast、Riding Sun、Yellow Leaves、Quack & Grind 组合包\n\n关于游戏大型多人竞速与动态更新内容  \n与超过 50 名玩家正面交锋，一路激战冲向终点线！极限国度将持续进化，带来季节性赛事、全新运动项目与各类挑战。随时加入即兴跑酷、特技竞赛，或是悠闲的团队骑行。这片广阔的多人游乐场总会给你无尽的新理由，让你随时加入，随时出发，尽情竞速！探索生机勃勃、无缝衔接的开放世界  \n你将在这个广阔的世界自由驰骋，穿越都市街道，探索美国标志性国家公园，如优胜美地、锡安、布莱斯峡谷、黄石、大峡谷等，随心切换单车、双板滑雪板、滑雪板或飞鼠装。自定义你的角色  \n解锁超多外观道具，从经典品牌到传奇街头服饰，助你打造专属造型，在征服雪坡与小径时尽显个人风格。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "大型多人在线",
+    "体育"
+  ],
+  "tags": [
+    "大型多人在线",
+    "体育"
+  ],
+  "categories": [
+    "单人",
+    "多人",
+    "玩家对战",
+    "线上玩家对战",
+    "合作",
+    "在线合作",
+    "跨平台多人",
+    "Steam 成就",
+    "支持字幕",
+    "应用内购买",
+    "DUALSHOCK 控制器支持",
+    "DUALSHOCK 控制器支持",
+    "DualSense 控制器支持",
+    "DualSense 控制器支持",
+    "部分支持控制器",
+    "可用 HDR"
+  ],
+  "developers": [
+    "Ubisoft Annecy",
+    "Ubisoft Belgrade",
+    "Ubisoft Kyiv",
+    "Ubisoft Pune",
+    "Ubisoft Odesa"
+  ],
+  "publishers": [
+    "Ubisoft Entertainment"
+  ],
+  "release_date": "2023 年 6 月 8 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语*",
+    "意大利语",
+    "德语*",
+    "西班牙语 - 西班牙",
+    "简体中文",
+    "繁体中文",
+    "韩语",
+    "日语\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 168.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10 (64 bit only)\n处理器: Intel i5-4460 / AMD Ryzen 5 1400\n内存: 8 GB RAM\n显卡: Nvidia GeForce GTX 970 (4GB) / AMD RX 470 (4 GB)\nDirectX 版本: 12\n存储空间: 需要 20 GB 可用空间\n声卡: DirectX® compatible sound card with latest drivers\n附注事项: Windows Compatible Mouse & Keyboard. Online conneciton required. Controller highly recommended",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10 (64 bit only)\n处理器: Intel i7-4790 / AMD Ryzen 5 1600\n内存: 8 GB RAM\n显卡: Nvidia GeForce GTX 1060 (6 GB) / AMD Radeon RX 570 (8 GB)\nDirectX 版本: 12\n存储空间: 需要 20 GB 可用空间\n声卡: DirectX® compatible sound card with latest drivers\n附注事项: Windows Compatible Mouse & Keyboard. Onmline Connection required. Controller highly recommended",
+  "fetched_at": "2026-08-20T04:03:56Z",
+  "review_desc": "Very Positive",
+  "review_count": 31698,
+  "review_percentage": 81.8,
+  "review_score": 8
+}

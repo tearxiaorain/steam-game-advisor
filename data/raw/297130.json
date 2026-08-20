@@ -1,0 +1,53 @@
+{
+  "app_id": "297130",
+  "name": "Titan Souls",
+  "name_cn": "",
+  "short_description": "在我们的世界和外界之间，存在着泰坦的灵魂，它是精神的源泉以及所有生物的总和。现在，这些都散落在废墟之中，被空闲的泰坦小心地守护着。一名英雄，只装备一支箭，再次独自踏上收集泰坦灵魂碎片，追寻真理与力量的道路。",
+  "detailed_description": "数字特别版泰坦之魂特别版包括一个电子艺术集，世界地图，完整的原声专辑以及桌面背景。所有的文件都可以在你硬盘上的游戏文件夹中找到。\n\n关于游戏在我们的世界和外界之间，存在着泰坦的灵魂，它是精神的源泉以及所有生物的总和。现在，这些都散落在废墟之中，被空闲的泰坦小心地守护着。一名英雄，只装备一支箭，再次独自踏上收集泰坦灵魂碎片，追寻真理与力量的道路。\n\n巨大的泰坦： 探索你祖先古老的遗址，揭露超凡而独一无二的泰坦，每个泰坦都有自己凶猛的攻击方式以及隐藏的弱点。探寻它们的弱点杀戮这些怪兽，然后吸收它们蕴含的原始力量。\n\n简单的战斗： 将你唯一的箭头射向怪物般的泰坦，然后把它召回手中来释放另一发强力攻击。从泰坦的攻击下奔跑冲刺，但是不要畏惧死亡，因为它充斥在泰坦之魂中，也是不可避免的。\n\n奥秘： 这个世界不是没有秘密。被长久遗忘的泰坦隐藏在阴影中，徘徊在这片大陆最遥远的角落-找到它们，摧毁它们，夺走灵魂，发现这里隐藏的真正力量。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "冒险",
+    "独立"
+  ],
+  "tags": [
+    "动作",
+    "冒险",
+    "独立"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "在电视上远程畅玩",
+    "家庭共享"
+  ],
+  "developers": [
+    "Acid Nerve"
+  ],
+  "publishers": [
+    "Devolver Digital"
+  ],
+  "release_date": "2015 年 4 月 14 日",
+  "platforms": [
+    "Windows",
+    "Mac"
+  ],
+  "supported_languages": [
+    "英语",
+    "德语",
+    "法语",
+    "西班牙语 - 西班牙",
+    "葡萄牙语 - 巴西"
+  ],
+  "is_free": false,
+  "price_cny": 58.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows Vista/7/8\n处理器: 2.0 Ghz i5 or better\n内存: 4 GB RAM\n显卡: 1GB Video RAM\nDirectX 版本: 10\n存储空间: 需要 400 MB 可用空间\n附注事项: PlayStation 4 or Xbox 360 Gamepad Recommended",
+  "pc_requirements_rec": "",
+  "fetched_at": "2026-08-20T04:07:12Z",
+  "review_desc": "Mostly Positive",
+  "review_count": 13798,
+  "review_percentage": 78.8,
+  "review_score": 6
+}

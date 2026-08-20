@@ -1,0 +1,72 @@
+{
+  "app_id": "1260320",
+  "name": "Party Animals",
+  "name_cn": "猛兽派对",
+  "short_description": "这是一款基于物理的多人派对游戏。选择你喜欢的小动物角色，和朋友们一起挑战其他玩家，或者展开激烈的对决吧！看到毛绒绒的小动物们你还不心动吗？",
+  "detailed_description": "猛兽派对豪华版\n豪华版包含：\n猛兽派对主游戏\n猛兽钱钱*1300\n浴袍瓜（猛兽皮肤 + 玩家头像 + 头像框）\n浴袍鳄霸（猛兽皮肤 + 玩家头像 + 头像框）\n浴袍加肥（猛兽皮肤 + 玩家头像 + 头像框）\n金色尼莫 （猛兽外观 + 玩家头像）\n金色玛奇朵（猛兽外观 + 玩家头像）\n金色鳄霸（猛兽外观 + 玩家头像）\n\n关注我们关注我们获得最新游戏动态吧～\n微信公众号： PartyAnimalsGame\n正经微博：猛兽派对 (游戏动态)\n不正经微博：HappyHappyNemo (日常分享游戏视频) \n小红书：猛兽派对\nB站：猛兽派对\n\n关于游戏 和你的朋友一起开一场动物派对吧 \n\n 用100种不同的方式和朋友们打打闹闹 \n\n或者团结起来消灭对手\n\n有时也很考验团队合作\n\n尤其是要争抢小熊软糖的时候",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "休闲",
+    "独立"
+  ],
+  "tags": [
+    "动作",
+    "休闲",
+    "独立"
+  ],
+  "categories": [
+    "单人",
+    "多人",
+    "玩家对战",
+    "线上玩家对战",
+    "同屏/分屏玩家对战",
+    "合作",
+    "在线合作",
+    "同屏/分屏合作",
+    "同屏/分屏",
+    "跨平台多人",
+    "Steam 成就",
+    "完全支持控制器",
+    "应用内购买",
+    "推荐使用手柄",
+    "DUALSHOCK 控制器支持",
+    "DUALSHOCK 控制器支持",
+    "DualSense 控制器支持",
+    "DualSense 控制器支持",
+    "远程同乐",
+    "家庭共享"
+  ],
+  "developers": [
+    "Recreate Games"
+  ],
+  "publishers": [
+    "Source Technology"
+  ],
+  "release_date": "2023 年 9 月 20 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语*",
+    "简体中文*",
+    "繁体中文*",
+    "法语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "日语",
+    "韩语",
+    "葡萄牙语 - 巴西",
+    "泰语\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 98.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统: 支持 64 位 Windows 10、64 位 Windows 11\n处理器: Intel Core i5 或 AMD 同等配置\n内存: 8 GB RAM\n显卡: NVIDIA GTX 750-Ti 或 AMD RX 550, 2GB VRam\nDirectX 版本: 11\n网络: 宽带互联网连接\n存储空间: 需要 12 GB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: 支持 64 位 Windows 10、64 位 Windows 11\n处理器: Intel Core i5 7500K 或 AMD 同等配置\n内存: 16 GB RAM\n显卡: NVIDIA GTX 1060 或 AMD RX 580, 4GB VRam 或 Intel Arc A380\nDirectX 版本: 11\n网络: 宽带互联网连接\n存储空间: 需要 12 GB 可用空间",
+  "fetched_at": "2026-08-20T04:01:36Z",
+  "review_desc": "Mostly Positive",
+  "review_count": 78724,
+  "review_percentage": 79.8,
+  "review_score": 6
+}

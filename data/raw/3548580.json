@@ -1,0 +1,58 @@
+{
+  "app_id": "3548580",
+  "name": "Chill with You : Lo-Fi Story",
+  "name_cn": "放松时光：与你共享Lo-Fi故事",
+  "short_description": "「放松时光：与你共享Lo-Fi故事」是一个与喜欢写故事的女孩聪音一起工作的有声小说游戏。您可以自定义艺术家的原创乐曲、环境音和风景，以营造一个专注于工作的环境。在与聪音的关系加深的过程中，您可能会发现与她之间的特别联系。",
+  "detailed_description": "**《放松时光：与你共享Lo-Fi故事》**是一款帮助你专注于工作的有声小说游戏，让你与喜爱写小说、充满幻想的少女——聪音（Satone）一起在书桌前工作。去自由定义那些展现聪音情感的Lofi音乐、环境音和风景吧，能帮助自己更专注于工作！随着你投入更多时间与她共度，彼此的信任关系将逐渐加深，或许你们的心灵也能真正相通……？\n\n提升专注力且情感丰富的音乐无论是想舒缓地轻松地工作，还是通过情感丰富的旋律激发内心能量，*《Chill Talk》*都准备了适合各种工作场景的原创乐曲。\n\n在实力派音乐艺术家的高质量作品的陪伴下，请尽情沉浸于工作的乐趣之中吧。\n\n唤醒人类本能的多样化自然声音有时候，关掉音乐，倾听风声、雨声等大自然的声音，让自己的神经沉浸于如置身原野般的宁静中。\n你可以自由调整环境音，打造最适合自己的工作氛围。\n\n专注力最大化的番茄钟计时器在开始工作前，设置番茄钟计时器来管理休息时间。定期安排短暂休息，能够大幅提升专注力和工作效率。\n\n文学少女聪音内心的秘密在工作的休息时间与聪音交流吧！随着你们共度「珍贵时光」，彼此的关系将逐渐加深。当她足够信任你时，也许会对你敞开心扉……",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "冒险",
+    "休闲",
+    "独立"
+  ],
+  "tags": [
+    "冒险",
+    "休闲",
+    "独立"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "自定义音量控制",
+    "可以仅用鼠标",
+    "无需应对快速反应事件",
+    "立体声",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "Nestopi Inc."
+  ],
+  "publishers": [
+    "Nestopi Inc."
+  ],
+  "release_date": "2025 年 11 月 16 日",
+  "platforms": [
+    "Windows",
+    "Mac"
+  ],
+  "supported_languages": [
+    "英语",
+    "简体中文",
+    "繁体中文",
+    "日语*",
+    "葡萄牙语 - 巴西",
+    "俄语",
+    "韩语\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 39.0,
+  "pc_requirements_min": "最低配置:\n操作系统: Windows 10/11\n处理器: Intel Core i5-7400\n内存: 8 GB RAM\n显卡: NVIDIA GeForce GTX 1050 Ti\nDirectX 版本: 11\n存储空间: 需要 5 GB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n操作系统: Windows 10/11\n处理器: Intel Core i7-9700\n内存: 8 GB RAM\n显卡: NVIDIA GeForce RTX 2060\nDirectX 版本: 11\n存储空间: 需要 5 GB 可用空间",
+  "fetched_at": "2026-08-20T04:00:45Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 12352,
+  "review_percentage": 98.3,
+  "review_score": 9
+}

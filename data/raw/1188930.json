@@ -1,0 +1,56 @@
+{
+  "app_id": "1188930",
+  "name": "Chrono Ark",
+  "name_cn": "超时空方舟",
+  "short_description": "超时空方舟是一款混合了组队RPG、卡牌构筑、Roguelike要素于一体的单机游戏。通过招募拥有特殊能力的队员并学习各种技能，组成最强的队伍，最终拯救扭曲的世界。",
+  "detailed_description": "欢迎加入玩家交流群：963085812，若遇到bug可在群内反馈\n\n关注B站账号：@ChronoArk \n\n游戏特点超时空方舟是一款混合了组队RPG、卡牌构筑、Roguelike要素于一体的单机游戏。\n\n通过招募拥有特殊能力的队员并学习各种技能，组成最强的队伍，最终拯救扭曲的世界。 \n\n \n\n \n\n组队战斗卡牌构筑 最多招募4名队员，通过使用卡牌形式的技能和能力与怪物进行战斗。您可以制定最佳的策略，通过角色之间的配合，打造最强的组合。队员和主人公露西的技能是以卡牌形式在战斗中使用。当然您可以自己选择学习哪一个技能！\n\nRoguelite超时空方舟与一般的RPG不同，在遭遇团灭时，将全部重启，您可以重新招募队员，此后能够获得的技能也会发生变化。所以即使团灭也不必感到害怕！\n\n \n\n剧情很久以前，世界被黑色迷雾笼罩，幸存下来的人类为了避难进入了“方舟”。\n\n恢复旧世界的方法只有一个，那就是收集散落在各地的“时空之影”，启动钟楼。\n\n只要启动钟楼，世界就可以重新回到和平的年代… \n\n \n\n失去记忆的“露西”在“方舟”下面的扭曲之地醒来，她脑中仅存的记忆告诉她，必须要启动钟楼… \n\n为此，玩家和露西一起成立调查团，踏上了去寻找“时空之影”的旅程。 \n\n \n\n重玩价值这里有20名队员、无数技能（卡牌）、道具、遗物、露西技能、事件，以及拥有独特行为模式的BOSS……\n\n带上你的队伍，前往扭曲之地，探索出属于自己的战术策略吧！",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "冒险",
+    "独立",
+    "角色扮演",
+    "策略"
+  ],
+  "tags": [
+    "冒险",
+    "独立",
+    "角色扮演",
+    "策略"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "Steam 集换式卡牌",
+    "Steam 创意工坊",
+    "部分支持控制器",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "Al Fine"
+  ],
+  "publishers": [
+    "Al Fine"
+  ],
+  "release_date": "2024 年 5 月 2 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语",
+    "韩语",
+    "日语",
+    "简体中文",
+    "繁体中文"
+  ],
+  "is_free": false,
+  "price_cny": 88.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows 7 or later\n处理器: Intel Core i3\n内存: 4 GB RAM\n显卡: 1gb VRAM, OpenGL 3.0 support\n存储空间: 需要 5 GB 可用空间",
+  "pc_requirements_rec": "",
+  "fetched_at": "2026-08-20T04:18:31Z",
+  "review_desc": "Very Positive",
+  "review_count": 13713,
+  "review_percentage": 90.6,
+  "review_score": 8
+}

@@ -1,0 +1,59 @@
+{
+  "app_id": "220700",
+  "name": "RPG Maker VX Ace",
+  "name_cn": "",
+  "short_description": "RPG Maker VX Ace improves on every aspect of creating your very own epic adventure. An extremely powerful editor, Ace supports multiple tilesets, offers full control over autoshadow and has a very flexible features system.",
+  "detailed_description": "THE LATEST VERSION OF RPG MAKER SERIES ON STEAM, \"RPG MAKER MZ\"THE LATEST INSTALLMENT IN THE RPG MAKER SERIES, RPG MAKER MZ, BRINGS SIGNIFICANT ENHANCEMENTS TO THE FEATURES INTRODUCED IN ITS PREDECESSOR, MV. IT IS A NO-CODE GAME DEVELOPMENT TOOL THAT SIMPLIFIES GAME CREATION, EVEN FOR BEGINNERS. IT INCORPORATES MANY NEW FEATURES, INCLUDING AUTO-SAVE AND EVENT SKIPPING.\n\nAbout the SoftwareSimple Enough for a Child. Powerful Enough for a Developer. \n\nRPG Maker VX Ace improves on every aspect of creating your very own epic adventure. An immensely powerful editor, Ace supports multiple tilesets, offers full control over autoshadow and has a very flexible features system.\n\nAce gives you all the tools you need to make that game you’ve always dreamed of, including the following features:\n\n•\tA powerful map editor to build your world.\n•\tA database to track your characters, skill, equipment and more, all improved with the powerful new flexible Features system.\n•\tNew event options, including support for Ogg Theora video.\n•\tAn expansive set of default resources, including a built in character generator to create your own sprites and faces.\n\nKey Features\n\nSimple, Powerful Tools \nRPG Maker VX Ace brings powerful new tools to the table to enhance your RPG-making potential. None of the previous engines can match Ace for flexibility, even for users with no coding knowledge. These features are powerful but also very easy to learn, with most accessed through a simple point and click interface.\n\nEnhanced Default Graphics \nRPG Maker VX Ace offers a large collection of new graphics, including 4 tilesets and the long-requested set of fallen character sprites. The engine is also compatible with all of the existing fan-made RPG Maker VX resources.\n\nExport Your Game \nOnce you’re ready to show your project off, you can easily export your game into a portable EXE file that can be played on ANY Windows system. Share it with your friends, family or with the vibrant RPG Maker community on the internet.",
+  "description_lang_short": "en",
+  "description_lang_detail": "en",
+  "genres": [
+    "冒险",
+    "角色扮演",
+    "设计和插画",
+    "教育",
+    "网络出版",
+    "游戏开发"
+  ],
+  "tags": [
+    "冒险",
+    "角色扮演",
+    "设计和插画",
+    "教育",
+    "网络出版",
+    "游戏开发"
+  ],
+  "categories": [
+    "Steam 集换式卡牌",
+    "Steam 创意工坊"
+  ],
+  "developers": [
+    "Gotcha Gotcha Games",
+    "KADOKAWA",
+    "Yoji Ojima"
+  ],
+  "publishers": [
+    "Gotcha Gotcha Games"
+  ],
+  "release_date": "2012 年 12 月 10 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语",
+    "法语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "意大利语",
+    "葡萄牙语 - 巴西",
+    "日语"
+  ],
+  "is_free": false,
+  "price_cny": 238.0,
+  "pc_requirements_min": "Minimum:\nOS *:Microsoft® Windows® XP / Vista / 7 (32-bit/64-bit)\n\tProcessor:Intel® Pentium® 4 2.0 GHz equivalent or faster processor\n\tMemory:512 MB RAM\n\tGraphics:1024 x 768 pixels or higher desktop resolution\n\tHard Drive:400 MB HD space",
+  "pc_requirements_rec": "Recommended:\nProcessor:Intel® Pentium® 4 2.0 GHz equivalent or faster processor\n\tMemory:512 MB RAM",
+  "fetched_at": "2026-08-20T04:29:59Z",
+  "review_desc": "Very Positive",
+  "review_count": 5186,
+  "review_percentage": 93.7,
+  "review_score": 8
+}

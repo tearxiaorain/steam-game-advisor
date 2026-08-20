@@ -1,0 +1,73 @@
+{
+  "app_id": "582160",
+  "name": "Assassin's Creed® Origins",
+  "name_cn": "刺客信条：起源",
+  "short_description": "在这款动作冒险游戏中，尽情探索古埃及。挑战强敌、揭穿阴谋，探索刺客兄弟会的起源故事。",
+  "detailed_description": "豪华版\n\n豪华版包括游戏本体与豪华组合包：\n\n- “海上突击”专属任务\n\n- 沙漠眼镜蛇组合包（1 款服装、1 匹坐骑、2 把武器、1 面盾牌）\n\n- 3 点能力点数\n\n黄金版\n\n黄金版包括游戏本体、季票与豪华组合包：\n\n- “无形者”扩展包\n\n- “法老的诅咒”扩展包\n\n- “罗马百夫长”组合包（1 款服装、1 匹坐骑、2 把武器、1 面盾牌）\n\n- “荷鲁斯”组合包（1 款服装、1 匹坐骑、2 把弓、1 面盾牌）\n\n- “海上突击”专属任务\n\n- “沙漠眼镜蛇”组合包（1 款服装、1 匹坐骑、2 把武器、1 面盾牌）\n\n- 3 点能力点数\n\n关于游戏广袤国度，等你探索从沙漠到绿洲，从地中海到吉萨古墓，沿着尼罗河顺流而下，战胜危险的远古势力、凶猛野兽，探索这片广阔无垠又充满未知的大地。\n\n为角色扮演增添动作玩法体验全新的战斗方式。搜刮、使用数十种不同稀有度和属性的武器。探索深度成长系统，通过独特的强大头目来考验你的本领。\n\n每次游玩都有新的故事从富贵名流到落魄流浪者，结交个性分明的角色，体验丰富多彩的任务与扣人心弦的故事。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "冒险",
+    "角色扮演"
+  ],
+  "tags": [
+    "动作",
+    "冒险",
+    "角色扮演"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "Steam 集换式卡牌",
+    "支持字幕",
+    "应用内购买",
+    "视角舒适度",
+    "自定义音量控制",
+    "可调整难度",
+    "可以仅用键盘",
+    "可以仅用鼠标",
+    "无需应对快速反应事件",
+    "随时保存",
+    "立体声",
+    "环绕声",
+    "部分支持控制器",
+    "在平板上远程畅玩",
+    "可用 HDR"
+  ],
+  "developers": [
+    "Ubisoft Montreal"
+  ],
+  "publishers": [
+    "Ubisoft"
+  ],
+  "release_date": "2017 年 10 月 26 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语*",
+    "意大利语*",
+    "德语*",
+    "西班牙语 - 西班牙*",
+    "捷克语",
+    "荷兰语",
+    "日语*",
+    "韩语",
+    "波兰语",
+    "葡萄牙语 - 巴西*",
+    "俄语*",
+    "简体中文",
+    "繁体中文\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 248.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10 (64-bit versions only)\n处理器: Intel Core i5-2400s @ 2.5 GHz or AMD FX-6350 @ 3.9 GHz or equivalent\n内存: 6 GB RAM\n显卡: NVIDIA GeForce GTX 660 or AMD R9 270 (2048 MB VRAM with Shader Model 5.0 or better)\nDirectX 版本: 11\n存储空间: 需要 42 GB 可用空间\n附注事项: Video Preset: Lowest (720p). Game contains Denuvo  and VMProtect  anti-piracy technology.",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10 (64-bit versions only)\n处理器: Intel Core i7- 3770 @ 3.5 GHz or AMD FX-8350 @ 4.0 GHz\n内存: 8 GB RAM\n显卡: NVIDIA GeForce GTX 760 or AMD R9 280X (3GB VRAM with Shader Model 5.0 or better)\n存储空间: 需要 42 GB 可用空间\n附注事项: Video Preset: High (1080p). Game contains Denuvo  and VMProtect  anti-piracy technology.",
+  "fetched_at": "2026-08-20T04:24:59Z",
+  "review_desc": "Very Positive",
+  "review_count": 128363,
+  "review_percentage": 85.9,
+  "review_score": 8
+}

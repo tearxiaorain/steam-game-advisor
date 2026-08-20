@@ -1,0 +1,51 @@
+{
+  "app_id": "536220",
+  "name": "The Walking Dead: A New Frontier",
+  "name_cn": "",
+  "short_description": "但是要为此付出什么代价？在这片新天地，活着的人能被寄予信任吗？",
+  "detailed_description": "当你一无所有，只有家……为了保护它，你愿意付出什么代价？\n\r\n\n\r\n行尸横行四年之后，混乱的世界初现文明的迹象。但是要为此付出什么代价？在这片新天地，活着的人能被寄予信任吗？当Javier，决心找回被夺走的家时，你遇到了一个年轻女孩，她也经历了无法想象的遭遇，她的名字叫Clementine，你们的命运从此交织在一起，你所做的每个选择都有可能是你人生最后一个。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "冒险"
+  ],
+  "tags": [
+    "冒险"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "家庭共享"
+  ],
+  "developers": [
+    "Telltale Games"
+  ],
+  "publishers": [
+    "Skybound Games"
+  ],
+  "release_date": "2016 年 12 月 20 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "阿拉伯语",
+    "葡萄牙语 - 巴西",
+    "俄语",
+    "简体中文",
+    "繁体中文\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 58.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows 7 64Bit Service Pack 1 or higher\n处理器: Intel Core 2 Duo 2.4GHz\n内存: 3 GB RAM\n显卡: Nvidia GTS 450+ with 1024MB+ VRAM (excluding GT)\nDirectX 版本: 11\n存储空间: 需要 8 GB 可用空间\n声卡: Direct X 11 sound device\n附注事项: Not supported on Intel integrated graphics",
+  "pc_requirements_rec": "",
+  "fetched_at": "2026-08-20T04:25:16Z",
+  "review_desc": "Very Positive",
+  "review_count": 18517,
+  "review_percentage": 83.5,
+  "review_score": 8
+}

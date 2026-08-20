@@ -1,0 +1,53 @@
+{
+  "app_id": "311730",
+  "name": "DEAD OR ALIVE 5 Last Round: Core Fighters",
+  "name_cn": "",
+  "short_description": "能免费游玩的格斗游戏『DEAD OR ALIVE 5 Last Round』。 除了部分角色与「STORY MODE」外，其他内容都能免费游玩。 ※如欲游玩受限制之角色与「STORY MODE」，须另外购入「角色使用权」及「STORY MODE开放权」。",
+  "detailed_description": "能免费游玩的格斗游戏『DEAD OR ALIVE 5 Last Round』。\n\r\n\n\r\n格斗娱乐「DOA5」的「完全到达点」最新作『DEAD OR ALIVE 5 Last Round』终于登场！。\n\r\n\n\r\n\n\r\n除了部分角色与「STORY MODE」外，其他内容都能免费游玩。\n\r\n\n\r\n※如欲游玩受限制之角色与「STORY MODE」，须另外购入「角色使用权」及「STORY MODE开放权」。\n\r\n\n\r\n* The images are from an in-development build and may differ from the final version.",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作"
+  ],
+  "tags": [
+    "动作"
+  ],
+  "categories": [
+    "单人",
+    "多人",
+    "Steam 成就",
+    "推荐使用手柄",
+    "部分支持控制器",
+    "家庭共享"
+  ],
+  "developers": [
+    "Team NINJA",
+    "KOEI TECMO GAMES CO., LTD."
+  ],
+  "publishers": [
+    "KOEI TECMO GAMES CO., LTD."
+  ],
+  "release_date": "2015 年 3 月 30 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语",
+    "意大利语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "日语*",
+    "韩语",
+    "繁体中文\n*具有完全音频支持的语言"
+  ],
+  "is_free": true,
+  "price_cny": 0.0,
+  "pc_requirements_min": "最低配置:\n操作系统: Windows® (32bit/64bit)\n处理器: Core i7 870 over\n内存: 2 GB RAM\n显卡: 1280×720 pixel over\nDirectX 版本: 9.0c\n网络: 宽带互联网连接\n存储空间: 需要 10 GB 可用空间\n声卡: DirectX 9.0c over\n附注事项:",
+  "pc_requirements_rec": "推荐配置:\n操作系统: Windows® (32bit/64bit)\n处理器: Core i7 2600 over\n内存: 4 GB RAM\n显卡: 1920×1080 pixel  over True Color ※4K Compatible\nDirectX 版本: 9.0c\n网络: 宽带互联网连接\n存储空间: 需要 10 GB 可用空间\n声卡: DirectX 9.0c over\n附注事项:",
+  "fetched_at": "2026-08-20T04:28:05Z",
+  "review_desc": "Mixed",
+  "review_count": 10499,
+  "review_percentage": 69.7,
+  "review_score": 5
+}

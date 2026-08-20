@@ -1,0 +1,52 @@
+{
+  "app_id": "1093910",
+  "name": "Tales of the Black Forest",
+  "name_cn": "黑森町绮谭",
+  "short_description": "暗潮涌动的日本小镇，诡异多彩的妖怪世界，如烟花般绮丽的平成怪谈物语……两人团队打造的日式像素风奇幻冒险游戏，致敬自由、浪漫与梦想。",
+  "detailed_description": "·游戏介绍\n\n高中生希原夏森因为未知力量被困在一个名叫黑森町的小镇，\n在寻找出路时邂逅神秘少女桐谷雪，\n并得知逃离小镇的方法隐藏在黑森町的过去。\n\n就这样，两人开始了一场寻找自由的奇幻之旅。\n等待她们的不只是黑森町背后的重重谜团，\n还有缤纷多彩的妖怪世界和惊险刺激的冒险。\n\n·游戏特色\n\n·主线分三个章节，每个章节都是一段精致浪漫的和风奇幻故事。\n·故事基于真实事件创作，怪谈的巧妙融入，让故事亦真亦幻。\n·简练质朴的语言风格，生动风趣的情节描述，剧情体验轻松写意。\n\n·黑森町没有重复的角色，每个角色性格迥异，有他们相伴，这场奇幻之旅不会孤单。\n·很多猫猫！\n\n·独特的像素风格，构建起绚丽多彩的世界。\n\n·恰到好处的谜题，平易近人的关卡，丰富有趣的细节，让体验剧情的过程绝不枯燥。\n\n·我们把很多彩蛋埋在黑森町，尽情地挖。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "冒险",
+    "独立",
+    "角色扮演"
+  ],
+  "tags": [
+    "冒险",
+    "独立",
+    "角色扮演"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "Steam 集换式卡牌",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "拾英工作室"
+  ],
+  "publishers": [
+    "拾英工作室",
+    " Gamirror Games"
+  ],
+  "release_date": "2019 年 9 月 25 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "简体中文",
+    "繁体中文",
+    "英语",
+    "日语"
+  ],
+  "is_free": false,
+  "price_cny": 18.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: WIN7 SP1/WIN8/WIN10/XP\n处理器: 1.2 GHz\n内存: 2 GB RAM\n显卡: DirectX 9 compatible graphics card\n存储空间: 需要 1 GB 可用空间",
+  "pc_requirements_rec": "",
+  "fetched_at": "2026-08-20T03:37:21Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 15454,
+  "review_percentage": 97.6,
+  "review_score": 9
+}

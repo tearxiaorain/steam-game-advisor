@@ -1,0 +1,53 @@
+{
+  "app_id": "1966720",
+  "name": "Lethal Company",
+  "name_cn": "",
+  "short_description": "A co-op horror about scavenging at abandoned moons to sell scrap to the Company.",
+  "detailed_description": "You are a contracted worker for the Company. Your job is to collect scrap from abandoned, industrialized moons to meet the Company's profit quota. You can use the cash you earn to travel to new moons with higher risks and rewards--or you can buy fancy suits and decorations for your ship. Experience nature, scanning any creature you find to add them to your bestiary. Explore the wondrous outdoors and rummage through their derelict, steel and concrete underbellies. Just never miss the quota. \n\nThese dangers prey upon the vulnerable and lonesome, and the protection of your crew may be your only hope. You can guide your crewmates from your ship, using the radar to call out traps and using the ship's terminal to access remotely locked doors--or you can all go in together. The Company store has many useful tools for the job, including lights, shovels, walkie talkies, stun grenades, or boomboxes. \n\nThings get dangerous at night. Communicate with your crewmates to carry all valuables to the ship before things get too dangerous, and try not to leave anyone behind.",
+  "description_lang_short": "en",
+  "description_lang_detail": "en",
+  "genres": [
+    "动作",
+    "冒险",
+    "独立",
+    "抢先体验"
+  ],
+  "tags": [
+    "动作",
+    "冒险",
+    "独立",
+    "抢先体验"
+  ],
+  "categories": [
+    "单人",
+    "多人",
+    "合作",
+    "在线合作",
+    "自定义音量控制",
+    "立体声",
+    "部分支持控制器",
+    "家庭共享"
+  ],
+  "developers": [
+    "Zeekerss"
+  ],
+  "publishers": [
+    "Zeekerss"
+  ],
+  "release_date": "2023 年 10 月 23 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语*\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 42.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10\n处理器: Intel Core i5-7400 CPU @ 3.00GHz ; Shader Model 5\n显卡: NVIDIA GForce GTX 1050\nDirectX 版本: 11\n网络: 宽带互联网连接\n存储空间: 需要 4 GB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统",
+  "fetched_at": "2026-08-20T03:58:56Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 510385,
+  "review_percentage": 97.0,
+  "review_score": 9
+}

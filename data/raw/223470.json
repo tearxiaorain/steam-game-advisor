@@ -1,0 +1,56 @@
+{
+  "app_id": "223470",
+  "name": "POSTAL 2",
+  "name_cn": "",
+  "short_description": "过一周邮差小哥的生活，做倒霉的普通人做的寻常杂事：买牛奶，去图书馆还书，找Gary Coleman要签名，到底哪里出错了呢？",
+  "detailed_description": "Workshop and Controller Support\n\n更新备注2013年Steam发售后更新 已加入   \n全控制器支持\n支持Steam创意工坊\n POSTed SDK的众多功能，让创意工坊内容制作更容易\n 在POSTAL2世界里玩完七天，通关后有灾难周末\n灾难周末和七天完全不同\nEternal Damnation mod中12项全新武器\n丰富的NPC和僵尸，多种音色、更多动画，相互之间及与Dude互动画面更好\n68个Steam成就\n 与宽屏更加兼容，包括三屏设置\n视频可以设置FoV视野调节、三重缓冲、V-Sync\n  不同地面上脚步声调节\n圣帕特里克节、情人节、复活节和万圣节等节日活动\n 还有更多更多！Fixed   已修复\n 一千个微小的映射和代码问题，和一些不太小的问题\n 肢解NPC时可能有崩溃\n 液体与物体、爆炸汽车碰撞时帧率下降\n汽车爆炸时碰撞画面不对\n\n关于游戏\n\n过一周邮差小哥Dude的生活，做倒霉的普通人做的寻常杂事：买牛奶，去图书馆还书，找Gary Coleman要签名，到底哪里出错了呢？\n\n在以第一人称视角的黑色幽默历险中，在这个美国漫画风格的荒诞秀里任意爆炸、砍人、撒尿。去见Krotchy——一个黑化的玩具吉祥物，去Dave舅舅被团团包围的神坛找他，没准就和藏在下水道里的塔利班来场战斗！还能接受来自食人红脖子、恶警察、巴萨卡大象的括约肌收缩挑战。和Champ、Dude不太忠诚的斗牛犬一起，在空旷的、到处都是牛逼AI的场景中闯出一条生路。武器丰富多样，从普通的铲子到搞笑的火箭筒都应有尽有。\n用狗攻击敌人，用猫当消声器，可以朝任何东西、任何人尿尿、洒汽油！你懂的！主要功能 攻击 vs. 被动： POSTAL2 里你想怎么暴力就怎么暴力\n一个很大的开放式游戏世界\n按照你自己的节奏，探寻世界完成任务\n与NPC互动\n生存模式：即便你选择做一个和平者，你仍会面对那些随时暴走的NPC！\n基于虚幻编辑器，功能强大，容易使用，社区中已有众多mod",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "冒险",
+    "独立"
+  ],
+  "tags": [
+    "动作",
+    "冒险",
+    "独立"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "Steam 创意工坊",
+    "Steam 云",
+    "包含关卡编辑器",
+    "家庭共享"
+  ],
+  "developers": [
+    "Running With Scissors"
+  ],
+  "publishers": [
+    "Running With Scissors"
+  ],
+  "release_date": "2012 年 11 月 2 日",
+  "platforms": [
+    "Windows",
+    "Linux"
+  ],
+  "supported_languages": [
+    "英语*",
+    "俄语*",
+    "简体中文*",
+    "西班牙语 - 西班牙",
+    "土耳其语\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 42.0,
+  "pc_requirements_min": "Minimum:\nOS *:Windows XP SP3/Vista/7/8/10\n\tProcessor:Pentium 3 1133MHz or AMD Athlon 733MHz Processor\n\tMemory:128 MB RAM\n\tGraphics:32MB GeForce 2 or Radeon Video Card\n\tDirectX®:8.0\n\tHard Drive:10 GB available space\n\tOther Requirements:Broadband Internet connection",
+  "pc_requirements_rec": "Recommended:\nOS *:Windows XP SP3/Vista/7/8/10\n\tProcessor:1.2GHz \n\tMemory:384 MB RAM\n\tGraphics:64MB GeForce 3 or Radeon 8500 Video Card\n\tDirectX®:8.0\n\tHard Drive:10 GB available space\n\tOther Requirements:Broadband Internet connection",
+  "fetched_at": "2026-08-20T04:29:48Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 136861,
+  "review_percentage": 96.9,
+  "review_score": 9
+}

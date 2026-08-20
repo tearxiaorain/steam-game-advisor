@@ -1,12 +1,138 @@
 {
-  "generated_at": "2026-08-19T08:18:45Z",
-  "source": "charts+eval-seed",
-  "count": 77,
+  "generated_at": "2026-08-20T03:58:41Z",
+  "source": "none",
+  "count": 760,
   "description_policy": "商店页先拉 schinese，再拉 english；简介/长文 CJK 占比不足时回退英文。阈值=0.12",
   "games": [
     {
+      "app_id": "10",
+      "name": "Counter-Strike",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "20",
+      "name": "Team Fortress Classic",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "30",
+      "name": "Day of Defeat",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "40",
+      "name": "Deathmatch Classic",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "50",
+      "name": "Half-Life: Opposing Force",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "60",
+      "name": "Ricochet",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "70",
+      "name": "Half-Life",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "80",
+      "name": "Counter-Strike: Condition Zero",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "100",
+      "name": "Counter-Strike: Condition Zero",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "130",
+      "name": "Half-Life: Blue Shift",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "220",
+      "name": "Half-Life 2",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "240",
+      "name": "Counter-Strike: Source",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "280",
+      "name": "Half-Life: Source",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "300",
+      "name": "Day of Defeat: Source",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "320",
+      "name": "Half-Life 2: Deathmatch",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "360",
+      "name": "Half-Life Deathmatch: Source",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "400",
+      "name": "Portal",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
       "app_id": "440",
       "name": "Team Fortress 2",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "500",
+      "name": "Left 4 Dead",
       "description_lang_short": "zh",
       "description_lang_detail": "zh",
       "name_cn": ""
@@ -26,8 +152,22 @@
       "name_cn": ""
     },
     {
+      "app_id": "620",
+      "name": "Portal 2",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
       "app_id": "730",
       "name": "Counter-Strike 2",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "3590",
+      "name": "Plants vs. Zombies GOTY Edition",
       "description_lang_short": "zh",
       "description_lang_detail": "zh",
       "name_cn": ""
@@ -36,6 +176,132 @@
       "app_id": "4000",
       "name": "Garry's Mod",
       "description_lang_short": "en",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "6850",
+      "name": "Hitman 2: Silent Assassin",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "6860",
+      "name": "Hitman: Blood Money",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "7600",
+      "name": "Sid Meier's Railroads!",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "7670",
+      "name": "BioShock™",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "8850",
+      "name": "BioShock® 2",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "8870",
+      "name": "BioShock Infinite",
+      "name_cn": "生化奇兵：无限 完全版",
+      "description_lang_short": "en",
+      "description_lang_detail": "en"
+    },
+    {
+      "app_id": "17390",
+      "name": "SPORE™",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "20900",
+      "name": "The Witcher: Enhanced Edition Director's Cut",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "20920",
+      "name": "The Witcher 2: Assassins of Kings Enhanced Edition",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "29900",
+      "name": "Dark Sector",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "33230",
+      "name": "Assassin's Creed 2",
+      "name_cn": "刺客信条2",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "35140",
+      "name": "Batman: Arkham Asylum Game of the Year Edition",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "40700",
+      "name": "Machinarium",
+      "name_cn": "机械迷城 (Machinarium)",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "47780",
+      "name": "Dead Space™ 2",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "48700",
+      "name": "Mount & Blade: Warband",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "49520",
+      "name": "Borderlands 2",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "65790",
+      "name": "Arma: Cold War Assault Remastered",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "94400",
+      "name": "Nidhogg",
+      "description_lang_short": "zh",
       "description_lang_detail": "zh",
       "name_cn": ""
     },
@@ -54,6 +320,118 @@
       "name_cn": ""
     },
     {
+      "app_id": "200260",
+      "name": "Batman: Arkham City - Game of the Year Edition",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "200510",
+      "name": "XCOM: Enemy Unknown",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "203160",
+      "name": "Tomb Raider Game of the Year",
+      "description_lang_short": "zh",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "206440",
+      "name": "To the Moon",
+      "name_cn": "To the Moon《去月球》",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "207610",
+      "name": "The Walking Dead",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "208650",
+      "name": "Batman™: Arkham Knight",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "211820",
+      "name": "Starbound",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "214340",
+      "name": "Deponia",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "218620",
+      "name": "PAYDAY 2",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "219740",
+      "name": "Don't Starve",
+      "name_cn": "饥荒",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "219890",
+      "name": "Antichamber",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "219990",
+      "name": "Grim Dawn",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "220200",
+      "name": "Kerbal Space Program",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "220440",
+      "name": "DmC: Devil May Cry",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "220700",
+      "name": "RPG Maker VX Ace",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "220740",
+      "name": "Chaos on Deponia",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
       "app_id": "221100",
       "name": "DayZ",
       "description_lang_short": "zh",
@@ -61,8 +439,29 @@
       "name_cn": ""
     },
     {
+      "app_id": "223470",
+      "name": "POSTAL 2",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "225540",
+      "name": "Just Cause™ 3",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
       "app_id": "227300",
       "name": "Euro Truck Simulator 2",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "228380",
+      "name": "Wreckfest",
       "description_lang_short": "zh",
       "description_lang_detail": "zh",
       "name_cn": ""
@@ -75,8 +474,85 @@
       "description_lang_detail": "zh"
     },
     {
+      "app_id": "231430",
+      "name": "Company of Heroes 2",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "233150",
+      "name": "LUFTRAUSERS",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "233470",
+      "name": "Evoland",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "235210",
+      "name": "STRIDER™ / ストライダー飛竜®",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "235900",
+      "name": "RPG Maker XP",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
       "app_id": "236390",
       "name": "War Thunder",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "236870",
+      "name": "HITMAN™",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "239030",
+      "name": "Papers, Please",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "239140",
+      "name": "Dying Light",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "241910",
+      "name": "Goodbye Deponia",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "242760",
+      "name": "The Forest",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "243470",
+      "name": "Watch_Dogs™",
       "description_lang_short": "zh",
       "description_lang_detail": "zh",
       "name_cn": ""
@@ -87,6 +563,27 @@
       "name_cn": "神力科莎 Assetto Corsa",
       "description_lang_short": "zh",
       "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "246420",
+      "name": "Kingdom Rush  - Tower Defense",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "247080",
+      "name": "Crypt of the NecroDancer",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "249050",
+      "name": "Dungeon of the ENDLESS™",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
     },
     {
       "app_id": "250900",
@@ -110,8 +607,92 @@
       "name_cn": ""
     },
     {
+      "app_id": "255300",
+      "name": "Journey of a Roach",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "255710",
+      "name": "Cities: Skylines",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "261030",
+      "name": "The Walking Dead: Season Two",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
       "app_id": "261550",
       "name": "Mount & Blade II: Bannerlord",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "261570",
+      "name": "Ori and the Blind Forest",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "262060",
+      "name": "Darkest Dungeon®",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "262410",
+      "name": "World of Guns: Gun Disassembly",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "265330",
+      "name": "Gomo",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "268050",
+      "name": "The Evil Within",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "268500",
+      "name": "XCOM® 2",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "268910",
+      "name": "Cuphead",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "270150",
+      "name": "RUNNING WITH RIFLES",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "270880",
+      "name": "American Truck Simulator",
       "description_lang_short": "zh",
       "description_lang_detail": "zh",
       "name_cn": ""
@@ -124,8 +705,92 @@
       "description_lang_detail": "zh"
     },
     {
+      "app_id": "272860",
+      "name": "Wreckfest Sneak Peek 2.0",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "274170",
+      "name": "Hotline Miami 2: Wrong Number",
+      "name_cn": "火线迈阿密2：空号",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "274190",
+      "name": "Broforce",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "275850",
+      "name": "No Man's Sky",
+      "name_cn": "No Man's Sky 无人深空",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "281990",
+      "name": "Stellaris",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "282070",
+      "name": "This War of Mine",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "282800",
+      "name": "100% Orange Juice",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "283270",
+      "name": "Jagged Alliance 1: Gold Edition",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
       "app_id": "284160",
       "name": "BeamNG.drive",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "286160",
+      "name": "Tabletop Simulator",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "286690",
+      "name": "Metro 2033 Redux",
+      "name_cn": "地铁2033 重制版",
+      "description_lang_short": "en",
+      "description_lang_detail": "en"
+    },
+    {
+      "app_id": "287390",
+      "name": "Metro: Last Light Redux",
+      "name_cn": "地铁：最后的曙光 重制版",
+      "description_lang_short": "en",
+      "description_lang_detail": "en"
+    },
+    {
+      "app_id": "287980",
+      "name": "Mini Metro",
       "description_lang_short": "zh",
       "description_lang_detail": "zh",
       "name_cn": ""
@@ -136,6 +801,20 @@
       "description_lang_short": "zh",
       "description_lang_detail": "zh",
       "name_cn": ""
+    },
+    {
+      "app_id": "289130",
+      "name": "ENDLESS Legend™",
+      "name_cn": "无尽帝国",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "289650",
+      "name": "Assassin's Creed® Unity",
+      "name_cn": "刺客信条：大革命",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
     },
     {
       "app_id": "291550",
@@ -159,6 +838,83 @@
       "description_lang_detail": "zh"
     },
     {
+      "app_id": "297130",
+      "name": "Titan Souls",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "304430",
+      "name": "INSIDE",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "304930",
+      "name": "Unturned",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "310560",
+      "name": "DiRT Rally",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "311690",
+      "name": "Enter the Gungeon",
+      "name_cn": "挺进地牢",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "311730",
+      "name": "DEAD OR ALIVE 5 Last Round: Core Fighters",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "312520",
+      "name": "Rain World",
+      "name_cn": "雨世界",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "312660",
+      "name": "Sniper Elite 4",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "313340",
+      "name": "Mountain",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "314650",
+      "name": "SpaceEngine",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "321270",
+      "name": "UNLOVED",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
       "app_id": "322170",
       "name": "Geometry Dash",
       "description_lang_short": "en",
@@ -173,6 +929,83 @@
       "description_lang_detail": "zh"
     },
     {
+      "app_id": "322450",
+      "name": "FRAMED Collection",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "323190",
+      "name": "Frostpunk",
+      "name_cn": "冰汽时代",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "324160",
+      "name": "CLANNAD",
+      "description_lang_short": "zh",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "327410",
+      "name": "A Bird Story",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "329050",
+      "name": "Devil May Cry 4 Special Edition",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "335300",
+      "name": "DARK SOULS™ II: Scholar of the First Sin",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "337340",
+      "name": "Finding Paradise",
+      "name_cn": "Finding Paradise《寻找天堂》",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "346010",
+      "name": "Besiege",
+      "name_cn": "围攻",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "346110",
+      "name": "ARK: Survival Evolved",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "347620",
+      "name": "Gaokao.Love.100Days",
+      "name_cn": "高考恋爱一百天",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "359310",
+      "name": "Evoland 2",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
       "app_id": "359550",
       "name": "Tom Clancy's Rainbow Six Siege",
       "name_cn": "彩虹六号：围攻",
@@ -180,8 +1013,78 @@
       "description_lang_detail": "zh"
     },
     {
+      "app_id": "359840",
+      "name": "Shift Happens",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "364360",
+      "name": "Total War: WARHAMMER",
+      "name_cn": "全面战争：战锤",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "365670",
+      "name": "Blender",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
       "app_id": "367520",
       "name": "Hollow Knight",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "373770",
+      "name": "LiEat",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "374320",
+      "name": "DARK SOULS™ III",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "375480",
+      "name": "Chronicon",
+      "name_cn": "Chronicon - 英雄旧忆",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "377160",
+      "name": "Fallout 4",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "379720",
+      "name": "DOOM",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "380600",
+      "name": "Fishing Planet",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "381020",
+      "name": "Sky Rogue",
       "description_lang_short": "zh",
       "description_lang_detail": "zh",
       "name_cn": ""
@@ -194,9 +1097,191 @@
       "description_lang_detail": "zh"
     },
     {
+      "app_id": "383180",
+      "name": "Dead Island: Riptide Definitive Edition",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "383270",
+      "name": "Hue",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "386940",
+      "name": "Ultimate Chicken Horse",
+      "name_cn": "超级鸡马",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "391220",
+      "name": "Rise of the Tomb Raider™",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "391540",
+      "name": "Undertale",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "392160",
+      "name": "X4: Foundations",
+      "name_cn": "X4：基石",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "394510",
+      "name": "HELLDIVERS™ Dive Harder Edition",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "397540",
+      "name": "Borderlands 3",
+      "name_cn": "无主之地3",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "397740",
+      "name": "Hylics",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "400630",
+      "name": "Wuppo: Definitive Edition",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "403640",
+      "name": "Dishonored 2",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "405640",
+      "name": "Pony Island",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "405900",
+      "name": "Disgaea PC",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "407530",
+      "name": "ARK: The Survival Of The Fittest",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "409710",
+      "name": "BioShock™ Remastered",
+      "name_cn": "生化奇兵 重制版",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "409720",
+      "name": "BioShock™ 2 Remastered",
+      "name_cn": "生化奇兵2 重制版",
+      "description_lang_short": "en",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "412020",
+      "name": "Metro Exodus",
+      "name_cn": "地铁：离乡",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "412830",
+      "name": "STEINS;GATE",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
       "app_id": "413150",
       "name": "Stardew Valley",
       "description_lang_short": "zh",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "413410",
+      "name": "Danganronpa: Trigger Happy Havoc",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "413420",
+      "name": "Danganronpa 2: Goodbye Despair",
+      "name_cn": "超級槍彈辯駁2 再會了絕望學園",
+      "description_lang_short": "en",
+      "description_lang_detail": "en"
+    },
+    {
+      "app_id": "414340",
+      "name": "Hellblade: Senua's Sacrifice",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "418240",
+      "name": "Shadow Tactics: Blades of the Shogun",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "418370",
+      "name": "Resident Evil 7 Biohazard",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "420100",
+      "name": "CLANNAD Side Stories",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "420530",
+      "name": "OneShot",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "424840",
+      "name": "Little Nightmares",
+      "description_lang_short": "en",
       "description_lang_detail": "en",
       "name_cn": ""
     },
@@ -208,10 +1293,73 @@
       "description_lang_detail": "zh"
     },
     {
+      "app_id": "435120",
+      "name": "Rusty Lake Hotel",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
       "app_id": "438100",
       "name": "VRChat",
       "description_lang_short": "en",
       "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "440650",
+      "name": "Niche - a genetics survival game",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "442070",
+      "name": "Drawful 2",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "447040",
+      "name": "Watch_Dogs® 2",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "447530",
+      "name": "VA-11 Hall-A: Cyberpunk Bartender Action",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "448510",
+      "name": "Overcooked",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "450390",
+      "name": "The Lab",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "451760",
+      "name": "Highway Blossoms",
+      "name_cn": "Highway Blossoms - 花开公路",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "458710",
+      "name": "Kingdom Rush Frontiers - Tower Defense",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
       "name_cn": ""
     },
     {
@@ -222,8 +1370,253 @@
       "description_lang_detail": "zh"
     },
     {
+      "app_id": "460950",
+      "name": "Katana ZERO",
+      "name_cn": "武士 零",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "462990",
+      "name": "Tomoyo After ~It's a Wonderful Life~ English Edition",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "466130",
+      "name": "White Day: A Labyrinth Named School",
+      "name_cn": "白色情人节：恐怖学校",
+      "description_lang_short": "en",
+      "description_lang_detail": "en"
+    },
+    {
+      "app_id": "473950",
+      "name": "Manifold Garden",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "474960",
+      "name": "Quantum Break",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "475150",
+      "name": "Titan Quest Anniversary Edition",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "477160",
+      "name": "Human Fall Flat",
+      "name_cn": "人类一败涂地 / Human Fall Flat",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "485450",
+      "name": "Ninja Stealth",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "489520",
+      "name": "Minion Masters",
+      "name_cn": "随从大师",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "489630",
+      "name": "Warhammer 40,000: Gladius - Relics of War",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
       "app_id": "489830",
       "name": "The Elder Scrolls V: Skyrim Special Edition",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "493520",
+      "name": "GTFO",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "493540",
+      "name": "Figment",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "495280",
+      "name": "Disgaea 2 PC",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "501300",
+      "name": "What Remains of Edith Finch",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "503560",
+      "name": "911 Operator",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "504230",
+      "name": "Celeste",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "508440",
+      "name": "Totally Accurate Battle Simulator",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "510420",
+      "name": "The Hex",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "511740",
+      "name": "Gal*Gun: Double Peace",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "512900",
+      "name": "Streets of Rogue",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "518790",
+      "name": "theHunter: Call of the Wild™",
+      "name_cn": "《猎人：荒野的召唤™》",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "524220",
+      "name": "NieR:Automata™",
+      "description_lang_short": "en",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "526870",
+      "name": "Satisfactory",
+      "name_cn": "幸福工厂",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "527230",
+      "name": "For The King",
+      "name_cn": "为了吾王 / For The King",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "532110",
+      "name": "Rusty Lake: Roots",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "532210",
+      "name": "Life is Strange 2",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "536220",
+      "name": "The Walking Dead: A New Frontier",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "537800",
+      "name": "Bomber Crew",
+      "name_cn": "轰炸机小队 / Bomber Crew",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "548430",
+      "name": "Deep Rock Galactic",
+      "name_cn": "深岩银河",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "552500",
+      "name": "Warhammer: Vermintide 2",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "552520",
+      "name": "Far Cry® 5",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "552990",
+      "name": "World of Warships",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "553420",
+      "name": "TUNIC",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "553540",
+      "name": "Phantom Brigade",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "553640",
+      "name": "ICEY",
       "description_lang_short": "zh",
       "description_lang_detail": "zh",
       "name_cn": ""
@@ -236,8 +1629,106 @@
       "name_cn": ""
     },
     {
+      "app_id": "555950",
+      "name": "Danganronpa Another Episode: Ultra Despair Girls",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "557340",
+      "name": "My Friend Pedro",
+      "name_cn": "我的朋友佩德罗",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "557600",
+      "name": "Gorogoa",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "563560",
+      "name": "Alien Swarm: Reactive Drop",
+      "name_cn": "异形丛生：虫启天降 (Alien Swarm: Reactive Drop)",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "567640",
+      "name": "Danganronpa V3: Killing Harmony",
+      "name_cn": "新枪弹辩驳V3 大家自相残杀的新学期",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "568220",
+      "name": "Lobotomy Corporation | Monster Management Simulation",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "570940",
+      "name": "DARK SOULS™: REMASTERED",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "578080",
+      "name": "PUBG: BATTLEGROUNDS",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
       "app_id": "582010",
       "name": "Monster Hunter: World",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "582160",
+      "name": "Assassin's Creed® Origins",
+      "name_cn": "刺客信条：起源",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "586140",
+      "name": "BlazBlue Centralfiction",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "588040",
+      "name": "WILL: A Wonderful World / WILL：美好世界",
+      "name_cn": "WILL: A Wonderful World /  WILL：美好世界",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "588650",
+      "name": "Dead Cells",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "589780",
+      "name": "The Red Strings Club",
+      "name_cn": "红弦俱乐部",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "590380",
+      "name": "Into the Breach",
       "description_lang_short": "zh",
       "description_lang_detail": "zh",
       "name_cn": ""
@@ -250,8 +1741,106 @@
       "description_lang_detail": "zh"
     },
     {
+      "app_id": "599140",
+      "name": "Graveyard Keeper",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "601150",
+      "name": "Devil May Cry 5",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "610370",
+      "name": "Desperados III",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "613100",
+      "name": "House Flipper",
+      "name_cn": "房产达人",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "613830",
+      "name": "CHRONO TRIGGER®",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "613900",
+      "name": "Museum of Other Realities",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "614570",
+      "name": "Dishonored®: Death of the Outsider™",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "616720",
+      "name": "Live2DViewerEX",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "618140",
+      "name": "Barro",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "619700",
+      "name": "Steel Rats™",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "621000",
+      "name": "异常 | Exception",
+      "name_cn": "异常 | Exception",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "625960",
+      "name": "Stoneshard",
+      "name_cn": "紫色晶石",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "626680",
+      "name": "Kreedz Climbing",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
       "app_id": "629520",
       "name": "Soundpad",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "631510",
+      "name": "Devil May Cry HD Collection",
       "description_lang_short": "zh",
       "description_lang_detail": "zh",
       "name_cn": ""
@@ -271,10 +1860,248 @@
       "name_cn": ""
     },
     {
+      "app_id": "636480",
+      "name": "Ravenfield",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "638230",
+      "name": "Journey",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "640590",
+      "name": "The LEGO® NINJAGO® Movie Video Game",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "640890",
+      "name": "Will Glow the Wisp",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "641320",
+      "name": "Cooking Simulator",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "641990",
+      "name": "The Escapists 2",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "646570",
+      "name": "Slay the Spire",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "646910",
+      "name": "The Crew™ 2",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "648580",
+      "name": "428: Shibuya Scramble",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "648800",
+      "name": "Raft",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "653530",
+      "name": "Return of the Obra Dinn",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "665180",
+      "name": "Dark Elf",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "668580",
+      "name": "Atomic Heart",
+      "name_cn": "原子之心",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "668630",
+      "name": "Tricolour Lovestory",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "669330",
+      "name": "Mechabellum",
+      "name_cn": "钢铁指挥官",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "670290",
+      "name": "Real Pool 3D - Poolians",
+      "name_cn": "真实台球3D - Pool",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "673750",
+      "name": "Super Bunny Man",
+      "name_cn": "超级兔子人",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "682480",
+      "name": "恒水中学连环虐杀 / The untold story of hengshui school",
+      "name_cn": "恒水中学连环虐杀 / The untold story of hengshui school",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "683320",
+      "name": "GRIS",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "686060",
+      "name": "Mewgenics",
+      "name_cn": "喵喵的结合",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "686200",
+      "name": "Door Kickers: Action Squad",
+      "name_cn": "破门而入：行动小队",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "688420",
+      "name": "Bad North: Jotunn Edition",
+      "name_cn": "绝境北地",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "690640",
+      "name": "Trine 4: The Nightmare Prince",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "698780",
+      "name": "Doki Doki Literature Club!",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "699920",
+      "name": "Despotism 3k",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "703080",
+      "name": "Planet Zoo",
+      "name_cn": "动物园之星",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "704850",
+      "name": "Thief Simulator",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "705290",
+      "name": "Strange Telephone",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "711540",
+      "name": "Lonely Mountains: Downhill",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "712840",
+      "name": "King Exit",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
       "app_id": "714010",
       "name": "Aimlabs",
       "description_lang_short": "zh",
       "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "728880",
+      "name": "Overcooked! 2",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "729460",
+      "name": "Distant Space 2",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "736190",
+      "name": "Chinese Parents",
+      "name_cn": "中国式家长",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "736260",
+      "name": "Baba Is You",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
       "name_cn": ""
     },
     {
@@ -285,6 +2112,139 @@
       "description_lang_detail": "en"
     },
     {
+      "app_id": "740240",
+      "name": "Snake Eyes Dungeon",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "744190",
+      "name": "Rusty Lake Paradise",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "750920",
+      "name": "Shadow of the Tomb Raider: Definitive Edition",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "752590",
+      "name": "A Plague Tale: Innocence",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "753640",
+      "name": "Outer Wilds",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "770720",
+      "name": "Hunt: Showdown 1896 (Test Server)",
+      "name_cn": "猎杀：对决 1896（测试服)",
+      "description_lang_short": "mixed",
+      "description_lang_detail": "mixed"
+    },
+    {
+      "app_id": "774171",
+      "name": "Muse Dash",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "774861",
+      "name": "Project Winter",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "776490",
+      "name": "永远消失的幻想乡 ～ The Disappearing of Gensokyo",
+      "name_cn": "永远消失的幻想乡 ～ The Disappearing of Gensokyo",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "782330",
+      "name": "DOOM Eternal",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "786520",
+      "name": "SAO Utils: Beta",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "787480",
+      "name": "Phoenix Wright: Ace Attorney Trilogy",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "788100",
+      "name": "Neon Abyss",
+      "name_cn": "霓虹深渊",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "801630",
+      "name": "UNDER NIGHT IN-BIRTH Exe:Late[cl-r]",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "803600",
+      "name": "Disgaea 5 Complete",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "805550",
+      "name": "Assetto Corsa Competizione",
+      "name_cn": "神力科莎：竞速 Assetto Corsa Competizione",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "812140",
+      "name": "Assassin's Creed® Odyssey",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "813230",
+      "name": "ANIMAL WELL",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "813630",
+      "name": "Supraland",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
       "app_id": "813780",
       "name": "Age of Empires II: Definitive Edition",
       "description_lang_short": "zh",
@@ -292,8 +2252,218 @@
       "name_cn": ""
     },
     {
+      "app_id": "814380",
+      "name": "Sekiro™: Shadows Die Twice - GOTY Edition",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "816340",
+      "name": "Kingdom Rush Origins - Tower Defense",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "821880",
+      "name": "Idol Manager",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "823130",
+      "name": "Totally Accurate Battlegrounds",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "825630",
+      "name": "STEINS;GATE 0",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "834740",
+      "name": "Circle Empires",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "836640",
+      "name": "寄居隅怪奇事件簿 Hermitage Strange Case Files",
+      "name_cn": "寄居隅怪奇事件簿 Hermitage Strange Case Files",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
       "app_id": "837470",
       "name": "Untitled Goose Game",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "838380",
+      "name": "DEAD OR ALIVE 6",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "843380",
+      "name": "Super Animal Royale",
+      "name_cn": "超级动物大逃杀",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "843810",
+      "name": "A Perfect Day",
+      "name_cn": "完美的一天",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "845880",
+      "name": "Touhou: Scarlet Curiosity",
+      "name_cn": "東方紅輝心",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "850000",
+      "name": "Noel the Mortal Fate Complete Edition",
+      "name_cn": "被虐的诺艾尔 Complete Edition",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "851100",
+      "name": "Touhou Luna Nights",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "851890",
+      "name": "Gal*Gun 2",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "852220",
+      "name": "Accident",
+      "name_cn": "车祸现场模拟器",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "860510",
+      "name": "Little Nightmares II",
+      "name_cn": "小小梦魇2",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "863550",
+      "name": "HITMAN™ 2",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "866800",
+      "name": "The Walking Dead: The Final Season",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "870780",
+      "name": "CONTROL Ultimate Edition",
+      "name_cn": "控制 - 终极合辑 / Control Ultimate Edition",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "874260",
+      "name": "The Forgotten City",
+      "name_cn": "遗忘之城",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "877280",
+      "name": "SAO Utils 2: Progressive",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "880940",
+      "name": "Pummel Party",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "880950",
+      "name": "Maitetsu:Pure Station",
+      "name_cn": "爱上火车-Pure Station-",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "881020",
+      "name": "Granblue Fantasy: Relink",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "881100",
+      "name": "Noita",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "882710",
+      "name": "TouHou Makuka Sai ~ Fantastic Danmaku Festival",
+      "name_cn": "东方幕华祭 红月篇",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "883710",
+      "name": "Resident Evil 2",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "884660",
+      "name": "CRSED: Cuisine Royale",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "885810",
+      "name": "The Witch's House MV",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "889510",
+      "name": "SENRAN KAGURA Burst Re:Newal",
       "description_lang_short": "zh",
       "description_lang_detail": "zh",
       "name_cn": ""
@@ -306,8 +2476,120 @@
       "description_lang_detail": "zh"
     },
     {
+      "app_id": "894020",
+      "name": "Death's Door",
+      "name_cn": "死亡之门",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "895110",
+      "name": "Magical Battle Cry",
+      "name_cn": "言出法随",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "909080",
+      "name": "Cube Escape: Paradox",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "911400",
+      "name": "Assassin's Creed® III Remastered",
+      "name_cn": "刺客信条3：高清重制版",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "913060",
+      "name": "Jet Lancer",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "916440",
+      "name": "Anno 1800",
+      "name_cn": "纪元1800",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "921570",
+      "name": "OCTOPATH TRAVELER™",
+      "name_cn": "歧路旅人",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "930910",
+      "name": "STEINS;GATE: Linear Bounded Phenogram",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "932850",
+      "name": "Simmiland",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "937170",
+      "name": "Otaku's Adventure",
+      "name_cn": "宅男的人间冒险",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "937580",
+      "name": "Touhou Kanjuden ~ Legacy of Lunatic Kingdom.",
+      "name_cn": "東方紺珠伝 ～ Legacy of Lunatic Kingdom.",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "942970",
+      "name": "Unheard - Voices of Crime",
+      "name_cn": "疑案追声",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
       "app_id": "945360",
       "name": "Among Us",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "948830",
+      "name": "寄甡  Symbiotic Love",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "952060",
+      "name": "Resident Evil 3",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "952070",
+      "name": "RESIDENT EVIL RESISTANCE",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "958260",
+      "name": "DEAD OR ALIVE Xtreme Venus Vacation",
       "description_lang_short": "zh",
       "description_lang_detail": "zh",
       "name_cn": ""
@@ -317,6 +2599,244 @@
       "name": "Bloons TD 6",
       "description_lang_short": "zh",
       "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "960170",
+      "name": "DJMAX RESPECT V",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "960910",
+      "name": "Heavy Rain",
+      "name_cn": "暴雨",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "960990",
+      "name": "Beyond: Two Souls",
+      "name_cn": "超凡双生",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "961510",
+      "name": "MarisaLand Legacy",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "970560",
+      "name": "STEINS;GATE: My Darling's Embrace",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "972660",
+      "name": "Spiritfarer®: Farewell Edition",
+      "name_cn": "《Spiritfarer®》Farewell版",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "976310",
+      "name": "Mortal Kombat 11",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "990080",
+      "name": "Hogwarts Legacy",
+      "name_cn": "霍格沃茨之遗",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "990630",
+      "name": "The Last Campfire",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "992300",
+      "name": "嗜血印 Bloody Spell",
+      "name_cn": "嗜血印 Bloody Spell",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "997070",
+      "name": "Marvel's Avengers - The Definitive Edition",
+      "name_cn": "Marvel’s Avengers |《漫威复仇者》终极版",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "998940",
+      "name": "隐形守护者 The Invisible Guardian",
+      "name_cn": "隐形守护者 The Invisible Guardian",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1012880",
+      "name": "60 Seconds! Reatomized",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1016920",
+      "name": "Unrailed!",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1020470",
+      "name": "Evoland Legendary Edition",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1022310",
+      "name": "Warhammer Underworlds - Shadespire Edition (Classic)",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1030300",
+      "name": "Hollow Knight: Silksong",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1031480",
+      "name": "TouHou Makuka Sai ~ Fantastic Danmaku Festival Part II",
+      "name_cn": "东方幕华祭 春雪篇",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1049410",
+      "name": "Superliminal",
+      "name_cn": "超阈限空间 Superliminal",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1052990",
+      "name": "A Monster's Expedition",
+      "name_cn": "怪兽远征",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1057090",
+      "name": "Ori and the Will of the Wisps",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1057680",
+      "name": "人间 The Lost We Lost",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1059980",
+      "name": "Just King",
+      "name_cn": "吾王保卫战 Just King",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1062140",
+      "name": "Garden Story",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1062160",
+      "name": "Poly Bridge 2",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1066780",
+      "name": "Transport Fever 2",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1069230",
+      "name": "月影魅像-解放之羽-",
+      "name_cn": "月影魅像-解放之羽-",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1071870",
+      "name": "Biped",
+      "name_cn": "知只大冒险",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1075740",
+      "name": "Banners of Ruin",
+      "name_cn": "废墟战旗",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1076280",
+      "name": "Showdown Bandit",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1078420",
+      "name": "Critters for Sale",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1079160",
+      "name": "Touhou Kikeijuu ~ Wily Beast and Weakest Creature.",
+      "name_cn": "東方鬼形獣 〜 Wily Beast and Weakest Creature.",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1082430",
+      "name": "Before Your Eyes",
+      "name_cn": "历历在目",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1085510",
+      "name": "Garfield Kart - Furious Racing",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
       "name_cn": ""
     },
     {
@@ -334,9 +2854,121 @@
       "description_lang_detail": "zh"
     },
     {
+      "app_id": "1087760",
+      "name": "The Gunk",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1089350",
+      "name": "NBA 2K20",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1090630",
+      "name": "Granblue Fantasy: Versus",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
       "app_id": "1091500",
       "name": "Cyberpunk 2077",
       "name_cn": "赛博朋克 2077",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1092790",
+      "name": "Inscryption",
+      "name_cn": "邪恶冥刻",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1093910",
+      "name": "Tales of the Black Forest",
+      "name_cn": "黑森町绮谭",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1097150",
+      "name": "Fall Guys",
+      "name_cn": "糖豆人",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1100260",
+      "name": "Circle Empires Rivals",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1102190",
+      "name": "Monster Train",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1115780",
+      "name": "The Almost Gone",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1122050",
+      "name": "Gensokyo Night Festival",
+      "name_cn": "幻想乡萃夜祭",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1123770",
+      "name": "Curse of the Dead Gods",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1124060",
+      "name": "Touhou Shoujo Tale of Beautiful Memories / 東方少女綺想譚",
+      "name_cn": "Touhou Shoujo Tale of Beautiful Memories / 東方少女綺想譚",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1124180",
+      "name": "Rail Route",
+      "name_cn": "铁路调度模拟器",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1127500",
+      "name": "Mini Motorways",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1134710",
+      "name": "NIMBY Rails",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1139900",
+      "name": "Ghostrunner",
+      "name_cn": "Ghostrunner - 幽灵行者",
       "description_lang_short": "zh",
       "description_lang_detail": "zh"
     },
@@ -355,8 +2987,148 @@
       "name_cn": ""
     },
     {
+      "app_id": "1144400",
+      "name": "Senren＊Banka",
+      "name_cn": "千恋＊万花",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1144770",
+      "name": "SLUDGE LIFE",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1145350",
+      "name": "Hades II",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1145360",
+      "name": "Hades",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1145960",
+      "name": "The White Door",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1147550",
+      "name": "Not For Broadcast",
+      "name_cn": "不予播出 ( Not For Broadcast )",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1147560",
+      "name": "Skul: The Hero Slayer",
+      "name_cn": "小骨：英雄杀手(Skul: The Hero Slayer)",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1150690",
+      "name": "OMORI",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1150950",
+      "name": "Timelie",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1151340",
+      "name": "Fallout 76",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1151640",
+      "name": "Horizon Zero Dawn™ Complete Edition",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1154810",
+      "name": "Going Under",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
       "app_id": "1158310",
       "name": "Crusader Kings III",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1161170",
+      "name": "The Rewinder",
+      "name_cn": "山海旅人",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1167630",
+      "name": "Teardown",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1168470",
+      "name": "千面 Melancholy Love",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1169040",
+      "name": "Necesse",
+      "name_cn": "奈斯启示录 Necesse",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1170080",
+      "name": "Foretales",
+      "name_cn": "预言奇谈",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1172380",
+      "name": "STAR WARS Jedi: Fallen Order™",
+      "name_cn": "《星球大战 绝地：陨落的武士团™》",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1172450",
+      "name": "Carto",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1172470",
+      "name": "Apex Legends™",
       "description_lang_short": "zh",
       "description_lang_detail": "zh",
       "name_cn": ""
@@ -367,6 +3139,83 @@
       "description_lang_short": "zh",
       "description_lang_detail": "zh",
       "name_cn": ""
+    },
+    {
+      "app_id": "1176710",
+      "name": "Space Crew: Legendary Edition",
+      "name_cn": "星际小队 / Space Crew: Legendary Edition",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1179210",
+      "name": "Kill It With Fire",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1180320",
+      "name": "War of the Three Kingdoms",
+      "name_cn": "三国杀",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1180540",
+      "name": "Puddle Knights",
+      "description_lang_short": "zh",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1181400",
+      "name": "Path of Giants",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1182620",
+      "name": "Impostor Factory",
+      "name_cn": "Impostor Factory《影子工厂》",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1182900",
+      "name": "A Plague Tale: Requiem",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1188930",
+      "name": "Chrono Ark",
+      "name_cn": "超时空方舟",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1190460",
+      "name": "DEATH STRANDING",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1202310",
+      "name": "Sakura Succubus",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1202540",
+      "name": "Marco & The Galaxy Dragon",
+      "name_cn": "丸子与银河龙",
+      "description_lang_short": "zh",
+      "description_lang_detail": "mixed"
     },
     {
       "app_id": "1203220",
@@ -383,8 +3232,148 @@
       "description_lang_detail": "zh"
     },
     {
+      "app_id": "1205450",
+      "name": "Turnip Boy Commits Tax Evasion",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1206430",
+      "name": "The Unfinished Swan",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1206560",
+      "name": "WorldBox - God Simulator",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1206610",
+      "name": "Rubber Bandits",
+      "name_cn": "橡胶强盗: Rubber Bandits",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1207650",
+      "name": "Suzerain",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1209490",
+      "name": "Exit the Gungeon",
+      "name_cn": "逃出地牢",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1216710",
+      "name": "Cyber Manhunt",
+      "name_cn": "全网公敌",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1220010",
+      "name": "Home Behind 2",
+      "name_cn": "归家异途2",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1222140",
+      "name": "Detroit: Become Human",
+      "name_cn": "底特律：化身为人",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1222210",
+      "name": "Extremely Realistic Siege Warfare Simulator",
+      "name_cn": "超逼真的攻城模拟器",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
       "app_id": "1222670",
       "name": "The Sims™ 4",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1222680",
+      "name": "Need for Speed™ Heat",
+      "name_cn": "《Need for Speed™ Heat",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1222700",
+      "name": "A Way Out",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1227650",
+      "name": "Bang-On Balls: Chronicles",
+      "name_cn": "波兰球：编年史",
+      "description_lang_short": "zh",
+      "description_lang_detail": "mixed"
+    },
+    {
+      "app_id": "1227690",
+      "name": "Severed Steel",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1230140",
+      "name": "ATRI -My Dear Moments-",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1233880",
+      "name": "Disgaea 4 Complete+",
+      "name_cn": "魔界战记DISGAEA４Return",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1237970",
+      "name": "Titanfall® 2",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1238060",
+      "name": "Dead Space™ 3",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1238810",
+      "name": "Battlefield™ V",
+      "name_cn": "《战地风云 5》",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1238840",
+      "name": "Battlefield™ 1",
       "description_lang_short": "zh",
       "description_lang_detail": "zh",
       "name_cn": ""
@@ -397,9 +3386,261 @@
       "description_lang_detail": "zh"
     },
     {
+      "app_id": "1250760",
+      "name": "Far Away",
+      "name_cn": "海沙风云 Far Away",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1252320",
+      "name": "Touhou Kikamu ~ Elegant Impermanence of Sakura",
+      "name_cn": "东方祈华梦～Elegant Impermanence of Sakura",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1256670",
+      "name": "Library Of Ruina",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1260320",
+      "name": "Party Animals",
+      "name_cn": "猛兽派对",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1260520",
+      "name": "Patrick's Parabox",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1272160",
+      "name": "The Life and Suffering of Sir Brante",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1273260",
+      "name": "Corpse Party (2021)",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1274570",
+      "name": "DEVOUR",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1277930",
+      "name": "Riddle Joker",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1278060",
+      "name": "FPV SkyDive : FPV Drone Simulator",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1281800",
+      "name": "Samsara Room",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1282730",
+      "name": "Loop Hero",
+      "name_cn": "循环勇士",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1285670",
+      "name": "Post Void",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1286680",
+      "name": "Tiny Tina's Wonderlands",
+      "name_cn": "小缇娜的奇幻之地",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1286710",
+      "name": "Hylics 2",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1286990",
+      "name": "CONSCRIPT: Director’s Cut",
+      "name_cn": "战壕惊魂: Director's Cut",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1288310",
+      "name": "Firework",
+      "name_cn": "烟火",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1289310",
+      "name": "Helltaker",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1291010",
+      "name": "Warpips",
+      "name_cn": "小兵大战 - Warpips",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1292940",
+      "name": "Cube Escape Collection",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1293830",
+      "name": "Forza Horizon 4",
+      "name_cn": "极限竞速：地平线 4",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1295660",
+      "name": "Sid Meier's Civilization VII",
+      "name_cn": "席德·梅尔的文明VII",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1296360",
+      "name": "Archvale",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1304930",
+      "name": "The Outlast Trials",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1307580",
+      "name": "TOEM: A Photo Adventure",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1313140",
+      "name": "Cult of the Lamb",
+      "name_cn": "咩咩启示录",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1318690",
+      "name": "shapez",
+      "name_cn": "异形工厂（Shapez）",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1323830",
+      "name": "Shanghai Summer",
+      "name_cn": "薄暮夏梦",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1325040",
+      "name": "Keylocker | Turn Based Cyberpunk Action",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1325860",
+      "name": "VTube Studio",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1326000",
+      "name": "Sakura Succubus 2",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1326470",
+      "name": "Sons Of The Forest",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1329410",
+      "name": "雀魂麻將(MahjongSoul)",
+      "name_cn": "雀魂麻将",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1335200",
+      "name": "Action Taimanin",
+      "name_cn": "Action对魔忍",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1338580",
+      "name": "McPixel 3",
+      "name_cn": "像素哥3",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
       "app_id": "1364780",
       "name": "Street Fighter™ 6",
       "name_cn": "Street Fighter 6",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1366540",
+      "name": "Dyson Sphere Program",
+      "name_cn": "戴森球计划",
       "description_lang_short": "zh",
       "description_lang_detail": "zh"
     },
@@ -411,10 +3652,136 @@
       "name_cn": ""
     },
     {
+      "app_id": "1367300",
+      "name": "Blade Assault",
+      "name_cn": "刀锋战神",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1367550",
+      "name": "Kingdom Rush Vengeance - Tower Defense",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1371980",
+      "name": "No Rest for the Wicked",
+      "name_cn": "《恶意不息》",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1372280",
+      "name": "MELTY BLOOD: TYPE LUMINA",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1374230",
+      "name": "Flame Keeper",
+      "description_lang_short": "zh",
+      "description_lang_detail": "mixed",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1382070",
+      "name": "Viewfinder",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1382330",
+      "name": "Persona® 5 Strikers",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1392820",
+      "name": "Milk inside a bag of milk inside a bag of milk",
+      "description_lang_short": "en",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1407420",
+      "name": "Milo and the Magpies",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1416240",
+      "name": "夜永 Eternal Love",
+      "name_cn": "夜永 Eternal Love",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1419730",
+      "name": "Seek Girl Ⅵ",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1426210",
+      "name": "It Takes Two",
+      "name_cn": "双人成行",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1434480",
+      "name": "Maitetsu:Last Run!!",
+      "name_cn": "爱上火车-Last Run!!-",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1436700",
+      "name": "Trine 5: A Clockwork Conspiracy",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1446780",
+      "name": "MONSTER HUNTER RISE",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1449560",
+      "name": "Metro Exodus",
+      "name_cn": "地铁：离乡",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
       "app_id": "1449850",
       "name": "Yu-Gi-Oh! Master Duel",
       "description_lang_short": "zh",
       "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1451940",
+      "name": "NEEDY STREAMER OVERLOAD",
+      "name_cn": "主播女孩重度依赖",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1456880",
+      "name": "ElecHead",
+      "description_lang_short": "en",
+      "description_lang_detail": "mixed",
       "name_cn": ""
     },
     {
@@ -425,11 +3792,445 @@
       "name_cn": ""
     },
     {
+      "app_id": "1483870",
+      "name": "Draw & Guess",
+      "name_cn": "Draw & Guess - 你画我猜",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1494190",
+      "name": "秘密舞会",
+      "name_cn": "秘密舞会",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1494810",
+      "name": "Mortal Sin",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1497440",
+      "name": "COCOON",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1504500",
+      "name": "OPUS: Echo of Starsong - Full Bloom Edition",
+      "name_cn": "OPUS：龙脉常歌 -最终版-",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1504980",
+      "name": "It Takes Two Friend's Pass",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1507190",
+      "name": "Machinika: Museum",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1509960",
+      "name": "PICO PARK",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1515210",
+      "name": "The Past Within",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1515260",
+      "name": "Circle Empires Tactics",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1515950",
+      "name": "Capcom Arcade Stadium",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1517290",
+      "name": "Battlefield™ 2042",
+      "name_cn": "《战地风云™ 2042》",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1533420",
+      "name": "Neon White",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1545560",
+      "name": "Shadow Gambit: The Cursed Crew",
+      "name_cn": "影子诡局：被诅咒的海盗 Shadow Gambit: The Cursed Crew",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1562700",
+      "name": "SANABI",
+      "name_cn": "闪避刺客",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1568590",
+      "name": "Goose Goose Duck",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1569580",
+      "name": "Blue Prince",
+      "name_cn": "蓝途王子",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1577120",
+      "name": "The Quarry",
+      "name_cn": "采石场惊魂",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1579380",
+      "name": "Shadow Tactics: Aiko's Choice",
+      "name_cn": "Shadow Tactics: 爱子的选择 Aiko's Choice",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1584090",
+      "name": "Touhou Mystia's Izakaya",
+      "name_cn": "东方夜雀食堂 - Touhou Mystia's Izakaya",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1585180",
+      "name": "Drova - Forsaken Kin",
+      "name_cn": "困兽之国 Drova - Forsaken Kin",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1593500",
+      "name": "God of War",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1608450",
+      "name": "Hellslave",
+      "name_cn": "地狱仆从",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1617400",
+      "name": "The Bazaar",
+      "name_cn": "大巴扎 The Bazaar",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
       "app_id": "1623730",
       "name": "Palworld",
       "name_cn": "Palworld / 幻兽帕鲁",
       "description_lang_short": "zh",
       "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1629520",
+      "name": "A Little to the Left",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1634080",
+      "name": "Nocturnal",
+      "name_cn": "离火长明",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1637320",
+      "name": "Dome Keeper",
+      "name_cn": "Dome Keeper 穹顶守护者",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1648590",
+      "name": "UndercoverAgent",
+      "name_cn": "卧底女特工",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1659040",
+      "name": "HITMAN World of Assassination",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1659420",
+      "name": "UNCHARTED™: Legacy of Thieves Collection",
+      "name_cn": "UNCHARTED™: 盗贼传奇合辑",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1661630",
+      "name": "KarmaZoo",
+      "name_cn": "因果动物园",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1662840",
+      "name": "PARQUET",
+      "description_lang_short": "zh",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1669980",
+      "name": "Volcano Princess",
+      "name_cn": "火山的女儿",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1672810",
+      "name": "MIO: Memories in Orbit",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1687950",
+      "name": "Persona 5 Royal",
+      "name_cn": "女神异闻录5皇家版",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1693980",
+      "name": "Dead Space",
+      "name_cn": "死亡空间",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1712840",
+      "name": "Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1714040",
+      "name": "Super Auto Pets",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1716740",
+      "name": "Starfield",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1749750",
+      "name": "Disgaea 6 Complete",
+      "name_cn": "魔界战记 DISGAEA6",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1755830",
+      "name": "Astrea: Six-Sided Oracles",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1764390",
+      "name": "BAD END THEATER",
+      "name_cn": "坏结局剧院",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1765350",
+      "name": "候鸟",
+      "name_cn": "候鸟",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1768650",
+      "name": "Path of the Abyss",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1771980",
+      "name": "The Operator",
+      "name_cn": "接线疑云 The Operator",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1794680",
+      "name": "Vampire Survivors",
+      "name_cn": "Vampire Survivors - 吸血鬼幸存者",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1801110",
+      "name": "BOKURA",
+      "name_cn": "不同的冬天",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1811260",
+      "name": "EA SPORTS™ FIFA 23",
+      "name_cn": "EA SPORTS™《FIFA 23》",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1832640",
+      "name": "Mirror 2: Project X",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1846330",
+      "name": "Nope Nope Nurses",
+      "name_cn": "病房轶事 ～只有恶质护士存在的医院～",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1850570",
+      "name": "DEATH STRANDING DIRECTOR'S CUT",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1856540",
+      "name": "Mirror News Center",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1865060",
+      "name": "14 Minesweeper Variants",
+      "name_cn": "14种扫雷变体",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1868140",
+      "name": "DAVE THE DIVER",
+      "name_cn": "潜水员戴夫 DAVE THE DIVER",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1869270",
+      "name": "Multi Turret Academy",
+      "name_cn": "多炮塔神教",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1875830",
+      "name": "Shin Megami Tensei V: Vengeance",
+      "name_cn": "真·女神转生Ⅴ Vengeance",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1897050",
+      "name": "VARIOUS DAYLIFE",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1897650",
+      "name": "Dream Tactics",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1901370",
+      "name": "Ib",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1902710",
+      "name": "Weird RPG",
+      "name_cn": "奇怪的RPG",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1903340",
+      "name": "Clair Obscur: Expedition 33",
+      "name_cn": "光与影：33号远征队",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1904540",
+      "name": "Football Manager 2023",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
     },
     {
       "app_id": "1905180",
@@ -439,10 +4240,164 @@
       "name_cn": ""
     },
     {
+      "app_id": "1919590",
+      "name": "NBA 2K23",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1927720",
+      "name": "Monument Valley",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1927740",
+      "name": "Monument Valley 2",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1931770",
+      "name": "Chants of Sennaar",
+      "name_cn": "巴别塔圣歌",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1937500",
+      "name": "Let's School",
+      "name_cn": "学园构想家",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1942280",
+      "name": "Brotato",
+      "name_cn": "土豆兄弟(Brotato)",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1943950",
+      "name": "Escape the Backrooms",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1948280",
+      "name": "Stacklands",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1948980",
+      "name": "Hero's Adventure: Road to Passion",
+      "name_cn": "大侠立志传：碧血丹心",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1962700",
+      "name": "Subnautica 2",
+      "name_cn": "Subnautica 2：异星水域",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1966720",
+      "name": "Lethal Company",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1969870",
+      "name": "Battle Teams 2",
+      "name_cn": "生死狙击2",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1971650",
+      "name": "OCTOPATH TRAVELER II",
+      "name_cn": "歧路旅人 II",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
       "app_id": "1973530",
       "name": "Limbus Company",
       "description_lang_short": "en",
       "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "1977170",
+      "name": "Jusant",
+      "name_cn": "退潮",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "1990740",
+      "name": "Barro GT",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "2001120",
+      "name": "Split Fiction",
+      "name_cn": "双影奇境",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "2016590",
+      "name": "Dark and Darker",
+      "name_cn": "越来越黑暗 Dark and Darker",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "2050650",
+      "name": "Resident Evil 4",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "2055050",
+      "name": "Cavalry Girls",
+      "name_cn": "铁骑少女",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "2056210",
+      "name": "LONESTAR",
+      "name_cn": "孤星猎人",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "2062430",
+      "name": "BALL x PIT",
+      "name_cn": "BALL x PIT — 球比伦战记",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "2071500",
+      "name": "Islands of Insight",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
       "name_cn": ""
     },
     {
@@ -453,6 +4408,34 @@
       "description_lang_detail": "zh"
     },
     {
+      "app_id": "2076010",
+      "name": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "2088570",
+      "name": "Tiny Rogues",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "2114740",
+      "name": "Blasphemous 2",
+      "name_cn": "神之亵渎2",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "2124490",
+      "name": "SILENT HILL 2",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
       "app_id": "2142790",
       "name": "Fields of Mistria",
       "description_lang_short": "zh",
@@ -460,9 +4443,121 @@
       "name_cn": ""
     },
     {
+      "app_id": "2149010",
+      "name": "Little Nightmares Enhanced Edition",
+      "name_cn": "小小梦魇 强化版",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "2159210",
+      "name": "Just a To the Moon Series Beach Episode",
+      "name_cn": "Just a To the Moon Series Beach Episode 《去月球系列海滩特别篇》",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
       "app_id": "2183900",
       "name": "Warhammer 40,000: Space Marine 2",
       "name_cn": "Warhammer 40,000: 星际战士2",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "2190290",
+      "name": "To Be or Not to Be",
+      "name_cn": "不双修就去世",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "2194530",
+      "name": "Yog-Sothoth’s Yard",
+      "name_cn": "犹格索托斯的庭院",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "2195250",
+      "name": "EA SPORTS FC™ 24",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "2208570",
+      "name": "Dark Hours",
+      "name_cn": "劫盗惊魂夜",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "2238900",
+      "name": "STAR OCEAN THE SECOND STORY R",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "2239150",
+      "name": "Thronefall",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "2246340",
+      "name": "Monster Hunter Wilds",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "2248430",
+      "name": "Touhou Artificial Dream in Arcadia",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "2258770",
+      "name": "The Shell Part I: Inferno",
+      "name_cn": "壳之少女",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "2272400",
+      "name": "Station to Station",
+      "name_cn": "站点连连 Station to Station",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "2273430",
+      "name": "BlazBlue Entropy Effect",
+      "name_cn": "苍翼：混沌效应",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "2290180",
+      "name": "Riders Republic",
+      "name_cn": "极限国度",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "2291850",
+      "name": "Underground Blossom",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "2296990",
+      "name": "We Were Here Expeditions: The FriendShip",
+      "name_cn": "我们曾到此探险：友谊考验 - 友谊考验",
       "description_lang_short": "zh",
       "description_lang_detail": "zh"
     },
@@ -474,11 +4569,95 @@
       "name_cn": ""
     },
     {
+      "app_id": "2321210",
+      "name": "Neon Echo",
+      "name_cn": "霓虹序列",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "2321470",
+      "name": "Deep Rock Galactic: Survivor",
+      "name_cn": "深岩银河：幸存者",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "2322560",
+      "name": "Love Is All Around",
+      "name_cn": "完蛋！我被美女包围了！",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "2334170",
+      "name": "Metal Bringer",
+      "name_cn": "机兵大乱战",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "2337860",
+      "name": "Nubs! Arena",
+      "name_cn": "呆呆大乱斗",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "2338770",
+      "name": "NBA 2K24",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "2345020",
+      "name": "Bee Island",
+      "name_cn": "蜜蜂岛",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "2346410",
+      "name": "Border Pioneer",
+      "name_cn": "边境开拓者",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "2353340",
+      "name": "KAMITSUBAKI CITY REGENERATE",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "2357570",
+      "name": "Overwatch®",
+      "name_cn": "《守望先锋®》",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
       "app_id": "2358720",
       "name": "Black Myth: Wukong",
       "name_cn": "黑神话：悟空",
       "description_lang_short": "zh",
       "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "2362300",
+      "name": "Train Sim World® 4",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "2368470",
+      "name": "An Arcade Full of Cats",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
     },
     {
       "app_id": "2379780",
@@ -488,11 +4667,158 @@
       "name_cn": ""
     },
     {
+      "app_id": "2381590",
+      "name": "not available",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "2384580",
+      "name": "DYNASTY WARRIORS: ORIGINS",
+      "name_cn": "真・三国无双 起源",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "2399220",
+      "name": "NUKITASHI",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "2407270",
+      "name": "AI LIMIT",
+      "name_cn": "AI LIMIT 无限机兵",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "2426410",
+      "name": "Boti: Byteland Overclocked - Prologue",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "2427700",
+      "name": "Backpack Battles",
+      "name_cn": "背包乱斗：福西法的宝藏 Backpack Battles",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "2429860",
+      "name": "Living With Sister: Monochrome Fantasy",
+      "name_cn": "妹相随～黑白世界的缤纷冒险～",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "2444750",
+      "name": "Shape of Dreams",
+      "name_cn": "梦之形",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
       "app_id": "2483190",
       "name": "Forza Horizon 6",
       "name_cn": "极限竞速：地平线 6",
       "description_lang_short": "zh",
       "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "2501600",
+      "name": "DICEOMANCER",
+      "name_cn": "骰子浪游者",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "2507950",
+      "name": "Delta Force",
+      "name_cn": "三角洲行动",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "2512920",
+      "name": "Garlic Builder",
+      "name_cn": "蒜什么建造师",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "2527500",
+      "name": "MiSide",
+      "name_cn": "米塔 MiSide",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "2531310",
+      "name": "The Last of Us™ Part II Remastered",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "2536260",
+      "name": "Mayhemers",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "2543180",
+      "name": "POPUCOM",
+      "name_cn": "泡姆泡姆",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "2567870",
+      "name": "Chained Together",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "2591280",
+      "name": "F1® Manager 2024",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "2592160",
+      "name": "Dispatch",
+      "name_cn": "Dispatch 超英派遣中心",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "2597080",
+      "name": "Realm of Ink",
+      "name_cn": "墨境",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "2612700",
+      "name": "S4U: CITYPUNK 2011 AND LOVE PUNCH",
+      "name_cn": "S4U: 都市朋克2011与爱的重拳",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "2614070",
+      "name": "NUKITASHI 2",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
     },
     {
       "app_id": "2622380",
@@ -502,9 +4828,282 @@
       "description_lang_detail": "zh"
     },
     {
+      "app_id": "2644470",
+      "name": "PICO PARK 2",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "2656540",
+      "name": "Ballads of Hongye: REBORN",
+      "name_cn": "东方：平野孤鸿",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "2676840",
+      "name": "No Case Should Remain Unsolved",
+      "name_cn": "尘埃终须落定",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "2704110",
+      "name": "Aliya: Timelink",
+      "name_cn": "彼方的她-Aliya",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "2716140",
+      "name": "Milo and the Christmas Gift",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "2721890",
+      "name": "Öoo",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "2738490",
+      "name": "Sol Cesto",
+      "name_cn": "寻日之旅",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "2742830",
+      "name": "Monster Train 2",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "2744880",
+      "name": "Climber Animals: Together",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "2747330",
+      "name": "Species: Unknown",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "2747770",
+      "name": "Wednesdays",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "2753900",
+      "name": "The King is Watching",
+      "name_cn": "王之凝视 (The King is Watching)",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "2754380",
+      "name": "The Roottrees are Dead",
+      "name_cn": "鲁特里一家死了（The Roottrees are Dead）",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
       "app_id": "2767030",
       "name": "Marvel Rivals",
       "name_cn": "漫威争锋",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "2784470",
+      "name": "9 Kings",
+      "name_cn": "九王 9 Kings",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "2807960",
+      "name": "Battlefield™ 6",
+      "name_cn": "战地风云™ 6",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "2824490",
+      "name": "He is Coming",
+      "name_cn": "魔王将至 He is Coming",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "2828500",
+      "name": "The Jackbox Megapicker",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "2835570",
+      "name": "Buckshot Roulette",
+      "name_cn": "恶魔轮盘",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "2842800",
+      "name": "Dream of Corpse Lady",
+      "name_cn": "尸姬之梦",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "2868840",
+      "name": "Slay the Spire 2",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "2881650",
+      "name": "Content Warning",
+      "name_cn": "前方高能",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "2919660",
+      "name": "JudgeSim",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "2923300",
+      "name": "Banana",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "2943650",
+      "name": "FragPunk",
+      "name_cn": "界外狂潮",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "2947440",
+      "name": "SILENT HILL f",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "2951770",
+      "name": "Leap Year",
+      "name_cn": "闰跃之年 Leap Year",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "3003460",
+      "name": "Bang Bang Barrage",
+      "name_cn": "枪豆人",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "3009300",
+      "name": "Teamfight Manager 2",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "3035500",
+      "name": "Fantasy Map Simulator",
+      "name_cn": "架空地图模拟器",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "3036080",
+      "name": "Shawarma Legend",
+      "name_cn": "沙威玛传奇 - Shawarma Legend",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "3059520",
+      "name": "F1® 25",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "3070070",
+      "name": "TCG Card Shop Simulator",
+      "name_cn": "TCG卡牌店模拟器",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "3097560",
+      "name": "Liar's Bar",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "3101040",
+      "name": "Magical Girl Witch Trials",
+      "name_cn": "魔法少女的魔女审判",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "3117820",
+      "name": "Sultan's Game",
+      "name_cn": "苏丹的游戏",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "3124540",
+      "name": "Far Far West",
+      "name_cn": "遥遥西土 Far Far West",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "3129930",
+      "name": "Nonentity Galaxy",
+      "name_cn": "银河灰暗角落",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "3167020",
+      "name": "Escape From Duckov",
+      "name_cn": "逃离鸭科夫",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "3214610",
+      "name": "Cinderia",
+      "name_cn": "灰烬之国 Cinderia",
       "description_lang_short": "zh",
       "description_lang_detail": "zh"
     },
@@ -523,6 +5122,48 @@
       "name_cn": ""
     },
     {
+      "app_id": "3265700",
+      "name": "Vampire Crawlers: The Turbo Wildcard from Vampire Survivors",
+      "name_cn": "吸血鬼爬行者: 屠戮地牢的吸血鬼幸存者",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "3274300",
+      "name": "Awaria",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "3280350",
+      "name": "DEATH STRANDING 2: ON THE BEACH",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "3373660",
+      "name": "Look Outside",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "3404470",
+      "name": "Maltese's Fluffy Onsen",
+      "name_cn": "线条小狗：动物温泉",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "3405690",
+      "name": "EA SPORTS FC™ 26",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
       "app_id": "3419430",
       "name": "Bongo Cat",
       "description_lang_short": "zh",
@@ -530,11 +5171,151 @@
       "name_cn": ""
     },
     {
+      "app_id": "3419780",
+      "name": "Tick Hop",
+      "name_cn": "滴答咔哒",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "3472040",
+      "name": "NBA 2K26",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "3472550",
+      "name": "The Mr. Rabbit Magic Show",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "3489700",
+      "name": "Stellar Blade™",
+      "name_cn": "剑星",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "3526710",
+      "name": "Everything is Crab: The Animal Evolution Roguelite",
+      "name_cn": "万物皆可蟹：动物进化 Roguelite | Everything is Crab",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
       "app_id": "3527290",
       "name": "PEAK",
       "description_lang_short": "zh",
       "description_lang_detail": "zh",
       "name_cn": ""
+    },
+    {
+      "app_id": "3548580",
+      "name": "Chill with You : Lo-Fi Story",
+      "name_cn": "放松时光：与你共享Lo-Fi故事",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "3551340",
+      "name": "Football Manager 26",
+      "name_cn": "足球经理26",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "3562120",
+      "name": "Magical Princess",
+      "name_cn": "梦幻魔法公主",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "3587490",
+      "name": "Terrors to Unveil - Day Off",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "3629780",
+      "name": "Tingus Goose",
+      "name_cn": "神经鹅",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "3636770",
+      "name": "Servant of the Lake",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "3769130",
+      "name": "Keep on Mining!",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh",
+      "name_cn": ""
+    },
+    {
+      "app_id": "3838370",
+      "name": "TR-49",
+      "description_lang_short": "en",
+      "description_lang_detail": "en",
+      "name_cn": ""
+    },
+    {
+      "app_id": "3844970",
+      "name": "Burglin' Gnomes",
+      "name_cn": "地精捣蛋团",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "3948120",
+      "name": "Scritchy Scratchy",
+      "name_cn": "刮个爽",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "4042800",
+      "name": "Poker Fate - Anime Girls Texas Hold'em",
+      "name_cn": "Poker Fate - 二次元美少女在线德州扑克",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "4108000",
+      "name": "Machine Party",
+      "name_cn": "机械狂欢",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "4128580",
+      "name": "BidKing",
+      "name_cn": "竞拍之王",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "4206270",
+      "name": "Wireworks",
+      "name_cn": "Wireworks - 电路防卫战",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
+    },
+    {
+      "app_id": "4395300",
+      "name": "Dancing Line",
+      "name_cn": "跳舞的线",
+      "description_lang_short": "zh",
+      "description_lang_detail": "zh"
     },
     {
       "app_id": "4704690",

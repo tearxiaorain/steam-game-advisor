@@ -1,0 +1,49 @@
+{
+  "app_id": "7600",
+  "name": "Sid Meier's Railroads!",
+  "name_cn": "",
+  "short_description": "Sid Meier's Railroads! marks the return of the watershed title in simulation/strategy gaming that launched the popular \"tycoon\" genre, and inspired a new generation of games. Sid Meier's Railroads!",
+  "detailed_description": "Sid Meier's Railroads! marks the return of the watershed title in simulation/strategy gaming that launched the popular \"tycoon\" genre, and inspired a new generation of games. Sid Meier's Railroads! comes home to its original creator, the legendary Sid Meier, who, together with his team at Firaxis Games, will take this game to a whole new level of fun!\n\r\n\n\r\nThe greatest railroad building game of all time is back in a vibrant 3D world delivering a streamlined interface and unmatched gameplay, that's easy to learn yet challenging to master. Creators of the world's best strategy game, Civilization IV, Sid Meier and Firaxis Games put you in charge of building the greatest rail empire in the nation - managing trains, cargo and your bottom line - while engaging in all-out corporate warfare against rival tycoons, slick entrepreneurs, and robber barons!\n\r\n\n\r\n*Multiplayer available in LAN mode only.",
+  "description_lang_short": "en",
+  "description_lang_detail": "en",
+  "genres": [
+    "策略"
+  ],
+  "tags": [
+    "策略"
+  ],
+  "categories": [
+    "单人",
+    "多人",
+    "家庭共享"
+  ],
+  "developers": [
+    "Firaxis Games",
+    "Feral Interactive (Mac)"
+  ],
+  "publishers": [
+    "2K",
+    "Feral Interactive (Mac)"
+  ],
+  "release_date": "2007 年 5 月 4 日",
+  "platforms": [
+    "Windows",
+    "Mac"
+  ],
+  "supported_languages": [
+    "英语",
+    "法语",
+    "德语",
+    "意大利语",
+    "西班牙语 - 西班牙"
+  ],
+  "is_free": false,
+  "price_cny": 32.0,
+  "pc_requirements_min": "Minimum\nWindows 2000, Windows XP\n1.4GHz Intel Pentium 4 or AMD Athlon processor or equivalent\n512 MB RAM\n64 MB Video card with hardware pixel and vertex shaders (GeForce 3, Radeon 8500 or better)\nDirectX 7 compatible sound card\n1.7 GB of free disc drive space",
+  "pc_requirements_rec": "Recommended\nWindows 2000, Windows XP\n2.0 GHz Intel Pentium 4 or AMD Athlon processor or equivalent (or better)\n1GB RAM\n128MB videocard with pixel shader 2.0 support (Radeon x800, GeForce 6800)\nDirectX 7 compatible sound card\n1.7 GB of free disc drive space",
+  "fetched_at": "2026-08-20T04:31:17Z",
+  "review_desc": "Mostly Positive",
+  "review_count": 3463,
+  "review_percentage": 71.0,
+  "review_score": 6
+}

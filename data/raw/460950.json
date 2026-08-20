@@ -1,0 +1,60 @@
+{
+  "app_id": "460950",
+  "name": "Katana ZERO",
+  "name_cn": "武士 零",
+  "short_description": "《武士 零（Katana ZERO）》是一款新黑色电影风格的华丽平台动作游戏，以极速动作展开瞬间决定生死的战斗，劈砍、冲刺、操纵时间，在华丽、无情、行云流水般的战斗中发现你的过去。",
+  "detailed_description": "\"敌对己皆是一刀毙命的爽快设计，带来了令人欲罢不能的满足感。\" \n\r\n5/5 蓝熊@奶牛关游戏社区\n\r\n\n\r\n\n\r\n《武士 零（Katana ZERO）》是一款新黑色电影风格的华丽平台动作游戏，以极速动作展开瞬间决定生死的战斗，劈砍、冲刺、操纵时间，在华丽、无情、行云流水般的战斗中发现你的过去。\n\r\n\n\r\n独特卓越的战斗：在各种形势下战胜对手，将向你射出的子弹反弹回去、闪避前来的攻击、用陷阱和爆炸来巧妙地控制敌人的行动与环境……不留任何活口。\n\r\n\n\r\n精心打造的流程：每一关都被设计为能用多种方式完成。你可以尽情挥洒创意、随机应变地将敌人们一一解决。\n\r\n\n\r\n独辟蹊径的叙事：一个充满谜团的故事，通过在游玩过程中自然穿插的众多过场展示，抽丝剥茧地讲述这段峰回路转、出乎你意料之外的剧情。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "独立"
+  ],
+  "tags": [
+    "动作",
+    "独立"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "Steam 云",
+    "在手机上远程畅玩",
+    "在平板上远程畅玩",
+    "在电视上远程畅玩",
+    "家庭共享"
+  ],
+  "developers": [
+    "Askiisoft"
+  ],
+  "publishers": [
+    "Devolver Digital"
+  ],
+  "release_date": "2019 年 4 月 18 日",
+  "platforms": [
+    "Windows",
+    "Mac"
+  ],
+  "supported_languages": [
+    "英语",
+    "法语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "日语",
+    "韩语",
+    "葡萄牙语 - 巴西",
+    "俄语",
+    "简体中文",
+    "繁体中文"
+  ],
+  "is_free": false,
+  "price_cny": 58.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows 7, 8, 8.1, 10 x64\n处理器: Intel Pentium E2180 (2 * 2000) or equivalent\n内存: 1 GB RAM\n显卡: GeForce 7600 GT (256 MB)\nDirectX 版本: 10\n存储空间: 需要 200 MB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n操作系统 *: Windows 7, 8, 8.1, 10 x64\n处理器: Intel Core i3-3240 (2 * 3400) or equivalent\n内存: 2 GB RAM\n显卡: GeForce 8800 GTS (512 MB)\n存储空间: 需要 200 MB 可用空间",
+  "fetched_at": "2026-08-20T04:02:13Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 75950,
+  "review_percentage": 97.9,
+  "review_score": 9
+}

@@ -1,0 +1,61 @@
+{
+  "app_id": "1335200",
+  "name": "Action Taimanin",
+  "name_cn": "Action对魔忍",
+  "short_description": "统率超人忍者们对抗邪恶势力！对魔忍系列角色展开的近未来忍者动作RPG！",
+  "detailed_description": "简介近未来，人魔之间自太古以来就恪守着「互不干涉」的不成文规定。\n自人类堕落、步入歧途后，便出现了破绽，\n人魔勾结的犯罪组织在全世界引起了恶行和混乱。\n为对抗邪魔外道，\n集结了拥有超人能力与资质的忍者，\n世人称之为「对魔忍」……\n\n为了阻止国际恐袭与魔界势力的威胁，成立对魔忍特务中队。\n特务中队的第一个任务——\n追回在日本的美联基地中，被夺取的生物武器！\n\n这个任务却出现意外的展开，\n特务中队不仅加入了意想不到的我军成员，\n更与超乎预料的敌人正面对决。\n那个人，和最强对魔忍井河阿莎姬有关……\n\n战斗以简单的按键，打击出华丽与爽快的战斗！\n技能、武器、辅助，组合出专属于我的战斗模式后，打倒敌人吧！\n\n角色对魔忍系列知名的角色们展现出「触电般」的魅力！？\n可操作角色 3+名、辅助角色 30+名，提升她们的好感度后，\n开启特别回想模式吧！私人房间可自由操作、摆放在游戏中收集角色与遭遇敌人的3D模型！\n创造出我的名场面吧！",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "冒险",
+    "角色扮演",
+    "免费开玩"
+  ],
+  "tags": [
+    "动作",
+    "冒险",
+    "角色扮演",
+    "免费开玩"
+  ],
+  "categories": [
+    "单人",
+    "多人",
+    "大型多人在线",
+    "玩家对战",
+    "线上玩家对战",
+    "应用内购买",
+    "部分支持控制器",
+    "在手机上远程畅玩",
+    "在平板上远程畅玩",
+    "家庭共享"
+  ],
+  "developers": [
+    "LiLith"
+  ],
+  "publishers": [
+    "Infini-Brain inc."
+  ],
+  "release_date": "2020 年 10 月 5 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语",
+    "日语*",
+    "简体中文",
+    "繁体中文",
+    "韩语",
+    "西班牙语 - 西班牙",
+    "西班牙语 - 拉丁美洲\n*具有完全音频支持的语言"
+  ],
+  "is_free": true,
+  "price_cny": 0.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows 7 or later\n处理器: Intel(R) Core(TM) i5-2520M or similar\n内存: 4 GB RAM\n显卡: GeForce GTX 500 series or similar\nDirectX 版本: 11\n网络: 宽带互联网连接\n存储空间: 需要 6 GB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n操作系统 *: Windows 7 or later\n处理器: Intel Core i5 2.6GHz or similar\n内存: 8 GB RAM\n显卡: GeForce GTX 950 series or similar\nDirectX 版本: 11\n网络: 宽带互联网连接\n存储空间: 需要 8 GB 可用空间",
+  "fetched_at": "2026-08-20T04:16:31Z",
+  "review_desc": "Very Positive",
+  "review_count": 19375,
+  "review_percentage": 82.9,
+  "review_score": 8
+}

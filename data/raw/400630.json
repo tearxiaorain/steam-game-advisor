@@ -1,0 +1,65 @@
+{
+  "app_id": "400630",
+  "name": "Wuppo: Definitive Edition",
+  "name_cn": "",
+  "short_description": "你是一名被驱逐的“乌姆”，想在这个奇异迷人的世界中寻找一个新的家园。一路上，你会遇到奇怪的生物、谜题、怪物、与政治混乱...",
+  "detailed_description": "在被原来的家驱逐之后，这名寂寞的乌姆探遍了世界的每一个角落，只为寻找一个新居住地。从大都市波波城到广阔的布里克城，我们的乌姆会探索一个个奇特的地方，遇到各种怪异的生物。但这是一名与众不同的乌姆，他凭借着智慧与魅力，便能在这场伟大的探险中取得成功。\n\nWuppo是一款仅由2个人带着饱满热情制作的游戏，拥有着手绘画风、海量配乐，以及一个超大的世界等你来探索。 \n\n特色探索一个充满着乌姆、弗纳克以及其他怪异生物的奇妙世界。\n\n在你寻找新家的过程中平息一场源于远古的矛盾。\n\n通过道具和交流来克服各种各样的挑战。\n\n打败体型各异的，甚至是巨型的敌人！\n\n收集幻灯片，发掘这个世界的历史细节。\n\n享受精心编排的，迷人而难忘的配乐。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "冒险",
+    "独立",
+    "角色扮演"
+  ],
+  "tags": [
+    "动作",
+    "冒险",
+    "独立",
+    "角色扮演"
+  ],
+  "categories": [
+    "单人",
+    "多人",
+    "合作",
+    "同屏/分屏合作",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "Steam 云",
+    "在电视上远程畅玩",
+    "远程同乐",
+    "家庭共享"
+  ],
+  "developers": [
+    "snekflat"
+  ],
+  "publishers": [
+    "snekflat"
+  ],
+  "release_date": "2016 年 9 月 29 日",
+  "platforms": [
+    "Windows",
+    "Mac"
+  ],
+  "supported_languages": [
+    "英语",
+    "韩语",
+    "简体中文",
+    "葡萄牙语 - 巴西",
+    "波兰语",
+    "日语",
+    "德语",
+    "俄语",
+    "土耳其语"
+  ],
+  "is_free": false,
+  "price_cny": 48.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows XP or higher\n处理器: 1.2 GHz\n内存: 2 GB RAM\n显卡: 512mb video memory\nDirectX 版本: 9.0\n存储空间: 需要 500 MB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n操作系统 *: Windows 7 or higher\n处理器: 2.0 GHz\n内存: 4 GB RAM\n显卡: 1 GB video memory\nDirectX 版本: 11\n存储空间: 需要 1 GB 可用空间",
+  "fetched_at": "2026-08-20T04:26:59Z",
+  "review_desc": "Very Positive",
+  "review_count": 5965,
+  "review_percentage": 94.4,
+  "review_score": 8
+}

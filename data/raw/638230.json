@@ -1,0 +1,74 @@
+{
+  "app_id": "638230",
+  "name": "Journey",
+  "name_cn": "",
+  "short_description": "在古老而神秘的 Journey 世界，滑翔在废墟上空和沙丘之间，探索未知的奥秘。",
+  "detailed_description": "在古老而神秘的 Journey 世界，滑翔在废墟上空和沙丘之间，探索未知的奥秘。您可以单独行动，或者结伴而行，一起探索游戏中的广阔世界。Journey 拥有令人惊叹的视觉效果和获得格莱美提名的配乐，为玩家带来无可比拟的惊艳体验。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "冒险",
+    "独立"
+  ],
+  "tags": [
+    "冒险",
+    "独立"
+  ],
+  "categories": [
+    "单人",
+    "多人",
+    "合作",
+    "在线合作",
+    "Steam 成就",
+    "完全支持控制器",
+    "推荐使用手柄",
+    "DUALSHOCK 控制器支持",
+    "DUALSHOCK 控制器支持",
+    "DualSense 控制器支持",
+    "DualSense 控制器支持",
+    "Steam 云",
+    "在手机上远程畅玩",
+    "在平板上远程畅玩",
+    "在电视上远程畅玩",
+    "家庭共享"
+  ],
+  "developers": [
+    "thatgamecompany"
+  ],
+  "publishers": [
+    "Annapurna Interactive"
+  ],
+  "release_date": "2020 年 6 月 11 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语",
+    "法语",
+    "意大利语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "阿拉伯语",
+    "荷兰语",
+    "日语",
+    "韩语",
+    "波兰语",
+    "葡萄牙语 - 巴西",
+    "俄语",
+    "简体中文",
+    "西班牙语 - 拉丁美洲",
+    "瑞典语",
+    "泰语",
+    "繁体中文",
+    "土耳其语"
+  ],
+  "is_free": false,
+  "price_cny": 60.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10\n处理器: Intel Core i3-2120 | AMD FX-4350\n内存: 4 GB RAM\n显卡: Nvidia GTS 450 | AMD Radeon HD 5750\n存储空间: 需要 4 GB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统",
+  "fetched_at": "2026-08-20T03:41:53Z",
+  "review_desc": "Very Positive",
+  "review_count": 38288,
+  "review_percentage": 94.1,
+  "review_score": 8
+}

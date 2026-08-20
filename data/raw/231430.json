@@ -1,0 +1,64 @@
+{
+  "app_id": "231430",
+  "name": "Company of Heroes 2",
+  "name_cn": "",
+  "short_description": "Experience the ultimate WWII RTS platform with COH2 and its standalone expansions. This package includes the base game, which you can then upgrade by purchasing The Western Front Armies, Ardennes Assault and/or The British Forces. More info in the \"About This Game\" section below.",
+  "detailed_description": "Powered by the Essence Engine 3.0, the Company of Heroes 2 series feature some unique mechanics rewarding thoughtful players. From the TrueSight™ system that emulates the units’ line of sight to the cover-system that encourages clever unit placement – not to mention the combined arms approach and the hard and soft counters gameplay that will make you think twice before trying to destroy a tank with a simple squad of riflemen – each game presents players with an uninterrupted stream of meaningful tactical choices that can turn the tide of war.\nPICK YOUR FIGHTNB: multiplayer standalones allow you to play on any map against anyone owning any COH2 product.\n\nThe Company of Heroes 2 base game gives you access to two multiplayer armies from the Eastern Front: the Red Army (SOV) and the Wehrmacht Ostheer (GER). It also comes with a gritty single-player campaign that will give you a chance to familiarize yourself with the series core tenets. Step into the boots of a Soviet commander of the Red Army, entrenched in brutal frontline warfare to free Mother Russia from the Enemy invaders! Adjust your tactics to take into account the brutal weather conditions and wield the might of the Soviet Empire as you smash your way to Berlin.\n\n Company of Heroes 2: The Western Front Armies adds two new factions from the Western Front to the roster of playable multiplayer armies: the Oberkommando West (OKW) and the US Forces (USF). While the former puts you in charge of an aggressive and powerful army with very specialized and elite units – yet in very limited numbers – the latter introduces an expeditionary corps that allows for a variety of approaches and very powerful combined arms tactics, but which inevitably falls a bit short in the heavy armor department.\n\n Company of Heroes 2: Ardennes Assault offers a compelling single-player campaign for the USF faction revolving around the Battle of the Bulge. Engage in a dynamic non-linear campaign across the Ardennes landscape consisting of 18 scenarios, choose between three iconic companies, customize their abilities and bear the consequences of your actions as overall company health persists between missions.\n\n Company of Heroes 2: The British Forces is the latest entry in the series and features this iconic Allied army from WWII (UKF). Experience a unique tech-tree that challenges the player to balance the constant trade-off between mobility and defense. Surprise your opponents with your development choices and an open end game configuration. Enjoy an army with character and distinctive units & abilities, from the Churchill Crocodile flamethrower tank to the RAF glider.\nKEY FEATURESAWARD WINNING FRANCHISE\nSequel to the highest rated strategy game of all time returns with an innovative warfare experience that will redefine the Strategy genre once more\nESSENCE ENGINE 3.0\nCutting-edge technology that increases the graphical quality and accuracy of deadly combat with the unprecedented TrueSight™ system, the ultrarealistic ColdTech™ dynamic weather that changes strategic warfare forever and improved environmental destruction\nTACTICAL WARFARE\nDevelop and utilize your new Commander Abilities and experience the up-close moment-to-moment brutality of frontline warfare through new Dynamic Battle Tactics\nINTENSE ONLINE COMBAT\nFeaturing the great competitive and co-operative multiplayer that fans have grown to expect from this high-quality and critically acclaimed franchiseMULTIPLAYER ARMIES COMPARISONFind out the multiplayer army (and associated game/standalone) that suits your play style.",
+  "description_lang_short": "en",
+  "description_lang_detail": "en",
+  "genres": [
+    "策略"
+  ],
+  "tags": [
+    "策略"
+  ],
+  "categories": [
+    "单人",
+    "多人",
+    "玩家对战",
+    "线上玩家对战",
+    "合作",
+    "在线合作",
+    "Steam 成就",
+    "Steam 集换式卡牌",
+    "Steam 创意工坊",
+    "Steam 云",
+    "统计数据",
+    "家庭共享"
+  ],
+  "developers": [
+    "Relic Entertainment",
+    "Feral Interactive (Mac)",
+    "Feral Interactive (Linux)"
+  ],
+  "publishers": [
+    "Relic Entertainment",
+    "Feral Interactive (Mac)",
+    "Feral Interactive (Linux)"
+  ],
+  "release_date": "2013 年 6 月 25 日",
+  "platforms": [
+    "Windows",
+    "Mac",
+    "Linux"
+  ],
+  "supported_languages": [
+    "捷克语",
+    "英语*",
+    "法语*",
+    "德语*",
+    "意大利语",
+    "波兰语*",
+    "俄语*",
+    "西班牙语 - 西班牙*\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 70.0,
+  "pc_requirements_min": "Minimum:\nMemory: 2GB RAM\n\tProcessor: 2Ghz Intel Core2 Duo or equivalent\n\tGraphics: 512MB Direct3D 10 capable video card (GeForce 8800 GT or Radeon HD 2900XT)\n\tOS: 32bit Vista\n        Internet: Broadband Internet connection\n\tHard Drive: 30GB free Hard disc space",
+  "pc_requirements_rec": "Recommended:\nMemory: 4GB RAM\nProcessor: 3Ghz Intel i5 quad core or equivalent\nGraphics: 1024 MB Direct3D 11 capable video card (GeForce GTX 470 or Radeon HD 5850)\nOS *: 64bit Windows 7 and above\nInternet: Broadband Internet connection\nHard Drive: 30GB free Hard disc space",
+  "fetched_at": "2026-08-20T04:07:25Z",
+  "review_desc": "Mostly Positive",
+  "review_count": 113043,
+  "review_percentage": 79.0,
+  "review_score": 6
+}

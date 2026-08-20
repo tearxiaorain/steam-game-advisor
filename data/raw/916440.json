@@ -1,0 +1,60 @@
+{
+  "app_id": "916440",
+  "name": "Anno 1800",
+  "name_cn": "纪元1800",
+  "short_description": "在《Anno 1800》里引领工业革命！ 体验史上瞬息万变的精彩时期之一。发现新科技、新大陆和新社会。打造你梦想中的新世界！",
+  "detailed_description": "Anno 1800™ Definitive Annoversary Edition\n\n使用最终纪念版，解锁完整的《纪元 1800》游戏体验，该版本内含：\n\n- 游戏本体。\n- 第 1 年季票。\n- 第 2 年季票。\n- 第 3 年季票。\n- 第 4 年季票。\n- 所有 2023 年发布的 DLC 装饰道具组合包，以及 2024 年发布的组合包。\n- 豪华版内含“无政府主义者”的 AI 角色、原声音乐、数字版艺术设定集及其它更多内容！\n\nAnno 1800 Gold Edition\n\n使用黄金版，解锁完整的《纪元 1800》游戏体验，该版本内含：\n\n- 第 1 年季票的三个 DLC：沉没的宝藏、植物学和通道。\n- 第 2 年季票的三个 DLC：权利之座、丰收之光和群狮之地。\n- 第 3 年季票的三个 DLC：贸易港区、旅行旺季和上流生活。\n- 第 4 年季票的三个 DLC：改变的种子、帝国的天空和新世界崛起。\n- 豪华版内含“无政府主义者”的 AI 角色、原声音乐、数字版艺术设定集及其它更多内容。\n\n关于游戏现在预购可额外获得三件游戏中物品：\n\n• 《Anno 1602》纪念雕像：用著名的《Anno 1602》雕像欢庆本系列 20 周年并提高你城市的文化价值。\n\n• 帝国列车：用这独树一格、装饰华丽的火车在铁道上与众不同地行驶。\n\n• 帝国指挥舰：用这艘独特的起始船舰风风光光地在游戏中登场。\n\n曙光中的开拓者\n\n在《Anno 1800》里引领工业革命！\n\n体验史上瞬息万变的精彩时期之一。发现新科技、新大陆和新社会。打造你梦想中的新世界！收集到的所有原料都是为了创造值得回味的《Anno》游戏体验。游历工业革命时期的世界并写下你的故事！\n\n最棒的《Anno》游戏\n\n《Anno 1800》结合了 20 多年来深受玩家喜爱的《Anno》游戏特色，例如独特的电脑对手、随机产生的地图、多段式游戏玩法等等。此外，还有丰富的城市建造体验，包括有故事的战役、自订自由度高的沙盒模式，以及经典的《Anno》多人游戏体验。\n\n发现新大陆\n\n你将有机会探索充满独特资源与机会的南美洲，但风险与挑战也将伴随而来。远渡重洋发现新世界、搜刮令人垂涎的一切。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "模拟",
+    "策略"
+  ],
+  "tags": [
+    "模拟",
+    "策略"
+  ],
+  "categories": [
+    "单人",
+    "多人",
+    "玩家对战",
+    "线上玩家对战",
+    "合作",
+    "在线合作",
+    "Steam 成就",
+    "Steam 集换式卡牌",
+    "支持字幕"
+  ],
+  "developers": [
+    "Ubisoft Mainz"
+  ],
+  "publishers": [
+    "Ubisoft"
+  ],
+  "release_date": "2019 年 4 月 16 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语*",
+    "意大利语",
+    "德语*",
+    "西班牙语 - 西班牙",
+    "日语",
+    "韩语",
+    "波兰语",
+    "俄语*",
+    "简体中文",
+    "繁体中文\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 198.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10(64-bit versions only)\n处理器: Intel i5 3470, AMD FX 6350\n内存: 8 GB RAM\n显卡: NVIDIA GeForce 670 GTX or AMD Radeon R9 285 (2 GB of VRAM, Shader Model 5.0)\nDirectX 版本: 11\n存储空间: 需要 60 GB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10(64-bit versions only)\n处理器: Intel i5 4690k, AMD Ryzen 5 1400\n内存: 8 GB RAM\n显卡: NVIDIA GeForce 970 GTX or AMD Radeon RX 480 (4 GB of VRAM, Shader Model 5.1)\nDirectX 版本: 12\n存储空间: 需要 60 GB 可用空间",
+  "fetched_at": "2026-08-20T04:21:23Z",
+  "review_desc": "Very Positive",
+  "review_count": 32155,
+  "review_percentage": 81.4,
+  "review_score": 8
+}

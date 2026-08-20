@@ -1,0 +1,65 @@
+{
+  "app_id": "3265700",
+  "name": "Vampire Crawlers: The Turbo Wildcard from Vampire Survivors",
+  "name_cn": "吸血鬼爬行者: 屠戮地牢的吸血鬼幸存者",
+  "short_description": "用毁天灭地的连击，杀穿群魔乱舞的地下城！《Vampire Crawlers: The Turbo Wildcard from Vampire Survivors》是一款含有轻度Rogue元素的回合制休闲牌组构筑游戏。亲手掌握卡组，让你的回合玩出花来​​！",
+  "detailed_description": "黑暗再临，征途再启。探索地图，强化能力，击败怪物，搜寻宝藏。\n\n《吸血鬼爬行者: 屠戮地牢的吸血鬼幸存者》，这款充满变数的全新作品，将《吸血鬼幸存者》的割草式爽感，转化为一款高速回合制、卡牌驱动的第一人称地牢探索+ Rogue-lite体验。\n\n构筑天胡牌组，从全新视角探索熟悉的地牢，释放足以毁灭世界的连锁组合。\n\n你可以慢慢思考、精打细算；也可以手速拉满、极速出牌——无论节奏如何，结果始终精准无误。\n\n滚雪球式的回合制杀戮按法力值从低到高依次打出卡牌，逐步叠加连锁效果，每一步都会放大下一张卡的威力。利用“万能牌”来延长连击链，冲击 10 连、20 连、30 连，指数级增加，达成毁天灭地的效果！\n\n自由掌控节奏自己决定玩法风格：是谨慎规划，步步为营；或是极限手速，一气呵成——不管怎样，你的每一步操作都会立即产生清晰的结果。\n\n卡组构筑积累经验，不断升级，解锁新卡牌；踢开宝箱，获取自定义宝石与强化。追求武器进化，召唤幸存者，引发连锁效果风暴，直到打崩游戏！\n\n地牢探索探索充满未知与惊喜的地牢——这里出现了《吸血鬼幸存者》中少见的东西：实实在在的墙壁。\n\n还有各种独特的宝藏与互动机制。找到铲子，挖通前往下一层的道路——而下一层，很可能就在云端之上！",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "独立",
+    "策略"
+  ],
+  "tags": [
+    "动作",
+    "独立",
+    "策略"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "DUALSHOCK 控制器支持",
+    "DUALSHOCK 控制器支持",
+    "DualSense 控制器支持",
+    "DualSense 控制器支持",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "poncle",
+    "Nosebleed Interactive"
+  ],
+  "publishers": [
+    "poncle"
+  ],
+  "release_date": "2026 年 4 月 21 日",
+  "platforms": [
+    "Windows",
+    "Mac"
+  ],
+  "supported_languages": [
+    "英语",
+    "法语",
+    "意大利语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "日语",
+    "葡萄牙语 - 巴西",
+    "俄语",
+    "简体中文",
+    "繁体中文",
+    "韩语",
+    "波兰语"
+  ],
+  "is_free": false,
+  "price_cny": 39.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10 64bit\n处理器: x64 architecture with SSE2\n内存: 4 GB RAM\n显卡: DX11, DX12 capable\n存储空间: 需要 2 GB 可用空间\n声卡: Sound Blaster 4000",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10 64bit\n处理器: x64 architecture with SSE2\n内存: 4 GB RAM\n显卡: DX11, DX12 capable\n存储空间: 需要 2 GB 可用空间\n声卡: Sound Mega Blaster 90000",
+  "fetched_at": "2026-08-20T04:09:31Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 18708,
+  "review_percentage": 96.2,
+  "review_score": 9
+}

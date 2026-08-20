@@ -1,0 +1,52 @@
+{
+  "app_id": "1749750",
+  "name": "Disgaea 6 Complete",
+  "name_cn": "魔界战记 DISGAEA6",
+  "short_description": "全球累计销量超过500万套的史上最凶战棋模拟RPG《魔界战记DISGAEA》系列！最新作的主题是——异界转生×僵尸×无限养成！魅力十足的角色、异常充实的耐玩要素、随心所欲的捏人系统以及爽快炸裂的剧情等你来体验！",
+  "detailed_description": "异界转生×僵尸×Lv.99999999！\n死掉1000万次也永不放弃！\n\n【这次的主题是“异界转生×僵尸”？】\n作为最弱僵尸的主人公“泽德”为拯救妹妹“薇可”，向妄图毁灭魔界而四处挑事的破坏神发起了挑战。\n为了获得足以战胜破坏神的力量，泽德将一次又一次地使用越死越强的转移魔术“超转生”，走遍无数异世界——\n人界、魔界、音乐剧界、科幻界，甚至还有魔法学校界？\n赶快带领伙伴们闯进各种奇奇怪怪的异世界，挑战最强破坏神！\n\n【突破框架的育成&耐玩要素】角色等级上限99999999！\n最高伤害99999999999999999999！击碎RPG的常识概念！\n持有金额上限9999999999999999！轻松超越国家预算！\n永无止境地强化专属角色和心仪武器，在深不可测的各种耐玩要素中愉快地畅游吧！",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "角色扮演",
+    "策略"
+  ],
+  "tags": [
+    "角色扮演",
+    "策略"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "Nippon Ichi Software, Inc."
+  ],
+  "publishers": [
+    "NIS America, Inc."
+  ],
+  "release_date": "2022 年 6 月 28 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语",
+    "简体中文",
+    "繁体中文",
+    "日语*",
+    "韩语\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 288.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统 *: Windows 8.1/10/11 64-bit\n处理器: Intel Core i3-2100 3.1 GHz or AMD equivalent\n内存: 4 GB RAM\n显卡: GeForce GTX 560 Ti\nDirectX 版本: 11\n存储空间: 需要 6 GB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统 *: Windows 8.1/10/11 64-bit\n处理器: Intel Core i5-6500 3.2 GHz or AMD equivalent\n内存: 8 GB RAM\n显卡: GeForce GTX 750 Ti\nDirectX 版本: 11\n存储空间: 需要 6 GB 可用空间",
+  "fetched_at": "2026-08-20T04:14:23Z",
+  "review_desc": "Mixed",
+  "review_count": 439,
+  "review_percentage": 63.6,
+  "review_score": 5
+}

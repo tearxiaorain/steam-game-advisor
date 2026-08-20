@@ -1,0 +1,51 @@
+{
+  "app_id": "1648590",
+  "name": "UndercoverAgent",
+  "name_cn": "卧底女特工",
+  "short_description": "秘密搜查官沙希接到了新的任务。 「入侵犯罪团伙的据点，获取内部情报并破坏设备」 沙希以自己为诱饵，成功潜入建筑物之中。 虽然一切如计划般顺利，但却陷入没有武器与通信手段的境地。 沙希需要单独完成任务，并成功逃脱。",
+  "detailed_description": "游戏客服群\n\n关于游戏\n\n《卧底女特工》是由日本知名独立游戏社团AleCubicSoft制作，OTAKU Plan汉化发行的一款RPG游戏。\n\n免费DLC已经上线：\n\nDLC 按組合鍵“ Win + R”輸入：steam://install/1684890或steam://rungameid/1684890，然后按Enter鍵进行安装。\n\n无法使用时请加入Q群了解更多。\n\n游戏剧情秘密搜查官沙希接到了新的任务。\n\n「入侵犯罪团伙的据点，获取内部情报并破坏设备」\n\n沙希以自己为诱饵，成功潜入建筑物之中。\n\n虽然一切如计划般顺利，但却陷入没有武器与通信手段的境地。\n\n沙希需要单独完成任务，并成功逃脱。\n\n游戏内容玩家将操作主角沙希，在战斗中使用卡牌选择进攻防御等动作来闯过各个关卡，直到获得情报并成功逃离。\n\n游戏特色1对1的回合制战斗模式\n\n使用卡牌选择战斗命令\n\n关卡式剧情\n\n简易攻略■第一关■\n\n频繁使用恢复的对手，需要集中发动攻击\n\n建议牌组：攻击6，防御3\n\n■第二关■\n\n攻击高的对手，需要注重防御\n\n建议牌组：攻击3，防御6，陷阱4，士气2\n\n■第三关■\n\n防御极高的对手，推荐选择无视防御的攻击方式进行战斗\n\n推荐牌组：防御1，手枪2，生命增强2，集中2，士气2\n\n■第四关■\n\n频繁使用麻痹技能但伤害不高的对手，可以舍弃防御\n\n推荐牌组：攻击3，集中2，攻击力提升2，士气2，冥想2\n\n■第五关■\n\n攻击高，而且有几率增加下回合行动的强敌。\n\n推荐前期提升属性，后期边防御边攻击\n\n推荐牌组：防御2，火箭炮1，攻击力提升2，防御力增加2，集中2，士气2，冥想2\n\n■第六关■\n\n这将是能够使用之前几关所有能力的最凶狠boss\n\n推荐前期提升属性，后期边防御边攻击\n\n推荐牌组：防御2，士气2，攻击力提升4，防御力增加4，SP提升1，压制射击4，冥想4",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "冒险",
+    "独立",
+    "角色扮演"
+  ],
+  "tags": [
+    "冒险",
+    "独立",
+    "角色扮演"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "AleCubicSoft"
+  ],
+  "publishers": [
+    "OTAKU Plan"
+  ],
+  "release_date": "2021 年 7 月 9 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "日语*",
+    "英语",
+    "简体中文",
+    "繁体中文",
+    "韩语\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 15.0,
+  "pc_requirements_min": "最低配置:\n操作系统: 7 / 8 / 8.1 / 10\n处理器: 2+ GHz Processor\n内存: 4 GB RAM\n显卡: DirectX 9/OpenGL 4.1 capable GPU\n存储空间: 需要 1 GB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n操作系统: 7 / 8 / 8.1 / 10\n处理器: 3+ GHz Processor\n内存: 8 GB RAM\n显卡: OpenGL ES 2.0 hardware driver support required for WebGL acceleration. (AMD Catalyst 10.9, nVidia 358.50)\nDirectX 版本: 11\n存储空间: 需要 2 GB 可用空间",
+  "fetched_at": "2026-08-20T03:38:50Z",
+  "review_desc": "Very Positive",
+  "review_count": 987,
+  "review_percentage": 82.4,
+  "review_score": 8
+}

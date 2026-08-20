@@ -1,0 +1,67 @@
+{
+  "app_id": "65790",
+  "name": "Arma: Cold War Assault Remastered",
+  "name_cn": "",
+  "short_description": "The genre-defining military sim that began as Operation Flashpoint (2001), now a modernized, 64-bit, cross-platform build for Windows and Linux, with its engine released as open source. Over 2 million copies sold. The Cold War battlefield of Everon and Nogova, remastered for today's hardware.",
+  "detailed_description": "A 2001 classic, modernized, and now open sourceArma: Cold War Assault now runs on a modernized version of its original Poseidon engine: native 64-bit, Windows and Linux, support for ultrawide and high-refresh displays, full game-controller support, and a modern audio and networking stack, while it still plays exactly like the genre-defining original.\n\nThe engine is now open source\n\nBohemia Interactive has released the engine and game source code under the GNU GPL v3.0-or-later, in the spirit of id Software's classic source releases. Anyone can study it, build it, port it, and create with it. Game data and assets remain under Bohemia's Arma Public License Share Alike (APL-SA).\n\nA free Demo is available on Steam if you want to try the engine before buying the full data and campaigns.\n\nThe full engine source code is available on GitHub — search for BohemiaInteractive/cwr\n\nWhat's new in the Remastered engineWindows & Linux, 64-bit: native cross-platform build (Steam Deck / SteamOS friendly)\n\nUltrawide & any resolution: aspect-correct field of view; borderless, windowed, or fullscreen; selectable refresh rate and V-Sync\n\nModern rendering: new OpenGL 3.3 renderer with crisp scalable (TrueType) fonts\n\nFull controller support: gamepad with deadzone/response tuning, plus fully rebindable keyboard, mouse and controller bindings\n\nModern audio: OpenAL backend with integrated voice chat (VON)\n\nIn-game mod manager: enable, order and download community mods from within the game (Bohemia's own catalog), no command line needed\n\nNew multiplayer back end: modern master server and in-game server browser (replacing the retired GameSpy service)\n\nOpen toolchain for creators: bundled tools for PBO archives, models, terrain, textures, sound and config, plus a standalone scripting evaluator and a Blender import addon\n\nThe original gameBohemia Interactive's debut game, published by Codemasters as Operation Flashpoint in 2001, became a genre-defining combat military simulation and the No. 1 bestselling PC game around the world, winning many international awards, including \"Game of the Year\" and \"Best Action Game\". Over 2 million copies have been sold since its release.\n\nStorylineThe horrors of WWIII are imminent.\n\nThere are clashes over the Malden Islands from dusk to dawn, and you are caught in between. You must use every resource in your arsenal to hold back the incoming darkness. Victor Troska came back to Nogovo, thinking the pain of war was buried in his past.\n\nBut his dream lies broken now.\n\nHis worst nightmare returns when military forces land near Nogovo.\n\nKey FeaturesCold War Assault\n\nCommand a squad of fully equipped troops\n\nOver 40 authentic vehicles and aircraft\n\nImmersive campaign and single missions\n\nLAN/Internet multiplay\n\nVast 100km² battlezones\n\nResistance\n\nStory-driven 20-mission campaign\n\nNogova, the new 100km² island\n\nNew vehicles, weapons and equipment\n\nDetailed urban environments\n\nOpen source & moddingThe full engine and game source code is available under GNU GPL v3.0-or-later: fork it, build it, port it, or contribute back. Game assets remain under the Arma Public License Share Alike (APL-SA). Mods can be browsed and installed directly through the in-game mod manager, and a free Demo lets you try the remastered engine before buying.\n\nThe full engine source code is available on GitHub - search for BohemiaInteractive/cwr",
+  "description_lang_short": "en",
+  "description_lang_detail": "en",
+  "genres": [
+    "动作",
+    "模拟",
+    "策略"
+  ],
+  "tags": [
+    "动作",
+    "模拟",
+    "策略"
+  ],
+  "categories": [
+    "单人",
+    "多人",
+    "玩家对战",
+    "线上玩家对战",
+    "局域网玩家对战",
+    "合作",
+    "在线合作",
+    "局域网合作",
+    "完全支持控制器",
+    "DUALSHOCK 控制器支持",
+    "DUALSHOCK 控制器支持",
+    "DualSense 控制器支持",
+    "DualSense 控制器支持",
+    "包含关卡编辑器",
+    "家庭共享"
+  ],
+  "developers": [
+    "Bohemia Interactive",
+    "Josef Šimánek (retro)"
+  ],
+  "publishers": [
+    "Bohemia Interactive"
+  ],
+  "release_date": "2011 年 8 月 8 日",
+  "platforms": [
+    "Windows",
+    "Linux"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语",
+    "意大利语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "捷克语*",
+    "波兰语",
+    "俄语\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 48.0,
+  "pc_requirements_min": "Minimum\nOS: Windows 10/11 64-bit\nProcessor: Dual-core 2.0 GHz (x86-64)\nMemory: 4 GB RAM\nGraphics: OpenGL 3.3-capable GPU, 512 MB VRAM (e.g. Intel HD 3000)\nDirectX®: N/A\nHard Drive: 20 GB free space\nSound: OpenAL-compatible audio device",
+  "pc_requirements_rec": "Recommended\nOS: Windows 10/11 64-bit\nProcessor: Quad-core 3.0 GHz (x86-64)\nMemory: 8 GB RAM\nGraphics: Dedicated GPU w/ OpenGL 4.x, 1 GB VRAM (e.g. GeForce GT...)\nDirectX®: N/A\nHard Drive: 20 GB free space\nSound: OpenAL-compatible audio device",
+  "fetched_at": "2026-08-20T04:30:30Z",
+  "review_desc": "Very Positive",
+  "review_count": 6435,
+  "review_percentage": 80.2,
+  "review_score": 8
+}

@@ -1,0 +1,63 @@
+{
+  "app_id": "1323830",
+  "name": "Shanghai Summer",
+  "name_cn": "薄暮夏梦",
+  "short_description": "《薄暮夏梦》是一个千禧年背景的文字冒险游戏，讲述了主角屠百川在十二个夏日内所经历的种种「异常」……在探寻真相的过程中，时隔多年的心愿与遗憾重新交汇，而他又是否能够抓住这仅有的机会，「修复」这一切？",
+  "detailed_description": "期待夏天……\n\n关于游戏\n\n有关于「遗憾」和「拯救」的夏日青春物语\n\n2003年，\n“屠百川”的生活突然变得怪异, 恍惚间总能看到陌生的记忆。\n十二个夏日，如十二场清醒梦。 而这一切的开端，则是分别多年的前女友“季秋雨”突然地邀约。\n\n「时间在你身上出现了异常。」\n\n追梦的无业青年“若奉一”；\n迷茫的不良高中生“吴小波”；\n受家庭所累的女大学生“苏静娴”……\n\n尽管生活一片狼藉，坚强的他们依然在遗憾中负重前行，闪闪发光。\n\n通过与友人对话中的选择决定故事走向，与周边互动收集话题或线索。\n入睡前你将有机会整理如梦如真的线索寻找故事的关键，\n最后在十二夜的终点——「修复」这个支离破碎的梦境。\n\n你将决定屠百川脱离梦境见证真相，抑或是沉溺梦境寻求解脱。\n\n老旧教室、万一书屋、街角咖啡店……\n不能再平凡的市井光景，是每个少年少女的日常，\n而恰恰就在这平凡之中，潜藏孕育着多重的可能。\n改变命运的那一把钥匙，或许就藏在擦肩而过的街头人潮中……",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "冒险",
+    "独立",
+    "角色扮演"
+  ],
+  "tags": [
+    "冒险",
+    "独立",
+    "角色扮演"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "DUALSHOCK 控制器支持",
+    "DUALSHOCK 控制器支持",
+    "DualSense 控制器支持",
+    "DualSense 控制器支持",
+    "家庭共享"
+  ],
+  "developers": [
+    "FUTU Studio"
+  ],
+  "publishers": [
+    "Astrolabe Games"
+  ],
+  "release_date": "2024 年 2 月 7 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "简体中文",
+    "英语",
+    "日语",
+    "繁体中文",
+    "法语",
+    "意大利语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "韩语",
+    "葡萄牙语 - 巴西",
+    "葡萄牙语 - 葡萄牙",
+    "俄语",
+    "西班牙语 - 拉丁美洲"
+  ],
+  "is_free": false,
+  "price_cny": 38.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows 7\n处理器: Intel Core i3 2.00 GHz\n内存: 4 GB RAM\n显卡: Intel® HD Graphics 3000\n存储空间: 需要 2 GB 可用空间",
+  "pc_requirements_rec": "",
+  "fetched_at": "2026-08-20T03:43:38Z",
+  "review_desc": "Very Positive",
+  "review_count": 450,
+  "review_percentage": 90.4,
+  "review_score": 8
+}

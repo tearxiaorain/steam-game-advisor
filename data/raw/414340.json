@@ -1,0 +1,70 @@
+{
+  "app_id": "414340",
+  "name": "Hellblade: Senua's Sacrifice",
+  "name_cn": "",
+  "short_description": "曾带来《奴役：奥德赛西游（Heavenly Sword, Enslaved: Odyssey to the West）》和《鬼泣（DmC: Devil May Cry）》的团队本次将奉上充满神秘与疯狂的战士杀戮之旅。 故事发生在维京时代，一名心灵受到重创的凯尔特战士一路追踪至北欧炼狱，追寻她死去的爱人的灵魂。",
+  "detailed_description": "曾带来《奴役：奥德赛西游（Heavenly Sword, Enslaved:Odyssey to the West）》和《鬼泣（DmC: Devil May Cry）》的团队本次将奉上充满神秘与疯狂的战士杀戮之旅。\n\n故事发生在维京时代，一名心灵受到重创的凯尔特战士一路追踪至北欧炼狱，追寻她死去的爱人的灵魂。 \n\n与神经系统科学家及饱受精神疾病困扰的人们联袂打造，《地狱之刃：苏纽尔的献祭》将带您深入她的内心。\n\n无障碍功能：\n\n游戏玩法\n- 无障碍选项在启动时可在首次启动的选项菜单中找到。\n- 可在动态调整的“自动”模式或手动选择的“简单”、“中等”或“困难”模式之间调整战斗难度。\n- 游戏可以在游戏和影像动画中暂停。\n\n音频\n- 自定义音量控制可以为主控、音乐、SFX、声音和菜单音频进行调整。\n- 音频输出可以在立体声和单声道模式之间调整。\n\n视效\n- 色盲模式和校正强度可以为包括Deuteranopia, Protanopia, 和Tritanopia过滤器进行调整。\n- 语音内容的字幕可设置为“开”或“关”。\n- 字幕文本大小可在“标准”或“大”之间调整。\n- 字幕文本的颜色可以在白色、橙色、 绿色或蓝色之间进行调整。\n- 副标题背景可以在透明或“纯黑”之间进行调整。\n- 菜单背景的文字对比可以在“半透明”或“纯黑”之间进行调整。\n\n输入\n- 可调整控制器操纵杆和鼠标轴的输入灵敏度，并能反转摄像机轴。\n- 键盘按键和控制器按键的输入重映射（不包括摄像机控制和菜单导航键）。\n- 完全支持键盘，允许完全用键盘进行游戏（方向键代替鼠标/右摇杆移动）。\n- 控制器振动可以被设置为“开”或“关”\n- 运行修改器可以被设置为在按键/按钮切换或保持时被激活。\n\n请注意，以上所列的无障碍选项适用于《地狱之刃：苏纽尔的献祭》PC版游戏的增强版。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "冒险",
+    "独立"
+  ],
+  "tags": [
+    "动作",
+    "冒险",
+    "独立"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "Steam 云",
+    "在电视上远程畅玩",
+    "家庭共享"
+  ],
+  "developers": [
+    "Ninja Theory"
+  ],
+  "publishers": [
+    "Ninja Theory",
+    "Xbox Game Studios"
+  ],
+  "release_date": "2017 年 8 月 7 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语",
+    "意大利语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "阿拉伯语",
+    "丹麦语",
+    "荷兰语",
+    "芬兰语",
+    "日语",
+    "韩语",
+    "挪威语",
+    "波兰语",
+    "葡萄牙语 - 葡萄牙",
+    "葡萄牙语 - 巴西",
+    "俄语",
+    "简体中文",
+    "瑞典语",
+    "繁体中文",
+    "土耳其语\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 128.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows 7, 8, 10\n处理器: Intel i5 3570K / AMD FX-8350\n内存: 8 GB RAM\n显卡: GTX 770 with 2GB VRAM / Radeon R9 280X 3GB\nDirectX 版本: 11\n存储空间: 需要 30 GB 可用空间\n附注事项: Minimum spec screen resolution: 1280x720",
+  "pc_requirements_rec": "",
+  "fetched_at": "2026-08-20T04:26:36Z",
+  "review_desc": "Very Positive",
+  "review_count": 76464,
+  "review_percentage": 89.9,
+  "review_score": 8
+}

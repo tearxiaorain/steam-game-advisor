@@ -1,0 +1,61 @@
+{
+  "app_id": "2159210",
+  "name": "Just a To the Moon Series Beach Episode",
+  "name_cn": "Just a To the Moon Series Beach Episode 《去月球系列海滩特别篇》",
+  "short_description": "《去月球》《寻找天堂》和《影子工厂》的海滩特别篇。就这样吗？？……嗯，就是这么回事。",
+  "detailed_description": "收集《To the Moon》完整系列：\n\n关于游戏《去月球》《寻找天堂》和《影子工厂》的海滩特别篇。\n\n就这样吗？\n\n……嗯，就是这么回事。《不过如此的去月球系列海滩特别篇》不过也就是《去月球》系列的一个海滩特别篇罢了。\n\n准备好参加这场新颖又短暂旅程吧，作为西格蒙德公司的员工，公司报销请大家去金龙虾度假旅店享受足足一整天的假期！不过公司显然也就付得起这么多了。 ¯\\_(ツ)_/¯\n\n与《去月球》《寻找天堂》和《影子工厂》的老面孔们结伴远游，一起畅玩精彩纷呈、扣人心弦、老少咸宜的小游戏，当然还有——\n\n……等等，这里的大部分角色应该都不在人世了。\n\n亮点：一片海滩\n一个特别篇章\n冒险游戏元素和经典RPG美术风格的随性糅合\n看上去不对劲，但品起来很对味的台词\n鸭嘴兽丫丫\n驯鹿犬\n很长的喵星人和饭宝(?)",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "冒险",
+    "独立",
+    "角色扮演"
+  ],
+  "tags": [
+    "冒险",
+    "独立",
+    "角色扮演"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "部分支持控制器",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "Freebird Games"
+  ],
+  "publishers": [
+    "Freebird Games"
+  ],
+  "release_date": "2024 年 9 月 20 日",
+  "platforms": [
+    "Windows",
+    "Mac",
+    "Linux"
+  ],
+  "supported_languages": [
+    "英语",
+    "简体中文",
+    "波兰语",
+    "意大利语",
+    "西班牙语 - 西班牙",
+    "德语",
+    "韩语",
+    "法语",
+    "葡萄牙语 - 巴西",
+    "俄语",
+    "土耳其语",
+    "乌克兰语"
+  ],
+  "is_free": false,
+  "price_cny": 33.0,
+  "pc_requirements_min": "最低配置:\n操作系统: XP, Vista, 7, 8, 10\n处理器: Intel Pentium III 800 MHz+\n内存: 1 GB RAM\n显卡: 1024x768 High Color +\n存储空间: 需要 500 MB 可用空间\n声卡: DirectX®: 9.0+\n附注事项: Practically runs on a potato.",
+  "pc_requirements_rec": "",
+  "fetched_at": "2026-08-20T03:44:14Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 3963,
+  "review_percentage": 98.3,
+  "review_score": 9
+}

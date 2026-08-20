@@ -1,0 +1,55 @@
+{
+  "app_id": "219740",
+  "name": "Don't Starve",
+  "name_cn": "饥荒",
+  "short_description": "《饥荒》是一款绝不妥协的荒野生存游戏，游戏世界充满了科学与魔法。你将踏入一个未被探索的陌生世界，那里遍布奇异生物、危险与惊喜。收集资源，制作物品、建造建筑，玩出属于你自己的求生风格。",
+  "detailed_description": "Don’t Starve 是一款充满科学和魔法的硬派野外生存游戏。\n你扮演 Wilson ，一位被恶魔困住而且被传送到神秘荒野的既勇敢又绅士的科学家。如果 Wilson 想逃出生天并找到回家的路，那就必须学会利用这里的环境和各种生物。 \n进入这样一个充满奇特生物，危险和惊奇的未知世界。收集资源并打造出符合你的生存方式的物品。用你的方式来揭开这谜一般的大陆的神秘面纱吧！游戏特色：艰难生存 & 探索世界：\n\n没有任何指示。没有任何帮助。没有任何指导。空手起家，然后制造，研究，耕作，并为了生存而奋斗。\n持续不断地更新：\n\n加入社区活动，然后帮助我们塑造游戏！你可以提供自己的意见，也可以同其他的玩家和开发者进行讨论。\n黑暗而奇幻的效果：\n\n 2D 的游戏人物和奇特的生物同时存在于一个独特的 3D 世界里。\n随机形成的新世界：\n\n想换一张新地图？没问题！你随时可以生成一个崭新的，生机勃勃的，同时也极度仇视你并想置你于死地的世界。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "冒险",
+    "独立",
+    "模拟"
+  ],
+  "tags": [
+    "冒险",
+    "独立",
+    "模拟"
+  ],
+  "categories": [
+    "单人",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "Steam 创意工坊",
+    "Steam 云",
+    "在手机上远程畅玩",
+    "在平板上远程畅玩",
+    "在电视上远程畅玩",
+    "家庭共享"
+  ],
+  "developers": [
+    "Klei Entertainment"
+  ],
+  "publishers": [
+    "Klei Entertainment"
+  ],
+  "release_date": "2013 年 4 月 23 日",
+  "platforms": [
+    "Windows",
+    "Mac",
+    "Linux"
+  ],
+  "supported_languages": [
+    "英语*",
+    "简体中文*\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 24.0,
+  "pc_requirements_min": "Minimum:\nOS *:Windows XP/Vista/Windows 7/Windows 8\n\tProcessor:1.7+ GHz or better\n\tMemory:1+ gigs of RAM GB RAM\n\tGraphics:Radeon HD5450 or better; 256 MB or higher\n\tDirectX®:9.0c\n\tHard Drive:500 MB HD space\n\tSound:100% DirectX9.0c compatible sound card and drivers",
+  "pc_requirements_rec": "",
+  "fetched_at": "2026-08-20T04:07:29Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 113347,
+  "review_percentage": 96.5,
+  "review_score": 9
+}

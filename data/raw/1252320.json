@@ -1,0 +1,49 @@
+{
+  "app_id": "1252320",
+  "name": "Touhou Kikamu ~ Elegant Impermanence of Sakura",
+  "name_cn": "东方祈华梦～Elegant Impermanence of Sakura",
+  "short_description": "《东方祈华梦～Elegant Impermanence of Sakura》是东方Project的二次创作弹幕射击游戏。",
+  "detailed_description": "《东方祈华梦～Elegant Impermanence of Sakura》是东方Project的二次创作作品。和原作一样，这是一个单纯的飞行射击游戏。\n\n　冬末春初的幻想乡，异常现象在悄然漫延。\n　迷途竹林的竹子一夜间开了花；命莲寺的铜钟忽然遍布锈痕；太阳下的积雪和朝露却丝毫没有融化消散的迹象。\n　乐园的巫女与幻想的境界妖怪、奇妙的魔法使与天衣无缝的亡灵、污秽的不死者与历史的覆写者……\n　认为这是新异变的少女们，一边搜集线索，一边开始了寻找真相的旅程。\n\n◎键盘操作\n　上下左右：移动。菜单界面选择。\n　Shift：低速移动。\n　Z：射击，按住不放可以实现连射，单点就是一枪一枪发射。菜单界面前进/确定。\n　X：放雷。菜单界面后退。\n　ESC：暂停、菜单界面后退。\n\n◎手柄操作\n　本游戏支持Steam输入功能，只要Steam输入功能支持的手柄都可以在本游戏上使用。\n　同时游戏内自带XInput支持，可以支持兼容XInput的手柄，但是Steam输入会覆盖游戏内的手柄输入。\n　如果需要使用游戏内自带的手柄输入，请在Steam库内更改属性禁用Steam输入，并在游戏设置内关闭Steam输入支持。\n　如果需要使用Steam输入，请在Steam库内更改属性开启Steam输入，并在游戏设置内打开Steam输入支持。\n\n另外建议玩家在第一次进行游戏之前先进入【游戏手册】和【游戏设置】掌握必要的信息并做好各项设置后再开始游戏。\n\n◎致敬《东方永夜抄》的原创故事\n　《东方祈华梦》的故事是东方系列原作故事的延伸。\n　舞台上共有12名人物。除了我们熟悉的辉夜和自机外，还有多位原创人物。\n\n　和原作一样，游戏会附带详细的人物设定，故事背景和Extra story。\n\n◎基于原作的基础玩法\n　《东方祈华梦》和原作游戏东方系列一样，是一个单纯的少女飞行射击游戏。\n　玩法自然也包括了全神贯注地躲避子弹这一条。\n\n　……然而，如果仅仅只是不被子弹命中，那未免太单调了。\n　本作游戏还加入了特别的染色系统。\n\n◎道中敌人的类型\n　除了Boss外，本游戏道中的敌人可以分为大型敌人和小型敌人。\n　自机在高速状态下（人类侧）时，只能攻击大型敌人，无法击中小型敌人。在低速状态下（妖怪侧）时能攻击到所有敌人。\n　Boss战以外的所有敌人均没有任何体术判定，可以放心贴脸攻击。\n\n◎染色系统\n　道中所有的大型敌人都带有红色或蓝色的，具有染色功能的染色圈。\n　当大型敌人被击破时，会将圈内所有的小型敌人染色，还会消除圈内所有的子弹。\n　部分小型敌人被染色后会被直接击破，并计入“连锁染色数”。\n\n◎诚意满满的美术和音乐内容\n　游戏包括6位自机，6位敌机共12套立绘和10张endingCG。\n　同时，还包含32首东方原作风格的原创音乐。\n　这些内容都会以免费DLC的形式全部公开。\n\n-----------------------------------------------------\n「向之所欣，俯仰之间，已为陈迹，犹不能不以之兴怀」\n「我会沏好三杯茶，听你们和我讲述过去，现在和未来的故事的」",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "独立"
+  ],
+  "tags": [
+    "独立"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "东方祈华梦制作组"
+  ],
+  "publishers": [
+    "东方祈华梦制作组",
+    "东游鉴"
+  ],
+  "release_date": "2020 年 4 月 16 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "简体中文",
+    "英语",
+    "日语",
+    "法语",
+    "德语"
+  ],
+  "is_free": false,
+  "price_cny": 45.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows 7 SP1\n处理器: Intel(R) Atom(TM) x5-Z8350\n内存: 2 GB RAM\n显卡: DirectX 9 compatible graphics card\nDirectX 版本: 9.0c\n存储空间: 需要 800 MB 可用空间\n声卡: DirectSound 8 compatible sound card",
+  "pc_requirements_rec": "推荐配置:\n操作系统: Windows 10\n处理器: Intel(R) Core(TM) i3-4330 CPU or above\n内存: 2 GB RAM\n显卡: NVIDIA Geforce GT 640 or above\nDirectX 版本: 9.0c\n存储空间: 需要 1 GB 可用空间\n声卡: DirectSound 8 compatible sound card",
+  "fetched_at": "2026-08-20T04:17:50Z",
+  "review_desc": "Very Positive",
+  "review_count": 478,
+  "review_percentage": 97.1,
+  "review_score": 8
+}

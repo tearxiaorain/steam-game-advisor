@@ -1,0 +1,58 @@
+{
+  "app_id": "2248430",
+  "name": "Touhou Artificial Dream in Arcadia",
+  "name_cn": "",
+  "short_description": "在此东方DRPG中扮演外乡来客宇佐见堇子探索幻想乡的神奇秘密！",
+  "detailed_description": "宇佐见堇子可不是什么普普通通的高中生，她如此异于常人以至于幻想乡都将她视为异类。堇子可以在她的梦里造访这片幻想之地。\n\n异变又又又发生啦！幻想乡陷入了睡眠者造成的克隆人战争。\n\nArtificial Dream in Arcadia（ADiA）是一款第一人称地牢闯关DRPG，玩家将会扮演宇佐见堇子，穿梭复杂的迷宫，收服各式各样的东方角色，并与她们一起投入回合制战斗。对堇子来说，她拥有幻想乡中唯一可以操控这些异变克隆人的道具——她崭新的手机，由她来解决这异变再合适不过了。你喜欢的东方角色一抓一大把异变克隆人正在幻想乡的土地上肆意妄为！她们被称为睡眠者，样貌与现存的东方角色别无二致。堇子可以通过她的手机应用来和睡眠者进行弹幕对决，若获胜则可收服她们。\n\n若你在弹幕对决中取胜，你可以将睡眠者添加到队伍中，或将她们转化为有用的道具！游戏中你还可以将复数睡眠者合成为一个崭新的存在。\n将睡眠者添加至队伍会加大你的电池耗电量，若电量耗尽，你将会失去操纵睡眠者和地图的能力，请在探险时做好充分的准备。\n\n本游戏附赠一套电脑桌面壁纸，请在游戏文件此位置查看 \\Touhou Artificial Dream in Arcadia\\wallpapers",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "冒险",
+    "独立",
+    "角色扮演"
+  ],
+  "tags": [
+    "冒险",
+    "独立",
+    "角色扮演"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "Steam 创意工坊",
+    "Steam 云",
+    "包含关卡编辑器",
+    "家庭共享"
+  ],
+  "developers": [
+    "Bar Holographic Otaku"
+  ],
+  "publishers": [
+    "Bar Holographic Otaku",
+    "东游鉴"
+  ],
+  "release_date": "2023 年 9 月 22 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语",
+    "日语",
+    "简体中文",
+    "韩语",
+    "俄语",
+    "西班牙语 - 拉丁美洲",
+    "繁体中文"
+  ],
+  "is_free": false,
+  "price_cny": 42.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows 8/10/11 (64-bit)\n处理器: Intel Core 2 Duo\n内存: 256 MB RAM\n显卡: Shader Model 3.0 compatible\n存储空间: 需要 124 MB 可用空间",
+  "pc_requirements_rec": "",
+  "fetched_at": "2026-08-20T04:12:06Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 1232,
+  "review_percentage": 96.4,
+  "review_score": 9
+}

@@ -1,0 +1,62 @@
+{
+  "app_id": "508440",
+  "name": "Totally Accurate Battle Simulator",
+  "name_cn": "",
+  "short_description": "率领来自古代、亡灵、幻想世界的红蓝搞怪兵种，在这款基于史上最无厘头物理系统创建的游戏中展开激战。",
+  "detailed_description": "率领来自古代、亡灵、幻想世界的红蓝搞怪兵种，在这款基于史上最无厘头物理系统创建的游戏中展开激战。\n\n如果对100多个兵种感到厌倦，你可以在兵种编辑器中创建自己的兵种。\n\n你也可以派出大军，与好友或陌生人进行在线多人对战！\n\nFeatures:\n战役\n多人\n创意工坊\n兵种和派系创建器\n战役和战斗创建器\n沙盒模式\n兵种操控\n一系列无厘头兵种",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "独立",
+    "模拟",
+    "策略"
+  ],
+  "tags": [
+    "独立",
+    "模拟",
+    "策略"
+  ],
+  "categories": [
+    "单人",
+    "多人",
+    "玩家对战",
+    "线上玩家对战",
+    "Steam 成就",
+    "部分支持控制器",
+    "在手机上远程畅玩",
+    "在平板上远程畅玩",
+    "远程同乐",
+    "家庭共享"
+  ],
+  "developers": [
+    "Landfall"
+  ],
+  "publishers": [
+    "Landfall"
+  ],
+  "release_date": "2021 年 4 月 1 日",
+  "platforms": [
+    "Windows",
+    "Mac"
+  ],
+  "supported_languages": [
+    "英语",
+    "法语",
+    "意大利语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "日语",
+    "简体中文",
+    "葡萄牙语 - 葡萄牙",
+    "俄语"
+  ],
+  "is_free": false,
+  "price_cny": 70.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统 *: Windows 7\n处理器: Intel Core i5-2400 @ 3.1 GHz or AMD FX-6300 @ 3.5 GHz or equivalent\n内存: 8 GB RAM\n显卡: NVIDIA GeForce GTX 670 or AMD R9 270 (2GB VRAM with Shader Model 5.0 or better)\nDirectX 版本: 10\n存储空间: 需要 4 GB 可用空间\n附注事项: Only runs on 64 bit systems",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: Win 10\n处理器: Intel Core i7-4770 @ 3.4 GHz or AMD Ryzen 5 1600 @ 3.2 GHz or equivalent\n内存: 8 GB RAM\n显卡: NVIDIA GeForce GTX 970 or AMD R9 290X (4GB VRAM with Shader Model 5.0 or better)\nDirectX 版本: 11\n存储空间: 需要 6 GB 可用空间\n附注事项: Only runs on 64 bit systems",
+  "fetched_at": "2026-08-20T04:25:35Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 153144,
+  "review_percentage": 97.8,
+  "review_score": 9
+}

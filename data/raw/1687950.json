@@ -1,0 +1,53 @@
+{
+  "app_id": "1687950",
+  "name": "Persona 5 Royal",
+  "name_cn": "女神异闻录5皇家版",
+  "short_description": "夺取吧，用那个意志。",
+  "detailed_description": "包含的内容\n\n关于游戏\n\n由ATLUS倾情奉上，青春RPG系列游戏最新作《P5R》再度登场。主角是因为某些原因转学至“东京”的高中的少年。 \n\n白天是普通的高中生。放学后则化身为盗取堕落大人们扭曲欲望的怪盗。 \n\n个性丰富的同伴们渴望的“改变社会”会迎来怎样的结局…？",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "角色扮演"
+  ],
+  "tags": [
+    "角色扮演"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "ATLUS"
+  ],
+  "publishers": [
+    "SEGA"
+  ],
+  "release_date": "2022 年 10 月 20 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语",
+    "意大利语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "日语*",
+    "韩语",
+    "简体中文",
+    "繁体中文\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 80.4,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10\n处理器: Intel Core i7-4790, 3.4 GHz | AMD Ryzen 5 1500X, 3.5 GHz\n内存: 8 GB RAM\n显卡: Nvidia GeForce GTX 650 Ti, 2 GB | AMD Radeon R7 360, 2 GB\nDirectX 版本: 11\n存储空间: 需要 41 GB 可用空间\n附注事项: Low 720p @ 60 FPS. Requires a CPU which supports the AVX and SSE4.2 instruction set. Microsoft no longer supports Windows 10 or older versions.",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10\n处理器: Intel Core i7-4790, 3.4 GHz | AMD Ryzen 5 1500X 3.5 Ghz\n内存: 8 GB RAM\n显卡: Nvidia GeForce GTX 760, 2 GB | AMD Radeon HD 7870, 2 GB\nDirectX 版本: 11\n存储空间: 需要 41 GB 可用空间\n附注事项: High 1080p @ 60 FPS. Microsoft no longer supports Windows 10 or older versions.",
+  "fetched_at": "2026-08-20T03:35:26Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 137502,
+  "review_percentage": 96.4,
+  "review_score": 9
+}

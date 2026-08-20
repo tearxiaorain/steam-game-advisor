@@ -1,0 +1,43 @@
+{
+  "app_id": "1286710",
+  "name": "Hylics 2",
+  "name_cn": "",
+  "short_description": "A surreal RPG with a unique graphical style and droll scenario.",
+  "detailed_description": "The tyrant Gibby’s minions seek to reconstitute their long-presumed-annihilated master. It’s up to our crescent headed protagonist Wayne to assemble a crew and put a stop to that sort of thing.\n\nFeatures:\n-A mesmerizing visual style incorporating stop-motion animation, 3D-scanned clay models, and pixel art.\n-Engage in turn-based RPG combat against over 25 adversaries, each with unique capabilities and behaviors.\n\n-Gather Wayne's crew and explore 3D environments. Use air-dashing, rolling, and gliding to find hidden treasures or evade enemies. Consult the world's inhabitants for hints, lore, and musings.\n\n-Find TVs throughout the world to learn exciting new battle abilities like Poromer Bleb and Soul Crisper.\n\n-Optional side content including a diverting platformer minigame and a first-person-view dungeon-crawler.\n\n-The followup to 2015's Hylics. Hylics 2 uses motifs from its predecessor, but players unfamiliar with Hylics may still fully enjoy Hylics 2.",
+  "description_lang_short": "en",
+  "description_lang_detail": "en",
+  "genres": [
+    "角色扮演"
+  ],
+  "tags": [
+    "角色扮演"
+  ],
+  "categories": [
+    "单人",
+    "部分支持控制器",
+    "家庭共享"
+  ],
+  "developers": [
+    "Mason Lindroth"
+  ],
+  "publishers": [
+    "Mason Lindroth"
+  ],
+  "release_date": "2020 年 6 月 22 日",
+  "platforms": [
+    "Windows",
+    "Mac"
+  ],
+  "supported_languages": [
+    "英语"
+  ],
+  "is_free": false,
+  "price_cny": 58.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows 7\n处理器: 2 Ghz or better\n内存: 8 GB RAM\n显卡: Monitor Resolution 1280x720 or higher. 16:9 aspect ratio for fullscreen\n存储空间: 需要 4 GB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n操作系统: Windows 10\n处理器: 2.5 Ghz or better\n内存: 8 GB RAM\n显卡: Monitor Resolution 2560x1280 or higher. 16:9 aspect ratio for fullscreen\n存储空间: 需要 4 GB 可用空间",
+  "fetched_at": "2026-08-20T04:17:18Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 3549,
+  "review_percentage": 97.0,
+  "review_score": 9
+}

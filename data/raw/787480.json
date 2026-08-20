@@ -1,0 +1,63 @@
+{
+  "app_id": "787480",
+  "name": "Phoenix Wright: Ace Attorney Trilogy",
+  "name_cn": "",
+  "short_description": "本作是以法庭为舞台的冒险游戏。玩家将扮演律师「成步堂龙一」，为证明委託人的清白而踏上法庭。此精选集收录了作为系列原点的《逆转裁判 復甦的逆转》、《逆转裁判2》和《逆转裁判3》共14话。 ※简繁中文字幕将于发售后以更新包形式追加。",
+  "detailed_description": "Title Update透过更新追加新功能和语言！\r\n・画廊模式\r\n“音乐播放器”：可收听游戏内背景音乐以及从编曲专辑中精心挑选的乐曲\r\n“美术图集”：可鉴赏包括官方绘图和活动场景在内的各种游戏内插画\r\n“场景编辑器”：能够欣赏角色在各种场景下的动作\r\n\r\n・还会追加提升游戏便利性的功能\r\n“选择章节功能”：可从喜欢的位置开始游玩章节\r\n“故事模式”：自动推送文字和推进解谜\r\n“自动推进文字”：仅自动推送文字（可在故事模式和此模式之间随意切换）\r\n\r\n・追加言语\r\n新增“巴西葡萄牙语”与“拉丁美洲西班牙语”支持\r\n体验进化后的《Phoenix Wright: Ace Attorney Trilogy(逆转裁判123成步堂精选集)》吧！\n\n关于游戏自2001年10月发售首作以来，《逆转裁判》系列全球累计销量达670万套以上。本作是以法庭为舞台的冒险游戏，玩家将扮演律师「成步堂龙一」，为证明委託人的清白而踏上法庭。作为系列原点的《逆转裁判 復甦的逆转》、《逆转裁判2》和《逆转裁判3》的3作共14话，以更精美的画面收录于精选集中。当你见证所有故事后，将能发现被隐藏的真相。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "冒险"
+  ],
+  "tags": [
+    "冒险"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "Steam 集换式卡牌",
+    "视角舒适度",
+    "自定义音量控制",
+    "可以仅用键盘",
+    "可以仅用鼠标",
+    "无需应对快速反应事件",
+    "随时保存",
+    "立体声",
+    "可以仅用触控",
+    "部分支持控制器",
+    "Steam 云",
+    "在手机上远程畅玩",
+    "在平板上远程畅玩",
+    "家庭共享"
+  ],
+  "developers": [
+    "CAPCOM Co., Ltd."
+  ],
+  "publishers": [
+    "CAPCOM Co., Ltd."
+  ],
+  "release_date": "2019 年 4 月 9 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "日语",
+    "英语",
+    "法语",
+    "德语",
+    "简体中文",
+    "繁体中文",
+    "韩语",
+    "西班牙语 - 拉丁美洲",
+    "葡萄牙语 - 巴西"
+  ],
+  "is_free": false,
+  "price_cny": 148.0,
+  "pc_requirements_min": "最低配置:\n操作系统: WINDOWS® 10（64bit）,11\n处理器: Intel® Core™ i3-4160\n内存: 4 GB RAM\n显卡: Intel® HD Graphics 4400\nDirectX 版本: 11\n存储空间: 需要 3 GB 可用空间\n附注事项: *Recommended Controller Xbox One Wireless Controller (Windows®10/11) For users on Windows®11, please ensure that your device also meets the Windows®11 system requirements.",
+  "pc_requirements_rec": "推荐配置:\n操作系统: WINDOWS® 10（64bit）,11\n处理器: Intel® Core™ i5-3570\n内存: 4 GB RAM\n显卡: NVIDIA® GeForce® GTX 660　\nDirectX 版本: 11\n存储空间: 需要 3 GB 可用空间\n附注事项: *Recommended Controller Xbox One Wireless Controller (Windows®10/11) For users on Windows®11, please ensure that your device also meets the Windows®11 system requirements.",
+  "fetched_at": "2026-08-20T03:59:58Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 44712,
+  "review_percentage": 97.6,
+  "review_score": 9
+}

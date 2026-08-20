@@ -1,0 +1,56 @@
+{
+  "app_id": "100",
+  "name": "Counter-Strike: Condition Zero",
+  "name_cn": "",
+  "short_description": "除了精心制作的 Tour of Duty 游戏模式，无数大大小小的战斗、变化和新鲜内容让享誉世界的反恐精英多人游戏更加地丰富多彩，更有 12 个额外单人关卡，《反恐精英：零点行动》绝对是单人和多人游戏中的扛鼎之作。",
+  "detailed_description": "除了精心制作的 Tour of Duty 游戏模式，无数大大小小的战斗、变化和新鲜内容让享誉世界的反恐精英多人游戏更加地丰富多彩，更有 12 个额外单人关卡，《反恐精英：零点行动》绝对是单人和多人游戏中的扛鼎之作。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作"
+  ],
+  "tags": [
+    "动作"
+  ],
+  "categories": [
+    "单人",
+    "多人",
+    "可选颜色",
+    "自定义音量控制",
+    "可调整难度",
+    "立体声",
+    "已启用 Valve 反作弊保护",
+    "家庭共享"
+  ],
+  "developers": [
+    "Valve"
+  ],
+  "publishers": [
+    "Valve"
+  ],
+  "release_date": "2004 年 3 月 1 日",
+  "platforms": [
+    "Windows",
+    "Mac",
+    "Linux"
+  ],
+  "supported_languages": [
+    "英语",
+    "法语",
+    "德语",
+    "意大利语",
+    "西班牙语 - 西班牙",
+    "简体中文",
+    "繁体中文",
+    "韩语"
+  ],
+  "is_free": false,
+  "price_cny": 37.0,
+  "pc_requirements_min": "最低配置：500 mhz 处理器，96mb 内存，16mb 显卡，Windows XP，鼠标，键盘，互联网连接\n\n建议配置：800 mhz 处理器，128mb 内存，32mb 以上的显卡，Windows XP，鼠标，键盘，互联网连接",
+  "pc_requirements_rec": "",
+  "fetched_at": "2026-08-20T04:08:05Z",
+  "review_desc": "Very Positive",
+  "review_count": 5366,
+  "review_percentage": 91.6,
+  "review_score": 8
+}

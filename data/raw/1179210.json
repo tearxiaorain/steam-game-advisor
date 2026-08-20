@@ -1,0 +1,61 @@
+{
+  "app_id": "1179210",
+  "name": "Kill It With Fire",
+  "name_cn": "",
+  "short_description": "《Kill It With Fire》是一个关于猎杀蜘蛛并造成附带损害的第一人称动作游戏。",
+  "detailed_description": "More Games\n\n关于游戏JOIN OUR DISCORD\n\n蜘蛛——人类最古老和最致命的敌人。作为一个持证上岗的“Kill It With Fire”除虫人员， 是时候反击了！收集你的武器库，追逐八条腿的威胁，穿越时间、空间和郊区——虽然不一定按这个顺序。\n\n要打败蜘蛛，你必须利用它们的弱点：火。或者子弹。或者爆炸、飞镖、用几乎任何东西把它们拍死……但这并不意味着这是件容易的事——-首先，你必须找到蜘蛛。使用最先进的蜘蛛追踪技术，在数百个潜在藏身点中找到你的猎物——然后，把一切点燃，在蜘蛛仓皇逃出时将它用平底锅砸个粉碎。这是唯一保证万无一失的方法。游戏特色数十种武器\n令人不寒而栗的爬虫\n“真实”火焰模拟系统\n无端的混乱和破坏\n最终了解到蜘蛛的真相",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "休闲",
+    "独立",
+    "模拟"
+  ],
+  "tags": [
+    "动作",
+    "休闲",
+    "独立",
+    "模拟"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "Casey Donnellan Games LLC"
+  ],
+  "publishers": [
+    "tinyBuild"
+  ],
+  "release_date": "2020 年 8 月 13 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语*",
+    "意大利语*",
+    "德语*",
+    "西班牙语 - 西班牙*",
+    "荷兰语*",
+    "日语*",
+    "韩语*",
+    "葡萄牙语 - 巴西*",
+    "俄语*",
+    "简体中文*\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 52.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows 7 64 Bit\n处理器: 2.4 GHz Dual Core\n内存: 4 GB RAM\n显卡: GTX 760 or Equivalent\n存储空间: 需要 2 GB 可用空间\n附注事项: There's a spider under your pillow",
+  "pc_requirements_rec": "推荐配置:\n操作系统: Windows 10 64 Bit\n处理器: 2.4 GHz Quad Core\n内存: 8 GB RAM\n显卡: GTX 1060 or Equivalent\n存储空间: 需要 2 GB 可用空间",
+  "fetched_at": "2026-08-20T04:18:42Z",
+  "review_desc": "Very Positive",
+  "review_count": 5481,
+  "review_percentage": 94.5,
+  "review_score": 8
+}

@@ -1,0 +1,76 @@
+{
+  "app_id": "1206560",
+  "name": "WorldBox - God Simulator",
+  "name_cn": "",
+  "short_description": "WorldBox是一个上帝模拟器和沙盒游戏。创造你自己的世界或者用不同的力量摧毁它们。看着文明成长，建立王国，殖民开拓，驶向遥远的新大陆。城镇会造反，宏伟的帝国也有土崩瓦解的一天。你可以选择帮助他们或者遵循天意。",
+  "detailed_description": "WorldBox是一个纟冬！纟及！上帝模拟器及沙盒游戏！创造你自己的世界或者用不同的方式摧毁它:上帝模拟。你的工具箱里有各式各样的权能，不必花费什么法力，材料就能使用，因为你就是上帝。生机盎然的世界。生物有着不同的特性与需求：动物会捕食，贪婪的国王会谋取更多国土。\n使用不同的工具和画笔来设计和填充你的世界:幻想种族。在WorldBox里有四种种族：人类，兽人，精灵和矮人。 每个种族都有独特的设计和机制文明。 种族会建立自己的王国，殖民，甚至漂洋过海发现你创造的新大陆外交系统。 国家间会发生战争， 城市会闹独立，帝国会土崩瓦解... 你可以选择帮助他们或者坐山观虎斗。\n你可以使用的许多有趣而疯狂的权能:毁灭力量。闪电, 龙卷风, 酸雨, 核弹, 陨石, 瘟疫, 巨龙甚至是UFO！不同的生物。恶魔, 骷髅, 僵尸, 肿瘤生物, 寒冰恶魔...甚至是一只由你操控的大螃蟹\n与你的世界互动，创建各种场景:互动。通过大磁铁与你的世界互动。使用你的权能引发战争，刮起龙卷风！你可以使用独特的方式影响你的世界。作品分享。在WorldBox社区展示你的巨作！创造世界。创造不同大小的世界，找到有着独特国旗和国名的国家。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "独立",
+    "模拟",
+    "抢先体验"
+  ],
+  "tags": [
+    "独立",
+    "模拟",
+    "抢先体验"
+  ],
+  "categories": [
+    "单人",
+    "Steam 创意工坊",
+    "Steam 云",
+    "包含关卡编辑器",
+    "家庭共享"
+  ],
+  "developers": [
+    "Maxim Karpenko"
+  ],
+  "publishers": [
+    "Maxim Karpenko"
+  ],
+  "release_date": "2021 年 12 月 2 日",
+  "platforms": [
+    "Windows",
+    "Mac",
+    "Linux"
+  ],
+  "supported_languages": [
+    "英语",
+    "法语",
+    "意大利语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "日语",
+    "韩语",
+    "葡萄牙语 - 葡萄牙",
+    "俄语",
+    "简体中文",
+    "繁体中文",
+    "土耳其语",
+    "丹麦语",
+    "荷兰语",
+    "波兰语",
+    "葡萄牙语 - 巴西",
+    "瑞典语",
+    "泰语",
+    "乌克兰语",
+    "阿拉伯语",
+    "捷克语",
+    "芬兰语",
+    "希腊语",
+    "匈牙利语",
+    "挪威语",
+    "罗马尼亚语",
+    "越南语"
+  ],
+  "is_free": false,
+  "price_cny": 76.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10\n处理器: 2.0 Ghz\n内存: 2.5 GB RAM\n显卡: 128mb Video Memory, capable of Shader Model 2.0+\nDirectX 版本: 9.0c\n存储空间: 需要 300 MB 可用空间\n附注事项: (╯°□°）╯︵ 🌏",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10\n处理器: Dual Core 3.0 Ghz\n内存: 4 GB RAM\n显卡: 256mb Video Memory, capable of Shader Model 2.0+\nDirectX 版本: 9.0c\n存储空间: 需要 300 MB 可用空间\n附注事项: (╯°□°）╯︵ 🌏",
+  "fetched_at": "2026-08-20T04:18:19Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 56285,
+  "review_percentage": 95.3,
+  "review_score": 9
+}

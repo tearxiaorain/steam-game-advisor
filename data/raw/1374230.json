@@ -1,0 +1,58 @@
+{
+  "app_id": "1374230",
+  "name": "Flame Keeper",
+  "name_cn": "",
+  "short_description": "《护焰者》 是一款刺激的Rogue-lite动作游戏，你将恢复被暗影生物偷走的永恒之火。 使用激烈的战斗技能，在不同生物群落中厮杀战斗。 像你这样的小煤块，一切将不费吹灰之力。",
+  "detailed_description": "",
+  "description_lang_short": "zh",
+  "description_lang_detail": "mixed",
+  "genres": [
+    "动作",
+    "独立"
+  ],
+  "tags": [
+    "动作",
+    "独立"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "Kautki Cave"
+  ],
+  "publishers": [
+    "Untold Tales"
+  ],
+  "release_date": "2024 年 6 月 17 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语",
+    "法语",
+    "德语",
+    "韩语",
+    "葡萄牙语 - 巴西",
+    "简体中文",
+    "西班牙语 - 拉丁美洲",
+    "土耳其语",
+    "波兰语",
+    "西班牙语 - 西班牙",
+    "匈牙利语",
+    "日语",
+    "繁体中文"
+  ],
+  "is_free": false,
+  "price_cny": 56.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统 *: Win 7/8/10\n处理器: Intel Core i3-6100\n内存: 4 GB RAM\n显卡: 2GB VRAM\nDirectX 版本: 9.0\n存储空间: 需要 2 GB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统 *: Win 7/8/10\n处理器: Intel Core i5-4670K\n内存: 8 MB RAM\n显卡: 4GB VRAM\nDirectX 版本: 9.0\n存储空间: 需要 4 GB 可用空间",
+  "fetched_at": "2026-08-20T04:16:13Z",
+  "review_desc": "Mostly Positive",
+  "review_count": 157,
+  "review_percentage": 72.0,
+  "review_score": 6
+}

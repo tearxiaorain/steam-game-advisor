@@ -1,0 +1,63 @@
+{
+  "app_id": "1533420",
+  "name": "Neon White",
+  "name_cn": "",
+  "short_description": "Neon White 是一款快若闪电的第一人称动作平台游戏，游戏背景设定在天堂的珍珠之门内。",
+  "detailed_description": "Neon White 是一款快若闪电的第一人称动作游戏，你在游戏中的使命是消灭天堂里的恶魔。你将化身为来自地狱的刺客 White，与其他屠魔者争夺永居天堂的一线机会。其他刺客看起来都有点眼熟，但是...他们是否都是你前世所熟识的人？\n\r\n\n\r\n• 你将化身为来自地狱的刺客 Neon White，与其他屠魔者争夺获得救赎的一线机会。\n\r\n• 收集“灵魂卡”来攻击敌人，或者消耗卡牌以获得独特的能力。\n\r\n• 巧妙地组合卡牌以发现致胜捷径，不断打破通关记录。\n\r\n• 了解其他刺客，揭开天堂的秘密...他们是否都是你前世所熟识的人？",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "冒险",
+    "独立"
+  ],
+  "tags": [
+    "动作",
+    "冒险",
+    "独立"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 云",
+    "Steam 排行榜",
+    "家庭共享"
+  ],
+  "developers": [
+    "Angel Matrix"
+  ],
+  "publishers": [
+    "Annapurna Interactive"
+  ],
+  "release_date": "2022 年 6 月 16 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语",
+    "意大利语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "日语",
+    "韩语",
+    "波兰语",
+    "葡萄牙语 - 葡萄牙",
+    "葡萄牙语 - 巴西",
+    "俄语",
+    "简体中文",
+    "西班牙语 - 拉丁美洲",
+    "繁体中文",
+    "土耳其语\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 88.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10, 64-bit\n处理器: Intel Core 2 Duo E6750, 2.66 GHz | AMD Phenom II X3 720, 2.8 GHz (w/ at least 3-threads)\n内存: 6 GB RAM\n显卡: NVIDIA GeForce GTS 450, 1 GB | AMD Radeon HD 5750, 1 GB\n存储空间: 需要 6 GB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10, 64-bit\n处理器: Intel Core i3-2100, 3.1 GHz | AMD Phenom II X4 965, 4.3 GHz (w/ at least 3-threads)\n内存: 6 GB RAM\n显卡: NVIDIA GeForce GTX 750 Ti, 2 GB | AMD Radeon HD 7850, 2 GB\n存储空间: 需要 6 GB 可用空间",
+  "fetched_at": "2026-08-20T04:15:32Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 20633,
+  "review_percentage": 97.9,
+  "review_score": 9
+}

@@ -1,0 +1,54 @@
+{
+  "app_id": "447530",
+  "name": "VA-11 Hall-A: Cyberpunk Bartender Action",
+  "name_cn": "",
+  "short_description": "VA-11 HALL-A:Cyberpunk Bartender Action是一款关于waifu，科技及后-反乌托邦生活，以灌醉顾客为宗旨的调酒师模拟游戏。",
+  "detailed_description": "VA-11 HALL-A:Cyberpunk Bartender Action是一款关于waifu，科技及后-反乌托邦生活，以灌醉顾客为宗旨的调酒师模拟游戏。\n\n在这个世界中，企业主宰了一切，压迫民众的纳米机械感染了每个人，还有令人畏惧的白骑士在确保民众对法律的服从。\n\n但我们的故事与那群人无关。\n\n你是VA-11 HALL-A（昵称为“Valhalla”）的一位调酒师，这家位于闹市区的小酒吧吸引到了反乌托邦世界中最有魅力的顾客。只要灌醉他们，你就能获知最有趣的故事。\n\n---\n“虽然游戏中没有对话选项，VA-11 HALL-A却创造了扣人心弦的个人化叙事体验。很多游戏理论家曾声称故事应当扮演游戏机制的支撑物，VA-11 HALL-A却另辟蹊径，开创了自己的规则。”- Kill Screen\n\n“很多基于叙事的游戏都会落入让“游戏体验”与“故事情节”轮番上阵的陷阱，但VA-11 HALL-A巧妙地避开了这种简陋的处理方式；玩家在游戏中所做的一切都会与之后展开的故事相关。”- Moe Gamer\n\n“通过这些简短的，卸下心防的对话，这款赛博朋克调酒师模拟游戏缓缓展开了自己的故事；这不是关于反乌托邦世界的故事，而是关于生活在这个世界的人们的故事。”- PC Gamer\n\n---\n\n了解赛博朋克反乌托邦“Glitch City”的日常生活。\n\n游戏的分支剧情不再取决于传统的选项，而是取决于你为顾客调制的饮品。\n\n游戏画面的灵感来自于PC-98时代的经典日式冒险游戏，通过注入现代的气息以求实现清新脱俗的体验。\n\n通过逐渐了解你的顾客，以及他们的口味，为他们调制出足以改变生活的饮料。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "冒险",
+    "独立",
+    "模拟"
+  ],
+  "tags": [
+    "冒险",
+    "独立",
+    "模拟"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "Steam 集换式卡牌",
+    "Steam 云",
+    "在手机上远程畅玩",
+    "在平板上远程畅玩",
+    "家庭共享"
+  ],
+  "developers": [
+    "Sukeban Games"
+  ],
+  "publishers": [
+    "Ysbryd Games",
+    "PLAYISM"
+  ],
+  "release_date": "2016 年 6 月 21 日",
+  "platforms": [
+    "Windows",
+    "Linux"
+  ],
+  "supported_languages": [
+    "英语",
+    "日语",
+    "简体中文"
+  ],
+  "is_free": false,
+  "price_cny": 48.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows 7/8/10\n处理器: 1.6 Ghz\n内存: 1 GB RAM\n显卡: 256mb\n存储空间: 需要 250 MB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n操作系统 *: Windows 7/8/10\n处理器: 2 Ghz\n内存: 2 GB RAM\n显卡: 1gb\n存储空间: 需要 250 MB 可用空间",
+  "fetched_at": "2026-08-20T04:26:17Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 38618,
+  "review_percentage": 97.3,
+  "review_score": 9
+}

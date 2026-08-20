@@ -1,0 +1,57 @@
+{
+  "app_id": "843810",
+  "name": "A Perfect Day",
+  "name_cn": "完美的一天",
+  "short_description": "不断地回到1999年最后一天，重新面对属于自己和那个时代的遗憾和理想。深厚的背景设定与故事网，不落俗套的叙事解谜，还有复古且有趣的小游戏，在那《完美的一天》里，体验属于你，和他们的快乐与悲伤。",
+  "detailed_description": "完美的一天工作室新作《破烂艺术家》现已正式发售\n\n关注我们小红书：破烂艺术家 \n\nB站&小黑盒：完美的一天工作室\n\n官方QQ群：825698883\n\n完美的一天工作室出品\n\n关于游戏",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "冒险",
+    "独立",
+    "角色扮演",
+    "模拟",
+    "策略"
+  ],
+  "tags": [
+    "冒险",
+    "独立",
+    "角色扮演",
+    "模拟",
+    "策略"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "Steam 集换式卡牌",
+    "部分支持控制器",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "Perfect Day Studio"
+  ],
+  "publishers": [
+    "Perfect Day Studio"
+  ],
+  "release_date": "2022 年 2 月 24 日",
+  "platforms": [
+    "Windows",
+    "Mac"
+  ],
+  "supported_languages": [
+    "简体中文*",
+    "英语",
+    "日语",
+    "繁体中文*\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 29.24,
+  "pc_requirements_min": "最低配置:\n操作系统: Windows 10\n处理器: Intel Core i3 2.00 GHz\n内存: 4 GB RAM\n显卡: Intel® HD Graphics 3000\n存储空间: 需要 3 GB 可用空间",
+  "pc_requirements_rec": "",
+  "fetched_at": "2026-08-20T03:42:19Z",
+  "review_desc": "Very Positive",
+  "review_count": 1828,
+  "review_percentage": 84.6,
+  "review_score": 8
+}

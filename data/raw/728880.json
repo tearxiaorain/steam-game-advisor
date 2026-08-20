@@ -1,0 +1,75 @@
+{
+  "app_id": "728880",
+  "name": "Overcooked! 2",
+  "name_cn": "",
+  "short_description": "Overcooked 回来了，带着全新的烹饪行动！重返洋葱王国，通过经典的本地合作模式或是在线游戏模式组建多达四人的大厨团队。系好你的围裙……是时候（再一次）拯救这个世界了！",
+  "detailed_description": "Overcooked! Version Comparison\n\n关于游戏Overcooked 回来了，带着全新的烹饪行动！重返洋葱王国，通过经典的本地合作模式或是在线游戏模式组建多达四人的大厨团队。系好你的围裙……是时候（再一次）拯救这个世界了！\n\n \n\n上刀山，下油锅……\n\n你曾经在 Ever Peckish 拯救了这个世界。如今新的威胁降临了，是时候回到厨房中，将那些来势汹汹的行食走肉赶跑了！\n\n在线/本地多人模式的狂欢- 你们要在欢快的本地或在线多人模式中精诚合作（或是互相捣乱），勇得糕分。\n\n大饱口（眼）福- 上天入地下海，来一场全新的环球之旅。在全新的主题餐厅中进行烹饪——寿司屋、魔法学校，甚至还有外星球！\n\n胃口大开！- 在旅行中烹饪出的一系列新菜谱绝对能满足各种口味，有寿司、蛋糕、汉堡还有披萨。\n\n保持冷静！- 穿过传送器，跨过移动平台，为了节约时间你们甚至要在不断变化移动的厨房中互相投递食材。有的厨房甚至会将你的厨师甩到其他地方。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "休闲",
+    "独立"
+  ],
+  "tags": [
+    "动作",
+    "休闲",
+    "独立"
+  ],
+  "categories": [
+    "单人",
+    "多人",
+    "玩家对战",
+    "线上玩家对战",
+    "同屏/分屏玩家对战",
+    "合作",
+    "在线合作",
+    "同屏/分屏合作",
+    "同屏/分屏",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "Steam 云",
+    "在手机上远程畅玩",
+    "在平板上远程畅玩",
+    "在电视上远程畅玩",
+    "远程同乐",
+    "家庭共享"
+  ],
+  "developers": [
+    "Ghost Town Games Ltd.",
+    "Team17"
+  ],
+  "publishers": [
+    "Team17"
+  ],
+  "release_date": "2018 年 8 月 7 日",
+  "platforms": [
+    "Windows",
+    "Mac",
+    "Linux"
+  ],
+  "supported_languages": [
+    "英语",
+    "法语",
+    "意大利语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "日语",
+    "简体中文",
+    "韩语",
+    "波兰语",
+    "葡萄牙语 - 巴西",
+    "繁体中文",
+    "俄语"
+  ],
+  "is_free": false,
+  "price_cny": 98.0,
+  "pc_requirements_min": "最低配置:\n操作系统: WIN7-64 bit\n处理器: Intel i3-2100 / AMD A8-5600k\n内存: 4 GB RAM\n显卡: GeForce GTX 630 / Radeon HD 6570\nDirectX 版本: 11\n存储空间: 需要 3 GB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n操作系统: Win7 -64 bit\n处理器: Intel i5-650 / AMD A10-5800K\n显卡: Nvidia GeForce GTX 650 / Radeon HD 7510\n声卡: DirectX Compatible Sound Card",
+  "fetched_at": "2026-08-20T03:58:53Z",
+  "review_desc": "Very Positive",
+  "review_count": 83866,
+  "review_percentage": 90.4,
+  "review_score": 8
+}

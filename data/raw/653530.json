@@ -1,0 +1,61 @@
+{
+  "app_id": "653530",
+  "name": "Return of the Obra Dinn",
+  "name_cn": "",
+  "short_description": "真善之舟奥伯拉丁号 ~ 于1803年在海上失踪。",
+  "detailed_description": "1803年于海上失踪\n真善之舟\n“奥伯拉丁号”\n----------------\n1796年伦敦建造~重量800吨，吃水深度18英尺\n船长R·威特瑞~船员51人\n最终航向东方~未抵达会和点\n----------------\n如需问询或作证\n请联系东印度公司伦敦办事处。极简色彩保险解谜游戏\n1802年，商船奥伯拉丁号满载200多吨贸易货物，从伦敦出发驶往东方。六个月后，奥伯拉丁号没有抵达位于好望角的汇合点，宣布在海上失踪。\n\n1807年10月14日早上，奥伯拉丁号拖着残破的船帆漂流至法尔茅斯港口，船员不见踪影。一名保险调查员立即被东印度公司伦敦办事处派往法尔茅斯，设法登船并评估损失。\n\nReturn of the Obra Dinn（奥伯拉丁的归来）是一款充满神秘色彩的第一人称解谜游戏，游戏的进行方式基于探索与逻辑推理。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "冒险",
+    "独立"
+  ],
+  "tags": [
+    "冒险",
+    "独立"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 云",
+    "在电视上远程畅玩",
+    "家庭共享"
+  ],
+  "developers": [
+    "Lucas Pope"
+  ],
+  "publishers": [
+    "3909"
+  ],
+  "release_date": "2018 年 10 月 18 日",
+  "platforms": [
+    "Windows",
+    "Mac"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语",
+    "意大利语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "日语",
+    "波兰语",
+    "葡萄牙语 - 巴西",
+    "俄语",
+    "韩语",
+    "简体中文",
+    "繁体中文",
+    "阿拉伯语",
+    "乌克兰语\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 76.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows 7 or better\n处理器: 2 GHz Intel i5 or better\n内存: 4 GB RAM\n显卡: Discrete GPU\n存储空间: 需要 2 GB 可用空间\n附注事项: Requires 720p or higher resolution and outputs 16:9 aspect only, letterboxed if necessary.",
+  "pc_requirements_rec": "",
+  "fetched_at": "2026-08-20T04:23:46Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 34987,
+  "review_percentage": 96.7,
+  "review_score": 9
+}

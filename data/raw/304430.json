@@ -1,0 +1,66 @@
+{
+  "app_id": "304430",
+  "name": "INSIDE",
+  "name_cn": "",
+  "short_description": "孤身一人并遭到追击，一个男孩发现自己深深陷入了一个黑暗计划。",
+  "detailed_description": "孤身一人并遭到追击，一个男孩发现自己深深陷入了一个黑暗计划。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "冒险",
+    "独立"
+  ],
+  "tags": [
+    "动作",
+    "冒险",
+    "独立"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "可选颜色",
+    "可以仅用键盘",
+    "无需应对快速反应事件",
+    "立体声",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "Playdead"
+  ],
+  "publishers": [
+    "Playdead"
+  ],
+  "release_date": "2016 年 7 月 7 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语",
+    "法语",
+    "意大利语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "日语",
+    "韩语",
+    "波兰语",
+    "葡萄牙语 - 葡萄牙",
+    "葡萄牙语 - 巴西",
+    "俄语",
+    "简体中文",
+    "繁体中文",
+    "土耳其语"
+  ],
+  "is_free": false,
+  "price_cny": 90.0,
+  "pc_requirements_min": "最低配置:\n操作系统: Windows 10 (64-bit OS required)\n处理器: Intel Core 2 Quad Q6600 @ 2.4 GHz, AMD FX 8120 @ 3.1 GHz\n内存: 4 GB RAM\n显卡: NVIDIA GT 630 / 650m, AMD Radeon HD6570 or equivalent\nDirectX 版本: 9.0c\n存储空间: 需要 3 GB 可用空间\n声卡: 100% DirectX 9.0c compatible sound card",
+  "pc_requirements_rec": "推荐配置:\n操作系统: Windows 10 or later (64-bit OS required)\n处理器: Intel i7 920 @ 2.7 GHz, AMD Phenom II 945 @ 3.0 GHz\n内存: 8 GB RAM\n显卡: NVIDIA GTX 660, Radeon R9-270\nDirectX 版本: 11\n存储空间: 需要 3 GB 可用空间\n声卡: 100% DirectX 9.0c compatible sound card",
+  "fetched_at": "2026-08-20T04:28:15Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 75636,
+  "review_percentage": 97.0,
+  "review_score": 9
+}

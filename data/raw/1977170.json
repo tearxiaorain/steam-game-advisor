@@ -1,0 +1,62 @@
+{
+  "app_id": "1977170",
+  "name": "Jusant",
+  "name_cn": "退潮",
+  "short_description": "在充满禅意的神秘巨塔山，攀爬、跳跃在岩壁之间，邂逅神秘生物，根据沿途留下的蛛丝马迹，尝试拼凑出过去文明的秘密，寻找传说中的水源。",
+  "detailed_description": "高度还原攀岩动作，手脚完美配合以攀登到更高处 \n\n巧用各种工具，驾驭神秘多变的大山，纵览更多美景 \n\n干旱多风的峭壁上记得稳住手脚，在神秘发光生物的隧道里小心前行，不同景致不同策略将带给你不同体验 \n\n与随行神秘生物「水舱兽」互动，探秘隐层线索，揭开往事谜题 \n\n保持好你的体力，毕竟下一段山路充满未知 \n\n留心途中的每一个线索，Ta们将是揭开关于这里过往的关键一环\n\n \n\n \n\n \n\n邂逅可爱生物「水舱兽」，伴你一路同行，为你指引方向 \n\n唤醒沉睡的大自然，揭示深藏的线索 \n\n攀上云端，向着传说中的水源进发 \n\n揭示过去的文明，探寻人们面对命运洪流做出的不同抉择\n\n \n\n \n\n \n\n我们建议全程配合背景音乐感受这款游戏，平和的配乐能让你在山脚下静下心来寻找攀山的路线，还能让你在山顶驻足眺望时更加心旷神怡 \n\n放松享受这段旅程本身，可以在途中走走停停精心享受这款游戏带给你静谧的氛围，也可以循着线索直抵真相",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "冒险",
+    "独立"
+  ],
+  "tags": [
+    "动作",
+    "冒险",
+    "独立"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "推荐使用手柄",
+    "DUALSHOCK 控制器支持",
+    "DualSense 控制器支持",
+    "DualSense 控制器支持",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "DON'T NOD"
+  ],
+  "publishers": [
+    "DON'T NOD"
+  ],
+  "release_date": "2023 年 10 月 31 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语",
+    "法语",
+    "意大利语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "日语",
+    "韩语",
+    "波兰语",
+    "葡萄牙语 - 巴西",
+    "俄语",
+    "简体中文"
+  ],
+  "is_free": false,
+  "price_cny": 99.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10\n处理器: Intel Core i7-6700 (4 * 3400), AMD Ryzen 5 1500X (4 * 3500) or equivalent\n内存: 8 GB RAM\n显卡: GPU supporting DirectX 12 with Shader Model 6.6 is mandatory, GeForce GTX 1050 Ti (4096 MB), Radeon RX 570 (8192 MB)\n存储空间: 需要 15 GB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10\n处理器: Intel Core i7-10700 (8 * 2900), AMD Ryzen 7 3700X (8 * 3600) or equivalent\n内存: 8 GB RAM\n显卡: Geforce RTX 2060 Super (6144 MB), Radeon RX 5700 (8192 MB)\n存储空间: 需要 15 GB 可用空间",
+  "fetched_at": "2026-08-20T04:13:01Z",
+  "review_desc": "Very Positive",
+  "review_count": 6825,
+  "review_percentage": 92.9,
+  "review_score": 8
+}

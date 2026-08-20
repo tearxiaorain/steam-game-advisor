@@ -1,0 +1,49 @@
+{
+  "app_id": "3838370",
+  "name": "TR-49",
+  "name_cn": "",
+  "short_description": "A World War II computer. An archive of lost books. A world-changing secret. Narrative deduction meets audio drama, from the creators of Overboard!, Heaven's Vault and A Highland Song.",
+  "detailed_description": "Designed for DeckGood news - Valve has officially Verified it for Steam Deck. And more than that, we designed it from the ground up to be fantastic on Deck - we love the platform!\n\nAbout the GameA voice is saying your name. A WWII-era machine, long hidden in a church basement, whirs to life. Through a crackling speaker, a man asks you to find a stolen book. He only knows the title. Time is running out.\n\n \n\nThe machine, created by Bletchley Park engineers Cecil Caulderly and Beatrice Dooler, contains a vast archive of obscure books, letters, and journals fed in over the span of fifty years in an attempt to crack the code of reality. As their lives fell apart, the machine kept working.\n\n  \n\nNavigate the computer’s archive. Link its obscure texts and uncover its creators’ secrets. Communicate with the man behind the speaker to figure out your role in this mystery. Destroy the book at the core of the machine — before it’s too late.\n\nDeduce links through the archive to locate hidden sources.\n\nUnravel the stories and unearth the secrets of the books’ authors and the machine's creators.\n\nMap the archive and find the book that will rewrite the world.\n\nTalk with your handler at any time, creating a dynamic audio drama that responds as you explore.\n\nFeaturing the voices of Rebekah McLoughlin (The SCP Archives, Eternal Threads), Paul Warren (A Highland Song, Viewfinder, The Séance of Blake Manor) and Phillipe Bosher (Baldur's Gate 3, Doctor Who, The Hitchhiker’s Guide to the Galaxy).\n\nOriginal soundtrack by Laurence Chapman (A Highland Song, Heaven's Vault, The Mask of the Rose).\n\nTR-49 takes inspiration from  narrative deduction games like The Roottrees are Dead, The Return of the Obra Dinn, Type Help and Her Story,  and from audio dramas like The Magnus Archives and ars PARADOXICA. \n\nWritten and created by the award-winning team behind Heaven's Vault, Overboard!, and A Highland Song.",
+  "description_lang_short": "en",
+  "description_lang_detail": "en",
+  "genres": [
+    "冒险"
+  ],
+  "tags": [
+    "冒险"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "自定义音量控制",
+    "可以仅用键盘",
+    "可以仅用鼠标",
+    "无需应对快速反应事件",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "inkle Ltd"
+  ],
+  "publishers": [
+    "inkle Ltd"
+  ],
+  "release_date": "2026 年 1 月 21 日",
+  "platforms": [
+    "Windows",
+    "Mac"
+  ],
+  "supported_languages": [
+    "英语*\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 29.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10\n处理器: Any\n内存: 2 GB RAM\n显卡: Any\nDirectX 版本: 9.0c\n存储空间: 需要 200 MB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 11\n处理器: Any\n内存: 4 GB RAM\nDirectX 版本: 9.0c\n存储空间: 需要 200 MB 可用空间",
+  "fetched_at": "2026-08-20T04:08:51Z",
+  "review_desc": "Very Positive",
+  "review_count": 1215,
+  "review_percentage": 94.2,
+  "review_score": 8
+}

@@ -1,0 +1,72 @@
+{
+  "app_id": "1764390",
+  "name": "BAD END THEATER",
+  "name_cn": "坏结局剧院",
+  "short_description": "选择你的主角，探索各种可怕的命运！",
+  "detailed_description": "欢迎来到坏结局剧院！\n选择你的主角，探索各种可怕的命运！\n\n你在一个故事中的抉择会影响其他故事。你可以切换这些行为来开启新的路线！不幸的是，每条路线都会走向一个坏结局……\n\n你能想出办法拯救这个倒霉的演员吗？\n\n游戏时间：达成所有结局约需1-3小时（这是一款解谜游戏，所以用时差异大）游戏特色 16000字文本，600幅插图，40多个结局工作人员名单 \n编剧+美术+音乐 - NomnomNami \n动画 - chunderfins翻译 \nEspañol (LATAM) - José Jil Tudela\nEspañol (ES), Euskara - Gabriel Fiallegas Medina (Basajaun Games)\nFrançais - Yuri Akuto\nDeutsch - Marshmelie\nItaliano - Rypher\nNederlands - Demi\nPortuguês (BR) - Fah Braccini\nPolski - Nika Klag\nČeština - David \"Dejw136\" Benáček\nMagyar - Diemond\nSvenska - Felix Hindemo\nРусский - Zweelee\n한국어 - KyleHeren\n简体中文 - Yuriatelier\n日本語 - Lin YuFan, Katsuhide, Sota\nTiếng Việt - Bánh\nTürkçe - Ebru Nilay Vural\nالعربية - Montassar Ghanmi\nעברית - swagster2000\nภาษาไทย - Whateverzone\nУкраїнська - storyteller613\nΕλληνικά - Theangelknight",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "模拟"
+  ],
+  "tags": [
+    "模拟"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "DUALSHOCK 控制器支持",
+    "DUALSHOCK 控制器支持",
+    "DualSense 控制器支持",
+    "DualSense 控制器支持",
+    "家庭共享"
+  ],
+  "developers": [
+    "NomnomNami"
+  ],
+  "publishers": [
+    "NomnomNami"
+  ],
+  "release_date": "2021 年 10 月 26 日",
+  "platforms": [
+    "Windows",
+    "Mac",
+    "Linux"
+  ],
+  "supported_languages": [
+    "英语",
+    "法语",
+    "德语",
+    "韩语",
+    "俄语",
+    "西班牙语 - 拉丁美洲",
+    "葡萄牙语 - 巴西",
+    "波兰语",
+    "简体中文",
+    "瑞典语",
+    "意大利语",
+    "日语",
+    "越南语",
+    "土耳其语",
+    "西班牙语 - 西班牙",
+    "阿拉伯语",
+    "荷兰语",
+    "捷克语",
+    "巴斯克语",
+    "希伯来语",
+    "泰语",
+    "匈牙利语",
+    "乌克兰语",
+    "希腊语"
+  ],
+  "is_free": false,
+  "price_cny": 37.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统 *: Windows 7 64-bit",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统",
+  "fetched_at": "2026-08-20T03:38:54Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 10001,
+  "review_percentage": 97.5,
+  "review_score": 9
+}

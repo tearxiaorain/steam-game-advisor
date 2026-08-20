@@ -1,0 +1,76 @@
+{
+  "app_id": "2923300",
+  "name": "Banana",
+  "name_cn": "",
+  "short_description": "Banana is a clicker Game, in which you click a Banana! In Banana you click the Banana to gain even more Bananas! Every 3 hours, you get dropped a banana. Each banana is also made by the community in discord. Come hang out with us and let's grow into something awesome !",
+  "detailed_description": "Banana is a clicker Game, in which you click a Banana!\n\nGet a random banana every 3 hours and grow your collection! \n\n3 hour drop pool chances*: \n\n Normal - 70%\n\nCommon - 25%\n\nUncommon - 4.89%\n\nRare - 0.1%\n\nEpic - 0.01%\n\nUltra Rare - 1 in 400 000\n\nLegendary - 1 in 10 000 000\n\n \n\n* Subject to change \n\nFeatures: \n\nBananas, Obviously.\n\nItems to grow your collection  \n\nAchievements  \n\na community that's bananas \n\nDesign submission Via discord! That's right ! ALL our bananas are made with community effort and inspiration , come join the fun !",
+  "description_lang_short": "en",
+  "description_lang_detail": "en",
+  "genres": [
+    "冒险",
+    "休闲",
+    "独立",
+    "模拟",
+    "策略",
+    "免费开玩"
+  ],
+  "tags": [
+    "冒险",
+    "休闲",
+    "独立",
+    "模拟",
+    "策略",
+    "免费开玩"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "Steam 集换式卡牌",
+    "Steam 创意工坊",
+    "Steam 创意工坊",
+    "应用内购买",
+    "Steam 云",
+    "统计数据",
+    "Steam 排行榜",
+    "家庭共享"
+  ],
+  "developers": [
+    "Sky",
+    "AestheticSpartan",
+    "Banana Game"
+  ],
+  "publishers": [
+    "Banana Game"
+  ],
+  "release_date": "2024 年 4 月 23 日",
+  "platforms": [
+    "Windows",
+    "Linux"
+  ],
+  "supported_languages": [
+    "英语*",
+    "荷兰语*",
+    "葡萄牙语 - 巴西*",
+    "葡萄牙语 - 葡萄牙*",
+    "法语*",
+    "德语*",
+    "西班牙语 - 西班牙*",
+    "波兰语*",
+    "俄语*",
+    "简体中文*",
+    "西班牙语 - 拉丁美洲*",
+    "土耳其语*",
+    "乌克兰语*",
+    "白俄罗斯语",
+    "哈萨克语*\n*具有完全音频支持的语言"
+  ],
+  "is_free": true,
+  "price_cny": 0.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 11\n处理器: Intel i5 5500 / AMD Ryzen 5 5600X\n内存: 1 GB RAM\n显卡: Any\n网络: 宽带互联网连接\n存储空间: 需要 2 GB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 11\n处理器: Intel i5 10500 / AMD Ryzen 7+\n内存: 4 GB RAM\n显卡: Any\n网络: 宽带互联网连接\n存储空间: 需要 2 GB 可用空间",
+  "fetched_at": "2026-08-20T04:10:01Z",
+  "review_desc": "Very Positive",
+  "review_count": 96884,
+  "review_percentage": 81.8,
+  "review_score": 8
+}

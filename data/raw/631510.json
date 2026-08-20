@@ -1,0 +1,52 @@
+{
+  "app_id": "631510",
+  "name": "Devil May Cry HD Collection",
+  "name_cn": "",
+  "short_description": "集合『DEVIL MAY CRY』、『DEVIL MAY CRY 2』及『DEVIL MAY CRY 3 Special Edition』于一个包装再次登场！与最强的DEVIL HUNTER；Dante、Trish、Lady、Lucia等角色一起，在HD画质上感受Stylish Action的乐趣。",
+  "detailed_description": "集合人气的Stylish Action Game『DEVIL MAY CRY』、『DEVIL MAY CRY 2』及『DEVIL MAY CRY 3 Special Edition』于一个包装再次登场！成为最强的恶魔猎人（DEVIL HUNTER）；Dante与Trish、Lady、Lucia等具魅力的角色一起，在HD画质上感受致极的动作乐趣！",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作"
+  ],
+  "tags": [
+    "动作"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "在电视上远程畅玩",
+    "家庭共享"
+  ],
+  "developers": [
+    "CAPCOM Co., Ltd."
+  ],
+  "publishers": [
+    "CAPCOM Co., Ltd."
+  ],
+  "release_date": "2018 年 3 月 13 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语",
+    "意大利语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "日语",
+    "繁体中文",
+    "简体中文\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 148.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: WINDOWS® 7 (64bit)\n处理器: Intel® Core™ i3 series (dual-core) or AMD equivalent or better\n内存: 4 GB RAM\n显卡: NVIDIA® GeForce® GTX 760 or AMD Radeon™ R7 260x\nDirectX 版本: 9.0\n存储空间: 需要 12 GB 可用空间\n声卡: DirectSound (DirectX® 9.0c or better)\n附注事项: *Recommended Controller Xbox 360 Controller (Windows®7/8/8.1) Xbox One Wireless Controller (Windows®10) \n\n*Internet connection required for game activation.  \n\n*Non-multi-thread supported CPUs are not guaranteed to operate correctly.",
+  "pc_requirements_rec": "推荐配置:\n操作系统: WINDOWS®10  (64bit)\n处理器: Intel® Core™ i7 3770 3.4GHz or AMD equivalent or better\n内存: 8 GB RAM\n显卡: NVIDIA® GeForce® GTX 960\nDirectX 版本: 11\n存储空间: 需要 12 GB 可用空间\n声卡: DirectSound (DirectX® 9.0c or better)\n附注事项: *Recommended Controller\n Xbox 360 Controller (Windows®7/8/8.1)\n Xbox One Wireless Controller (Windows®10)\n\n *Internet connection required for game activation.",
+  "fetched_at": "2026-08-20T03:41:50Z",
+  "review_desc": "Very Positive",
+  "review_count": 25282,
+  "review_percentage": 93.3,
+  "review_score": 8
+}

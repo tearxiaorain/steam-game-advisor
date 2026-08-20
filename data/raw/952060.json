@@ -1,0 +1,64 @@
+{
+  "app_id": "952060",
+  "name": "Resident Evil 3",
+  "name_cn": "",
+  "short_description": "不管逃到哪里也会被追至绝路。 浣熊市发生突如其来的生物灾害，更为危险的武器被投入到这个逐渐毁灭的城镇中…… 多重的危机，九死一生的惊险动作和重新构建的逃生剧情，一切超乎你的想象。 你能逃离这片绝望吗？ 同时收录另一款逃生游戏《Resident Evil Resistance》。",
+  "detailed_description": "不管逃到哪里也会被追至绝路。\n\r\n\n\r\n浣熊市发生突如其来的生物灾害，更为危险的武器被投入到这个逐渐毁灭的城镇中……\n\r\n\n\r\n多重的危机，九死一生的惊险动作和重新构建的逃生剧情，一切超乎你的想象。\n\r\n\n\r\n你能逃离这片绝望吗？\n\r\n\n\r\n同时收录另一款逃生游戏《Resident Evil Resistance》。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作"
+  ],
+  "tags": [
+    "动作"
+  ],
+  "categories": [
+    "单人",
+    "多人",
+    "玩家对战",
+    "线上玩家对战",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "Steam 云",
+    "在平板上远程畅玩",
+    "可用 HDR",
+    "家庭共享"
+  ],
+  "developers": [
+    "CAPCOM Co., Ltd."
+  ],
+  "publishers": [
+    "CAPCOM Co., Ltd."
+  ],
+  "release_date": "2020 年 4 月 2 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语*",
+    "意大利语*",
+    "德语*",
+    "西班牙语 - 西班牙*",
+    "葡萄牙语 - 巴西",
+    "波兰语",
+    "俄语",
+    "简体中文*",
+    "繁体中文",
+    "日语*",
+    "韩语",
+    "阿拉伯语",
+    "泰语",
+    "西班牙语 - 拉丁美洲\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 198.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统: WINDOWS® 10 (64-BIT Required)\n处理器: Intel® Core™ i5-4460 or AMD FX™-6300 or better\n内存: 8 GB RAM\n显卡: NVIDIA® GeForce® GTX 960 or AMD Radeon™ RX 460\nDirectX 版本: 12\n网络: 宽带互联网连接\n存储空间: 需要 45 GB 可用空间\n附注事项: Anticipated performance at these specifications is 1080p/30FPS for Resident Evil 3 and 720p/30FPS for Resident Evil Resistance. If you don't have enough graphics memory to run the game at your selected texture quality, you must go to Options > Graphics and lower the texture quality or shadow quality, or decrease the resolution. An internet connection is required for product activation. In addition, an internet connection is required at all times when playing Resident Evil Resistance. (Network connectivity uses Steam® developed by Valve® Corporation.)",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: WINDOWS® 10 (64-BIT Required)\n处理器: Intel® Core™ i7-3770 or AMD FX™-9590 or better\n内存: 8 GB RAM\n显卡: NVIDIA® GeForce® GTX 1060 or AMD Radeon™ RX 480 with 3GB VRAM\nDirectX 版本: 12\n网络: 宽带互联网连接\n存储空间: 需要 45 GB 可用空间\n附注事项: Anticipated performance at these specifications is 1080p/60FPS. An internet connection is required for product activation. In addition, an internet connection is required at all times when playing Resident Evil Resistance. (Network connectivity uses Steam® developed by Valve® Corporation.)",
+  "fetched_at": "2026-08-20T04:21:13Z",
+  "review_desc": "Very Positive",
+  "review_count": 125154,
+  "review_percentage": 83.4,
+  "review_score": 8
+}

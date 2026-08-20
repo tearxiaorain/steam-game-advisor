@@ -1,0 +1,49 @@
+{
+  "app_id": "1325860",
+  "name": "VTube Studio",
+  "name_cn": "",
+  "short_description": "VTube Studio is all you'll ever need to become a Live2D VTuber, with innovative features such as pinning props to your model and many more still to come.",
+  "detailed_description": "VTube Studio is finally coming to Steam!\nVTube Studio is the tool of choice for any Live2D VTuber! With a wide variety of features, it has never been easier to connect with your viewers!! VTube Studio can be used directly with your webcam on any Windows PC or Mac. \n\nVTube Studio also supports other advanced tracking inputs to control your Live2D model, including audio-based lipsync (requires microphone). Details can be found in the documentation.\n\nVTube Studio on Steam is free to use with all its features!! An optional \"Remove Watermark\" DLC exists that will remove the (very cute) watermark that would otherwise be shown when the webcam tracking is active.\n\nUsing VTube Studio is really easy!! Load your own Live2D Cubism model, run the auto-setup (or do the setup manually), start the tracker and you're good to go. VTube Studio works well with OBS, Streamlabs or any other streaming software.\n\nVTube Studio comes with a few simple example models, but you obviously want to import your own models!! VTube Studio ONLY supports Live2D Cubism models, other formats like VRoid are not supported. No support for other formats is planned.\n\nIf you ever get stuck, there's a complete documentation available as well as an active Discord community that's happy to help out new users!\n\nWhat can VTube Studio do?\nVTube Studio comes with tons of fun features you can try out and use to have fun with your viewers. Future development of VTube Studio will focus on community/viewer interaction, so please look forward to that!!\n\nSome of the current features of VTube Studio:\n\nFast, high quality face tracking\nVoice-based mouth tracking\nHigh resolution, high quality, crisp Live2D model rendering\nHotkey-triggered animations, expression changes\nSmoothly move model position/size/rotation per hotkeys\nMouse/Pen-tracking parameter\nYou can map any tracking parameter to any Live2D parameter of your model! Complete freedom!\nItem-System!! You can pin your own PNG items directly to your model and they'll move with it.\niOS/Android app for network face tracking or directly rendering the model (free demo available)\nCommercial usage is allowed (YouTube, Twitch, Superchats, ...) See license for more details.\n...and many more!! Got a cool feature you think people would like? Join our Discord and let us know, most features and improvements were suggested or inspired by user feedback.How does the webcam-based face tracking work?\nThanks to Emiliana from VSeeFace, VTube Studio now directly supports webcam-based face tracking powered by OpenSeeFace!! It comes with various quality levels so it will even run on low-spec PCs or Macs. It's free to use but will show a watermark if you don't buy the \"Remove Watermark\" DLC, available now.\n\nWhere to get help?\nThe documentation, support email and active Discord community can be found on the website linked on this page. Please join, we're waiting for you!!\n\nSEE YOU THERE, FREN!!",
+  "description_lang_short": "en",
+  "description_lang_detail": "en",
+  "genres": [
+    "独立",
+    "动画制作和建模",
+    "视频制作"
+  ],
+  "tags": [
+    "独立",
+    "动画制作和建模",
+    "视频制作"
+  ],
+  "categories": [
+    "单人",
+    "Steam 创意工坊"
+  ],
+  "developers": [
+    "DenchiSoft"
+  ],
+  "publishers": [
+    "DenchiSoft"
+  ],
+  "release_date": "2021 年 3 月 12 日",
+  "platforms": [
+    "Windows",
+    "Mac"
+  ],
+  "supported_languages": [
+    "英语",
+    "日语",
+    "简体中文",
+    "繁体中文"
+  ],
+  "is_free": true,
+  "price_cny": 0.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统 *: Windows 7 (64 bit)\n处理器: AMD / Intel CPU running at 1.8 GHz or higher\n内存: 4 GB RAM\n显卡: AMD/NVIDIA graphic card, with at least 2GB of dedicated VRAM and with at least DirectX 11\nDirectX 版本: 11\n存储空间: 需要 3 GB 可用空间\n附注事项: Requires a 64-bit processor and operating system. Webcam tracking requires webcam.",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10 (64 bit)\n处理器: AMD / Intel CPU running at 2.5 GHz or higher\n内存: 6 GB RAM\n显卡: AMD/NVIDIA graphic card, with at least 4GB of dedicated VRAM and with at least DirectX 11\nDirectX 版本: 11\n存储空间: 需要 4 GB 可用空间\n附注事项: Requires a 64-bit processor and operating system. Webcam tracking requires webcam.",
+  "fetched_at": "2026-08-20T04:16:35Z",
+  "review_desc": "Very Positive",
+  "review_count": 7247,
+  "review_percentage": 92.7,
+  "review_score": 8
+}

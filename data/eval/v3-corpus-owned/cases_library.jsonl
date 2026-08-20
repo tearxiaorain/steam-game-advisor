@@ -1,0 +1,3 @@
+{"id": "lib-01", "question": "今晚库里玩哪个", "expect_route": "library", "expect_app_ids": ["1971650", "1478500", "3003460"], "tags": ["library", "tonight", "playtime"], "notes": "tonight：近两周时长 Top；OCTOPATH II / Big Walk / Bang Bang Barrage；依赖 me_owned"}
+{"id": "lib-02", "question": "库里有没有买了从来没玩过的", "expect_route": "library", "expect_app_ids": ["1230140", "2159210", "2614070"], "tags": ["library", "backlog"], "notes": "backlog：时长=0 且按好评率 Top；ATRI / To the Moon Beach / NUKITASHI 2；依赖 me_owned"}
+{"id": "lib-03", "question": "最近在玩什么，库里接着玩哪个", "expect_route": "library", "expect_app_ids": ["1971650", "1478500", "3003460"], "tags": ["library", "recent"], "notes": "recent：同近两周 Top；依赖 me_owned"}

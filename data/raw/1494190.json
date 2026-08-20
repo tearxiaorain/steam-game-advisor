@@ -1,0 +1,51 @@
+{
+  "app_id": "1494190",
+  "name": "秘密舞会",
+  "name_cn": "秘密舞会",
+  "short_description": "《秘密舞会》是一款百合向视觉小说游戏，是聆花百合系列外传第一期。",
+  "detailed_description": "聆花系列外传第一期。\n\r\n*篇幅较短，建议打折时购买。\n\r\n\n\r\nstory\n\r\n\n\r\n学姐们的故事。\n\r\n\n\r\n\n\r\nfeature\n\r\n\n\r\n甜蜜温馨的百合恋情\n\r\n丝丝入扣的全员语音\n\r\n动人心弦的华美音乐\n\r\n精致细腻的CG画面\n\r\n真实考究的剧情细节\n\r\n\n\r\n\n\r\nstaff\n\r\n\n\r\n【企划】\n\r\n白露社（White Dew Game）\n\r\n【配音】\n\r\n水烟箩卜\n\r\n白夜与鹿\n\r\n【人设】\n\r\n永恒之舞MK2\n\r\n【CG】\n\r\n永恒之舞MK2\n\r\n【色彩】\n\r\n永恒之舞MK2\n\r\n【背景】\n\r\n海胆\n\r\n【音乐】\n\r\nSaulRobinson\n\r\n【UI】\n\r\n匣中猫\n\r\n【剧本】\n\r\nHの天平\n\r\n【演出】\n\r\n盖琳贴贴贴",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "冒险",
+    "休闲",
+    "独立",
+    "角色扮演",
+    "模拟"
+  ],
+  "tags": [
+    "冒险",
+    "休闲",
+    "独立",
+    "角色扮演",
+    "模拟"
+  ],
+  "categories": [
+    "单人",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "白露社"
+  ],
+  "publishers": [
+    "PeriScope Game"
+  ],
+  "release_date": "2021 年 2 月 28 日",
+  "platforms": [
+    "Windows",
+    "Mac"
+  ],
+  "supported_languages": [
+    "简体中文*\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 15.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统: WIN7 SP1/WIN8/WIN10\n处理器: i3 2GHz\n内存: 2 GB RAM\n存储空间: 需要 1 GB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: WIN7 SP1/WIN8/WIN10\n处理器: i3 2GHz\n内存: 8 GB RAM\n存储空间: 需要 2 GB 可用空间",
+  "fetched_at": "2026-08-20T03:43:48Z",
+  "review_desc": "Very Positive",
+  "review_count": 686,
+  "review_percentage": 93.6,
+  "review_score": 8
+}

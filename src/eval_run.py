@@ -202,12 +202,30 @@ def main() -> None:
             hits = []
             hit_ids = []
         else:
-            chunks = advisor._retrieve_chunks(
-                route, question, rewritten, query_variants, filters
-            )
             if route == "library":
-                docs = advisor._apply_library_constraint(question, chunks)
+                from rag_modules.library_profile import detect_library_mode
+
+                lib_mode = detect_library_mode(question)
+                if lib_mode in {"tonight", "recent", "backlog"}:
+                    docs = advisor._select_library_docs(lib_mode)
+                    if not docs:
+                        chunks = advisor._retrieve_chunks(
+                            route, question, rewritten, query_variants, filters
+                        )
+                        docs = advisor._apply_library_constraint(
+                            question, chunks, mode="owned"
+                        )
+                else:
+                    chunks = advisor._retrieve_chunks(
+                        route, question, rewritten, query_variants, filters
+                    )
+                    docs = advisor._apply_library_constraint(
+                        question, chunks, mode=lib_mode
+                    )
             else:
+                chunks = advisor._retrieve_chunks(
+                    route, question, rewritten, query_variants, filters
+                )
                 docs = advisor.data_module.get_parent_documents(chunks)
             hits = [
                 {
@@ -222,7 +240,11 @@ def main() -> None:
             if not docs:
                 answer = "没有找到相关游戏档案。可以换关键词，或检查 data/processed 是否已放入语料。"
             elif route == "library":
-                answer = advisor.generation_module.generate_library_answer(question, docs)
+                from rag_modules.library_profile import detect_library_mode
+
+                answer = advisor.generation_module.generate_library_answer(
+                    question, docs, library_mode=detect_library_mode(question)
+                )
             elif route == "detail":
                 answer = advisor.generation_module.generate_detail_answer(question, docs)
             else:
@@ -273,12 +295,12 @@ def main() -> None:
         }
         rows.append(row)
         flags = []
-        flags.append("路由✓" if r_ok else "路由✗")
+        flags.append("路由OK" if r_ok else "路由FAIL")
         if h_ok is not None:
-            flags.append("命中✓" if h_ok else "命中✗")
+            flags.append("命中OK" if h_ok else "命中FAIL")
         if refuse_ok is not None:
-            flags.append("拒答✓" if refuse_ok else "拒答✗")
-        flags.append("胡编✗" if invented else "胡编✓")
+            flags.append("拒答OK" if refuse_ok else "拒答FAIL")
+        flags.append("胡编FAIL" if invented else "胡编OK")
         print("  " + " ".join(flags) + f"  hits={hit_ids}\n")
 
     now = datetime.now(timezone.utc).astimezone()

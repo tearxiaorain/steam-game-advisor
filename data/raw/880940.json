@@ -1,0 +1,68 @@
+{
+  "app_id": "880940",
+  "name": "Pummel Party",
+  "name_cn": "",
+  "short_description": "《Pummel Party》是一款支持 4-8 位玩家的在线和本地多人派对游戏。Pummel 好友或 AI 可以在图板模式下使用各种各样荒唐爆笑的物品，在独特的迷你游戏合集中相互竞争，摧毁友谊。",
+  "detailed_description": "《Pummel Party》是一款支持 4-8 位玩家的在线和本地多人派对游戏。Pummel 好友或 AI 可以在图板模式下使用各种各样荒唐爆笑的物品，在独特的迷你游戏合集中相互竞争，摧毁友谊。在线和本地多人游戏随心所欲地游戏。《Pummel Party》允许 1 到 8 位玩家彼此竞争，既可以在线也可以在本地的同一块屏幕上。无论是在线还是当面，这款游戏都充满了友尽的乐趣。\n\n图板模式只能有一个赢家，你知道非你莫属！战斗通过危险的地形，获取和使用大量武器和物品，以确保战胜你的好友。\n\n物品战争已经打响！使用一系列荒唐的武器和物品来夺取胜利。从简单的“拳套”到爆笑的“遥控茄子”，《Pummel Party》中的物品会带来许多搞笑和愤怒的时刻。要粉碎你朋友赢得胜利的愿望，从未如此简单、让人满意。迷你游戏从简单的怀旧乐趣到独特而先进的《Pummel Party》，它包含许多激动人心的迷你游戏。在“雪山旋转”中，将你的好友打下深渊，在“沙里淘金”中进行三维挖掘以首先找到宝藏，并确保在“击鼓传弹”中当炸弹传到你手中时没有爆炸。迷你游戏模式只想立即开玩？《Pummel Party》包含迷你游戏模式，让你可以直接开始游戏！机器人你和好友已经友尽，还是队伍中缺人？《Pummel Party》集成了完整的机器人功能，你仍然可以跟任意数量的真实玩家一起游玩或练习。",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "休闲",
+    "独立"
+  ],
+  "tags": [
+    "动作",
+    "休闲",
+    "独立"
+  ],
+  "categories": [
+    "单人",
+    "多人",
+    "玩家对战",
+    "线上玩家对战",
+    "同屏/分屏玩家对战",
+    "同屏/分屏",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 创意工坊",
+    "包含关卡编辑器",
+    "在手机上远程畅玩",
+    "在平板上远程畅玩",
+    "在电视上远程畅玩",
+    "远程同乐",
+    "家庭共享"
+  ],
+  "developers": [
+    "Rebuilt Games"
+  ],
+  "publishers": [
+    "Rebuilt Games"
+  ],
+  "release_date": "2018 年 9 月 20 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语*",
+    "法语*",
+    "意大利语*",
+    "德语*",
+    "西班牙语 - 西班牙*",
+    "日语*",
+    "韩语*",
+    "俄语*",
+    "简体中文*",
+    "繁体中文*",
+    "葡萄牙语 - 巴西*\n*具有完全音频支持的语言"
+  ],
+  "is_free": false,
+  "price_cny": 58.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows 7\n处理器: Dual Core 2.4Ghz\n内存: 3 GB RAM\n显卡: GeForce 8800 GT / AMD HD 6850 / Intel HD Graphics 4400 or above\nDirectX 版本: 11\n网络: 宽带互联网连接\n存储空间: 需要 1 GB 可用空间",
+  "pc_requirements_rec": "",
+  "fetched_at": "2026-08-20T03:37:03Z",
+  "review_desc": "Very Positive",
+  "review_count": 57695,
+  "review_percentage": 88.6,
+  "review_score": 8
+}

@@ -1,0 +1,65 @@
+{
+  "app_id": "2291850",
+  "name": "Underground Blossom",
+  "name_cn": "",
+  "short_description": "Underground Blossom是一款由Rusty Lake即将推出的冒险游戏。解开萦绕在每个车站的谜题，并找出那辆可以带你穿梭于Laura Vanderboom人生中重要时刻的列车吧。",
+  "detailed_description": "沉入Rusty Lake的地下并在Laura Vanderboom的回忆中穿梭吧！\n\n从这一站到下一站，每一个地铁站都象征着Laura过往和将来的人生碎片。解开重重谜题，找到你应搭乘的那辆列车并解锁一段Laura人生的时间线吧。同时，你也会帮助她更深刻地理解自己的人生并从她腐坏的灵魂中解救出来。\n\nUnderground Blossom是一款由Cube Escape和Rusty Lake系列游戏的开发者制作的点击式冒险游戏。\n\n旧场景中的全新体验\n打开这款Rusty Lake的点击式冒险游戏，体验环环相扣的故事情节并揭开诡谲多变的谜团吧。\n\n做好在每一站驻足的准备吧\n你会前往7个完全不同的车站，每一站都代表Laura Vanderboom的一段人生碎片，回忆或未来。这场旅程全程大概2小时。\n\n你知道要怎么做\n解开每一站的隐藏谜题，解锁成就并迎接一些或许你意想不到的惊喜吧！\n\n戴上耳机 \n每一个车站都配有由Victor Butzelaar创作的扣人心弦的音乐以及由Sebastiaan van Halsema演奏的大提琴乐曲哦！\n\n现在购买车票吧！",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "冒险",
+    "独立"
+  ],
+  "tags": [
+    "冒险",
+    "独立"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "Rusty Lake"
+  ],
+  "publishers": [
+    "Rusty Lake"
+  ],
+  "release_date": "2023 年 9 月 27 日",
+  "platforms": [
+    "Windows",
+    "Mac"
+  ],
+  "supported_languages": [
+    "英语",
+    "法语",
+    "意大利语",
+    "德语",
+    "葡萄牙语 - 巴西",
+    "繁体中文",
+    "简体中文",
+    "丹麦语",
+    "日语",
+    "韩语",
+    "荷兰语",
+    "俄语",
+    "西班牙语 - 拉丁美洲",
+    "捷克语",
+    "土耳其语",
+    "越南语",
+    "芬兰语",
+    "乌克兰语",
+    "波兰语",
+    "瑞典语"
+  ],
+  "is_free": false,
+  "price_cny": 22.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Microsoft® Windows® 7,8, 10 or later\n处理器: 2.4GHz Dual Core\n内存: 1 GB RAM\n显卡: Direct X 9.0c compatible video card\nDirectX 版本: 9.0c\n存储空间: 需要 200 MB 可用空间",
+  "pc_requirements_rec": "",
+  "fetched_at": "2026-08-20T03:59:27Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 6995,
+  "review_percentage": 98.2,
+  "review_score": 9
+}

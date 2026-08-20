@@ -372,6 +372,38 @@ def write_library(appids: List[int]) -> None:
     LIBRARY_PATH.write_text(json.dumps(appids, ensure_ascii=False, indent=2), encoding="utf-8")
 
 
+def write_fetched_appids() -> Path:
+    """维护已抓取游戏列表：与 data/processed/*.md 对齐。"""
+    LIBRARY_DIR.mkdir(parents=True, exist_ok=True)
+    app_ids = sorted(
+        (p.stem for p in PROCESSED_DIR.glob("*.md") if p.stem.isdigit()),
+        key=lambda x: int(x),
+    )
+    path = LIBRARY_DIR / "fetched_appids.json"
+    payload = {
+        "updated_at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "count": len(app_ids),
+        "source": "data/processed/*.md",
+        "app_ids": [int(x) for x in app_ids],
+    }
+    path.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
+    return path
+
+
+def load_fetched_appid_set() -> set[str]:
+    """已抓取集合：processed 为准，fetched_appids.json 作旁路清单。"""
+    existing = {p.stem for p in PROCESSED_DIR.glob("*.md")}
+    fetched_path = LIBRARY_DIR / "fetched_appids.json"
+    if fetched_path.is_file():
+        try:
+            raw = json.loads(fetched_path.read_text(encoding="utf-8"))
+            ids = raw.get("app_ids") if isinstance(raw, dict) else raw
+            existing.update(str(x) for x in (ids or []))
+        except (json.JSONDecodeError, OSError):
+            pass
+    return existing
+
+
 def read_md_manifest_entry(md_path: Path) -> Optional[Dict[str, Any]]:
     text = md_path.read_text(encoding="utf-8")
     if not text.startswith("---"):
@@ -459,9 +491,9 @@ def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="采集 Steam 游戏档案到 data/processed")
     parser.add_argument(
         "--source",
-        choices=["seed", "charts", "library", "both"],
+        choices=["seed", "charts", "library", "both", "none"],
         default="seed",
-        help="候选来源：评测常用种子（无需 Key）、热门榜、库存或热门+库存",
+        help="候选来源：种子/热门/库存/合并；none=仅用 --owned-missing 或 --candidates-file",
     )
     parser.add_argument("--limit", type=int, default=80, help="最多写入多少款游戏")
     parser.add_argument("--candidate-limit", type=int, default=120, help="每路来源最多取多少 appid")
@@ -471,6 +503,22 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--include-eval-seed", action="store_true", help="并入评测集常用 appid")
     parser.add_argument("--refresh", action="store_true", help="已存在的 processed 也重新拉取（更新简介/中文名）")
     parser.add_argument("--candidates-only", action="store_true", help="只写出候选 appid，不拉详情")
+    parser.add_argument(
+        "--candidates-file",
+        type=str,
+        default="",
+        help="从 JSON 文件读候选 appid 列表（数组，或 {\"app_ids\":[...]}）",
+    )
+    parser.add_argument(
+        "--owned-missing",
+        action="store_true",
+        help="从 data/library/me_owned.json 取尚未入库的 appid（按时长降序）",
+    )
+    parser.add_argument(
+        "--friends-missing",
+        action="store_true",
+        help="从 data/library/friends/ 汇总好友库存中尚未入库的 appid（按拥有好友数降序）",
+    )
     return parser.parse_args()
 
 
@@ -486,6 +534,55 @@ def main() -> None:
     candidates: List[int] = []
     if args.source == "seed" or args.include_eval_seed:
         candidates.extend(EVAL_SEED_APPIDS)
+
+    if args.owned_missing:
+        me_path = LIBRARY_DIR / "me_owned.json"
+        if not me_path.exists():
+            raise SystemExit(f"未找到 {me_path}，请先跑 fetch_steam_libraries.py")
+        me = json.loads(me_path.read_text(encoding="utf-8"))
+        existing = load_fetched_appid_set()
+        games = list(me.get("games") or [])
+        games.sort(key=lambda g: int(g.get("playtime_forever") or 0), reverse=True)
+        owned_missing = [
+            int(g["app_id"])
+            for g in games
+            if g.get("app_id") is not None and str(g["app_id"]) not in existing
+        ]
+        print(f"库存缺档 {len(owned_missing)} 款（按时长降序；已抓取跳过）")
+        candidates.extend(owned_missing)
+
+    if args.friends_missing:
+        friends_dir = LIBRARY_DIR / "friends" / "by_steamid"
+        if not friends_dir.is_dir():
+            raise SystemExit(f"未找到 {friends_dir}，请先跑 fetch_steam_libraries.py")
+        existing = load_fetched_appid_set()
+        owner_count: Dict[int, int] = {}
+        for path in friends_dir.glob("*.json"):
+            data = json.loads(path.read_text(encoding="utf-8"))
+            for app_id in data.get("app_ids") or []:
+                aid = int(app_id)
+                if str(aid) in existing:
+                    continue
+                owner_count[aid] = owner_count.get(aid, 0) + 1
+        friends_missing = sorted(
+            owner_count.keys(),
+            key=lambda aid: (owner_count[aid], aid),
+            reverse=True,
+        )
+        print(
+            f"好友库存缺档 {len(friends_missing)} 款"
+            f"（按拥有好友数降序；已抓取 {len(existing)} 款跳过）"
+        )
+        candidates.extend(friends_missing)
+
+    if args.candidates_file:
+        cpath = Path(args.candidates_file)
+        if not cpath.is_file():
+            raise SystemExit(f"候选文件不存在: {cpath}")
+        payload = json.loads(cpath.read_text(encoding="utf-8"))
+        if isinstance(payload, dict):
+            payload = payload.get("app_ids") or payload.get("candidates") or []
+        candidates.extend(int(x) for x in payload)
 
     if args.source in {"charts", "both"}:
         print("正在拉取 Steam 热门榜（GetMostPlayedGames）...")
@@ -581,8 +678,10 @@ def main() -> None:
             "source": args.source + ("+eval-seed" if args.include_eval_seed else ""),
         },
     )
+    fetched_path = write_fetched_appids()
     print(f"完成：库内共 {len(all_manifest)} 款（本轮新写入/刷新 {len(manifest_rows)} 款）")
     print(f"  摘要: {summary_path}")
+    print(f"  已抓取列表: {fetched_path}")
     print(f"  清单 JSON: {MANIFEST_JSON}")
     print(f"  清单 Markdown: {MANIFEST_MD}")
 

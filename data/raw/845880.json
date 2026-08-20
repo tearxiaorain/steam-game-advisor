@@ -1,0 +1,54 @@
+{
+  "app_id": "845880",
+  "name": "Touhou: Scarlet Curiosity",
+  "name_cn": "東方紅輝心",
+  "short_description": "吸血鬼大小姐蕾米莉亚与她的从者咲夜追寻着巨大怪物的踪迹，在幻想乡中展开了一场大冒险。这是一部使用轻快的动作和丰富的技能打爆敌人的爽快3D弹幕动作RPG。",
+  "detailed_description": "故事围绕住在红魔馆的吸血鬼大小姐蕾米莉亚以及她的从者咲夜展开。\n\n正当蕾米莉亚对无趣的日子深感厌倦之时，在人类村落形成话题的姿态不明的神秘巨大怪物引起了她的兴趣。\n\n两人得到了巨大怪物在红魔馆附近的雾之湖出现过的情报后立即展开了搜查。然而与此同时，红魔馆却发生了不得了的事情……\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n本作为东方Project的二次创作作品（同人游戏），是一部以简单轻快的操作性为特点的3D弹幕动作RPG。本作的特征由蕾米莉亚与咲夜两位主人公编织而成的故事\n可以选择蕾米莉亚或者咲夜其中一位进行游戏。蕾米莉亚是能一击打出高伤害的力量型，咲夜是攻击方式多样，擅于累积连击数的技术型。\n\n操作简单，分为攻击、跳跃和三种技能攻击，共计5个按钮\n升级后可以获得各种各样的技能，将技能攻击设定成自己喜欢的技能吧。\n\n积累连击数让战斗更加有利吧\n击中敌人后会增加连击数，并且攻击力和获取的经验值也会有相应的加成。不过经过一定的时间或者受到伤害后连击数便会重置。\n\n收集装备，成为强者吧\n在游戏中可以获取的装备即使名字相同性能也是不一样的。收集各种各样的装备，将自己武装到牙齿吧！其中似乎还有附带特别技能的装备哦。\n\n由“はちみつれもん”社团带来的东方Remix BGM为游戏增光添彩\n总计35首东方Remix BGM让游戏的气氛更加热烈。Steam版的追加要素\n以PlayStation4版为基础进行难度调整\n\n功能齐全的配置设定，可以修改按键设置以及配合电脑配置调整画质\n最高支持4K分辨率。\n\n在配置设定中新增“弹幕地狱模式”\n勾选此模式再开始游戏的话，敌方的弹幕数量将会大幅增加。\n弹幕密度宛如射击游戏，您一定会对此感到惊讶！\n\n支持Steam成就以及集换式卡牌",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "角色扮演"
+  ],
+  "tags": [
+    "动作",
+    "角色扮演"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "Steam 集换式卡牌",
+    "DUALSHOCK 控制器支持",
+    "DUALSHOCK 控制器支持",
+    "DualSense 控制器支持",
+    "部分支持控制器",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "Ankake Spa"
+  ],
+  "publishers": [
+    "XSEED Games",
+    "Marvelous USA, Inc."
+  ],
+  "release_date": "2018 年 7 月 11 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语",
+    "日语",
+    "简体中文",
+    "繁体中文"
+  ],
+  "is_free": false,
+  "price_cny": 50.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows 7\n处理器: Intel Core i3 (2-core, 2.4GHz)\n内存: 2 GB RAM\n显卡: Geforce GTS 450\nDirectX 版本: 10\n存储空间: 需要 4 GB 可用空间\n声卡: Compatible with DirectX 10.0",
+  "pc_requirements_rec": "推荐配置:\n操作系统 *: Windows 7+\n处理器: Intel Core i5-2300 / AMD FX-6350\n内存: 6 GB RAM\n显卡: NVIDIA Geforce GTX 950 / AMD Radeon R7 360\nDirectX 版本: 10\n存储空间: 需要 4 GB 可用空间\n声卡: Compatible with DirectX 10.0",
+  "fetched_at": "2026-08-20T04:22:11Z",
+  "review_desc": "Very Positive",
+  "review_count": 1317,
+  "review_percentage": 92.3,
+  "review_score": 8
+}

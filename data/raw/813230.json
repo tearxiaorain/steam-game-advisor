@@ -1,0 +1,63 @@
+{
+  "app_id": "813230",
+  "name": "ANIMAL WELL",
+  "name_cn": "",
+  "short_description": "探索深邃而又错综复杂的迷宫，解开其中众多秘密。获得各种物品，通过意想不到而又合理的方式利用环境与地形。面对美丽而又惊悚的生物，渡过黑暗之中的重重险境。事情并不是你看到的那么简单。",
+  "detailed_description": "走出你的花朵，走进音画细节精细的像素世界，探索《动物井》美丽而又令人不安的洞窟。邂逅大大小小鲜活的生物，有些会帮助你，有些则会阻碍你。你要发现非同寻常的升级物品，才能解开这里的种种秘密。这个游戏将奉上与众不同的体验，不论是害怕、惊讶还是欣喜，都会让你会心一笑。\n\n探索 - 照亮黑暗谜题世界颇有氛围，难以捉摸，隐含海量秘密\n点亮蜡烛，驱散危险，逐渐照亮你的地图 \n非线性，随心探索，随心收集物品，什么顺序都可以\n解谜 - 仔细观察，就会有收获敌人、场景和物品彼此关联，而且互动的方式出人意料\n所有物品都有多种用途\n了解微不足道的细节蕴藏着怎样的意义\n游戏本体只是窗口，其中隐藏的谜题足够玩家探索数年之久\n生存 - 行动务必小心自己判断什么安全什么危险\n除了动作，更要关注紧张与悬疑\n你没有能力，但是可以巧妙利用周围的环境和物品",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "动作",
+    "冒险",
+    "独立"
+  ],
+  "tags": [
+    "动作",
+    "冒险",
+    "独立"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "推荐使用手柄",
+    "DUALSHOCK 控制器支持",
+    "DUALSHOCK 控制器支持",
+    "DualSense 控制器支持",
+    "DualSense 控制器支持",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "Billy Basso"
+  ],
+  "publishers": [
+    "Bigmode"
+  ],
+  "release_date": "2024 年 5 月 9 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语",
+    "法语",
+    "意大利语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "简体中文",
+    "日语",
+    "葡萄牙语 - 巴西",
+    "俄语",
+    "乌克兰语",
+    "韩语"
+  ],
+  "is_free": false,
+  "price_cny": 59.5,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10\n处理器: 1 GHz\n内存: 1 GB RAM\n显卡: Integrated\nDirectX 版本: 12\n存储空间: 需要 35 MB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n显卡: GeForce GTX 1060 or equivalent",
+  "fetched_at": "2026-08-20T03:38:46Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 24459,
+  "review_percentage": 95.8,
+  "review_score": 9
+}

@@ -1,0 +1,63 @@
+{
+  "app_id": "2744880",
+  "name": "Climber Animals: Together",
+  "name_cn": "",
+  "short_description": "Climber Animals是一款面向1-8名玩家的具有挑战性和动态性的跑酷游戏。在这款游戏中，克服障碍物与朋友们一起攀登至顶端。如果你跌落，你的进度将丢失，必须重新开始。保持平衡，克服这个充满挑战的攀登，并与你的朋友们竞争达到顶峰。",
+  "detailed_description": "Climber Animals: Together是一款为1至8名玩家提供的令人兴奋且具有挑战性的跑酷体验。在这款游戏中，玩家试图找到一条通过充满动态和挑战性的障碍物世界的道路。每个障碍物都考验玩家的策略、速度和技巧。在独特且设计生动的课程上，你的目标是通过与朋友们肩并肩或对抗赛跑达到顶部。\n\n游戏最重要的特性之一是，每次跌落，你的进度都会丢失，玩家必须从头开始。这样在每个关卡开始时为所有玩家创建了一个平等的起点，同时也提高了游戏的难度等级。这允许每次重试关卡时探索不同的策略和路径。\n\n玩家需要保持平衡并克服障碍物以达到顶部。在这个过程中，玩家使用他们的反射、速度和战略思维技能是很重要的。玩家可以与朋友合作或挑战他们，通过这个充满挑战和乐趣的课程。\n\nClimber Animals: Together提供了一个有趣且富有挑战性的课程体验，吸引所有年龄组，为你与朋友们打开享受欢乐时刻的大门。\n\n每次攀登都是新的冒险，每次跌落都是尝试新事物的另一个机会。在这段激动人心的旅程中，躲避旋转的锤子，闪避拳击手套，并在旋转的杆上保持平衡！",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "冒险",
+    "休闲",
+    "独立",
+    "模拟"
+  ],
+  "tags": [
+    "冒险",
+    "休闲",
+    "独立",
+    "模拟"
+  ],
+  "categories": [
+    "单人",
+    "多人",
+    "合作",
+    "在线合作",
+    "Steam 成就",
+    "Steam 集换式卡牌",
+    "应用内购买",
+    "Steam 排行榜",
+    "家庭共享"
+  ],
+  "developers": [
+    "Devotion Interactive"
+  ],
+  "publishers": [
+    "Devotion Interactive"
+  ],
+  "release_date": "2024 年 3 月 22 日",
+  "platforms": [
+    "Windows",
+    "Mac"
+  ],
+  "supported_languages": [
+    "英语",
+    "法语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "日语",
+    "俄语",
+    "简体中文",
+    "繁体中文",
+    "土耳其语"
+  ],
+  "is_free": false,
+  "price_cny": 18.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10 / 64-bit\n处理器: Intel Core i5-5200U or higher/equivalent\n内存: 8 GB RAM\n显卡: 2GB VRam or higher.\n网络: 宽带互联网连接\n存储空间: 需要 500 MB 可用空间",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统\n操作系统: Windows 10 / 64-bit or higher\n处理器: Intel Core i5-5200U or higher/equivalent\n内存: 8 GB RAM\n显卡: 2GB VRam or higher.\n网络: 宽带互联网连接\n存储空间: 需要 500 MB 可用空间",
+  "fetched_at": "2026-08-20T04:10:29Z",
+  "review_desc": "Mostly Positive",
+  "review_count": 6029,
+  "review_percentage": 73.7,
+  "review_score": 6
+}

@@ -1,0 +1,75 @@
+{
+  "app_id": "1307580",
+  "name": "TOEM: A Photo Adventure",
+  "name_cn": "",
+  "short_description": "在这款手绘冒险游戏中，踏上愉快的探索之旅，用镜头发掘神奇的TOEM世界。与怪诞有趣的人物聊天，通过拍摄优美的照片来解决他们的问题，并一路观赏令人身心放松的景观！",
+  "detailed_description": "在这款手绘冒险游戏中，踏上愉快的探索之旅，用镜头发掘神奇的TOEM世界。与怪诞有趣的人物聊天，通过拍摄优美的照片来解决他们的问题，并一路观赏令人身心放松的景观！\n\n用相机拍照，解开拼图并帮助别人！\n\n聆听放松心情的音乐，尽情观赏四周风景！\n\n认识怪诞有趣的人物，帮助他们解决问题！",
+  "description_lang_short": "zh",
+  "description_lang_detail": "zh",
+  "genres": [
+    "冒险",
+    "休闲",
+    "独立"
+  ],
+  "tags": [
+    "冒险",
+    "休闲",
+    "独立"
+  ],
+  "categories": [
+    "单人",
+    "Steam 成就",
+    "支持字幕",
+    "视角舒适度",
+    "自定义音量控制",
+    "推荐使用手柄",
+    "可以仅用键盘",
+    "无需应对快速反应事件",
+    "DUALSHOCK 控制器支持",
+    "DUALSHOCK 控制器支持",
+    "DualSense 控制器支持",
+    "DualSense 控制器支持",
+    "随时保存",
+    "立体声",
+    "字幕选项",
+    "部分支持控制器",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "developers": [
+    "Something We Made"
+  ],
+  "publishers": [
+    "Something We Made",
+    "popagenda"
+  ],
+  "release_date": "2021 年 9 月 17 日",
+  "platforms": [
+    "Windows",
+    "Mac",
+    "Linux"
+  ],
+  "supported_languages": [
+    "英语",
+    "法语",
+    "德语",
+    "西班牙语 - 西班牙",
+    "简体中文",
+    "日语",
+    "俄语",
+    "韩语",
+    "葡萄牙语 - 巴西",
+    "瑞典语",
+    "繁体中文",
+    "土耳其语"
+  ],
+  "is_free": false,
+  "price_cny": 76.0,
+  "pc_requirements_min": "最低配置:\n需要 64 位处理器和操作系统\n操作系统 *: Windows 7 or later",
+  "pc_requirements_rec": "推荐配置:\n需要 64 位处理器和操作系统",
+  "fetched_at": "2026-08-20T04:16:49Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 11960,
+  "review_percentage": 99.1,
+  "review_score": 9
+}

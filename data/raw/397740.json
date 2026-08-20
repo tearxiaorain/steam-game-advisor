@@ -1,0 +1,43 @@
+{
+  "app_id": "397740",
+  "name": "Hylics",
+  "name_cn": "",
+  "short_description": "Hylics is a recreational program with light JRPG elements.",
+  "detailed_description": "Hylics is a recreational program with light JRPG elements.\n\r\n\n\r\nFeatures:\n\r\n-Advanced graphics.\n\r\n-RPG battles.\n\r\n-Overuse of random text generation.\n\r\n- ~2+ hours of content.",
+  "description_lang_short": "en",
+  "description_lang_detail": "en",
+  "genres": [
+    "独立",
+    "角色扮演"
+  ],
+  "tags": [
+    "独立",
+    "角色扮演"
+  ],
+  "categories": [
+    "单人",
+    "家庭共享"
+  ],
+  "developers": [
+    "Mason Lindroth"
+  ],
+  "publishers": [
+    "Mason Lindroth"
+  ],
+  "release_date": "2015 年 10 月 2 日",
+  "platforms": [
+    "Windows"
+  ],
+  "supported_languages": [
+    "英语"
+  ],
+  "is_free": false,
+  "price_cny": 15.0,
+  "pc_requirements_min": "最低配置:\n操作系统 *: Windows XP, Vista, 7, 8\n处理器: 2.0 GHz or faster\n内存: 512 MB RAM\n显卡: 1024 x 768 or higher desktop resolution",
+  "pc_requirements_rec": "",
+  "fetched_at": "2026-08-20T04:27:02Z",
+  "review_desc": "Overwhelmingly Positive",
+  "review_count": 9012,
+  "review_percentage": 98.2,
+  "review_score": 9
+}
