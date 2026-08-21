@@ -54,7 +54,7 @@ DETAIL_NAME_ALIASES: Dict[str, List[str]] = {
 REWRITE_HARD_ALIAS_RULES: List[Dict[str, Any]] = [
     {
         "id": "r6-siege",
-        "need_any": [["破门"], ["运营商", "干员", "战术射击", "写实战术"]],
+        "need_any": [["破门"], ["干员", "战术射击", "写实战术"]],
         "boost": "彩虹六号 围攻 战术射击 干员 人质 破门",
     },
     {

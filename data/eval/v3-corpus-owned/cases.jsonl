@@ -1,8 +1,8 @@
 {"id": "v3-rec-01", "question": "想玩免费 MOBA，推塔打野团战那种", "expect_route": "recommend", "expect_app_ids": ["570"], "tags": ["v3-new", "moba", "free"], "notes": "Dota 2"}
-{"id": "v3-rec-02", "question": "想玩写实战术射击，要破门配合、有运营商那种", "expect_route": "recommend", "expect_app_ids": ["359550"], "tags": ["v3-new", "tactical", "fps"], "notes": "彩虹六号：围攻"}
+{"id": "v3-rec-02", "question": "想玩写实战术射击，破门突入、选干员开黑那种", "expect_route": "recommend", "expect_app_ids": ["359550"], "tags": ["v3-new", "tactical", "fps"], "notes": "彩虹六号：围攻；口语用干员不用运营商"}
 {"id": "v3-rec-03", "question": "想玩大逃杀吃鸡，跳伞落地搜枪打架", "expect_route": "recommend", "expect_app_ids": ["578080"], "tags": ["v3-new", "battle-royale"], "notes": "PUBG"}
 {"id": "v3-rec-04", "question": "想玩开放世界犯罪题材，能开车抢劫逛街那种", "expect_route": "recommend", "expect_app_ids": ["271590"], "tags": ["v3-new", "open-world", "action"], "notes": "GTA5"}
-{"id": "v3-rec-05", "question": "想玩黑暗魂系列那种高难度动作RPG，不是开放大地图骑马的", "expect_route": "recommend", "expect_app_ids": ["374320"], "tags": ["v3-new", "soulslike"], "notes": "黑暗之魂3；刻意避开法环表述"}
+{"id": "v3-rec-05", "question": "想玩黑暗魂系列那种高难度动作RPG，不是开放大地图骑马的", "expect_route": "recommend", "expect_app_ids": ["374320", "570940", "335300"], "tags": ["v3-new", "soulslike", "multi-answer"], "notes": "黑暗之魂1/2/3 任中其一；刻意避开法环表述"}
 {"id": "v3-rec-06", "question": "想玩废土开放世界RPG，能建定居点、第一人称射击探索", "expect_route": "recommend", "expect_app_ids": ["377160"], "tags": ["v3-new", "rpg", "open-world", "shooter"], "notes": "辐射4"}
 {"id": "v3-rec-07", "question": "想玩卡牌构筑 Roguelike，一层层爬塔选牌组羁绊", "expect_route": "recommend", "expect_app_ids": ["646570", "2868840"], "tags": ["v3-new", "roguelike", "deckbuilder", "multi-answer"], "notes": "杀戮尖塔1/2"}
 {"id": "v3-rec-08", "question": "想和朋友联机生存，黑暗饥荒风，别饿死别发疯", "expect_route": "recommend", "expect_app_ids": ["322330"], "tags": ["v3-new", "survival", "coop"], "notes": "饥荒联机版"}

@@ -359,6 +359,10 @@ def to_markdown(record: Dict[str, Any]) -> str:
         front.append(f'release_date: "{record["release_date"]}"')
     front.append(f'description_lang_short: "{record.get("description_lang_short", "mixed")}"')
     front.append(f'description_lang_detail: "{record.get("description_lang_detail", "mixed")}"')
+    if record.get("localization_source"):
+        front.append(f'localization_source: "{record["localization_source"]}"')
+    if record.get("localized_at"):
+        front.append(f'localized_at: "{record["localized_at"]}"')
     front.append(f'fetched_at: "{record["fetched_at"]}"')
     front.append("---")
 
@@ -539,7 +543,9 @@ def manifest_entry_from_record(record: Dict[str, Any], status: str = "fetched") 
 
 
 def parse_args() -> argparse.Namespace:
-    parser = argparse.ArgumentParser(description="采集 Steam 游戏档案到 data/processed")
+    parser = argparse.ArgumentParser(
+        description="采集 Steam 游戏档案到 data/raw（进索引请再跑 prepare_processed）"
+    )
     parser.add_argument(
         "--source",
         choices=["seed", "charts", "library", "both", "none"],
@@ -552,7 +558,16 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--min-positive", type=float, default=70.0, help="好评率下限（百分比）")
     parser.add_argument("--sleep", type=float, default=1.5, help="商店请求间隔秒数")
     parser.add_argument("--include-eval-seed", action="store_true", help="并入评测集常用 appid")
-    parser.add_argument("--refresh", action="store_true", help="已存在的 processed 也重新拉取（更新简介/中文名）")
+    parser.add_argument(
+        "--refresh",
+        action="store_true",
+        help="已存在的 raw 也重新拉取（更新简介/中文名）",
+    )
+    parser.add_argument(
+        "--also-processed",
+        action="store_true",
+        help="调试用：同时写 data/processed/*.md（正式流程请用 prepare_processed）",
+    )
     parser.add_argument("--candidates-only", action="store_true", help="只写出候选 appid，不拉详情")
     parser.add_argument(
         "--candidates-file",
@@ -669,16 +684,16 @@ def main() -> None:
     fetched_at = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
     for index, appid in enumerate(candidates, 1):
-        if len(kept) >= args.limit and not (args.refresh and (PROCESSED_DIR / f"{appid}.md").exists()):
+        raw_path = RAW_DIR / f"{appid}.json"
+        if len(kept) >= args.limit and not (args.refresh and raw_path.exists()):
             break
         print(f"[{index}/{len(candidates)}] 拉取 {appid} ...")
-        md_path = PROCESSED_DIR / f"{appid}.md"
-        if md_path.exists() and not args.refresh:
+        if raw_path.exists() and not args.refresh:
             kept.append(str(appid))
-            safe_print(f"  已存在，跳过 {md_path.name}")
+            safe_print(f"  已存在，跳过 {raw_path.name}")
             continue
-        if md_path.exists() and args.refresh:
-            safe_print(f"  --refresh：覆盖 {md_path.name}")
+        if raw_path.exists() and args.refresh:
+            safe_print(f"  --refresh：覆盖 {raw_path.name}")
         try:
             details = fetch_game_details(appid)
             time.sleep(args.sleep)
@@ -705,15 +720,19 @@ def main() -> None:
 
         details["user_tags"] = user_tags
         record = to_record(appid, details, reviews)
-        raw_path = RAW_DIR / f"{appid}.json"
         raw_path.write_text(json.dumps(record, ensure_ascii=False, indent=2), encoding="utf-8")
-        md_path.write_text(to_markdown(record), encoding="utf-8")
+        if args.also_processed:
+            md_path = PROCESSED_DIR / f"{appid}.md"
+            md_path.write_text(to_markdown(record), encoding="utf-8")
+            written = md_path.name
+        else:
+            written = raw_path.name
         if record["app_id"] not in kept:
             kept.append(record["app_id"])
         manifest_rows.append(manifest_entry_from_record(record, status="fetched"))
         lang_note = f"{record.get('description_lang_short')}/{record.get('description_lang_detail')}"
         safe_print(
-            f"  已写入 {md_path.name}  {record.get('name_cn') or record['name']}  "
+            f"  已写入 {written}  {record.get('name_cn') or record['name']}  "
             f"({lang_note})  {reviews.get('review_desc')}"
         )
 
@@ -733,11 +752,13 @@ def main() -> None:
         },
     )
     fetched_path = write_fetched_appids()
-    print(f"完成：库内共 {len(all_manifest)} 款（本轮新写入/刷新 {len(manifest_rows)} 款）")
+    print(f"完成：processed 清单 {len(all_manifest)} 款（本轮 raw 新写入/刷新 {len(manifest_rows)} 款）")
     print(f"  摘要: {summary_path}")
     print(f"  已抓取列表: {fetched_path}")
     print(f"  清单 JSON: {MANIFEST_JSON}")
     print(f"  清单 Markdown: {MANIFEST_MD}")
+    if not args.also_processed and manifest_rows:
+        print("  提示：本轮只写了 data/raw；进索引请跑 prepare_processed.py")
 
 
 if __name__ == "__main__":

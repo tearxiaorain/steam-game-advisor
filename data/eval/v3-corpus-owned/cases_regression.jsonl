@@ -13,7 +13,7 @@
 {"id": "det-03", "question": "博德之门3现在大概多少钱", "expect_route": "detail", "expect_app_ids": ["1086940"], "tags": ["seed13", "detail", "price"], "notes": "档案价约298"}
 {"id": "det-04", "question": "反恐精英2是免费的吗，App ID 是多少", "expect_route": "detail", "expect_app_ids": ["730"], "tags": ["seed13", "detail", "free", "appid"], "notes": "免费，App ID 730"}
 {"id": "det-05", "question": "永劫无间支持简体中文吗", "expect_route": "detail", "expect_app_ids": ["1203220"], "tags": ["seed13", "detail", "language"], "notes": "档案含简体中文"}
-{"id": "rec-c01", "question": "想找免费、能和朋友联机的竞技射击游戏", "expect_route": "recommend", "expect_app_ids": ["730", "440"], "tags": ["seed13", "free", "multiplayer", "shooter", "multi-answer"], "notes": "CS2 或 TF2；v2 修正多解"}
+{"id": "rec-c01", "question": "想找免费、能和朋友联机的竞技射击游戏", "expect_route": "recommend", "expect_app_ids": ["730", "440", "2357570", "359550"], "tags": ["seed13", "free", "multiplayer", "shooter", "multi-answer"], "notes": "CS2 / TF2 / 守望先锋 / 彩六 任中其一"}
 {"id": "rec-c02", "question": "有没有免费、国风武侠大逃杀，动作对战那种", "expect_route": "recommend", "expect_app_ids": ["1203220"], "tags": ["seed13", "free", "battle-royale", "melee"], "notes": "永劫无间"}
 {"id": "rec-c03", "question": "想找支持中文、Roguelike 射击、能联机合作的游戏", "expect_route": "recommend", "expect_app_ids": ["632360"], "tags": ["seed13", "coop", "roguelike", "shooter"], "notes": "雨中冒险2"}
 {"id": "rec-c04", "question": "想玩一百元以内、像素风、挖矿打怪造房子的沙盒游戏", "expect_route": "recommend", "expect_app_ids": ["105600"], "tags": ["seed13", "price", "pixel", "sandbox"], "notes": "泰拉瑞亚"}
