@@ -51,13 +51,22 @@ def localize_record(record: Dict[str, Any], translator: Translator) -> Dict[str,
 
     for field in TEXT_FIELDS:
         text = out.get(field) or ""
+        lang_key = (
+            "description_lang_short"
+            if field == "short_description"
+            else "description_lang_detail"
+        )
+        if str(out.get(lang_key) or "").lower() != "en":
+            continue
         if not str(text).strip():
             continue
         out[field] = translator.translate(str(text), source_lang="en", target_lang="zh")
     name_cn = (out.get("name_cn") or "").strip()
     if not name_cn and (out.get("name") or "").strip():
-        # 后端就绪后再译常用中文名；passthrough 不改
-        pass
+        # 英文常用名：尝试译一版中文名（质量一般，可手改）
+        out["name_cn"] = translator.translate(
+            str(out["name"]), source_lang="en", target_lang="zh"
+        )
     out["localization_source"] = translator.name
     out["localized_at"] = now
     return out
@@ -104,7 +113,7 @@ def parse_args() -> argparse.Namespace:
         "--backend",
         type=str,
         default="passthrough",
-        help="翻译后端：passthrough（默认）| local_opus（本轮未接线）",
+        help="翻译后端：passthrough（默认）| local_opus",
     )
     parser.add_argument(
         "--model-dir",

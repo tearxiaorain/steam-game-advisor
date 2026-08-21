@@ -7,6 +7,7 @@ __pycache__/
 .cursor/
 vector_index/
 models/
+data/cache/
 *.log
 /docs/
 data/eval/last_eval.jsonl
