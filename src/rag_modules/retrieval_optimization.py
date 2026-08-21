@@ -31,7 +31,24 @@ INTENT_FACET_OF: Dict[str, str] = {
     "恐怖": "恐怖",
     "射击": "射击",
     "开放世界": "开放世界",
+    "幸存者": "幸存者",
+    "站桩": "幸存者",
+    "清屏": "幸存者",
+    "自动射击": "幸存者",
+    "自动攻击": "幸存者",
+    "割草": "幸存者",
 }
+
+# 幸存者语境下「射击」易误召 FPS；见 _query_intent_facets
+_SURVIVOR_FACET_CUES = (
+    "幸存者",
+    "站桩",
+    "清屏",
+    "自动射击",
+    "自动攻击",
+    "割草",
+    "幸存者like",
+)
 
 # 意图面 → Steam user_tags 匹配片段（小写）；用于召回与多约束覆盖计分
 INTENT_TAG_PATTERNS: Dict[str, List[str]] = {
@@ -44,6 +61,7 @@ INTENT_TAG_PATTERNS: Dict[str, List[str]] = {
     "恐怖": ["恐怖", "生存恐怖", "心理恐怖"],
     "射击": ["射击", "第一人称射击", "第三人称射击"],
     "开放世界": ["开放世界"],
+    "幸存者": ["弹幕射击", "动作类 rogue", "轻度 rogue", "类 rogue", "街机"],
 }
 
 # 兼容旧名：口语 token → 标签同义词（由 INTENT_* 派生）
@@ -57,6 +75,9 @@ TAG_QUERY_SYNONYMS: Dict[str, List[str]] = {
 GAME_QUERY_HINTS: Dict[str, str] = {
     "小丑牌": "Balatro 小丑牌 卡牌 肉鸽 扑克",
     "balatro": "Balatro 小丑牌 卡牌 肉鸽",
+    "以撒": "以撒的结合 The Binding of Isaac Rebirth 弹幕 地牢 Roguelike 像素 房间",
+    "isaac": "The Binding of Isaac Rebirth 以撒 弹幕 Roguelike",
+    "幸存者like": "Vampire Survivors 吸血鬼幸存者 站桩 自动攻击 清屏 弹幕射击 割草",
 }
 
 # 多意图覆盖：标签字面分 / RRF 加分（命中面数 ≥2 才启用）
@@ -244,6 +265,11 @@ class RetrievalOptimizationModule:
             if tok in low or tok in q:
                 seen.add(facet)
                 facets.append(facet)
+        # 幸存者like：去掉泛「射击」面，避免 FPS/Crosshair 噪声
+        if any(c in q or c in low for c in _SURVIVOR_FACET_CUES):
+            facets = [f for f in facets if f != "射击"]
+            if "幸存者" not in facets and "幸存者" in INTENT_TAG_PATTERNS:
+                facets.append("幸存者")
         return facets
 
     @staticmethod

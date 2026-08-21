@@ -69,8 +69,8 @@ class GenerationIntegrationModule:
         prompt = ChatPromptTemplate.from_template(
             """将玩家问题分成下面四类之一，只返回类别单词：
 
-recommend - 找游戏、按条件筛选、要相似款、比较哪款更适合、游戏荒了玩什么
-detail - 问某一两款游戏是什么、配置、语言、好评、App ID、叫什么名字
+recommend - 找游戏、按条件筛选、要相似款、比较哪款更适合、游戏荒了玩什么；用题材/玩法/厂商等描述「想玩哪款」也算（如「索尼那款北欧神话父子旅行」），即使听起来能猜出具体作
+detail - 已点名或明确指某一两款，并问是什么、配置、语言、好评、价格、App ID、叫什么名字；不要把「想玩 + 描述特征」判成 detail
 library - 基于「我的库存 / 库里有的 / 今晚玩哪个 / 库里买了没玩 / 最近在玩」
 trending - 本周榜、现在最热、同时在线、刚打折的实时热度
 
