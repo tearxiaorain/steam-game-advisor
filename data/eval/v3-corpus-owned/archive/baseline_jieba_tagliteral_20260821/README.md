@@ -1,4 +1,6 @@
-# jieba + 标签字面召回冻结（当前正式基线）
+# jieba + 标签字面召回冻结（历史基线）
+
+> **已归档**：当前正式指针见 [`../CURRENT_BASELINE.md`](../CURRENT_BASELINE.md) → `baseline_opus_alias_route_20260821/`。本包保留对照，**勿覆盖**。
 
 **时间**：2026-08-21  
 **标签**：`v3-jieba-tagliteral-baseline`  
