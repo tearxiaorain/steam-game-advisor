@@ -9,13 +9,14 @@
 | `cases.jsonl`（= `cases_rec_v3.jsonl`） | **20** | **v3 主集**：适配扩库后的新推荐题，迭代盯这个 |
 | `cases_regression.jsonl` | 43 | 回归：旧详情/搜索/拒答/旧推荐/library；仅修了「原库外现已入库」2 题 |
 | `cases_library.jsonl` | 3 | library 子集（也含在 regression 里） |
-| `archive/` | — | **冻结快照**（见下） |
+| `archive/` | — | **冻结快照**；其中 **Pre-UI 正式基线** → [`archive/PRE_UI_BASELINE.md`](archive/PRE_UI_BASELINE.md) |
 
 详情 / 搜索 / 拒答 / library **都保留在 regression**，没有删；主集只加新推荐题。
 
-## 冻结基线（`baseline_tag_overlap_20260820`）
+## 冻结基线（`baseline_tag_overlap_20260820` = Pre-UI）
 
-**冻结** = 固定「题集 + 当时配置 + 分数 + 明细」，方便以后对照，**不是**再建索引或改预期答案。
+**冻结** = 固定「题集 + 当时配置 + 分数 + 明细」，方便以后对照，**不是**再建索引或改预期答案。  
+**本包用途**：Streamlit UI 调试前的正式成绩；UI/检索改完后用新 label 另跑，勿覆盖本目录。
 
 | 题集 | Hit | 路由 | 幻觉 |
 |------|-----|------|------|

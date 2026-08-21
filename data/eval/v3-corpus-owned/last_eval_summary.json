@@ -26,5 +26,5 @@
   },
   "detail_archive": "data/eval/history/details/20260820-164406.jsonl",
   "frozen_snapshot": "data/eval/v3-corpus-owned/archive/baseline_tag_overlap_20260820/summary.json",
-  "notes": "v3 冻结基线（主集）。全套：主集 60% / 回归 62% / 好友 75%。user_tags + tag overlap；改写/硬映射关。"
+  "notes": "v3 Pre-UI 冻结基线（主集）。全套：主集 60% / 回归 62% / 好友 75%。user_tags + tag overlap；改写/硬映射关。指针：archive/PRE_UI_BASELINE.md"
 }

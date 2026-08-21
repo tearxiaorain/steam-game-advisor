@@ -42,5 +42,5 @@
       "detail_archive": "archive/baseline_tag_overlap_20260820/details_friend_rec8.jsonl"
     }
   ],
-  "notes": "v3 当前正式基线。后续改检索/索引时对照此快照，勿改题集 expect_app_ids 除非语料边界变化。"
+  "notes": "v3 当前正式基线（Pre-UI）。后续改检索/索引或调 UI 时对照此快照，勿改题集 expect_app_ids 除非语料边界变化。见 archive/PRE_UI_BASELINE.md。"
 }
