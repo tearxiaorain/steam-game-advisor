@@ -1,7 +1,7 @@
 # Steam Game Advisor 游戏清单
 
-- 生成时间: 2026-08-20T03:58:41Z
-- 来源: none
+- 生成时间: 2026-08-21T05:01:13Z
+- 来源: prepare_processed
 - 游戏数: 760
 - 简介策略: 商店页先拉 schinese，再拉 english；简介/长文 CJK 占比不足时回退英文。阈值=0.12
 
@@ -26,175 +26,175 @@
 | 400 | Portal | — | zh | zh |
 | 440 | Team Fortress 2 | — | zh | zh |
 | 500 | Left 4 Dead | — | zh | zh |
-| 550 | Left 4 Dead 2 | — | en | zh |
+| 550 | Left 4 Dead 2 | 左 4 死 2 | en | zh |
 | 570 | Dota 2 | — | zh | zh |
 | 620 | Portal 2 | — | zh | zh |
 | 730 | Counter-Strike 2 | — | zh | zh |
 | 3590 | Plants vs. Zombies GOTY Edition | — | zh | zh |
-| 4000 | Garry's Mod | — | en | zh |
-| 6850 | Hitman 2: Silent Assassin | — | en | en |
-| 6860 | Hitman: Blood Money | — | en | en |
-| 7600 | Sid Meier's Railroads! | — | en | en |
-| 7670 | BioShock™ | — | en | en |
-| 8850 | BioShock® 2 | — | en | en |
+| 4000 | Garry's Mod | 盖瑞的摩托 | en | zh |
+| 6850 | Hitman 2: Silent Assassin | 赫曼2:沉默刺客 | en | en |
+| 6860 | Hitman: Blood Money | 赫曼:血钱 | en | en |
+| 7600 | Sid Meier's Railroads! | Sid Meier的铁路! | en | en |
+| 7670 | BioShock™ | BioShockTM 生物合金 | en | en |
+| 8850 | BioShock® 2 | BioShock=2 生物Shock=2 | en | en |
 | 8870 | BioShock Infinite | 生化奇兵：无限 完全版 | en | en |
-| 17390 | SPORE™ | — | en | en |
+| 17390 | SPORE™ | 词词词 | en | en |
 | 20900 | The Witcher: Enhanced Edition Director's Cut | — | zh | zh |
 | 20920 | The Witcher 2: Assassins of Kings Enhanced Edition | — | zh | zh |
-| 29900 | Dark Sector | — | en | en |
+| 29900 | Dark Sector | 黑暗部门 | en | en |
 | 33230 | Assassin's Creed 2 | 刺客信条2 | zh | zh |
 | 35140 | Batman: Arkham Asylum Game of the Year Edition | — | zh | zh |
 | 40700 | Machinarium | 机械迷城 (Machinarium) | zh | zh |
-| 47780 | Dead Space™ 2 | — | en | en |
+| 47780 | Dead Space™ 2 | 死亡空间TM2 | en | en |
 | 48700 | Mount & Blade: Warband | — | zh | zh |
-| 49520 | Borderlands 2 | — | en | en |
-| 65790 | Arma: Cold War Assault Remastered | — | en | en |
+| 49520 | Borderlands 2 | 边境地2 | en | en |
+| 65790 | Arma: Cold War Assault Remastered | Arma: 冷战攻击 | en | en |
 | 94400 | Nidhogg | — | zh | zh |
 | 105600 | Terraria | — | zh | zh |
-| 108600 | Project Zomboid | — | en | en |
+| 108600 | Project Zomboid | Zomboid项目 | en | en |
 | 200260 | Batman: Arkham City - Game of the Year Edition | — | zh | zh |
-| 200510 | XCOM: Enemy Unknown | — | en | en |
-| 203160 | Tomb Raider Game of the Year | — | zh | en |
+| 200510 | XCOM: Enemy Unknown | XCOM: 未知敌人 | en | en |
+| 203160 | Tomb Raider Game of the Year | 年度抢先游戏 | zh | en |
 | 206440 | To the Moon | To the Moon《去月球》 | zh | zh |
-| 207610 | The Walking Dead | — | en | en |
+| 207610 | The Walking Dead | 《行尸行尸行尸》 | en | en |
 | 208650 | Batman™: Arkham Knight | — | zh | zh |
-| 211820 | Starbound | — | en | en |
+| 211820 | Starbound | 星空 | en | en |
 | 214340 | Deponia | — | zh | zh |
 | 218620 | PAYDAY 2 | — | zh | zh |
 | 219740 | Don't Starve | 饥荒 | zh | zh |
-| 219890 | Antichamber | — | en | en |
-| 219990 | Grim Dawn | — | en | en |
+| 219890 | Antichamber | 平室 | en | en |
+| 219990 | Grim Dawn | 清晨黎明 | en | en |
 | 220200 | Kerbal Space Program | — | zh | zh |
 | 220440 | DmC: Devil May Cry | — | zh | zh |
-| 220700 | RPG Maker VX Ace | — | en | en |
-| 220740 | Chaos on Deponia | — | en | en |
+| 220700 | RPG Maker VX Ace | RPG 制造者 VX Ace | en | en |
+| 220740 | Chaos on Deponia | 德波尼亚的混乱 | en | en |
 | 221100 | DayZ | — | zh | zh |
 | 223470 | POSTAL 2 | — | zh | zh |
-| 225540 | Just Cause™ 3 | — | en | en |
+| 225540 | Just Cause™ 3 | 仅因3 | en | en |
 | 227300 | Euro Truck Simulator 2 | — | zh | zh |
 | 228380 | Wreckfest | — | zh | zh |
 | 230410 | Warframe | Warframe 星际战甲 | zh | zh |
-| 231430 | Company of Heroes 2 | — | en | en |
+| 231430 | Company of Heroes 2 | 英雄2连 | en | en |
 | 233150 | LUFTRAUSERS | — | zh | zh |
-| 233470 | Evoland | — | en | en |
+| 233470 | Evoland | 埃沃兰 | en | en |
 | 235210 | STRIDER™ / ストライダー飛竜® | — | zh | zh |
-| 235900 | RPG Maker XP | — | en | en |
+| 235900 | RPG Maker XP | RPG 制造器 XP | en | en |
 | 236390 | War Thunder | — | zh | zh |
-| 236870 | HITMAN™ | — | en | en |
-| 239030 | Papers, Please | — | en | en |
+| 236870 | HITMAN™ | 赫特曼 | en | en |
+| 239030 | Papers, Please | 请把文件拿出来 | en | en |
 | 239140 | Dying Light | — | zh | zh |
-| 241910 | Goodbye Deponia | — | en | en |
-| 242760 | The Forest | — | en | en |
+| 241910 | Goodbye Deponia | 再见了,黛比妮亚 | en | en |
+| 242760 | The Forest | 森林 | en | en |
 | 243470 | Watch_Dogs™ | — | zh | zh |
 | 244210 | Assetto Corsa | 神力科莎 Assetto Corsa | zh | zh |
 | 246420 | Kingdom Rush  - Tower Defense | — | zh | zh |
 | 247080 | Crypt of the NecroDancer | — | zh | zh |
-| 249050 | Dungeon of the ENDLESS™ | — | en | en |
-| 250900 | The Binding of Isaac: Rebirth | — | en | en |
+| 249050 | Dungeon of the ENDLESS™ | 末日的地下城 | en | en |
+| 250900 | The Binding of Isaac: Rebirth | 以撒的绑定:重生 | en | en |
 | 251570 | 7 Days to Die | — | zh | zh |
 | 252490 | Rust | — | zh | zh |
-| 255300 | Journey of a Roach | — | en | en |
+| 255300 | Journey of a Roach | 一只蟑螂的旅程 | en | en |
 | 255710 | Cities: Skylines | — | zh | zh |
-| 261030 | The Walking Dead: Season Two | — | en | en |
+| 261030 | The Walking Dead: Season Two | 《行尸走肉:第二季》 | en | en |
 | 261550 | Mount & Blade II: Bannerlord | — | zh | zh |
 | 261570 | Ori and the Blind Forest | — | zh | zh |
 | 262060 | Darkest Dungeon® | — | zh | zh |
 | 262410 | World of Guns: Gun Disassembly | — | zh | zh |
-| 265330 | Gomo | — | en | en |
-| 268050 | The Evil Within | — | en | en |
+| 265330 | Gomo | 果mo | en | en |
+| 268050 | The Evil Within | 内心的邪恶 | en | en |
 | 268500 | XCOM® 2 | — | zh | zh |
 | 268910 | Cuphead | — | zh | zh |
 | 270150 | RUNNING WITH RIFLES | — | zh | zh |
 | 270880 | American Truck Simulator | — | zh | zh |
 | 271590 | Grand Theft Auto V Legacy | Grand Theft Auto V 传承版 | zh | zh |
-| 272860 | Wreckfest Sneak Peek 2.0 | — | en | en |
+| 272860 | Wreckfest Sneak Peek 2.0 | 螺旋峰 螺旋峰 尖峰 0. 0 | en | en |
 | 274170 | Hotline Miami 2: Wrong Number | 火线迈阿密2：空号 | zh | zh |
 | 274190 | Broforce | — | zh | zh |
 | 275850 | No Man's Sky | No Man's Sky 无人深空 | zh | zh |
 | 281990 | Stellaris | — | zh | zh |
 | 282070 | This War of Mine | — | zh | zh |
 | 282800 | 100% Orange Juice | — | zh | zh |
-| 283270 | Jagged Alliance 1: Gold Edition | — | en | en |
+| 283270 | Jagged Alliance 1: Gold Edition | 口袋联盟1:黄金版 | en | en |
 | 284160 | BeamNG.drive | — | zh | zh |
-| 286160 | Tabletop Simulator | — | en | en |
+| 286160 | Tabletop Simulator | 桌面模拟器 | en | en |
 | 286690 | Metro 2033 Redux | 地铁2033 重制版 | en | en |
 | 287390 | Metro: Last Light Redux | 地铁：最后的曙光 重制版 | en | en |
 | 287980 | Mini Metro | — | zh | zh |
 | 289070 | Sid Meier’s Civilization® VI | — | zh | zh |
 | 289130 | ENDLESS Legend™ | 无尽帝国 | zh | zh |
 | 289650 | Assassin's Creed® Unity | 刺客信条：大革命 | zh | zh |
-| 291550 | Brawlhalla | — | en | en |
+| 291550 | Brawlhalla | 布劳哈拉 | en | en |
 | 292030 | The Witcher 3: Wild Hunt | 巫师 3：狂猎 | zh | zh |
 | 294100 | RimWorld | 边缘世界 RimWorld | zh | zh |
 | 297130 | Titan Souls | — | zh | zh |
 | 304430 | INSIDE | — | zh | zh |
-| 304930 | Unturned | — | en | en |
-| 310560 | DiRT Rally | — | en | en |
+| 304930 | Unturned | 未翻转 | en | en |
+| 310560 | DiRT Rally | DiRT 拉里 | en | en |
 | 311690 | Enter the Gungeon | 挺进地牢 | zh | zh |
 | 311730 | DEAD OR ALIVE 5 Last Round: Core Fighters | — | zh | zh |
 | 312520 | Rain World | 雨世界 | zh | zh |
 | 312660 | Sniper Elite 4 | — | zh | zh |
-| 313340 | Mountain | — | en | en |
+| 313340 | Mountain | 山区山区山区山区 | en | en |
 | 314650 | SpaceEngine | — | zh | zh |
-| 321270 | UNLOVED | — | en | en |
-| 322170 | Geometry Dash | — | en | en |
+| 321270 | UNLOVED | 未支配 | en | en |
+| 322170 | Geometry Dash | 几几何 达什 | en | en |
 | 322330 | Don't Starve Together | 饥荒联机版 | zh | zh |
 | 322450 | FRAMED Collection | — | zh | zh |
 | 323190 | Frostpunk | 冰汽时代 | zh | zh |
-| 324160 | CLANNAD | — | zh | en |
-| 327410 | A Bird Story | — | en | en |
+| 324160 | CLANNAD | CLANNAD 拉丁拉丁语 | zh | en |
+| 327410 | A Bird Story | 鸟类故事 | en | en |
 | 329050 | Devil May Cry 4 Special Edition | — | zh | zh |
 | 335300 | DARK SOULS™ II: Scholar of the First Sin | — | zh | zh |
 | 337340 | Finding Paradise | Finding Paradise《寻找天堂》 | zh | zh |
 | 346010 | Besiege | 围攻 | zh | zh |
 | 346110 | ARK: Survival Evolved | — | zh | zh |
 | 347620 | Gaokao.Love.100Days | 高考恋爱一百天 | zh | zh |
-| 359310 | Evoland 2 | — | en | en |
+| 359310 | Evoland 2 | 埃沃兰 2 | en | en |
 | 359550 | Tom Clancy's Rainbow Six Siege | 彩虹六号：围攻 | zh | zh |
-| 359840 | Shift Happens | — | en | en |
+| 359840 | Shift Happens | 发生变化 | en | en |
 | 364360 | Total War: WARHAMMER | 全面战争：战锤 | zh | zh |
-| 365670 | Blender | — | en | en |
+| 365670 | Blender | 宽度 | en | en |
 | 367520 | Hollow Knight | — | zh | zh |
 | 373770 | LiEat | — | zh | zh |
 | 374320 | DARK SOULS™ III | — | zh | zh |
 | 375480 | Chronicon | Chronicon - 英雄旧忆 | zh | zh |
 | 377160 | Fallout 4 | — | zh | zh |
-| 379720 | DOOM | — | en | en |
+| 379720 | DOOM | Doom 门 | en | en |
 | 380600 | Fishing Planet | — | zh | zh |
 | 381020 | Sky Rogue | — | zh | zh |
 | 381210 | Dead by Daylight | 黎明杀机 | zh | zh |
-| 383180 | Dead Island: Riptide Definitive Edition | — | en | en |
-| 383270 | Hue | — | en | en |
+| 383180 | Dead Island: Riptide Definitive Edition | 死岛:裂纹防腐版 | en | en |
+| 383270 | Hue | 色色 | en | en |
 | 386940 | Ultimate Chicken Horse | 超级鸡马 | zh | zh |
 | 391220 | Rise of the Tomb Raider™ | — | zh | zh |
-| 391540 | Undertale | — | en | en |
+| 391540 | Undertale | 内含 | en | en |
 | 392160 | X4: Foundations | X4：基石 | zh | zh |
 | 394510 | HELLDIVERS™ Dive Harder Edition | — | zh | zh |
 | 397540 | Borderlands 3 | 无主之地3 | zh | zh |
-| 397740 | Hylics | — | en | en |
+| 397740 | Hylics | 多语类 | en | en |
 | 400630 | Wuppo: Definitive Edition | — | zh | zh |
-| 403640 | Dishonored 2 | — | en | en |
+| 403640 | Dishonored 2 | 失敬 2 | en | en |
 | 405640 | Pony Island | — | zh | zh |
-| 405900 | Disgaea PC | — | en | en |
+| 405900 | Disgaea PC | 个人电脑 | en | en |
 | 407530 | ARK: The Survival Of The Fittest | — | zh | zh |
 | 409710 | BioShock™ Remastered | 生化奇兵 重制版 | zh | zh |
 | 409720 | BioShock™ 2 Remastered | 生化奇兵2 重制版 | en | zh |
 | 412020 | Metro Exodus | 地铁：离乡 | zh | zh |
 | 412830 | STEINS;GATE | — | zh | zh |
-| 413150 | Stardew Valley | — | zh | en |
-| 413410 | Danganronpa: Trigger Happy Havoc | — | en | en |
+| 413150 | Stardew Valley | Sardew 谷地 | zh | en |
+| 413410 | Danganronpa: Trigger Happy Havoc | 丹干龙帕:触发哈沃克快乐 | en | en |
 | 413420 | Danganronpa 2: Goodbye Despair | 超級槍彈辯駁2 再會了絕望學園 | en | en |
 | 414340 | Hellblade: Senua's Sacrifice | — | zh | zh |
 | 418240 | Shadow Tactics: Blades of the Shogun | — | zh | zh |
 | 418370 | Resident Evil 7 Biohazard | — | zh | zh |
-| 420100 | CLANNAD Side Stories | — | en | en |
+| 420100 | CLANNAD Side Stories | CLANNAD 侧边故事 | en | en |
 | 420530 | OneShot | — | zh | zh |
-| 424840 | Little Nightmares | — | en | en |
+| 424840 | Little Nightmares | 小恶梦 | en | en |
 | 431960 | Wallpaper Engine | Wallpaper Engine：壁纸引擎 | zh | zh |
 | 435120 | Rusty Lake Hotel | — | zh | zh |
-| 438100 | VRChat | — | en | en |
+| 438100 | VRChat | VRChat | en | en |
 | 440650 | Niche - a genetics survival game | — | zh | zh |
-| 442070 | Drawful 2 | — | en | en |
+| 442070 | Drawful 2 | 成像 2 | en | en |
 | 447040 | Watch_Dogs® 2 | — | zh | zh |
 | 447530 | VA-11 Hall-A: Cyberpunk Bartender Action | — | zh | zh |
 | 448510 | Overcooked | — | zh | zh |
@@ -203,28 +203,28 @@
 | 458710 | Kingdom Rush Frontiers - Tower Defense | — | zh | zh |
 | 460930 | Tom Clancy's Ghost Recon® Wildlands | 幽灵行动：荒野 | zh | zh |
 | 460950 | Katana ZERO | 武士 零 | zh | zh |
-| 462990 | Tomoyo After ~It's a Wonderful Life~ English Edition | — | en | en |
+| 462990 | Tomoyo After ~It's a Wonderful Life~ English Edition | 过完这美好的人生之后的 Tomoyo | en | en |
 | 466130 | White Day: A Labyrinth Named School | 白色情人节：恐怖学校 | en | en |
 | 473950 | Manifold Garden | — | zh | zh |
-| 474960 | Quantum Break | — | en | en |
+| 474960 | Quantum Break | 量间间断 | en | en |
 | 475150 | Titan Quest Anniversary Edition | — | zh | zh |
 | 477160 | Human Fall Flat | 人类一败涂地 / Human Fall Flat | zh | zh |
-| 485450 | Ninja Stealth | — | en | en |
+| 485450 | Ninja Stealth | 忍者隐形 | en | en |
 | 489520 | Minion Masters | 随从大师 | zh | zh |
 | 489630 | Warhammer 40,000: Gladius - Relics of War | — | zh | zh |
 | 489830 | The Elder Scrolls V: Skyrim Special Edition | — | zh | zh |
 | 493520 | GTFO | — | zh | zh |
 | 493540 | Figment | — | zh | zh |
-| 495280 | Disgaea 2 PC | — | en | en |
+| 495280 | Disgaea 2 PC | 2台PC | en | en |
 | 501300 | What Remains of Edith Finch | — | zh | zh |
 | 503560 | 911 Operator | — | zh | zh |
 | 504230 | Celeste | — | zh | zh |
 | 508440 | Totally Accurate Battle Simulator | — | zh | zh |
 | 510420 | The Hex | — | zh | zh |
-| 511740 | Gal*Gun: Double Peace | — | en | en |
+| 511740 | Gal*Gun: Double Peace | Gal*Gun: 双重和平 | en | en |
 | 512900 | Streets of Rogue | — | zh | zh |
 | 518790 | theHunter: Call of the Wild™ | 《猎人：荒野的召唤™》 | zh | zh |
-| 524220 | NieR:Automata™ | — | en | zh |
+| 524220 | NieR:Automata™ | NieR:AutomataTM 自动自动取款机 | en | zh |
 | 526870 | Satisfactory | 幸福工厂 | zh | zh |
 | 527230 | For The King | 为了吾王 / For The King | zh | zh |
 | 532110 | Rusty Lake: Roots | — | zh | zh |
@@ -239,7 +239,7 @@
 | 553540 | Phantom Brigade | — | zh | zh |
 | 553640 | ICEY | — | zh | zh |
 | 553850 | HELLDIVERS™ 2 | — | zh | zh |
-| 555950 | Danganronpa Another Episode: Ultra Despair Girls | — | en | en |
+| 555950 | Danganronpa Another Episode: Ultra Despair Girls | Danganronpa 另一集:绝望女孩 | en | en |
 | 557340 | My Friend Pedro | 我的朋友佩德罗 | zh | zh |
 | 557600 | Gorogoa | — | zh | zh |
 | 563560 | Alien Swarm: Reactive Drop | 异形丛生：虫启天降 (Alien Swarm: Reactive Drop) | zh | zh |
@@ -260,19 +260,19 @@
 | 610370 | Desperados III | — | zh | zh |
 | 613100 | House Flipper | 房产达人 | zh | zh |
 | 613830 | CHRONO TRIGGER® | — | zh | zh |
-| 613900 | Museum of Other Realities | — | en | en |
+| 613900 | Museum of Other Realities | 其他物业博物馆 | en | en |
 | 614570 | Dishonored®: Death of the Outsider™ | — | zh | zh |
 | 616720 | Live2DViewerEX | — | zh | zh |
-| 618140 | Barro | — | en | en |
+| 618140 | Barro | 巴罗 | en | en |
 | 619700 | Steel Rats™ | — | zh | zh |
 | 621000 | 异常 \| Exception | 异常 \| Exception | zh | zh |
 | 625960 | Stoneshard | 紫色晶石 | zh | zh |
-| 626680 | Kreedz Climbing | — | en | en |
+| 626680 | Kreedz Climbing | Kreedz 攀爬 | en | en |
 | 629520 | Soundpad | — | zh | zh |
 | 631510 | Devil May Cry HD Collection | — | zh | zh |
 | 632360 | Risk of Rain 2 | 雨中冒险 2 | zh | zh |
 | 632470 | Disco Elysium - The Final Cut | — | zh | zh |
-| 636480 | Ravenfield | — | en | en |
+| 636480 | Ravenfield | 雷射场 | en | en |
 | 638230 | Journey | — | zh | zh |
 | 640590 | The LEGO® NINJAGO® Movie Video Game | — | zh | zh |
 | 640890 | Will Glow the Wisp | — | zh | zh |
@@ -280,8 +280,8 @@
 | 641990 | The Escapists 2 | — | zh | zh |
 | 646570 | Slay the Spire | — | zh | zh |
 | 646910 | The Crew™ 2 | — | zh | zh |
-| 648580 | 428: Shibuya Scramble | — | en | en |
-| 648800 | Raft | — | en | en |
+| 648580 | 428: Shibuya Scramble | 428: Shibuya 编剧 | en | en |
+| 648800 | Raft | 闲置 | en | en |
 | 653530 | Return of the Obra Dinn | — | zh | zh |
 | 665180 | Dark Elf | — | zh | zh |
 | 668580 | Atomic Heart | 原子之心 | zh | zh |
@@ -294,8 +294,8 @@
 | 686060 | Mewgenics | 喵喵的结合 | zh | zh |
 | 686200 | Door Kickers: Action Squad | 破门而入：行动小队 | zh | zh |
 | 688420 | Bad North: Jotunn Edition | 绝境北地 | zh | zh |
-| 690640 | Trine 4: The Nightmare Prince | — | en | en |
-| 698780 | Doki Doki Literature Club! | — | en | en |
+| 690640 | Trine 4: The Nightmare Prince | 4: 噩梦王子 | en | en |
+| 698780 | Doki Doki Literature Club! | Doki Doki文学俱乐部! | en | en |
 | 699920 | Despotism 3k | — | zh | zh |
 | 703080 | Planet Zoo | 动物园之星 | zh | zh |
 | 704850 | Thief Simulator | — | zh | zh |
@@ -304,11 +304,11 @@
 | 712840 | King Exit | — | zh | zh |
 | 714010 | Aimlabs | — | zh | zh |
 | 728880 | Overcooked! 2 | — | zh | zh |
-| 729460 | Distant Space 2 | — | en | en |
+| 729460 | Distant Space 2 | 远距离空间 2 | en | en |
 | 736190 | Chinese Parents | 中国式家长 | zh | zh |
-| 736260 | Baba Is You | — | en | en |
+| 736260 | Baba Is You | 巴巴是你吗? | en | en |
 | 739630 | Phasmophobia | Phasmophobia 恐鬼症 | en | en |
-| 740240 | Snake Eyes Dungeon | — | en | en |
+| 740240 | Snake Eyes Dungeon | 蛇眼地城 | en | en |
 | 744190 | Rusty Lake Paradise | — | zh | zh |
 | 750920 | Shadow of the Tomb Raider: Definitive Edition | — | zh | zh |
 | 752590 | A Plague Tale: Innocence | — | zh | zh |
@@ -322,7 +322,7 @@
 | 787480 | Phoenix Wright: Ace Attorney Trilogy | — | zh | zh |
 | 788100 | Neon Abyss | 霓虹深渊 | zh | zh |
 | 801630 | UNDER NIGHT IN-BIRTH Exe:Late[cl-r] | — | zh | zh |
-| 803600 | Disgaea 5 Complete | — | en | en |
+| 803600 | Disgaea 5 Complete | 完成 | en | en |
 | 805550 | Assetto Corsa Competizione | 神力科莎：竞速 Assetto Corsa Competizione | zh | zh |
 | 812140 | Assassin's Creed® Odyssey | — | zh | zh |
 | 813230 | ANIMAL WELL | — | zh | zh |
@@ -331,7 +331,7 @@
 | 814380 | Sekiro™: Shadows Die Twice - GOTY Edition | — | zh | zh |
 | 816340 | Kingdom Rush Origins - Tower Defense | — | zh | zh |
 | 821880 | Idol Manager | — | zh | zh |
-| 823130 | Totally Accurate Battlegrounds | — | en | en |
+| 823130 | Totally Accurate Battlegrounds | 完全精确的战场 | en | en |
 | 825630 | STEINS;GATE 0 | — | zh | zh |
 | 834740 | Circle Empires | — | zh | zh |
 | 836640 | 寄居隅怪奇事件簿 Hermitage Strange Case Files | 寄居隅怪奇事件簿 Hermitage Strange Case Files | zh | zh |
@@ -367,8 +367,8 @@
 | 913060 | Jet Lancer | — | zh | zh |
 | 916440 | Anno 1800 | 纪元1800 | zh | zh |
 | 921570 | OCTOPATH TRAVELER™ | 歧路旅人 | zh | zh |
-| 930910 | STEINS;GATE: Linear Bounded Phenogram | — | en | en |
-| 932850 | Simmiland | — | en | en |
+| 930910 | STEINS;GATE: Linear Bounded Phenogram | STEINS; GATE: 线性环形 | en | en |
+| 932850 | Simmiland | 西米兰 | en | en |
 | 937170 | Otaku's Adventure | 宅男的人间冒险 | zh | zh |
 | 937580 | Touhou Kanjuden ~ Legacy of Lunatic Kingdom. | 東方紺珠伝 ～ Legacy of Lunatic Kingdom. | zh | zh |
 | 942970 | Unheard - Voices of Crime | 疑案追声 | zh | zh |
@@ -382,7 +382,7 @@
 | 960910 | Heavy Rain | 暴雨 | zh | zh |
 | 960990 | Beyond: Two Souls | 超凡双生 | zh | zh |
 | 961510 | MarisaLand Legacy | — | zh | zh |
-| 970560 | STEINS;GATE: My Darling's Embrace | — | en | en |
+| 970560 | STEINS;GATE: My Darling's Embrace | 斯泰因;格特:我亲爱的拥抱 | en | en |
 | 972660 | Spiritfarer®: Farewell Edition | 《Spiritfarer®》Farewell版 | zh | zh |
 | 976310 | Mortal Kombat 11 | — | zh | zh |
 | 990080 | Hogwarts Legacy | 霍格沃茨之遗 | zh | zh |
@@ -392,8 +392,8 @@
 | 998940 | 隐形守护者 The Invisible Guardian | 隐形守护者 The Invisible Guardian | zh | zh |
 | 1012880 | 60 Seconds! Reatomized | — | zh | zh |
 | 1016920 | Unrailed! | — | zh | zh |
-| 1020470 | Evoland Legendary Edition | — | en | en |
-| 1022310 | Warhammer Underworlds - Shadespire Edition (Classic) | — | en | en |
+| 1020470 | Evoland Legendary Edition | Evoland 传说版 | en | en |
+| 1022310 | Warhammer Underworlds - Shadespire Edition (Classic) | Warhammer 地下世界 - 阴影版( Classic) | en | en |
 | 1030300 | Hollow Knight: Silksong | — | zh | zh |
 | 1031480 | TouHou Makuka Sai ~ Fantastic Danmaku Festival Part II | 东方幕华祭 春雪篇 | zh | zh |
 | 1049410 | Superliminal | 超阈限空间 Superliminal | zh | zh |
@@ -407,11 +407,11 @@
 | 1069230 | 月影魅像-解放之羽- | 月影魅像-解放之羽- | zh | zh |
 | 1071870 | Biped | 知只大冒险 | zh | zh |
 | 1075740 | Banners of Ruin | 废墟战旗 | zh | zh |
-| 1076280 | Showdown Bandit | — | en | en |
+| 1076280 | Showdown Bandit | 显示显示强盗 | en | en |
 | 1078420 | Critters for Sale | — | zh | zh |
 | 1079160 | Touhou Kikeijuu ~ Wily Beast and Weakest Creature. | 東方鬼形獣 〜 Wily Beast and Weakest Creature. | zh | zh |
 | 1082430 | Before Your Eyes | 历历在目 | zh | zh |
-| 1085510 | Garfield Kart - Furious Racing | — | en | en |
+| 1085510 | Garfield Kart - Furious Racing | Garfield Kart - 狂怒竞赛 | en | en |
 | 1085660 | Destiny 2 | 命运2 | zh | zh |
 | 1086940 | Baldur's Gate 3 | 博德之门3 | zh | zh |
 | 1087760 | The Gunk | — | zh | zh |
@@ -429,7 +429,7 @@
 | 1124060 | Touhou Shoujo Tale of Beautiful Memories / 東方少女綺想譚 | Touhou Shoujo Tale of Beautiful Memories / 東方少女綺想譚 | zh | zh |
 | 1124180 | Rail Route | 铁路调度模拟器 | zh | zh |
 | 1127500 | Mini Motorways | — | zh | zh |
-| 1134710 | NIMBY Rails | — | en | en |
+| 1134710 | NIMBY Rails | NIMBY 铁路 | en | en |
 | 1139900 | Ghostrunner | Ghostrunner - 幽灵行者 | zh | zh |
 | 1142710 | Total War: WARHAMMER III | 全面战争：战锤3 | zh | zh |
 | 1144200 | Ready or Not | — | zh | zh |
@@ -458,7 +458,7 @@
 | 1176710 | Space Crew: Legendary Edition | 星际小队 / Space Crew: Legendary Edition | zh | zh |
 | 1179210 | Kill It With Fire | — | zh | zh |
 | 1180320 | War of the Three Kingdoms | 三国杀 | zh | zh |
-| 1180540 | Puddle Knights | — | zh | en |
+| 1180540 | Puddle Knights | 木偶骑士 | zh | en |
 | 1181400 | Path of Giants | — | zh | zh |
 | 1182620 | Impostor Factory | Impostor Factory《影子工厂》 | zh | zh |
 | 1182900 | A Plague Tale: Requiem | — | zh | zh |
@@ -469,7 +469,7 @@
 | 1203220 | NARAKA: BLADEPOINT | 永劫无间 | zh | zh |
 | 1203620 | Enshrouded | 雾锁王国 (Enshrouded) | zh | zh |
 | 1205450 | Turnip Boy Commits Tax Evasion | — | zh | zh |
-| 1206430 | The Unfinished Swan | — | en | en |
+| 1206430 | The Unfinished Swan | 未完成的天鹅 | en | en |
 | 1206560 | WorldBox - God Simulator | — | zh | zh |
 | 1206610 | Rubber Bandits | 橡胶强盗: Rubber Bandits | zh | zh |
 | 1207650 | Suzerain | — | zh | zh |
@@ -496,30 +496,30 @@
 | 1260320 | Party Animals | 猛兽派对 | zh | zh |
 | 1260520 | Patrick's Parabox | — | zh | zh |
 | 1272160 | The Life and Suffering of Sir Brante | — | zh | zh |
-| 1273260 | Corpse Party (2021) | — | en | en |
+| 1273260 | Corpse Party (2021) | 组织党(2021年) | en | en |
 | 1274570 | DEVOUR | — | zh | zh |
 | 1277930 | Riddle Joker | — | zh | zh |
-| 1278060 | FPV SkyDive : FPV Drone Simulator | — | en | en |
+| 1278060 | FPV SkyDive : FPV Drone Simulator | FPV SkyDive: FPV 无人机模拟器 | en | en |
 | 1281800 | Samsara Room | — | zh | zh |
 | 1282730 | Loop Hero | 循环勇士 | zh | zh |
 | 1285670 | Post Void | — | zh | zh |
 | 1286680 | Tiny Tina's Wonderlands | 小缇娜的奇幻之地 | zh | zh |
-| 1286710 | Hylics 2 | — | en | en |
+| 1286710 | Hylics 2 | 2. 环环2 | en | en |
 | 1286990 | CONSCRIPT: Director’s Cut | 战壕惊魂: Director's Cut | zh | zh |
 | 1288310 | Firework | 烟火 | zh | zh |
-| 1289310 | Helltaker | — | en | en |
+| 1289310 | Helltaker | 地狱人 | en | en |
 | 1291010 | Warpips | 小兵大战 - Warpips | zh | zh |
 | 1292940 | Cube Escape Collection | — | zh | zh |
 | 1293830 | Forza Horizon 4 | 极限竞速：地平线 4 | zh | zh |
 | 1295660 | Sid Meier's Civilization VII | 席德·梅尔的文明VII | zh | zh |
 | 1296360 | Archvale | — | zh | zh |
-| 1304930 | The Outlast Trials | — | en | en |
+| 1304930 | The Outlast Trials | 终审判决 | en | en |
 | 1307580 | TOEM: A Photo Adventure | — | zh | zh |
 | 1313140 | Cult of the Lamb | 咩咩启示录 | zh | zh |
 | 1318690 | shapez | 异形工厂（Shapez） | zh | zh |
 | 1323830 | Shanghai Summer | 薄暮夏梦 | zh | zh |
 | 1325040 | Keylocker \| Turn Based Cyberpunk Action | — | zh | zh |
-| 1325860 | VTube Studio | — | en | en |
+| 1325860 | VTube Studio | Vube 电视演播室 | en | en |
 | 1326000 | Sakura Succubus 2 | — | zh | zh |
 | 1326470 | Sons Of The Forest | — | zh | zh |
 | 1329410 | 雀魂麻將(MahjongSoul) | 雀魂麻将 | zh | zh |
@@ -535,7 +535,7 @@
 | 1374230 | Flame Keeper | — | zh | mixed |
 | 1382070 | Viewfinder | — | zh | zh |
 | 1382330 | Persona® 5 Strikers | — | zh | zh |
-| 1392820 | Milk inside a bag of milk inside a bag of milk | — | en | zh |
+| 1392820 | Milk inside a bag of milk inside a bag of milk | 牛奶在一袋牛奶里 牛奶在一袋牛奶里 | en | zh |
 | 1407420 | Milo and the Magpies | — | zh | zh |
 | 1416240 | 夜永 Eternal Love | 夜永 Eternal Love | zh | zh |
 | 1419730 | Seek Girl Ⅵ | — | zh | zh |
@@ -546,7 +546,7 @@
 | 1449560 | Metro Exodus | 地铁：离乡 | zh | zh |
 | 1449850 | Yu-Gi-Oh! Master Duel | — | zh | zh |
 | 1451940 | NEEDY STREAMER OVERLOAD | 主播女孩重度依赖 | zh | zh |
-| 1456880 | ElecHead | — | en | mixed |
+| 1456880 | ElecHead | ElecHec 顶顶 | en | mixed |
 | 1478500 | Big Walk | — | zh | zh |
 | 1483870 | Draw & Guess | Draw & Guess - 你画我猜 | zh | zh |
 | 1494190 | 秘密舞会 | 秘密舞会 | zh | zh |
@@ -555,7 +555,7 @@
 | 1504500 | OPUS: Echo of Starsong - Full Bloom Edition | OPUS：龙脉常歌 -最终版- | zh | zh |
 | 1504980 | It Takes Two Friend's Pass | — | zh | zh |
 | 1507190 | Machinika: Museum | — | zh | zh |
-| 1509960 | PICO PARK | — | en | en |
+| 1509960 | PICO PARK | 朴石洞 | en | en |
 | 1515210 | The Past Within | — | zh | zh |
 | 1515260 | Circle Empires Tactics | — | zh | zh |
 | 1515950 | Capcom Arcade Stadium | — | zh | zh |
@@ -580,7 +580,7 @@
 | 1659040 | HITMAN World of Assassination | — | zh | zh |
 | 1659420 | UNCHARTED™: Legacy of Thieves Collection | UNCHARTED™: 盗贼传奇合辑 | zh | zh |
 | 1661630 | KarmaZoo | 因果动物园 | zh | zh |
-| 1662840 | PARQUET | — | zh | en |
+| 1662840 | PARQUET | 标 标 标 的 | zh | en |
 | 1669980 | Volcano Princess | 火山的女儿 | zh | zh |
 | 1672810 | MIO: Memories in Orbit | — | zh | zh |
 | 1687950 | Persona 5 Royal | 女神异闻录5皇家版 | zh | zh |
@@ -592,7 +592,7 @@
 | 1755830 | Astrea: Six-Sided Oracles | — | zh | zh |
 | 1764390 | BAD END THEATER | 坏结局剧院 | zh | zh |
 | 1765350 | 候鸟 | 候鸟 | zh | zh |
-| 1768650 | Path of the Abyss | — | en | en |
+| 1768650 | Path of the Abyss | Abys 路径 | en | en |
 | 1771980 | The Operator | 接线疑云 The Operator | zh | zh |
 | 1794680 | Vampire Survivors | Vampire Survivors - 吸血鬼幸存者 | zh | zh |
 | 1801110 | BOKURA | 不同的冬天 | zh | zh |
@@ -622,12 +622,12 @@
 | 1948280 | Stacklands | — | zh | zh |
 | 1948980 | Hero's Adventure: Road to Passion | 大侠立志传：碧血丹心 | zh | zh |
 | 1962700 | Subnautica 2 | Subnautica 2：异星水域 | zh | zh |
-| 1966720 | Lethal Company | — | en | en |
+| 1966720 | Lethal Company | 致命公司 | en | en |
 | 1969870 | Battle Teams 2 | 生死狙击2 | zh | zh |
 | 1971650 | OCTOPATH TRAVELER II | 歧路旅人 II | zh | zh |
-| 1973530 | Limbus Company | — | en | en |
+| 1973530 | Limbus Company | Limbus连 | en | en |
 | 1977170 | Jusant | 退潮 | zh | zh |
-| 1990740 | Barro GT | — | en | en |
+| 1990740 | Barro GT | 巴罗 GT | en | en |
 | 2001120 | Split Fiction | 双影奇境 | zh | zh |
 | 2016590 | Dark and Darker | 越来越黑暗 Dark and Darker | zh | zh |
 | 2050650 | Resident Evil 4 | — | zh | zh |
@@ -637,7 +637,7 @@
 | 2071500 | Islands of Insight | — | zh | zh |
 | 2073620 | Arena Breakout: Infinite | 暗区突围：无限 | zh | zh |
 | 2076010 | UNDER NIGHT IN-BIRTH II Sys:Celes | — | zh | zh |
-| 2088570 | Tiny Rogues | — | en | en |
+| 2088570 | Tiny Rogues | 细小的怒吼 | en | en |
 | 2114740 | Blasphemous 2 | 神之亵渎2 | zh | zh |
 | 2124490 | SILENT HILL 2 | — | zh | zh |
 | 2142790 | Fields of Mistria | — | zh | zh |
@@ -706,20 +706,20 @@
 | 2742830 | Monster Train 2 | — | zh | zh |
 | 2744880 | Climber Animals: Together | — | zh | zh |
 | 2747330 | Species: Unknown | — | zh | zh |
-| 2747770 | Wednesdays | — | en | en |
+| 2747770 | Wednesdays | 星期三 星期三 | en | en |
 | 2753900 | The King is Watching | 王之凝视 (The King is Watching) | zh | zh |
 | 2754380 | The Roottrees are Dead | 鲁特里一家死了（The Roottrees are Dead） | zh | zh |
 | 2767030 | Marvel Rivals | 漫威争锋 | zh | zh |
 | 2784470 | 9 Kings | 九王 9 Kings | zh | zh |
 | 2807960 | Battlefield™ 6 | 战地风云™ 6 | zh | zh |
 | 2824490 | He is Coming | 魔王将至 He is Coming | zh | zh |
-| 2828500 | The Jackbox Megapicker | — | en | en |
+| 2828500 | The Jackbox Megapicker | Jackbox 集邮者 | en | en |
 | 2835570 | Buckshot Roulette | 恶魔轮盘 | zh | zh |
 | 2842800 | Dream of Corpse Lady | 尸姬之梦 | zh | zh |
 | 2868840 | Slay the Spire 2 | — | zh | zh |
 | 2881650 | Content Warning | 前方高能 | zh | zh |
 | 2919660 | JudgeSim | — | zh | zh |
-| 2923300 | Banana | — | en | en |
+| 2923300 | Banana | 香蕉香蕉 | en | en |
 | 2943650 | FragPunk | 界外狂潮 | zh | zh |
 | 2947440 | SILENT HILL f | — | zh | zh |
 | 2951770 | Leap Year | 闰跃之年 Leap Year | zh | zh |
@@ -737,9 +737,9 @@
 | 3167020 | Escape From Duckov | 逃离鸭科夫 | zh | zh |
 | 3214610 | Cinderia | 灰烬之国 Cinderia | zh | zh |
 | 3240220 | Grand Theft Auto V Enhanced | Grand Theft Auto V 增强版 | zh | zh |
-| 3241660 | R.E.P.O. | — | en | en |
+| 3241660 | R.E.P.O. | REPO. 海军陆战队 | en | en |
 | 3265700 | Vampire Crawlers: The Turbo Wildcard from Vampire Survivors | 吸血鬼爬行者: 屠戮地牢的吸血鬼幸存者 | zh | zh |
-| 3274300 | Awaria | — | en | en |
+| 3274300 | Awaria | 奥阿里亚语 | en | en |
 | 3280350 | DEATH STRANDING 2: ON THE BEACH | — | zh | zh |
 | 3373660 | Look Outside | — | zh | zh |
 | 3404470 | Maltese's Fluffy Onsen | 线条小狗：动物温泉 | zh | zh |
@@ -754,11 +754,11 @@
 | 3548580 | Chill with You : Lo-Fi Story | 放松时光：与你共享Lo-Fi故事 | zh | zh |
 | 3551340 | Football Manager 26 | 足球经理26 | zh | zh |
 | 3562120 | Magical Princess | 梦幻魔法公主 | zh | zh |
-| 3587490 | Terrors to Unveil - Day Off | — | en | en |
+| 3587490 | Terrors to Unveil - Day Off | 恐怖到 Unveil - 休息日 | en | en |
 | 3629780 | Tingus Goose | 神经鹅 | zh | zh |
 | 3636770 | Servant of the Lake | — | zh | zh |
 | 3769130 | Keep on Mining! | — | zh | zh |
-| 3838370 | TR-49 | — | en | en |
+| 3838370 | TR-49 | TR-49 | en | en |
 | 3844970 | Burglin' Gnomes | 地精捣蛋团 | zh | zh |
 | 3948120 | Scritchy Scratchy | 刮个爽 | zh | zh |
 | 4042800 | Poker Fate - Anime Girls Texas Hold'em | Poker Fate - 二次元美少女在线德州扑克 | zh | zh |

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-20T03:58:41Z",
-  "source": "none",
+  "generated_at": "2026-08-21T05:01:13Z",
+  "source": "prepare_processed",
   "count": 760,
   "description_policy": "商店页先拉 schinese，再拉 english；简介/长文 CJK 占比不足时回退英文。阈值=0.12",
   "games": [
@@ -140,9 +140,9 @@
     {
       "app_id": "550",
       "name": "Left 4 Dead 2",
+      "name_cn": "左 4 死 2",
       "description_lang_short": "en",
-      "description_lang_detail": "zh",
-      "name_cn": ""
+      "description_lang_detail": "zh"
     },
     {
       "app_id": "570",
@@ -175,44 +175,44 @@
     {
       "app_id": "4000",
       "name": "Garry's Mod",
+      "name_cn": "盖瑞的摩托",
       "description_lang_short": "en",
-      "description_lang_detail": "zh",
-      "name_cn": ""
+      "description_lang_detail": "zh"
     },
     {
       "app_id": "6850",
       "name": "Hitman 2: Silent Assassin",
+      "name_cn": "赫曼2:沉默刺客",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "6860",
       "name": "Hitman: Blood Money",
+      "name_cn": "赫曼:血钱",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "7600",
       "name": "Sid Meier's Railroads!",
+      "name_cn": "Sid Meier的铁路!",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "7670",
       "name": "BioShock™",
+      "name_cn": "BioShockTM 生物合金",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "8850",
       "name": "BioShock® 2",
+      "name_cn": "BioShock=2 生物Shock=2",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "8870",
@@ -224,9 +224,9 @@
     {
       "app_id": "17390",
       "name": "SPORE™",
+      "name_cn": "词词词",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "20900",
@@ -245,9 +245,9 @@
     {
       "app_id": "29900",
       "name": "Dark Sector",
+      "name_cn": "黑暗部门",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "33230",
@@ -273,9 +273,9 @@
     {
       "app_id": "47780",
       "name": "Dead Space™ 2",
+      "name_cn": "死亡空间TM2",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "48700",
@@ -287,16 +287,16 @@
     {
       "app_id": "49520",
       "name": "Borderlands 2",
+      "name_cn": "边境地2",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "65790",
       "name": "Arma: Cold War Assault Remastered",
+      "name_cn": "Arma: 冷战攻击",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "94400",
@@ -315,9 +315,9 @@
     {
       "app_id": "108600",
       "name": "Project Zomboid",
+      "name_cn": "Zomboid项目",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "200260",
@@ -329,16 +329,16 @@
     {
       "app_id": "200510",
       "name": "XCOM: Enemy Unknown",
+      "name_cn": "XCOM: 未知敌人",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "203160",
       "name": "Tomb Raider Game of the Year",
+      "name_cn": "年度抢先游戏",
       "description_lang_short": "zh",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "206440",
@@ -350,9 +350,9 @@
     {
       "app_id": "207610",
       "name": "The Walking Dead",
+      "name_cn": "《行尸行尸行尸》",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "208650",
@@ -364,9 +364,9 @@
     {
       "app_id": "211820",
       "name": "Starbound",
+      "name_cn": "星空",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "214340",
@@ -392,16 +392,16 @@
     {
       "app_id": "219890",
       "name": "Antichamber",
+      "name_cn": "平室",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "219990",
       "name": "Grim Dawn",
+      "name_cn": "清晨黎明",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "220200",
@@ -420,16 +420,16 @@
     {
       "app_id": "220700",
       "name": "RPG Maker VX Ace",
+      "name_cn": "RPG 制造者 VX Ace",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "220740",
       "name": "Chaos on Deponia",
+      "name_cn": "德波尼亚的混乱",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "221100",
@@ -448,9 +448,9 @@
     {
       "app_id": "225540",
       "name": "Just Cause™ 3",
+      "name_cn": "仅因3",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "227300",
@@ -476,9 +476,9 @@
     {
       "app_id": "231430",
       "name": "Company of Heroes 2",
+      "name_cn": "英雄2连",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "233150",
@@ -490,9 +490,9 @@
     {
       "app_id": "233470",
       "name": "Evoland",
+      "name_cn": "埃沃兰",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "235210",
@@ -504,9 +504,9 @@
     {
       "app_id": "235900",
       "name": "RPG Maker XP",
+      "name_cn": "RPG 制造器 XP",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "236390",
@@ -518,16 +518,16 @@
     {
       "app_id": "236870",
       "name": "HITMAN™",
+      "name_cn": "赫特曼",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "239030",
       "name": "Papers, Please",
+      "name_cn": "请把文件拿出来",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "239140",
@@ -539,16 +539,16 @@
     {
       "app_id": "241910",
       "name": "Goodbye Deponia",
+      "name_cn": "再见了,黛比妮亚",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "242760",
       "name": "The Forest",
+      "name_cn": "森林",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "243470",
@@ -581,16 +581,16 @@
     {
       "app_id": "249050",
       "name": "Dungeon of the ENDLESS™",
+      "name_cn": "末日的地下城",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "250900",
       "name": "The Binding of Isaac: Rebirth",
+      "name_cn": "以撒的绑定:重生",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "251570",
@@ -609,9 +609,9 @@
     {
       "app_id": "255300",
       "name": "Journey of a Roach",
+      "name_cn": "一只蟑螂的旅程",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "255710",
@@ -623,9 +623,9 @@
     {
       "app_id": "261030",
       "name": "The Walking Dead: Season Two",
+      "name_cn": "《行尸走肉:第二季》",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "261550",
@@ -658,16 +658,16 @@
     {
       "app_id": "265330",
       "name": "Gomo",
+      "name_cn": "果mo",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "268050",
       "name": "The Evil Within",
+      "name_cn": "内心的邪恶",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "268500",
@@ -707,9 +707,9 @@
     {
       "app_id": "272860",
       "name": "Wreckfest Sneak Peek 2.0",
+      "name_cn": "螺旋峰 螺旋峰 尖峰 0. 0",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "274170",
@@ -756,9 +756,9 @@
     {
       "app_id": "283270",
       "name": "Jagged Alliance 1: Gold Edition",
+      "name_cn": "口袋联盟1:黄金版",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "284160",
@@ -770,9 +770,9 @@
     {
       "app_id": "286160",
       "name": "Tabletop Simulator",
+      "name_cn": "桌面模拟器",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "286690",
@@ -819,9 +819,9 @@
     {
       "app_id": "291550",
       "name": "Brawlhalla",
+      "name_cn": "布劳哈拉",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "292030",
@@ -854,16 +854,16 @@
     {
       "app_id": "304930",
       "name": "Unturned",
+      "name_cn": "未翻转",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "310560",
       "name": "DiRT Rally",
+      "name_cn": "DiRT 拉里",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "311690",
@@ -896,9 +896,9 @@
     {
       "app_id": "313340",
       "name": "Mountain",
+      "name_cn": "山区山区山区山区",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "314650",
@@ -910,16 +910,16 @@
     {
       "app_id": "321270",
       "name": "UNLOVED",
+      "name_cn": "未支配",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "322170",
       "name": "Geometry Dash",
+      "name_cn": "几几何 达什",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "322330",
@@ -945,16 +945,16 @@
     {
       "app_id": "324160",
       "name": "CLANNAD",
+      "name_cn": "CLANNAD 拉丁拉丁语",
       "description_lang_short": "zh",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "327410",
       "name": "A Bird Story",
+      "name_cn": "鸟类故事",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "329050",
@@ -1001,9 +1001,9 @@
     {
       "app_id": "359310",
       "name": "Evoland 2",
+      "name_cn": "埃沃兰 2",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "359550",
@@ -1015,9 +1015,9 @@
     {
       "app_id": "359840",
       "name": "Shift Happens",
+      "name_cn": "发生变化",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "364360",
@@ -1029,9 +1029,9 @@
     {
       "app_id": "365670",
       "name": "Blender",
+      "name_cn": "宽度",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "367520",
@@ -1071,9 +1071,9 @@
     {
       "app_id": "379720",
       "name": "DOOM",
+      "name_cn": "Doom 门",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "380600",
@@ -1099,16 +1099,16 @@
     {
       "app_id": "383180",
       "name": "Dead Island: Riptide Definitive Edition",
+      "name_cn": "死岛:裂纹防腐版",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "383270",
       "name": "Hue",
+      "name_cn": "色色",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "386940",
@@ -1127,9 +1127,9 @@
     {
       "app_id": "391540",
       "name": "Undertale",
+      "name_cn": "内含",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "392160",
@@ -1155,9 +1155,9 @@
     {
       "app_id": "397740",
       "name": "Hylics",
+      "name_cn": "多语类",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "400630",
@@ -1169,9 +1169,9 @@
     {
       "app_id": "403640",
       "name": "Dishonored 2",
+      "name_cn": "失敬 2",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "405640",
@@ -1183,9 +1183,9 @@
     {
       "app_id": "405900",
       "name": "Disgaea PC",
+      "name_cn": "个人电脑",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "407530",
@@ -1225,16 +1225,16 @@
     {
       "app_id": "413150",
       "name": "Stardew Valley",
+      "name_cn": "Sardew 谷地",
       "description_lang_short": "zh",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "413410",
       "name": "Danganronpa: Trigger Happy Havoc",
+      "name_cn": "丹干龙帕:触发哈沃克快乐",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "413420",
@@ -1267,9 +1267,9 @@
     {
       "app_id": "420100",
       "name": "CLANNAD Side Stories",
+      "name_cn": "CLANNAD 侧边故事",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "420530",
@@ -1281,9 +1281,9 @@
     {
       "app_id": "424840",
       "name": "Little Nightmares",
+      "name_cn": "小恶梦",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "431960",
@@ -1302,9 +1302,9 @@
     {
       "app_id": "438100",
       "name": "VRChat",
+      "name_cn": "VRChat",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "440650",
@@ -1316,9 +1316,9 @@
     {
       "app_id": "442070",
       "name": "Drawful 2",
+      "name_cn": "成像 2",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "447040",
@@ -1379,9 +1379,9 @@
     {
       "app_id": "462990",
       "name": "Tomoyo After ~It's a Wonderful Life~ English Edition",
+      "name_cn": "过完这美好的人生之后的 Tomoyo",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "466130",
@@ -1400,9 +1400,9 @@
     {
       "app_id": "474960",
       "name": "Quantum Break",
+      "name_cn": "量间间断",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "475150",
@@ -1421,9 +1421,9 @@
     {
       "app_id": "485450",
       "name": "Ninja Stealth",
+      "name_cn": "忍者隐形",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "489520",
@@ -1463,9 +1463,9 @@
     {
       "app_id": "495280",
       "name": "Disgaea 2 PC",
+      "name_cn": "2台PC",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "501300",
@@ -1505,9 +1505,9 @@
     {
       "app_id": "511740",
       "name": "Gal*Gun: Double Peace",
+      "name_cn": "Gal*Gun: 双重和平",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "512900",
@@ -1526,9 +1526,9 @@
     {
       "app_id": "524220",
       "name": "NieR:Automata™",
+      "name_cn": "NieR:AutomataTM 自动自动取款机",
       "description_lang_short": "en",
-      "description_lang_detail": "zh",
-      "name_cn": ""
+      "description_lang_detail": "zh"
     },
     {
       "app_id": "526870",
@@ -1631,9 +1631,9 @@
     {
       "app_id": "555950",
       "name": "Danganronpa Another Episode: Ultra Despair Girls",
+      "name_cn": "Danganronpa 另一集:绝望女孩",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "557340",
@@ -1778,9 +1778,9 @@
     {
       "app_id": "613900",
       "name": "Museum of Other Realities",
+      "name_cn": "其他物业博物馆",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "614570",
@@ -1799,9 +1799,9 @@
     {
       "app_id": "618140",
       "name": "Barro",
+      "name_cn": "巴罗",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "619700",
@@ -1827,9 +1827,9 @@
     {
       "app_id": "626680",
       "name": "Kreedz Climbing",
+      "name_cn": "Kreedz 攀爬",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "629520",
@@ -1862,9 +1862,9 @@
     {
       "app_id": "636480",
       "name": "Ravenfield",
+      "name_cn": "雷射场",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "638230",
@@ -1918,16 +1918,16 @@
     {
       "app_id": "648580",
       "name": "428: Shibuya Scramble",
+      "name_cn": "428: Shibuya 编剧",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "648800",
       "name": "Raft",
+      "name_cn": "闲置",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "653530",
@@ -2016,16 +2016,16 @@
     {
       "app_id": "690640",
       "name": "Trine 4: The Nightmare Prince",
+      "name_cn": "4: 噩梦王子",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "698780",
       "name": "Doki Doki Literature Club!",
+      "name_cn": "Doki Doki文学俱乐部!",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "699920",
@@ -2086,9 +2086,9 @@
     {
       "app_id": "729460",
       "name": "Distant Space 2",
+      "name_cn": "远距离空间 2",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "736190",
@@ -2100,9 +2100,9 @@
     {
       "app_id": "736260",
       "name": "Baba Is You",
+      "name_cn": "巴巴是你吗?",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "739630",
@@ -2114,9 +2114,9 @@
     {
       "app_id": "740240",
       "name": "Snake Eyes Dungeon",
+      "name_cn": "蛇眼地城",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "744190",
@@ -2212,9 +2212,9 @@
     {
       "app_id": "803600",
       "name": "Disgaea 5 Complete",
+      "name_cn": "完成",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "805550",
@@ -2275,9 +2275,9 @@
     {
       "app_id": "823130",
       "name": "Totally Accurate Battlegrounds",
+      "name_cn": "完全精确的战场",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "825630",
@@ -2527,16 +2527,16 @@
     {
       "app_id": "930910",
       "name": "STEINS;GATE: Linear Bounded Phenogram",
+      "name_cn": "STEINS; GATE: 线性环形",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "932850",
       "name": "Simmiland",
+      "name_cn": "西米兰",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "937170",
@@ -2632,9 +2632,9 @@
     {
       "app_id": "970560",
       "name": "STEINS;GATE: My Darling's Embrace",
+      "name_cn": "斯泰因;格特:我亲爱的拥抱",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "972660",
@@ -2702,16 +2702,16 @@
     {
       "app_id": "1020470",
       "name": "Evoland Legendary Edition",
+      "name_cn": "Evoland 传说版",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "1022310",
       "name": "Warhammer Underworlds - Shadespire Edition (Classic)",
+      "name_cn": "Warhammer 地下世界 - 阴影版( Classic)",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "1030300",
@@ -2807,9 +2807,9 @@
     {
       "app_id": "1076280",
       "name": "Showdown Bandit",
+      "name_cn": "显示显示强盗",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "1078420",
@@ -2835,9 +2835,9 @@
     {
       "app_id": "1085510",
       "name": "Garfield Kart - Furious Racing",
+      "name_cn": "Garfield Kart - 狂怒竞赛",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "1085660",
@@ -2961,9 +2961,9 @@
     {
       "app_id": "1134710",
       "name": "NIMBY Rails",
+      "name_cn": "NIMBY 铁路",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "1139900",
@@ -3164,9 +3164,9 @@
     {
       "app_id": "1180540",
       "name": "Puddle Knights",
+      "name_cn": "木偶骑士",
       "description_lang_short": "zh",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "1181400",
@@ -3241,9 +3241,9 @@
     {
       "app_id": "1206430",
       "name": "The Unfinished Swan",
+      "name_cn": "未完成的天鹅",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "1206560",
@@ -3430,9 +3430,9 @@
     {
       "app_id": "1273260",
       "name": "Corpse Party (2021)",
+      "name_cn": "组织党(2021年)",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "1274570",
@@ -3451,9 +3451,9 @@
     {
       "app_id": "1278060",
       "name": "FPV SkyDive : FPV Drone Simulator",
+      "name_cn": "FPV SkyDive: FPV 无人机模拟器",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "1281800",
@@ -3486,9 +3486,9 @@
     {
       "app_id": "1286710",
       "name": "Hylics 2",
+      "name_cn": "2. 环环2",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "1286990",
@@ -3507,9 +3507,9 @@
     {
       "app_id": "1289310",
       "name": "Helltaker",
+      "name_cn": "地狱人",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "1291010",
@@ -3549,9 +3549,9 @@
     {
       "app_id": "1304930",
       "name": "The Outlast Trials",
+      "name_cn": "终审判决",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "1307580",
@@ -3591,9 +3591,9 @@
     {
       "app_id": "1325860",
       "name": "VTube Studio",
+      "name_cn": "Vube 电视演播室",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "1326000",
@@ -3703,9 +3703,9 @@
     {
       "app_id": "1392820",
       "name": "Milk inside a bag of milk inside a bag of milk",
+      "name_cn": "牛奶在一袋牛奶里 牛奶在一袋牛奶里",
       "description_lang_short": "en",
-      "description_lang_detail": "zh",
-      "name_cn": ""
+      "description_lang_detail": "zh"
     },
     {
       "app_id": "1407420",
@@ -3780,9 +3780,9 @@
     {
       "app_id": "1456880",
       "name": "ElecHead",
+      "name_cn": "ElecHec 顶顶",
       "description_lang_short": "en",
-      "description_lang_detail": "mixed",
-      "name_cn": ""
+      "description_lang_detail": "mixed"
     },
     {
       "app_id": "1478500",
@@ -3843,9 +3843,9 @@
     {
       "app_id": "1509960",
       "name": "PICO PARK",
+      "name_cn": "朴石洞",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "1515210",
@@ -4018,9 +4018,9 @@
     {
       "app_id": "1662840",
       "name": "PARQUET",
+      "name_cn": "标 标 标 的",
       "description_lang_short": "zh",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "1669980",
@@ -4102,9 +4102,9 @@
     {
       "app_id": "1768650",
       "name": "Path of the Abyss",
+      "name_cn": "Abys 路径",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "1771980",
@@ -4312,9 +4312,9 @@
     {
       "app_id": "1966720",
       "name": "Lethal Company",
+      "name_cn": "致命公司",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "1969870",
@@ -4333,9 +4333,9 @@
     {
       "app_id": "1973530",
       "name": "Limbus Company",
+      "name_cn": "Limbus连",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "1977170",
@@ -4347,9 +4347,9 @@
     {
       "app_id": "1990740",
       "name": "Barro GT",
+      "name_cn": "巴罗 GT",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "2001120",
@@ -4417,9 +4417,9 @@
     {
       "app_id": "2088570",
       "name": "Tiny Rogues",
+      "name_cn": "细小的怒吼",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "2114740",
@@ -4900,9 +4900,9 @@
     {
       "app_id": "2747770",
       "name": "Wednesdays",
+      "name_cn": "星期三 星期三",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "2753900",
@@ -4949,9 +4949,9 @@
     {
       "app_id": "2828500",
       "name": "The Jackbox Megapicker",
+      "name_cn": "Jackbox 集邮者",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "2835570",
@@ -4991,9 +4991,9 @@
     {
       "app_id": "2923300",
       "name": "Banana",
+      "name_cn": "香蕉香蕉",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "2943650",
@@ -5117,9 +5117,9 @@
     {
       "app_id": "3241660",
       "name": "R.E.P.O.",
+      "name_cn": "REPO. 海军陆战队",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "3265700",
@@ -5131,9 +5131,9 @@
     {
       "app_id": "3274300",
       "name": "Awaria",
+      "name_cn": "奥阿里亚语",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "3280350",
@@ -5236,9 +5236,9 @@
     {
       "app_id": "3587490",
       "name": "Terrors to Unveil - Day Off",
+      "name_cn": "恐怖到 Unveil - 休息日",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "3629780",
@@ -5264,9 +5264,9 @@
     {
       "app_id": "3838370",
       "name": "TR-49",
+      "name_cn": "TR-49",
       "description_lang_short": "en",
-      "description_lang_detail": "en",
-      "name_cn": ""
+      "description_lang_detail": "en"
     },
     {
       "app_id": "3844970",
