@@ -183,7 +183,8 @@ class SteamGameAdvisor:
                 print(f"    unknown categories: {list(unk_c.keys())[:8]}")
         print("知识库就绪。")
 
-    def ask_question(self, question: str, stream: bool = False):
+    def ask(self, question: str) -> dict:
+        """结构化问答，供 UI / API 使用。返回 route、hits、answer 等。"""
         if not all([self.retrieval_module, self.generation_module]):
             raise ValueError("请先构建知识库")
 
@@ -193,6 +194,15 @@ class SteamGameAdvisor:
 
         if route_type == "trending":
             answer = self.generation_module.trending_unavailable_answer()
+            result = {
+                "question": question,
+                "route": route_type,
+                "rewritten_query": question,
+                "filters": {},
+                "library_mode": None,
+                "hits": [],
+                "answer": answer,
+            }
             self.trace_logger.append(
                 question=question,
                 route=route_type,
@@ -200,9 +210,9 @@ class SteamGameAdvisor:
                 filters={},
                 hits=[],
                 answer=answer,
-                stream=stream,
+                stream=False,
             )
-            return answer
+            return result
 
         rewritten_query = question
         query_variants = [question]
@@ -253,12 +263,119 @@ class SteamGameAdvisor:
                 "name": doc.metadata.get("name"),
                 "name_cn": doc.metadata.get("name_cn"),
                 "app_id": str(doc.metadata.get("app_id", "")),
+                "user_tags": list(doc.metadata.get("user_tags") or [])[:8],
             }
             for doc in relevant_docs
         ]
         names = [h.get("name_cn") or h.get("name") or "未知" for h in hits]
         if names:
             print(f"命中游戏: {', '.join(names)}")
+
+        if not relevant_docs:
+            answer = "没有找到相关游戏档案。可以换关键词，或检查 data/processed 是否已放入语料。"
+        elif route_type == "library":
+            answer = self.generation_module.generate_library_answer(
+                question, relevant_docs, library_mode=library_mode or "owned"
+            )
+        elif route_type == "detail":
+            answer = self.generation_module.generate_detail_answer(question, relevant_docs)
+        else:
+            answer = self.generation_module.generate_recommend_answer(question, relevant_docs)
+
+        result = {
+            "question": question,
+            "route": route_type,
+            "rewritten_query": rewritten_query,
+            "filters": filters,
+            "library_mode": library_mode,
+            "hits": hits,
+            "answer": answer,
+        }
+        self.trace_logger.append(
+            question=question,
+            route=route_type,
+            rewritten_query=rewritten_query,
+            filters=filters,
+            hits=[{k: v for k, v in h.items() if k != "user_tags"} for h in hits],
+            answer=answer,
+            stream=False,
+        )
+        return result
+
+    def ask_question(self, question: str, stream: bool = False):
+        if stream:
+            return self._ask_question_stream(question)
+        return self.ask(question)["answer"]
+
+    def _ask_question_stream(self, question: str):
+        """流式回答（CLI）；UI 请用 ask()。"""
+        if not all([self.retrieval_module, self.generation_module]):
+            raise ValueError("请先构建知识库")
+
+        print(f"\n问题: {question}")
+        route_type = self.generation_module.query_router(question)
+        print(f"路由: {route_type}")
+
+        if route_type == "trending":
+            answer = self.generation_module.trending_unavailable_answer()
+            self.trace_logger.append(
+                question=question,
+                route=route_type,
+                rewritten_query=question,
+                filters={},
+                hits=[],
+                answer=answer,
+                stream=True,
+            )
+            return answer
+
+        rewritten_query = question
+        query_variants = [question]
+        if route_type in {"recommend", "detail"}:
+            if self.config.use_multi_query:
+                query_variants = self.generation_module.expand_queries(
+                    question, n=self.config.multi_query_count
+                )
+                rewritten_query = " | ".join(query_variants)
+            else:
+                rewritten_query = self.generation_module.query_rewrite(question)
+                query_variants = [rewritten_query]
+
+        filters = self._extract_filters_from_query(question)
+        library_mode = None
+        if route_type == "library":
+            library_mode = detect_library_mode(question)
+            if library_mode in {"tonight", "recent", "backlog"}:
+                relevant_docs = self._select_library_docs(library_mode)
+                rewritten_query = f"[library:{library_mode}] {question}"
+                if not relevant_docs:
+                    relevant_chunks = self._retrieve_chunks(
+                        route_type, question, question, [question], filters
+                    )
+                    relevant_docs = self._apply_library_constraint(
+                        question, relevant_chunks, mode="owned"
+                    )
+            else:
+                relevant_chunks = self._retrieve_chunks(
+                    route_type, question, rewritten_query, query_variants, filters
+                )
+                relevant_docs = self._apply_library_constraint(
+                    question, relevant_chunks, mode=library_mode
+                )
+        else:
+            relevant_chunks = self._retrieve_chunks(
+                route_type, question, rewritten_query, query_variants, filters
+            )
+            relevant_docs = self.data_module.get_parent_documents(relevant_chunks)
+
+        hits = [
+            {
+                "name": doc.metadata.get("name"),
+                "name_cn": doc.metadata.get("name_cn"),
+                "app_id": str(doc.metadata.get("app_id", "")),
+            }
+            for doc in relevant_docs
+        ]
 
         if not relevant_docs:
             answer = "没有找到相关游戏档案。可以换关键词，或检查 data/processed 是否已放入语料。"
@@ -269,47 +386,41 @@ class SteamGameAdvisor:
                 filters=filters,
                 hits=hits,
                 answer=answer,
-                stream=stream,
+                stream=True,
             )
             return answer
 
-        if stream:
-            if route_type == "detail":
-                chunks = self.generation_module.generate_detail_answer_stream(
-                    question, relevant_docs
-                )
-            else:
-                chunks = self.generation_module.generate_recommend_answer_stream(
-                    question, relevant_docs
-                )
-            return self._stream_and_trace(
-                chunks,
+        if route_type == "detail":
+            chunks = self.generation_module.generate_detail_answer_stream(
+                question, relevant_docs
+            )
+        elif route_type == "library":
+            # library 暂无非流式
+            answer = self.generation_module.generate_library_answer(
+                question, relevant_docs, library_mode=library_mode or "owned"
+            )
+            self.trace_logger.append(
                 question=question,
                 route=route_type,
                 rewritten_query=rewritten_query,
                 filters=filters,
                 hits=hits,
+                answer=answer,
+                stream=True,
             )
-
-        if route_type == "library":
-            answer = self.generation_module.generate_library_answer(
-                question, relevant_docs, library_mode=library_mode or "owned"
-            )
-        elif route_type == "detail":
-            answer = self.generation_module.generate_detail_answer(question, relevant_docs)
+            return answer
         else:
-            answer = self.generation_module.generate_recommend_answer(question, relevant_docs)
-
-        self.trace_logger.append(
+            chunks = self.generation_module.generate_recommend_answer_stream(
+                question, relevant_docs
+            )
+        return self._stream_and_trace(
+            chunks,
             question=question,
             route=route_type,
             rewritten_query=rewritten_query,
             filters=filters,
             hits=hits,
-            answer=answer,
-            stream=False,
         )
-        return answer
 
     def _stream_and_trace(self, chunks, *, question, route, rewritten_query, filters, hits):
         parts = []

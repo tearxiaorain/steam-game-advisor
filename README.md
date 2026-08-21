@@ -42,8 +42,15 @@ DEEPSEEK_API_KEY=你的密钥
 将游戏档案放入 `data/processed/`（Markdown，可带 YAML 头），然后：
 
 ```bash
+# 终端问答
 python src/main.py
+
+# 本机网页 UI（首次加载嵌入模型与索引会稍慢）
+pip install streamlit
+python -m streamlit run app_ui.py --server.fileWatcherType none
 ```
+
+浏览器打开终端提示的地址（一般是 `http://localhost:8501`）。页面会显示路由、检索 Top 结果与回答。
 
 档案格式见 `docs/字段与问题分类参考.md`。
 
