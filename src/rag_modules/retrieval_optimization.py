@@ -14,6 +14,57 @@ from rank_bm25 import BM25Okapi
 
 logger = logging.getLogger(__name__)
 
+# 口语 → 意图面（同面合并，如「构筑」「卡牌」算同一约束）
+INTENT_FACET_OF: Dict[str, str] = {
+    "肉鸽": "肉鸽",
+    "roguelike": "肉鸽",
+    "rogue": "肉鸽",
+    "卡牌": "卡牌",
+    "构筑": "卡牌",
+    "吃鸡": "大逃杀",
+    "大逃杀": "大逃杀",
+    "视觉小说": "视觉小说",
+    "种田": "种田",
+    "联机": "联机",
+    "合作": "联机",
+    "开黑": "联机",
+    "恐怖": "恐怖",
+    "射击": "射击",
+    "开放世界": "开放世界",
+}
+
+# 意图面 → Steam user_tags 匹配片段（小写）；用于召回与多约束覆盖计分
+INTENT_TAG_PATTERNS: Dict[str, List[str]] = {
+    "肉鸽": ["类 rogue", "轻度 rogue", "动作类 rogue", "牌组构建式类 rogue", "rogue"],
+    "卡牌": ["卡牌游戏", "卡牌战斗", "牌组构建", "牌组构建式类 rogue", "卡牌"],
+    "大逃杀": ["大逃杀"],
+    "视觉小说": ["视觉小说"],
+    "种田": ["农场模拟", "生活模拟", "种植", "农场"],
+    "联机": ["在线合作", "合作", "多人", "同屏"],
+    "恐怖": ["恐怖", "生存恐怖", "心理恐怖"],
+    "射击": ["射击", "第一人称射击", "第三人称射击"],
+    "开放世界": ["开放世界"],
+}
+
+# 兼容旧名：口语 token → 标签同义词（由 INTENT_* 派生）
+TAG_QUERY_SYNONYMS: Dict[str, List[str]] = {
+    tok: INTENT_TAG_PATTERNS[facet]
+    for tok, facet in INTENT_FACET_OF.items()
+    if facet in INTENT_TAG_PATTERNS
+}
+
+# 口语游戏名 → 检索补强词（按需加，不写题材 if）
+GAME_QUERY_HINTS: Dict[str, str] = {
+    "小丑牌": "Balatro 小丑牌 卡牌 肉鸽 扑克",
+    "balatro": "Balatro 小丑牌 卡牌 肉鸽",
+}
+
+# 多意图覆盖：标签字面分 / RRF 加分（命中面数 ≥2 才启用）
+_MULTI_INTENT_LITERAL_PER = 12.0
+_MULTI_INTENT_LITERAL_FULL = 16.0
+_MULTI_INTENT_RRF_PER = 0.012
+_MULTI_INTENT_RRF_FULL = 0.012
+
 # 与菜谱 C9 同思路：场景向中文停用词（不引第三方包）
 _CHINESE_STOPWORDS = set(
     """
@@ -35,6 +86,8 @@ _GAME_DICT_WORDS = (
     "视觉小说",
     "开放世界",
     "卡牌构筑",
+    "联机",
+    "开黑",
     "银河战士恶魔城",
     "类银河战士恶魔城",
     "Roguelike",
@@ -172,42 +225,161 @@ class RetrievalOptimizationModule:
                 postings[key].append((aid, doc, reviews))
         return dict(postings)
 
+    def _query_intent_facets(self, query: str) -> List[str]:
+        """问句激活的意图面（去重，保序）。"""
+        q = query or ""
+        tokens = {t.lower() for t in tokenize_chinese(q)}
+        facets: List[str] = []
+        seen: set[str] = set()
+        for tok in tokens:
+            facet = INTENT_FACET_OF.get(tok)
+            if facet and facet not in seen and facet in INTENT_TAG_PATTERNS:
+                seen.add(facet)
+                facets.append(facet)
+        # 整句兜底：分词漏掉但词表键在原文里
+        low = q.lower()
+        for tok, facet in INTENT_FACET_OF.items():
+            if facet in seen or facet not in INTENT_TAG_PATTERNS:
+                continue
+            if tok in low or tok in q:
+                seen.add(facet)
+                facets.append(facet)
+        return facets
+
+    @staticmethod
+    def _doc_tag_blob(doc: Document) -> str:
+        tags = doc.metadata.get("user_tags") or []
+        return " ".join(str(t).lower() for t in tags)
+
+    def _facet_matched_in_blob(self, facet: str, blob: str) -> bool:
+        for pat in INTENT_TAG_PATTERNS.get(facet, []):
+            if pat.lower() in blob:
+                return True
+        return False
+
+    def _multi_intent_coverage(self, facets: Sequence[str], doc: Document) -> int:
+        if not facets:
+            return 0
+        blob = self._doc_tag_blob(doc)
+        return sum(1 for f in facets if self._facet_matched_in_blob(f, blob))
+
     def _query_tag_hits(self, query: str) -> List[str]:
-        """问句中命中的标签（精确 token 或整段包含）。长标签优先。"""
+        """问句命中的标签：整词/子串/意图面同义词。长标签优先。"""
         q = (query or "").strip().lower()
         if not q or not self._tag_postings:
             return []
         tokens = {t.lower() for t in tokenize_chinese(query)}
-        hits: List[str] = []
+        hits: set[str] = set()
+
         for tag in self._tag_postings:
             if tag in tokens or tag in q:
-                hits.append(tag)
-        hits.sort(key=len, reverse=True)
-        return hits
+                hits.add(tag)
+                continue
+            for tok in tokens:
+                if len(tok) < 2:
+                    continue
+                if tok in tag or tag in tok:
+                    hits.add(tag)
+                    break
+
+        for tok in tokens:
+            for syn in TAG_QUERY_SYNONYMS.get(tok, []):
+                key = syn.lower()
+                if key in self._tag_postings:
+                    hits.add(key)
+                else:
+                    for tag in self._tag_postings:
+                        if key in tag or tag in key:
+                            hits.add(tag)
+
+        return sorted(hits, key=len, reverse=True)
+
+    def _augment_query_for_search(self, query: str) -> str:
+        """游戏名别名 + 各意图面的代表标签，扩 BM25/向量召回。"""
+        q = query or ""
+        low = q.lower()
+        extras: List[str] = []
+        for tip, hint in GAME_QUERY_HINTS.items():
+            if tip in low or tip in q:
+                extras.append(hint)
+        for facet in self._query_intent_facets(q):
+            # 每面取前两个模式当检索词，避免塞太长
+            extras.extend(INTENT_TAG_PATTERNS.get(facet, [])[:2])
+        if not extras:
+            return q
+        # 去重保序
+        seen: set[str] = set()
+        uniq_ex: List[str] = []
+        for x in extras:
+            if x not in seen:
+                seen.add(x)
+                uniq_ex.append(x)
+        return f"{q} {' '.join(uniq_ex)}"
 
     def _tag_literal_search(self, query: str, k: int) -> List[Document]:
-        """按 user_tags 字面命中召回；同分用评测数作弱次序（仅本路内）。"""
+        """按 user_tags 字面命中召回；多意图面同时出现时按覆盖面数加权。"""
         if not self.use_tag_literal_recall or k <= 0:
             return []
         matched_tags = self._query_tag_hits(query)
         if not matched_tags:
             return []
-        # app_id -> (score, reviews, doc)
+        facets = self._query_intent_facets(query)
+
         best: Dict[str, Tuple[float, int, Document]] = {}
         for tag in matched_tags:
             for aid, doc, reviews in self._tag_postings.get(tag, []):
-                score = float(len(tag))  # 更长标签略加权
+                score = float(len(tag))
                 prev = best.get(aid)
                 if prev is None:
                     best[aid] = (score, reviews, doc)
                 else:
                     best[aid] = (prev[0] + score, max(prev[1], reviews), prev[2])
+
+        if len(facets) >= 2:
+            n = len(facets)
+            for aid, (score, reviews, doc) in list(best.items()):
+                cov = self._multi_intent_coverage(facets, doc)
+                if cov <= 0:
+                    continue
+                score += cov * _MULTI_INTENT_LITERAL_PER
+                if cov >= n:
+                    score += _MULTI_INTENT_LITERAL_FULL
+                best[aid] = (score, reviews, doc)
+
         ranked = sorted(
             best.items(),
             key=lambda x: (x[1][0], x[1][1]),
             reverse=True,
         )
         return [doc for _, (_, _, doc) in ranked[:k]]
+
+    def _apply_multi_intent_tag_boost(
+        self, query: str, docs: List[Document]
+    ) -> List[Document]:
+        """问句激活 ≥2 个意图面时，按游戏覆盖面数给 RRF 加分（题材无关）。"""
+        if not docs:
+            return docs
+        for doc in docs:
+            doc.metadata.pop("multi_intent_boost", None)
+            doc.metadata.pop("multi_intent_coverage", None)
+        facets = self._query_intent_facets(query)
+        if len(facets) < 2:
+            return docs
+        n = len(facets)
+        for doc in docs:
+            cov = self._multi_intent_coverage(facets, doc)
+            if cov <= 0:
+                continue
+            bonus = cov * _MULTI_INTENT_RRF_PER
+            if cov >= n:
+                bonus += _MULTI_INTENT_RRF_FULL
+            base = float(doc.metadata.get("rrf_score", 0.0))
+            doc.metadata["rrf_score"] = base + bonus
+            doc.metadata["multi_intent_boost"] = bonus
+            doc.metadata["multi_intent_coverage"] = cov
+        return sorted(
+            docs, key=lambda d: float(d.metadata.get("rrf_score", 0.0)), reverse=True
+        )
 
     def _bm25_search(self, query: str, k: int) -> List[Document]:
         """关键词检索；分数 ≤ 0 丢弃，避免无匹配时按语料顺序灌噪声。"""
@@ -246,8 +418,9 @@ class RetrievalOptimizationModule:
         if self.use_mmr:
             fetch_k = max(fetch_k, self.mmr_pool_size)
         for q in uniq:
-            ranked_lists.append(self.vectorstore.similarity_search(q, k=fetch_k))
-            ranked_lists.append(self._bm25_search(q, fetch_k))
+            q_search = self._augment_query_for_search(q)
+            ranked_lists.append(self.vectorstore.similarity_search(q_search, k=fetch_k))
+            ranked_lists.append(self._bm25_search(q_search, fetch_k))
             if self.use_tag_literal_recall:
                 ranked_lists.append(self._tag_literal_search(q, fetch_k))
 
@@ -258,6 +431,7 @@ class RetrievalOptimizationModule:
             fused = self._apply_tag_breadth_penalty(fused)
         if self.use_user_tag_overlap_boost:
             fused = self._apply_user_tag_overlap_boost(uniq, fused)
+        fused = self._apply_multi_intent_tag_boost(uniq[0], fused)
         if self.use_mmr:
             diversified = self._game_level_mmr(uniq[0], fused, top_k=top_k)
         else:

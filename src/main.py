@@ -40,6 +40,27 @@ logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s - %(name)s - %(levelname)s - %(message)s",
 )
+
+
+def _safe_print(*args, **kwargs) -> None:
+    """Windows 控制台常为 GBK，游戏名含 ™ 等字符时避免 UnicodeEncodeError。"""
+    try:
+        print(*args, **kwargs)
+    except UnicodeEncodeError:
+        enc = getattr(sys.stdout, "encoding", None) or "gbk"
+        sep = kwargs.get("sep", " ")
+        end = kwargs.get("end", "\n")
+        text = sep.join(str(a) for a in args) + end
+        sys.stdout.buffer.write(text.encode(enc, errors="replace"))
+        sys.stdout.flush()
+
+
+# 尽量把 stdout/stderr 调成可替换非法字符，减少后续 print 再炸
+for _stream in (sys.stdout, sys.stderr):
+    try:
+        _stream.reconfigure(errors="replace")
+    except Exception:
+        pass
 logger = logging.getLogger(__name__)
 
 
@@ -271,7 +292,7 @@ class SteamGameAdvisor:
         ]
         names = [h.get("name_cn") or h.get("name") or "未知" for h in hits]
         if names:
-            print(f"命中游戏: {', '.join(names)}")
+            _safe_print(f"命中游戏: {', '.join(names)}")
 
         if not relevant_docs:
             answer = "没有找到相关游戏档案。可以换关键词，或检查 data/processed 是否已放入语料。"

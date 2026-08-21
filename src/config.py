@@ -198,7 +198,7 @@ class RAGConfig:
     embedding_model: str = _embedding_model_path()
     llm_model: str = "deepseek-chat"
 
-    top_k: int = 3
+    top_k: int = 5
     temperature: float = 0.1
     max_tokens: int = 2048
 

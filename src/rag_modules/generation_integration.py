@@ -24,12 +24,17 @@ APP_ID_LABEL_RE = re.compile(
 
 GROUNDING_RULES = """
 硬性约束（违反即错误）：
-- 只能使用下方「允许列表」里的游戏；禁止写出列表外的游戏名或 App ID。
-- 禁止用训练记忆补充未出现在档案中的游戏（例如守墓人、波西亚时光、浮岛物语等）。
-- 价格、语言、平台、好评率、App ID 必须能在档案原文中找到；找不到就说档案没有。
-- 若用户点名的游戏不在允许列表，明确说「知识库没有这款」，不要用无关游戏冒充。
-- 若允许列表里没有真正符合需求的游戏，直接说明没有合适推荐，不要硬凑或编造。
-- 推荐时说明理由，并点出依据来自简介、标签或评价摘要的哪一类信息。
+- 只能谈论下方「候选游戏」以及档案正文里写到的信息；禁止写出候选以外的游戏名或 App ID。
+- 禁止用训练记忆补充档案里没有的游戏或事实。
+- 价格、语言、平台、好评率、App ID 必须能在档案原文中找到；找不到就说档案没写，不要猜。
+- 若用户点名的游戏不在候选里，说「知识库没有这款」，不要用无关游戏冒充。
+- 若没有真正符合需求的游戏，直接说没有合适推荐，不要硬凑。
+- 推荐时说明理由，并点明依据来自简介、标签或评价摘要中的哪一类。
+
+口吻（面向玩家）：
+- 不要写「允许列表」「您提供的档案」「补充说明里逐条否定」等内部/调试说法。
+- 只写推荐的游戏及简短理由；不合适的游戏直接跳过，不要逐个解释为何不推荐。
+- 候选里已给出档案正文的游戏，禁止说「档案中未出现 / 未提供 / 无法确认」。
 """
 
 
@@ -279,29 +284,30 @@ trending - 本周榜、现在最热、同时在线、刚打折的实时热度
         allow_block = self._format_allowlist(context_docs)
         task = {
             "recommend": (
-                "根据档案为玩家推荐 3 款以内游戏。"
-                "每款必须写：游戏名、App ID、为什么符合需求（对应档案原文）。"
-                "只能从允许列表中选；列表里都不合适就说明没有合适推荐。"
+                "根据档案为玩家推荐至多 3 款真正符合需求的游戏。"
+                "每款写：游戏名、App ID、为什么符合需求（对应档案原文），并点明依据类型。"
+                "只写推荐；不匹配的跳过，不要写筛选过程或否定清单。"
+                "没有合适的就直接说没有合适推荐。"
             ),
             "detail": (
                 "根据档案回答关于具体游戏的问题。"
                 "比较题需要两边档案都提到；缺一边就说明缺哪边。"
-                "若用户问的游戏不在允许列表，直接说知识库没有。"
+                "若用户问的游戏不在候选里，直接说知识库没有。"
             ),
             "library": (
                 "玩家问的是自己库存相关的问题。"
                 + LIBRARY_MODE_HINTS.get(library_mode, LIBRARY_MODE_HINTS["owned"])
-                + "允许列表若带有「近两周时长/总时长」，回答里要引用这些数字。"
+                + "候选若带有「近两周时长/总时长」，回答里要引用这些数字。"
                 "档案没有单局时长时，可谨慎推断并标明是推断。"
             ),
         }[kind]
 
         prompt = ChatPromptTemplate.from_template(
-            """你是 Steam 游戏顾问。
+            """你是 Steam 游戏顾问，用简体中文、简洁顾问口吻回答。
 {task}
 {rules}
 
-允许列表（只能谈这些游戏）:
+候选游戏（只能谈这些）:
 {allowlist}
 
 用户问题: {question}
@@ -345,13 +351,14 @@ trending - 本周榜、现在最热、同时在线、刚打折的实时热度
         allow_block = self._format_allowlist(docs)
         retry_prompt = ChatPromptTemplate.from_template(
             """你上次的回答引用了不允许的 App ID: {bad_ids}。
-请重写回答。硬性要求：
-- 只能使用允许列表中的游戏与 App ID
+请重写。硬性要求：
+- 只能使用候选游戏中的游戏名与 App ID
 - 不要出现任何其它游戏名或 App ID
-- 若都不合适，明确说知识库没有合适推荐
+- 若都不合适，明确说没有合适推荐
+- 面向玩家：不要提「允许列表」，不要逐条否定不推荐的游戏
 {rules}
 
-允许列表:
+候选游戏:
 {allowlist}
 
 用户问题: {question}
@@ -383,7 +390,7 @@ trending - 本周榜、现在最热、同时在线、刚打折的实时热度
 
     def _safe_fallback_answer(self, query: str, docs: List[Document], *, kind: str) -> str:
         lines = [
-            "根据当前检索到的档案，我只能基于以下游戏作答（已拦截档案外的编造推荐）：",
+            "根据当前检索到的档案，我只能基于以下游戏作答：",
             "",
         ]
         for doc in docs:
@@ -436,22 +443,34 @@ trending - 本周榜、现在最热、同时在线、刚打折的实时热度
             rows.append(line)
         return "\n".join(rows) if rows else "- （空）"
 
-    def _build_context(self, docs: List[Document], max_length: int = 4000) -> str:
+    def _build_context(self, docs: List[Document], max_length: int = 9000) -> str:
+        """为每款候选保留一段正文，避免「名单有、正文被截断」导致模型瞎说档案未出现。"""
         if not docs:
             return "暂无相关游戏档案。"
+        per = max(900, max_length // max(len(docs), 1))
         parts = []
         current_length = 0
         for i, doc in enumerate(docs, 1):
-            header = f"【游戏 {i}】 {doc.metadata.get('name', '未知')}"
+            header = (
+                f"【游戏 {i}】 "
+                f"{doc.metadata.get('name_cn') or doc.metadata.get('name', '未知')}"
+            )
             if doc.metadata.get("app_id"):
                 header += f" | app_id={doc.metadata['app_id']}"
             if doc.metadata.get("price_cny") is not None:
                 header += f" | 价格约 {doc.metadata['price_cny']}"
             if doc.metadata.get("review_desc"):
                 header += f" | {doc.metadata['review_desc']}"
-            block = f"{header}\n{doc.page_content}\n"
-            if current_length + len(block) > max_length:
-                break
+            body = (doc.page_content or "").strip()
+            if len(body) > per:
+                body = body[: per - 20].rstrip() + "\n…（档案节选）"
+            block = f"{header}\n{body}\n"
+            if current_length + len(block) > max_length and parts:
+                short_per = max(400, (max_length - current_length) - 80)
+                if short_per < 200:
+                    break
+                body = (doc.page_content or "").strip()[:short_per]
+                block = f"{header}\n{body}\n"
             parts.append(block)
             current_length += len(block)
         divider = "\n" + "=" * 50 + "\n"
