@@ -18,3 +18,5 @@ Opus 本地化 + 以撒/幸存者别名 + 幸存者意图面 + 战神路由（20
 
 - [`notes_opus_localize_20260821.md`](./notes_opus_localize_20260821.md)
 - [`notes_alias_survivor_route_20260821.md`](./notes_alias_survivor_route_20260821.md)
+
+冻结后补丁（未另开基线包）：帕鲁 `GAME_QUERY_HINTS` + 压射击面 → 好友 Hit **8/8 = 100%**（`20260821-142413` / `v3-palworld-hint-friend`）。

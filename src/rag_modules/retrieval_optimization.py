@@ -50,6 +50,15 @@ _SURVIVOR_FACET_CUES = (
     "幸存者like",
 )
 
+# 帕鲁式「抓宠+干活+拿枪」：勿把裸「枪/射击」当成 FPS 面
+_PALWORLD_FACET_CUES = (
+    "帕鲁",
+    "palworld",
+    "抓宠物",
+    "抓宠",
+    "宠物干活",
+)
+
 # 意图面 → Steam user_tags 匹配片段（小写）；用于召回与多约束覆盖计分
 INTENT_TAG_PATTERNS: Dict[str, List[str]] = {
     "肉鸽": ["类 rogue", "轻度 rogue", "动作类 rogue", "牌组构建式类 rogue", "rogue"],
@@ -78,6 +87,8 @@ GAME_QUERY_HINTS: Dict[str, str] = {
     "以撒": "以撒的结合 The Binding of Isaac Rebirth 弹幕 地牢 Roguelike 像素 房间",
     "isaac": "The Binding of Isaac Rebirth 以撒 弹幕 Roguelike",
     "幸存者like": "Vampire Survivors 吸血鬼幸存者 站桩 自动攻击 清屏 弹幕射击 割草",
+    "帕鲁": "Palworld 幻兽帕鲁 抓宠 宠物 干活 生存 建造 开放世界",
+    "palworld": "Palworld 幻兽帕鲁 抓宠 宠物 生存 建造",
 }
 
 # 多意图覆盖：标签字面分 / RRF 加分（命中面数 ≥2 才启用）
@@ -270,6 +281,9 @@ class RetrievalOptimizationModule:
             facets = [f for f in facets if f != "射击"]
             if "幸存者" not in facets and "幸存者" in INTENT_TAG_PATTERNS:
                 facets.append("幸存者")
+        # 帕鲁/抓宠干活：去掉泛「射击」面，避免刷宝射击挤掉生存抓宠
+        if any(c in q or c in low for c in _PALWORLD_FACET_CUES):
+            facets = [f for f in facets if f != "射击"]
         return facets
 
     @staticmethod
