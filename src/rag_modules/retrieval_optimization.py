@@ -4,13 +4,69 @@ import hashlib
 import logging
 import math
 import re
-from typing import Any, Dict, List, Sequence
+from collections import defaultdict
+from typing import Any, Dict, List, Sequence, Tuple
 
-from langchain_community.retrievers import BM25Retriever
+import jieba
 from langchain_community.vectorstores import FAISS
 from langchain_core.documents import Document
+from rank_bm25 import BM25Okapi
 
 logger = logging.getLogger(__name__)
+
+# 与菜谱 C9 同思路：场景向中文停用词（不引第三方包）
+_CHINESE_STOPWORDS = set(
+    """
+的 了 和 是 在 我 有 就 不 也 都 还 这 那 一 个 与 及 等 上 下 中 为 以 于 从 把 被 让 使 又 而 但 或
+什么 怎么 如何 哪些 哪个 哪里 谁 多少 几 你 他 她 它 我们 他们 她们 它们
+请问 请 想 要 需要 能 可以 应该 会 啊 呢 吧 嘛 吗 哦 呀 哈
+之 其 此 该 即 各 每 些 种 类 时 后 前 里 外 内 间 已经 正在 一些 一下
+推荐 一下 有没有 求 找 玩玩 玩法 游戏
+""".split()
+)
+
+# 玩法/品类词：避免被 jieba 拆碎（如「大/逃/杀」）
+_GAME_DICT_WORDS = (
+    "大逃杀",
+    "吃鸡",
+    "肉鸽",
+    "类魂",
+    "魂类",
+    "视觉小说",
+    "开放世界",
+    "卡牌构筑",
+    "银河战士恶魔城",
+    "类银河战士恶魔城",
+    "Roguelike",
+    "roguelike",
+)
+
+_jieba_dict_loaded = False
+
+
+def _ensure_jieba_dict() -> None:
+    global _jieba_dict_loaded
+    if _jieba_dict_loaded:
+        return
+    for word in _GAME_DICT_WORDS:
+        jieba.add_word(word)
+    _jieba_dict_loaded = True
+
+
+def tokenize_chinese(text: str) -> List[str]:
+    """jieba 精确分词 + 停用词 / 空白 / 单字符过滤（对齐菜谱 C9）。"""
+    if not text:
+        return []
+    _ensure_jieba_dict()
+    tokens = jieba.lcut(text)
+    return [
+        t
+        for t in tokens
+        if t.strip()
+        and t not in _CHINESE_STOPWORDS
+        and not t.isspace()
+        and len(t.strip()) > 1
+    ]
 
 
 class RetrievalOptimizationModule:
@@ -29,6 +85,8 @@ class RetrievalOptimizationModule:
         use_user_tag_overlap_boost: bool = False,
         user_tag_overlap_bonus: float = 0.012,
         user_tag_overlap_max: int = 4,
+        use_tag_literal_recall: bool = False,
+        tag_literal_min_len: int = 2,
     ):
         self.vectorstore = vectorstore
         self.chunks = chunks
@@ -42,6 +100,8 @@ class RetrievalOptimizationModule:
         self.use_user_tag_overlap_boost = use_user_tag_overlap_boost
         self.user_tag_overlap_bonus = user_tag_overlap_bonus
         self.user_tag_overlap_max = max(0, int(user_tag_overlap_max))
+        self.use_tag_literal_recall = use_tag_literal_recall
+        self.tag_literal_min_len = max(1, int(tag_literal_min_len))
         self.setup_retrievers()
 
     def setup_retrievers(self):
@@ -50,8 +110,123 @@ class RetrievalOptimizationModule:
             search_type="similarity",
             search_kwargs={"k": 5},
         )
-        self.bm25_retriever = BM25Retriever.from_documents(self.chunks, k=5)
+        # 自建 BM25Okapi + jieba（LangChain 默认按空格分词，中文几乎失效）
+        self._bm25_docs = list(self.chunks)
+        tokenized = [tokenize_chinese(d.page_content) for d in self._bm25_docs]
+        self._bm25 = BM25Okapi(tokenized) if self._bm25_docs else None
+        avg_tok = (
+            sum(len(t) for t in tokenized) / max(1, len(tokenized)) if tokenized else 0.0
+        )
+        logger.info(
+            "BM25(jieba+停用词) 就绪：文档 %s，平均 token %.1f",
+            len(self._bm25_docs),
+            avg_tok,
+        )
+        self._tag_postings = self._build_tag_postings()
+        logger.info(
+            "标签字面倒排：%s 个标签，覆盖 %s 款游戏（开关=%s）",
+            len(self._tag_postings),
+            len({aid for docs in self._tag_postings.values() for aid, _, _ in docs}),
+            "开" if self.use_tag_literal_recall else "关",
+        )
         logger.info("检索器设置完成")
+
+    def _build_tag_postings(
+        self,
+    ) -> Dict[str, List[Tuple[str, Document, int]]]:
+        """tag_lower -> [(app_id, doc, review_count), ...]；每游戏每标签一条。"""
+        # app_id -> (preferred doc, review_count, tags)
+        per_game: Dict[str, Tuple[Document, int, List[str]]] = {}
+        for doc in self.chunks:
+            meta = doc.metadata or {}
+            aid = str(meta.get("app_id") or "").strip()
+            if not aid:
+                continue
+            tags = meta.get("user_tags") or []
+            if not isinstance(tags, list):
+                tags = [tags]
+            tags = [str(t).strip() for t in tags if str(t).strip()]
+            if not tags:
+                continue
+            try:
+                reviews = int(float(meta.get("review_count") or 0))
+            except (TypeError, ValueError):
+                reviews = 0
+            section = str(meta.get("section") or "")
+            prev = per_game.get(aid)
+            # 优先保留「类型与标签」块
+            if prev is None or (
+                section == "类型与标签" and str(prev[0].metadata.get("section") or "") != "类型与标签"
+            ):
+                per_game[aid] = (doc, reviews, tags)
+
+        postings: Dict[str, List[Tuple[str, Document, int]]] = defaultdict(list)
+        min_len = self.tag_literal_min_len
+        for aid, (doc, reviews, tags) in per_game.items():
+            seen: set[str] = set()
+            for tag in tags:
+                key = tag.lower()
+                if len(key) < min_len or key in seen:
+                    continue
+                seen.add(key)
+                postings[key].append((aid, doc, reviews))
+        return dict(postings)
+
+    def _query_tag_hits(self, query: str) -> List[str]:
+        """问句中命中的标签（精确 token 或整段包含）。长标签优先。"""
+        q = (query or "").strip().lower()
+        if not q or not self._tag_postings:
+            return []
+        tokens = {t.lower() for t in tokenize_chinese(query)}
+        hits: List[str] = []
+        for tag in self._tag_postings:
+            if tag in tokens or tag in q:
+                hits.append(tag)
+        hits.sort(key=len, reverse=True)
+        return hits
+
+    def _tag_literal_search(self, query: str, k: int) -> List[Document]:
+        """按 user_tags 字面命中召回；同分用评测数作弱次序（仅本路内）。"""
+        if not self.use_tag_literal_recall or k <= 0:
+            return []
+        matched_tags = self._query_tag_hits(query)
+        if not matched_tags:
+            return []
+        # app_id -> (score, reviews, doc)
+        best: Dict[str, Tuple[float, int, Document]] = {}
+        for tag in matched_tags:
+            for aid, doc, reviews in self._tag_postings.get(tag, []):
+                score = float(len(tag))  # 更长标签略加权
+                prev = best.get(aid)
+                if prev is None:
+                    best[aid] = (score, reviews, doc)
+                else:
+                    best[aid] = (prev[0] + score, max(prev[1], reviews), prev[2])
+        ranked = sorted(
+            best.items(),
+            key=lambda x: (x[1][0], x[1][1]),
+            reverse=True,
+        )
+        return [doc for _, (_, _, doc) in ranked[:k]]
+
+    def _bm25_search(self, query: str, k: int) -> List[Document]:
+        """关键词检索；分数 ≤ 0 丢弃，避免无匹配时按语料顺序灌噪声。"""
+        if self._bm25 is None or not self._bm25_docs:
+            return []
+        tokens = tokenize_chinese(query)
+        if not tokens:
+            logger.debug("BM25 问句分词为空，跳过: %s", query)
+            return []
+        scores = self._bm25.get_scores(tokens)
+        order = sorted(range(len(scores)), key=lambda i: scores[i], reverse=True)
+        out: List[Document] = []
+        for i in order:
+            if float(scores[i]) <= 0:
+                break
+            out.append(self._bm25_docs[i])
+            if len(out) >= k:
+                break
+        return out
 
     def hybrid_search(self, query: str, top_k: int = 3) -> List[Document]:
         return self.multi_query_search([query], top_k=top_k)
@@ -70,14 +245,11 @@ class RetrievalOptimizationModule:
         fetch_k = max(int(top_k), 8)
         if self.use_mmr:
             fetch_k = max(fetch_k, self.mmr_pool_size)
-        old_bm25_k = getattr(self.bm25_retriever, "k", 5)
-        self.bm25_retriever.k = fetch_k
-        try:
-            for q in uniq:
-                ranked_lists.append(self.vectorstore.similarity_search(q, k=fetch_k))
-                ranked_lists.append(self.bm25_retriever.invoke(q))
-        finally:
-            self.bm25_retriever.k = old_bm25_k
+        for q in uniq:
+            ranked_lists.append(self.vectorstore.similarity_search(q, k=fetch_k))
+            ranked_lists.append(self._bm25_search(q, fetch_k))
+            if self.use_tag_literal_recall:
+                ranked_lists.append(self._tag_literal_search(q, fetch_k))
 
         fused = self._rrf_fuse(ranked_lists)
         if self.use_section_weights:

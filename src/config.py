@@ -238,6 +238,10 @@ class RAGConfig:
     user_tag_overlap_bonus: float = 0.012  # 每命中 1 个标签加至 rrf_score
     user_tag_overlap_max: int = 4  # 单块最多计分标签数
 
+    # 标签字面第三路：问句命中 user_tags 的游戏单独召回，再进 RRF（非「只搜标签」）
+    use_tag_literal_recall: bool = True
+    tag_literal_min_len: int = 2  # 参与匹配的标签最短字数
+
     @classmethod
     def from_dict(cls, config_dict: Dict[str, Any]) -> "RAGConfig":
         return cls(**config_dict)

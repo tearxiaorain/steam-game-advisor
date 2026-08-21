@@ -59,6 +59,11 @@ def main() -> None:
         "无实时榜单 / 库存题依赖本机 me_owned"
     )
 
+    if "question_text" not in st.session_state:
+        st.session_state.question_text = ""
+    if "pending_ask" not in st.session_state:
+        st.session_state.pending_ask = False
+
     try:
         advisor = load_advisor()
     except Exception as exc:
@@ -68,34 +73,46 @@ def main() -> None:
 
     with st.sidebar:
         st.subheader("示例问法")
-        for q in EXAMPLE_QUERIES:
-            if st.button(q, use_container_width=True, key=f"ex_{hash(q)}"):
-                st.session_state["prefill"] = q
+        st.caption("点击填入问题框（也可自动提问）")
+        for i, q in enumerate(EXAMPLE_QUERIES):
+            if st.button(q, use_container_width=True, key=f"ex_{i}"):
+                st.session_state.question_text = q
+                st.session_state.pending_ask = True
+                st.rerun()
         st.divider()
         st.markdown(
             f"- 改写: `{'开' if advisor.config.use_query_rewrite else '关'}`\n"
             f"- 硬映射: `{'开' if advisor.config.use_rewrite_hard_aliases else '关'}`\n"
-            f"- 标签重叠: `{'开' if advisor.config.use_user_tag_overlap_boost else '关'}`"
+            f"- 标签重叠: `{'开' if advisor.config.use_user_tag_overlap_boost else '关'}`\n"
+            f"- 标签字面召回: `{'开' if advisor.config.use_tag_literal_recall else '关'}`"
         )
 
-    prefill = st.session_state.pop("prefill", None)
-    question = st.text_area(
+    st.text_area(
         "你的问题",
-        value=prefill or "",
+        key="question_text",
         height=100,
         placeholder="例如：想玩希腊神话 Roguelike，从冥界往上打…",
     )
 
-    if st.button("提问", type="primary", use_container_width=True) and question.strip():
+    ask_clicked = st.button("提问", type="primary", use_container_width=True)
+    should_ask = ask_clicked or st.session_state.pending_ask
+    if should_ask:
+        st.session_state.pending_ask = False
+
+    question = (st.session_state.question_text or "").strip()
+    if should_ask and question:
         with st.spinner("检索与生成中…"):
             try:
-                result = advisor.ask(question.strip())
+                result = advisor.ask(question)
             except Exception as exc:
                 st.exception(exc)
                 return
 
+        # 调试用：正式产品可隐藏路由
         route = result.get("route") or ""
-        st.markdown(f"**路由：** {ROUTE_LABELS.get(route, route)} (`{route}`)")
+        st.markdown(
+            f"**路由（调试）：** {ROUTE_LABELS.get(route, route)} (`{route}`)"
+        )
         if result.get("library_mode"):
             st.caption(f"库存策略：{result['library_mode']}")
         if result.get("filters"):
@@ -117,6 +134,8 @@ def main() -> None:
 
         st.subheader("回答")
         st.markdown(result.get("answer") or "")
+    elif should_ask and not question:
+        st.warning("请先输入问题，或点击左侧示例。")
 
 
 if __name__ == "__main__":

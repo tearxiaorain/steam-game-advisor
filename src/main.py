@@ -162,6 +162,8 @@ class SteamGameAdvisor:
             use_user_tag_overlap_boost=self.config.use_user_tag_overlap_boost,
             user_tag_overlap_bonus=self.config.user_tag_overlap_bonus,
             user_tag_overlap_max=self.config.user_tag_overlap_max,
+            use_tag_literal_recall=self.config.use_tag_literal_recall,
+            tag_literal_min_len=self.config.tag_literal_min_len,
         )
         stats = self.data_module.get_statistics()
         print("\n知识库统计:")

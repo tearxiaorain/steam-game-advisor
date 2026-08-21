@@ -10,4 +10,7 @@
 
 再跑回归请用上级目录的 `cases_regression.jsonl`（相对归档原文，仅修正「库外题已入库」边界，避免假失败）。
 
-**较新快照**：`baseline_tag_overlap_20260820/` — v3 正式基线（主集 60% / 回归 62% / 好友 75%）。
+**较新快照**：
+
+- **当前正式**：`baseline_jieba_tagliteral_20260821/` — jieba BM25 + 标签字面（主集 65% / 回归 77% / 好友 88%），见 `CURRENT_BASELINE.md`
+- **Pre-UI 对照**：`baseline_tag_overlap_20260820/` — tag overlap only（主集 60% / 回归 62% / 好友 75%）
